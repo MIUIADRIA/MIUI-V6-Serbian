@@ -158,7 +158,7 @@
   <string name="HIPS_Perm_ROOT_Title">Апликација има ima ROOT приступ</string>
   <string name="HIPS_Perm_Read_Call_Log">Читач историје позива</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">читање историје позива</string>
-  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s  апликација може читати историју позива<</string>
+  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s  апликација може читати историју позива</string>
   <string name="HIPS_Perm_Read_Contact">Читање ваших контаката</string>
   <string name="HIPS_Perm_Read_Contact_Desc">читање ваших контаката</string>
   <string name="HIPS_Perm_Read_Contact_Hint">%1$s апликација може читати ваше контакте</string>
