@@ -72,7 +72,7 @@
 
 Да ли желите да је затворите?"</string>
   <string name="anr_application_process">%1$s не реагује. Да ли желите да је затворите?</string>
-  <string name="anr_process">"Процес %1$s не раегује.
+  <string name="anr_process">"Процес %1$s не реагује.
 
 Да ли желите да га затворите?"</string>
   <string name="anr_title"/>
