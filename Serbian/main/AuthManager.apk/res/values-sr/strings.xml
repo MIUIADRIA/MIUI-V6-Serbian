@@ -90,8 +90,8 @@
   <string name="HIPS_Perm_Call">Позиви</string>
   <string name="HIPS_Perm_CallLog">Писање историје позива</string>
   <string name="HIPS_Perm_CallLog_Access">може читати вашу историју позива</string>
-  <string name="HIPS_Perm_CallLog_Desc"може забележити историју позива</string>
-  <string name="HIPS_Perm_CallLog_Hint">%1$s апликација може забележити историју позива</string>
+  <string name="HIPS_Perm_CallLog_Desc">може забележити историју позива</string>
+  <string name="HIPS_Perm_CallLog_Hint">>%1$s апликација може забележити историју позива</string>
   <string name="HIPS_Perm_CallMonitor">Надзор тел. позива</string>
   <string name="HIPS_Perm_CallMonitor_Desc">надзирати тел.позиве и променити гласноћу позива</string>
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s апликација може надзирати тел. позиве и променити гласноћу позива</string>
