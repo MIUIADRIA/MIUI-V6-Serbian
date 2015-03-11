@@ -1,8 +1,8 @@
 <resources>
-    <string name="label_airplane_mode">Zrakoplovni način</string>
-    <string name="label_silent_mode">Bešumno</string>
-    <string name="label_reboot">Ponovno pokreni</string>
-    <string name="label_shutdown">Isključi</string>
-    <string name="label_alert_reboot">Ponovno pokreni</string>
-    <string name="label_alert_shutdown">Isključi</string>
+    <string name="label_airplane_mode">Режим</string>
+    <string name="label_silent_mode">Бешумно</string>
+    <string name="label_reboot">Рестарт</string>
+    <string name="label_shutdown">Искључи</string>
+    <string name="label_alert_reboot">Рестарт</string>
+    <string name="label_alert_shutdown">Искључи</string>
 </resources>
