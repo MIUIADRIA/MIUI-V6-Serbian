@@ -34,59 +34,59 @@
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">Ukupno brojeva: %1$d</item>
-        <item quantity="one">%1$d broj</item>
+        <item quantity="one">%1$d број</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">Говорних порука: %1$d"</item>
         <item quantity="one">Говорна пошта</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">"Odabrane stavke: %1$d"</item>
-        <item quantity="one">%1$d odabran</item>
+        <item quantity="other">"Одабране ставке: %1$d"</item>
+        <item quantity="one">%1$d одабран</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
-        <item quantity="other">%1$d favorita</item>
-        <item quantity="one">%1$d favorit</item>
+        <item quantity="other">%1$d фаворита</item>
+        <item quantity="one">%1$d фаворит</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">Nedavnih kontakata: %1$d</item>
-        <item quantity="one">1 nedavni kontakt</item>
+        <item quantity="other">Недавних контаката: %1$d</item>
+        <item quantity="one">1 недавни контакт</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">Kontakata: %1$d </item>
-        <item quantity="one">%1$d kontakt</item>
+        <item quantity="other">Контаката: %1$d </item>
+        <item quantity="one">%1$d контакт</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
-        <item quantity="other">Brojeva: %1$d</item>
-        <item quantity="one">%1$d broj</item>
+        <item quantity="other">Бројева: %1$d</item>
+        <item quantity="one">%1$d број</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">Kontakata s e-poštom %1$d</item>
-        <item quantity="one">1 kontakt s e-poštom</item>
+        <item quantity="other">Контаката са e-poštom %1$d</item>
+        <item quantity="one">1 контакт s e-poštom</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
-        <item quantity="other">%1$d favorita</item>
-        <item quantity="one">%1$d favorit</item>
+        <item quantity="other">%1$d фаворита</item>
+        <item quantity="one">%1$d фаворит</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
-        <item quantity="other">Nedavnih kontakata: %1$d</item>
-        <item quantity="one">1 nedavni kontakt</item>
+        <item quantity="other">Недавних контаката: %1$d</item>
+        <item quantity="one">1 недавни контакт</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d  kontakata dodano"</item>
-        <item quantity="one">%1$d kontakt dodan</item>
+        <item quantity="other">" %1$d  контаката додато"</item>
+        <item quantity="one">%1$d контакт додат</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d ljudi</item>
-        <item quantity="one">1 osoba</item>
+        <item quantity="other">%d људи</item>
+        <item quantity="one">1особа</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">Uvezeno kontakata: %1$d</item>
-        <item quantity="one">%1$d kontak uvezen</item>
+        <item quantity="other">Увезено контаката: %1$d</item>
+        <item quantity="one">%1$d контакт увезен</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">%1$d odabrano</item>
-        <item quantity="zero">%1$d odabrano</item>
-        <item quantity="one">%1$d odabran</item>
+        <item quantity="other">%1$d одабрано</item>
+        <item quantity="zero">%1$d одабрано</item>
+        <item quantity="one">%1$d одабран</item>
     </plurals>
 </resources> 
