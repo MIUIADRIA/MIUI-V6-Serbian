@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sleep_duration_values">
-        <item>15 minuta</item>
-        <item>30 minuta</item>
-        <item>45 minuta</item>
-        <item>1 sat</item>
+        <item>15 минута</item>
+        <item>30 минута</item>
+        <item>45 минута</item>
+        <item>1 сат</item>
     </string-array>
     <string-array name="presetlist_edit_category">
-        <item>Premimenuj</item>
-        <item>Odaberite automatski</item>
-        <item>Ukloniti</item>
+        <item>Преименуј</item>
+        <item>Одабери аутоматски</item>
+        <item>Уклонити</item>
     </string-array>
     <string-array name="rf_cfg">
-        <item>Dobiti parametre postaja</item>
-        <item>Dobiti parametre postaja ponoviti 20 puta</item>
-        <item>Dobiti parametre pretraživanja postaja</item>
-        <item>Dobiti parametre FM Frekvencija</item>
-        <item>Konfiguracija parametara FM pretraživanja</item>
+        <item>Добити параметре странице</item>
+        <item>Добити параметре станице поновити 20 пута</item>
+        <item>Добити параметре претраживања станице</item>
+        <item>Добити параметре FM Фреквенција</item>
+        <item>Конфигурација параметара FM претраживања</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>Podesi FM RSSI Delta</item>
-        <item>Postavite Granicu signala</item>
-        <item>RF Statistika</item>
+        <item>Подеси FM RSSI Delta</item>
+        <item>Поставите Границу сигнала</item>
+        <item>RF Статистика</item>
     </string-array>
     <string-array name="stats_options">
-        <item>Dodatne opcije</item>
-        <item>Konfiguracija parametara FM pretraživanja</item>
-        <item>RF Statistika</item>
+        <item>Додатне опције</item>
+        <item>Конфигурација параметара FM претраживања</item>
+        <item>RF Статистика</item>
     </string-array>
 </resources>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="operatorDescs">
-        <item>lijeva zagrada</item>
-        <item>desna zagrada</item>
-        <item>faktorijel</item>
-        <item>prirodni logaritam</item>
-        <item>logaritam</item>
-        <item>drugi korijen</item>
-        <item>podijeljeno s</item>
-        <item>pomnoženo s</item>
-        <item>plus</item>
-        <item>minus</item>
-        <item> bod </item>
-        <item>snaga</item>
-        <item>tangenta</item>
-        <item>sinus</item>
-        <item>kosinus</item>
-        <item>pi</item>
-        <item>jednako</item>
+        <item>лева заграда</item>
+        <item>десна заграда</item>
+        <item>факторијел</item>
+        <item>природни алгоритам</item>
+        <item>логиритам</item>
+        <item>други корен</item>
+        <item>подељено са</item>
+        <item>помножено са</item>
+        <item>плус</item>
+        <item>минус</item>
+        <item> бод </item>
+        <item>снага</item>
+        <item>тангента</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>једнако</item>
     </string-array>
 </resources>
