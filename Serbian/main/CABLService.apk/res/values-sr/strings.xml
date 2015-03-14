@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Postavke sadržaja prilagodljivog pozadinskog osvjetljenja</string>
-  <string name="cabl_enable_summary_off">Pozadinsko se osvjetljenje neće podešavati na temelju sadržaja zaslona</string>
-  <string name="cabl_enable_summary_on">Pozadinsko će se osvjetljenje podešavati na temelju sadržaja zaslona</string>
-  <string name="cabl_enable_title">Omogućite prilagodljivo pozadinsko osvjetljenje</string>
-  <string name="cabl_info_default">Nepoznato</string>
-  <string name="cabl_levels_summary">Niža razina znači više spremljene energije, ali može uzrokovati da će zaslon biti tamniji od očekivanog</string>
-  <string name="cabl_levels_title">Razine energije</string>
-  <string name="cabl_settings_title">Postavke sadržaja prilagodljivog pozadinskog osvjetljenja</string>
-  <string name="cabl_version_title">CABL Verzija</string>
+  <string name="app_name">Поставке садржаја прилагодљивог позадинског осветљења</string>
+  <string name="cabl_enable_summary_off">Позадинско осветљење се неће подешавати на темељу садржаја екрана</string>
+  <string name="cabl_enable_summary_on">Позадинско осветљење ће се подешавати на темељу садржаја екрана</string>
+  <string name="cabl_enable_title">Омогућити прилагодљиво позадинско светло</string>
+  <string name="cabl_info_default">Непознато</string>
+  <string name="cabl_levels_summary">Нижи ниво више спремљене енергије, може проузроковати да екран буде тамнији од очекиваног</string>
+  <string name="cabl_levels_title">Ниво енергије</string>
+  <string name="cabl_settings_title">Поставке садржаја прилагодљивог позадинског осветљења</string>
+  <string name="cabl_version_title">CABL Верзија</string>
 </resources>
