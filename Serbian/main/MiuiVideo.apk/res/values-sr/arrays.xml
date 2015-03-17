@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="channel_tabs">
-        <item>Popularno</item>
-        <item>Poredak</item>
-        <item>Najnovije</item>
+        <item>Популарно</item>
+        <item>Поредак</item>
+        <item>Најновије</item>
     </string-array>
     <string-array name="channel_featured_tabs">
-        <item>Odabrano</item>
-        <item>Poredak</item>
-        <item>Najnovije</item>
+        <item>Одабрано</item>
+        <item>Поредак</item>
+        <item>Најновије</item>
     </string-array>
     <string-array name="home_tabs">
-        <item>Internet</item>
-        <item>Lokalno</item>
+        <item>Интернет</item>
+        <item>Локално</item>
     </string-array>
     <string-array name="series_detail_tabs">
-        <item>Epizoda</item>
-        <item>Sažetak</item>
+        <item>Епизода</item>
+        <item>Сажетак</item>
     </string-array>
     <string-array name="addon_list_tabs">
-        <item>Svi dodaci</item>
-        <item>Moji dodaci</item>
+        <item>Сви додаци</item>
+        <item>Моји додаци</item>
    </string-array>
 </resources>
