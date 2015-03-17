@@ -1,9 +1,9 @@
 # MIUI-V6-Serbian
 Serbian (Cyrilic) Translation For Xiaomi MIUI V6 Android Based OS
 
- MIUI Translation: **BalcanGSM, dudjaa, Daconi,....**
+ MIUI Translation: **BalcanGSM, dudjaa, Daconi, perga, petar....**
 
- Based on a work at http://miui.com & MASVA
+ Based on a work at http://miui.com & MASVA (MIUI Croatia & MIUI Adria)
 
 
  For more info visit:

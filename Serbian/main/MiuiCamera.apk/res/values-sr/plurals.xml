@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_selection">
-        <item quantity="other">Brisati odabrane stavke?</item>
-        <item quantity="one">Brisati odabranu stavku?</item>
+        <item quantity="other">Брисати одабране ставке?</item>
+        <item quantity="one">Брисати одабрану ставку?</item>
     </plurals>
 </resources>

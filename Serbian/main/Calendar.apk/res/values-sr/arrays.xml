@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="reminder_methods_labels">
-        <item>Obavijest</item>
-        <item>E-pošta</item>
+        <item>Обавештење</item>
+        <item>E-пошта</item>
         <item>SMS</item>
-        <item>Alarm</item>
+        <item>Аларм</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Bez podsjetnika</item>
-        <item>1 minuta</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>15 minuta</item>
-        <item>20 minuta</item>
-        <item>1 sat</item>
-        <item>12 sati</item>
-        <item>1 dan</item>
-        <item>2 dana</item>
-        <item>1 tjedan</item>
-        <item>2 tjedna</item>
+        <item>Без подсетника</item>
+        <item>1 минут</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>15 минута</item>
+        <item>20 минута</item>
+        <item>1 сат</item>
+        <item>12 сати</item>
+        <item>1 дан</item>
+        <item>2 дана</item>
+        <item>1 недеља</item>
+        <item>2 недеље</item>
     </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
@@ -35,18 +35,18 @@
         <item>20160</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Bez podsjetnika</item>
-        <item>0 minuta</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>15 minuta</item>
-        <item>30 minuta</item>
-        <item>1 sat</item>
-        <item>12 sati</item>
-        <item>1 dan</item>
-        <item>2 dana</item>
-        <item>1 tjedan</item>
-        <item>2 tjedna</item>
+        <item>Без подсетника</item>
+        <item>0 минута</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>15 минута</item>
+        <item>30 минута</item>
+        <item>1 сат</item>
+        <item>12 сати</item>
+        <item>1 дан</item>
+        <item>2 дана</item>
+        <item>1 недеља</item>
+        <item>2 недеље</item>
     </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
@@ -63,10 +63,10 @@
         <item>20160</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Zadana oznaka zemlje</item>
-        <item>Subota</item>
-        <item>Nedjelja</item>
-        <item>Ponedjeljak</item>
+        <item>Задата ознака земље</item>
+        <item>Субота</item>
+        <item>Недеља</item>
+        <item>Понедељак</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Islands</item>
@@ -78,7 +78,7 @@
         <item>Arizona</item>
         <item>Chihuahua</item>
         <item>Mountain Time</item>
-        <item>Srednja Amerika</item>
+        <item>Средња Америка</item>
         <item>Central Time</item>
         <item>Mexico City</item>
         <item>Saskatchewan</item>
@@ -155,67 +155,67 @@
         <item>Tonga</item>
     </string-array>
     <string-array name="availability">
-        <item>Zauzet</item>
-        <item>Dostupan</item>
-        <item>Privremeno</item>
+        <item>Заузет</item>
+        <item>Доступан</item>
+        <item>Привремено</item>
     </string-array>
     <string-array name="visibility">
-        <item>Zadano</item>
-        <item>Privatno</item>
-        <item>Javno</item>
+        <item>Задато</item>
+        <item>Приватно</item>
+        <item>Јавно</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>prvi</item>
-        <item>drugi</item>
-        <item>treći</item>
-        <item>četvrti</item>
-        <item>posljednji</item>
+        <item>први</item>
+        <item>други</item>
+        <item>трећи</item>
+        <item>четврти</item>
+        <item>последњи</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>Nema odgovora</item>
-        <item>Da</item>
-        <item>Možda</item>
-        <item>Ne</item>
+        <item>Нема одговора</item>
+        <item>Да</item>
+        <item>Можда</item>
+        <item>Не</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Samo ovaj događaj</item>
-        <item>Ovaj i budući događaji</item>
-        <item>Svi događaji</item>
+        <item>Само овај догађај</item>
+        <item>Овај и будући догађаји</item>
+        <item>Сви догађаји</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Ovaj &amp; budući događaji</item>
-        <item>Svi događaji</item>
+        <item>Овај &amp; будући догађаји</item>
+        <item>Сви догађаји</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Samo ovaj događaj</item>
-        <item>Svi događaji u nizu</item>
+        <item>Само овај догађај</item>
+        <item>Сви догађаји у низу</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Dan</item>
-        <item>Tjedan</item>
-        <item>Mjesec</item>
-        <item>Raspored</item>
+        <item>Дан</item>
+        <item>Недеља</item>
+        <item>Месец</item>
+        <item>Распоред</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Kasnim samo nekoliko minuta.</item>
-        <item>Budite tamo za oko 10 minuta.</item>
-        <item>Samo naprijed, počnite bez mene.</item>
-        <item>Žao mi je, ne mogu stići. Moramo promijeniti dogovor.</item>
+        <item>Касним само неколико минута.</item>
+        <item>Будите тамо за око 10 минута.</item>
+        <item>Само напред, поцните без мене.</item>
+        <item>Жао ми је не могу стићи. Морамо променити договор.</item>
     </string-array>
    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Uvijek</item>
-        <item>Samo kada je zvono utišano</item>
-        <item>Nikad</item>
+        <item>Увек</item>
+        <item>Само када је звоно утишано</item>
+        <item>Никад</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Transparentna</item>
-        <item>Bijela pozadina</item>
+        <item>Транспарентна</item>
+        <item>Бела позадина</item>
     </string-array>
 	    <string-array name="repeat_frequency_spinner">
-        <item>dan</item>
-        <item>tjedan</item>
-        <item>mjesec</item>
-        <item>godina</item>
+        <item>дан</item>
+        <item>недеља</item>
+        <item>месец</item>
+        <item>година</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
@@ -251,43 +251,43 @@
         <item>31.</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
-        <item>Pon</item>
-        <item>Uto</item>
-        <item>Sri</item>
-        <item>Čet</item>
-        <item>Pet</item>
-        <item>Sub</item>
-        <item>Ned</item>
+        <item>Пон</item>
+        <item>Уто</item>
+        <item>Сре</item>
+        <item>Чет</item>
+        <item>Пет</item>
+        <item>Суб</item>
+        <item>Нед</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>Sij</item>
-        <item>Velj</item>
-        <item>Ožu</item>
-        <item>Tra</item>
-        <item>Svi</item>
-        <item>Lip</item>
-        <item>Srp</item>
-        <item>Kol</item>
-        <item>Ruj</item>
-        <item>Lis</item>
-        <item>Stu</item>
-        <item>Pro</item>
+        <item>Јан</item>
+        <item>Феб</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Мај</item>
+        <item>Јун</item>
+        <item>Јул</item>
+        <item>Авг</item>
+        <item>Сеп</item>
+        <item>Окт</item>
+        <item>Нов</item>
+        <item>Дец</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>Prvi</item>
-        <item>Drugi</item>
-        <item>Treći</item>
-        <item>Četvrti</item>
-        <item>Zadnji</item>
+        <item>Први</item>
+        <item>Други</item>
+        <item>Трећи</item>
+        <item>Четврти</item>
+        <item>Задњи</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
-        <item>Pon - Pet</item>
-        <item>Vikend</item>
-        <item>Cijeli tjedan</item>
+        <item>Пон - Пет</item>
+        <item>Викенд</item>
+        <item>Цела недеља</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>Nikad</item>
-        <item>Vrijeme</item>
-        <item>Odbrojavanje</item>
+        <item>Никад</item>
+        <item>Време</item>
+        <item>Одбројавање</item>
     </string-array>
 </resources> 

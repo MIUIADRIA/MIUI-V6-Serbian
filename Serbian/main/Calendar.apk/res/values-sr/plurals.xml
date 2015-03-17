@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">"1 minuta"</item>
+        <item quantity="other">%d мин</item>
+        <item quantity="one">"1 минут"</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">"%d min"</item>
-        <item quantity="one">1 min</item>
+        <item quantity="other">"%d мин"</item>
+        <item quantity="one">1 мин</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d sati.</item>
-        <item quantity="one">"1 sat"</item>
+        <item quantity="other">%d сати.</item>
+        <item quantity="one">"1 сат"</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dana</item>
-        <item quantity="one">1 dan</item>
+        <item quantity="other">%д дана</item>
+        <item quantity="one">1 дан</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">TJEDAN %d</item>
+        <item quantity="other">Недеља %d</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
     <plurals name="Nevents">
-        <item quantity="other">%d događaja</item>
-        <item quantity="one">1 događaj</item>
+        <item quantity="other">%д догађаја</item>
+        <item quantity="one">1 догађај</item>
     </plurals>
     <plurals name="N_remaining_events">
-        <item quantity="other">+%d događaja</item>
-        <item quantity="one">+1 događaj</item>
+        <item quantity="other">+%d догађаја</item>
+        <item quantity="one">+1 догађај</item>
     </plurals>
 </resources> 
