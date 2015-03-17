@@ -55,7 +55,7 @@
   <string name="no_storage">Убаците SD картицу пре коришћења фотоапарата.</string>
   <string name="not_enough_space">Унутрашња меморија је пуна.</string>
   <string name="object_track_enable_toast">Додирните на оба краја објекта са два прста како би га пратили.</string>
-  <string name="pano_dialog_panorama_failed">"Не могу сачувати панораму<."</string>
+  <string name="pano_dialog_panorama_failed">"Не могу сачувати панораму"</string>
   <string name="pano_dialog_title">Панорама</string>
   <string name="pano_dialog_waiting_previous">Чекање завршетка претходне панораме</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>

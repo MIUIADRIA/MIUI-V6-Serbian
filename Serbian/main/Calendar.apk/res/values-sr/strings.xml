@@ -250,7 +250,7 @@
   <string name="repeat_label_choose_day">Одабри дан</string>
   <string name="repeat_label_choose_month">Одабери месец</string>
   <string name="repeat_label_choose_time">Одабери време подсетника</string>
-  <string name="repeat_label_choose_week"a>Одабери недељу</string>
+  <string name="repeat_label_choose_week">Одабери недељу</string>
   <string name="repeat_label_day">Дан</string>
   <string name="repeat_label_frequency">Учесталост</string>
   <string name="repeat_label_interval">Сваки</string>
