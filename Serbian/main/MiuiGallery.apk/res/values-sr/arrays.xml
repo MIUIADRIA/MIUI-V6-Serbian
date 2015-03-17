@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="slideshow_time_entries">
-        <item>"5 minuta"</item>
-        <item>"15 minuta"</item>
-        <item>"30 minuta"</item>
-        <item>"1 sat"</item>
-        <item>Neograničeno</item>
+        <item>"5 минута"</item>
+        <item>"15 минута"</item>
+        <item>"30 минута"</item>
+        <item>"1 сат"</item>
+        <item>Неограничено</item>
     </string-array>
 </resources> 
