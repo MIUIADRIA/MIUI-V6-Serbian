@@ -47,12 +47,12 @@
   <string name="privacy_tip_title">Користити Xunlei Accelerator?</string>
   <string name="root_downloads">Преузимања</string>
   <string name="task_already_exist">Задатак већ постоји</string>
-  <string name="wifi_recommended_body" formatted="false">"Покретање овог преузимања од %s може скратити век батерије и/или узроковати претерану употребу везе са подацима и додатне трошкове.</string>
-
-
+  <string name="wifi_recommended_body" formatted="false">"Покретање овог преузимања од %s може скратити век батерије и/или узроковати претерану употребу везе са подацима и додатне трошкове.</string>		
+		
+		
 Додирните %s да бисте преузели при следећем спајању са WLAN мрежом."</string>
   <string name="wifi_recommended_title">Ставити на чекање за касније преузимање?</string>
-  <string name="wifi_required_body" formatted="false">"Морате употребити WLAN да бисте довршили ово преузимање величине %s . 
+  <string name="wifi_required_body" formatted="false">"Морате употребити WLAN да бисте довршили ово преузимање величине %s. 
 
 Додирните текст %s  да бисте покренули преузимање следећи пут када се повежете са WLAN мрежом."</string>
   <string name="wifi_required_title">Преузимање је превелико за мрежу оператера.</string>
