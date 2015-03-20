@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">Kontakata: %d</item>
-        <item quantity="one">Kontakt: %d</item>
+        <item quantity="other">Контаката: %d</item>
+        <item quantity="one">Контаката: %d</item>
     </plurals>
     <plurals name="dirty_mms_count">
-        <item quantity="other">Poruka: %d</item>
-        <item quantity="one">Poruka: %d</item>
+        <item quantity="other">Порука: %d</item>
+        <item quantity="one">Порука: %d</item>
     </plurals>
     <plurals name="dirty_note_count">
-        <item quantity="other">Bileški: %d</item>
-        <item quantity="one">Bilješka: %d</item>
+        <item quantity="other">Белешка: %d</item>
+        <item quantity="one">Белешка: %d</item>
     </plurals>
     <plurals name="dirty_image_count">
-        <item quantity="other">Fotografija: %d</item>
-        <item quantity="one">Fotografija: %d</item>
+        <item quantity="other">Фотографија: %d</item>
+        <item quantity="one">Фотографија: %d</item>
     </plurals>
 </resources>

@@ -3,6 +3,6 @@
   <string name="app_name">com.securitycore.miui_t</string>
   <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Hello world!</string>
-  <string name="menu_settings">Postavke</string>
+  <string name="menu_settings">Поставке</string>
   <string name="title_activity_main">MainActivity</string>
 </resources>
