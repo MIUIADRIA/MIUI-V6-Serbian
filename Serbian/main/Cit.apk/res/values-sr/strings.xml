@@ -1,275 +1,275 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">Ovo testiranje će otkriti OTG uređaj.</string>
-  <string name="cit_OTG_plugin_check_title"> Pokreni Testiranje OTG-a</string>
-  <string name="cit_OTG_plugout_check_summary"> Ovo testiranje će otkriti stanje priključenog OTG uređaja.</string>
-  <string name="cit_OTG_plugout_check_title">OTG Izvučen</string>
-  <string name="cit_OTG_waiting_in">Umetnite USB_OTG uređaj.</string>
-  <string name="cit_OTG_waiting_out">Isključite USB_OTG uređaj.</string>
-  <string name="cit_ac_charger_in">AC Punjač je priključen</string>
-  <string name="cit_ac_charger_out">AC Punjač je isključen</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Pomičite uređaj brzo u jednom smjeru. X，Y，Z vrijednosti se prikazuju ispod. (kada je telefon u pokretu: X predstavlja lijevo/desno, y predstavlja ispred/iza, z predstavlja gore i dolje).
-Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
-  <string name="cit_accelermeter_sensor_check_title">Testiranje ubrzanja</string>
-  <string name="cit_aud_spkcal">Kalibriraj</string>
-  <string name="cit_audio_cali_done">Kalibriranje završeno!</string>
-  <string name="cit_audio_cali_failed">Kalibriranje nije uspjelo, pokušajte ponovo!</string>
-  <string name="cit_audio_cali_file_existed">Glazbena datoteka ne postoji, ne mogu kalibrirati!</string>
-  <string name="cit_audio_cali_playing">Pritisnite tipku za početak kalibriranja</string>
-  <string name="cit_audio_cali_summary">Kalibriraj PA zvučnik</string>
-  <string name="cit_audio_cali_title">Test kalibriranja PA zvučnika</string>
-  <string name="cit_audio_cali_valueC">Brojač:</string>
+  <string name="cit_OTG_plugin_check_summary">Ово тестирање ће открити OTG уређај.</string>
+  <string name="cit_OTG_plugin_check_title"> Покрени Тестирање OTG-a</string>
+  <string name="cit_OTG_plugout_check_summary"> Ово тестирање ће открити стање прикљученог OTG уређаја.</string>
+  <string name="cit_OTG_plugout_check_title">OTG Извучен</string>
+  <string name="cit_OTG_waiting_in">Убаците USB_OTG уређај.</string>
+  <string name="cit_OTG_waiting_out">Искључите USB_OTG уређај.</string>
+  <string name="cit_ac_charger_in">AC Пуњач је прикључен</string>
+  <string name="cit_ac_charger_out">AC Пуњач је искључен</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Помичите уређај брзо у једном смеру. X，Y，Z вредности се приказују испод. (када је телефон у покрету: X представља лево/десно, y представља испред/иза, z представља горе и доле).
+Пре калибрације уређаја, ставите га на равну површину."</string>
+  <string name="cit_accelermeter_sensor_check_title">Тестирање убрзања</string>
+  <string name="cit_aud_spkcal">Калибрирај</string>
+  <string name="cit_audio_cali_done">Калибрирање завршено!</string>
+  <string name="cit_audio_cali_failed">Калибрирање није успело, покушајте поново!</string>
+  <string name="cit_audio_cali_file_existed">Звучна датотека не постоји, не могу калибрирати!</string>
+  <string name="cit_audio_cali_playing">Притисните тастер за почетак калибрирања</string>
+  <string name="cit_audio_cali_summary">Калибрирај PA звучник</string>
+  <string name="cit_audio_cali_title">Тест калибрације PA звучника</string>
+  <string name="cit_audio_cali_valueC">Бројач:</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
   <string name="cit_audio_cali_valueR">Ref_diff:</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
-  <string name="cit_audio_calibrating">Kalibriranje u tijeku…</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
-  <string name="cit_audio_lb_phonecall_title">Imitacija poziva</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Testiranje stražnjeg zvučnika mikrofona. 
+  <string name="cit_audio_calibrating">Калибрирање у току…</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Тестирање задњег звучника микрофона</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Тестирање главног звучника микрофона</string>
+  <string name="cit_audio_lb_phonecall_title">Имитација позива</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Тестирање задњег звучника микрофона. 
 
-Okrenite telefon, pričajte u stražnji mikrofon, trebali biste čuti glas u zvučniku"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Testiranje glavnog zvučnika mikrofona.
+Окрените телефон, Причајте у задњи микрофон, требали бисте чути глас у звучнику"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Тестирање главног звучника микрофона.
 
-Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste čuti glas iz prijemnika"</string>
-  <string name="cit_audio_lb_summary_phonecall">"Test Simulacije poziva.
+Држите телефон као да разговарате, причајте у главни микрофон, требали бисте чути глас из пријемника"</string>
+  <string name="cit_audio_lb_summary_phonecall">"Тест Симулације позива.
 
-Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste čuti glas iz prijemnika, napravite test u tihom okruženju"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučniku.
+Држите телефон као да разговарате, причајте у главни микрофон, требали бисте чути глас из пријемника, урадите тест у тихом окружењу"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Тестирање горњег микрофона на звучнику.
 
-Okrenite telefon, govorite u gornji mikrofon, trebali biste čuti glas u zvučniku"</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje gornjeg mikrofona povratne informacije zvučnika</string>
-  <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za slušanje</string>
-  <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona
-Držite telefon kao da razgovarate, pričajte u glavni mikrofon i trebali biste čuti glas iz prijemnika."</string>
-  <string name="cit_audio_loopback_check_summary_second">"Testiranje drugog zvučnika mikrofona.
+Окрените телефон, говорите у горњи микрофон, требали бисте чути глас у звучнику"</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Тестирање горњег микрофона повратне информације звучника</string>
+  <string name="cit_audio_loopback_check_one_title">Тестирање микрофона за слушање</string>
+  <string name="cit_audio_loopback_check_summary_first">Тестирање ће се обавити повратном петљом главног микрофона
+Држите телефон као да разговарате, причајте у главни микрофон и требали бисте чути глас из пријемника."</string>
+  <string name="cit_audio_loopback_check_summary_second">"Тестирање другог звучника микрофона.
 
-Uključite telefon, tako da ulaz za slušalice bude okrenut prema dolje. Govorite u prijemnik. Trebali bi čuti vaš glas kroz vanjski zvučnik."</string>
-  <string name="cit_audio_loopback_check_two_title">Testiranje mikrofona za zvučnik</string>
-  <string name="cit_audio_loopback_dualmic_earpiece_title">Testiranje zvuka poziva</string>
-  <string name="cit_audio_loopback_next">Dalje</string>
-  <string name="cit_audio_loopback_previous">Prethodno</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test smanjenja okolne buke
+Укључите телефон, тако да улаз за слишалице буде окренут према доле. Говорите у пријемник. Требали бисте чути ваш глас кроз спољни звучник."</string>
+  <string name="cit_audio_loopback_check_two_title">Тестирање микрофона за звучник</string>
+  <string name="cit_audio_loopback_dualmic_earpiece_title">Тестирање звука позива</string>
+  <string name="cit_audio_loopback_next">Даље</string>
+  <string name="cit_audio_loopback_previous">Претходно</string>
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Тест смањења околне буке
 
-Držite telefon kao da ste odgovorili na poziv, pričajte u mikrofon. Trebali bi čuti vaš glas sa smanjenom bukom u pozadini reproduciran putem prijemnika."</string>
-  <string name="cit_battery_temp_fail">Testiranje baterije nije uspjelo s (vrijednost=%d)</string>
-  <string name="cit_battery_temp_pass">Testiranje baterije uspjelo</string>
-  <string name="cit_batterylight_blue">Plava</string>
-  <string name="cit_batterylight_green">Zelena</string>
-  <string name="cit_batterylight_red">Crvena</string>
+Држите телефон као да сте одговорили на позив, причајте у микрофон. Требали би чути ваш глас са смањеном буком у позадини репродукован путем пријемника."</string>
+  <string name="cit_battery_temp_fail">Тестирање батерије није успело са (вредност=%d)</string>
+  <string name="cit_battery_temp_pass">Тестирање батерије успело</string>
+  <string name="cit_batterylight_blue">Плава</string>
+  <string name="cit_batterylight_green">Зелена</string>
+  <string name="cit_batterylight_red">Црвена</string>
   <string name="cit_batterylight_rgb">RGB</string>
-  <string name="cit_blue_tooth_address_check_summary">Testiranje će prikazati trenutnu Bluetooth MAC adresu uređaja</string>
-  <string name="cit_blue_tooth_address_check_title">Testiranje Bluetooth adrese</string>
-  <string name="cit_blue_tooth_scan_check_summary">Testiranje će prikazati popis svih dostupnih Bluetooth uređaja</string>
-  <string name="cit_blue_tooth_scan_check_title">Testiranje Bluetooth skeniranja</string>
-  <string name="cit_bluetooth_address_open_error">Nemoguće preuzeti podatke o adresi Bluetootha</string>
-  <string name="cit_bluetooth_not_support">Telefon ne podržava Bluetooth uređaj</string>
-  <string name="cit_bluetooth_scan_retry">Skeniraj ponovo</string>
-  <string name="cit_bluetooth_scanning">Traženje za Bluetooth uređajima…</string>
-  <string name="cit_bluetooth_scanning_bluetooth_done">Skeniranje dovršeno</string>
-  <string name="cit_bluetooth_scanning_bluetooth_error">Pogreška kod otvaranja Bluetooth uređaja</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">Otvaranje Bluetooth uređaja…</string>
-  <string name="cit_button_light_off">Isključite svjetlo tipke</string>
-  <string name="cit_button_light_on">Uključite svjetlo tipke</string>
-  <string name="cit_calibration_fail">Kalibriranje nije uspjelo</string>
-  <string name="cit_calibration_pass">Kalibriranje uspješno</string>
-  <string name="cit_camera_calibration_summary">"Upute testiranja:
+  <string name="cit_blue_tooth_address_check_summary">Тестирање ће приказати тренутну Bluetooth MAC адресу уређаја</string>
+  <string name="cit_blue_tooth_address_check_title">Тестирање Bluetooth адресе</string>
+  <string name="cit_blue_tooth_scan_check_summary">Тестирање ће приказати попис свих доступних Bluetooth уређаја</string>
+  <string name="cit_blue_tooth_scan_check_title">Тестирање Bluetooth скенирања</string>
+  <string name="cit_bluetooth_address_open_error">Немогуће преузети податке о адреси Bluetootha</string>
+  <string name="cit_bluetooth_not_support">Телефон не подржава Bluetooth уређај</string>
+  <string name="cit_bluetooth_scan_retry">Скенирај поново</string>
+  <string name="cit_bluetooth_scanning">Тражење за Bluetooth уређајима…</string>
+  <string name="cit_bluetooth_scanning_bluetooth_done">Скенирање довршено</string>
+  <string name="cit_bluetooth_scanning_bluetooth_error">Грешка код отварања Bluetooth уређаја</string>
+  <string name="cit_bluetooth_scanning_opening_bluetooth">Отварање Bluetooth уређаја…</string>
+  <string name="cit_button_light_off">Искључите светло дирке</string>
+  <string name="cit_button_light_on">Укључите светло дирке</string>
+  <string name="cit_calibration_fail">Калибрирање није успело</string>
+  <string name="cit_calibration_pass">Калибрирање успешно</string>
+  <string name="cit_camera_calibration_summary">"Упутство тестирања:
 
-1.Dodirnite gumb za kalibraciju ispod za ulazak u sučelje fotoaparata
-2.Pritisnite tipku Natrag za izlaz iz sučelja fotoaparata
-3.Dobiti ćete natpis Kalibriranje uspješno za oznaku da je kalibrirano."</string>
-  <string name="cit_camera_sdcard_error">SD kartica je puna. Nemoguće spremiti slike</string>
-  <string name="cit_charger_plugin_check_summary">Provjerite aktualno stanje punjača</string>
-  <string name="cit_charger_plugin_check_title">Testiranje priključka punjača</string>
-  <string name="cit_charger_plugout_check_summary">Obavljanje testiranja se vrši isključivanjem i ponovnim umetanjem kabela za punjenje</string>
-  <string name="cit_charger_plugout_check_title">Testiranje nepovezanosti punjača</string>
-  <string name="cit_charger_waiting_in">Čekanje na punjača</string>
-  <string name="cit_charger_waiting_out">Iskopčajte punjač</string>
-  <string name="cit_display_check_summary">Testiranje će prikazati sliku, dodajte. BMP datoteku u root SD kartice</string>
-  <string name="cit_display_check_title">Testiranje zaslona</string>
-  <string name="cit_display_continue">Kliknite na zaslon za početak testiranja</string>
-  <string name="cit_exit_test_summary">Izlazom iz aktivnog testiranja ćete izgubiti sve podatke, jeste li sigurni da želite nastaviti?</string>
-  <string name="cit_exit_test_title">Zaustavljanje testiranja</string>
-  <string name="cit_fail">Neuspjelo</string>
-  <string name="cit_fm_audio_path">Postavljanje putanje zvuka</string>
-  <string name="cit_fm_audio_path_headset">Slušalice</string>
-  <string name="cit_fm_audio_path_speaker">Zvučnici</string>
-  <string name="cit_fm_check_summary">Ovaj test će provjeriti FM radio</string>
-  <string name="cit_fm_check_title">Testiranje FM Radio</string>
-  <string name="cit_fm_close">Isključite Radio</string>
-  <string name="cit_fm_not_supported">Vaš uređaj ne podržava FM Radio</string>
+1.Додирните дугме за калибрацију испод за улазак у интерфејс фотоапарата
+2.Притисните дирку Назад за излаз из интерфејса фотоапарата
+3.Добићете натпис Калибрирање успешно за ознаку да је калибрирано."</string>
+  <string name="cit_camera_sdcard_error">SD картица је пуна. Немогуће сачувати слике</string>
+  <string name="cit_charger_plugin_check_summary">Проверите актуелно стање пуњача</string>
+  <string name="cit_charger_plugin_check_title">Тестирање прикључка пуњача</string>
+  <string name="cit_charger_plugout_check_summary">Обављање тестирања се врши искључивањем и поновним укључивањем кабла за пуњење</string>
+  <string name="cit_charger_plugout_check_title">Тестирање неповезаности пуњача</string>
+  <string name="cit_charger_waiting_in">Чекање на пуњач</string>
+  <string name="cit_charger_waiting_out">Ишчупајте пуњач</string>
+  <string name="cit_display_check_summary">Тестирање ће приказати слику, додајте. BMP датотеку у root SD картице</string>
+  <string name="cit_display_check_title">Тестирање екрана</string>
+  <string name="cit_display_continue">Кликните на екран за почетак тестирања</string>
+  <string name="cit_exit_test_summary">Изласком из активног тестирања ћете изгубити све податке, јесте ли сигурни да желите наставити?</string>
+  <string name="cit_exit_test_title">Заустављање тестирања</string>
+  <string name="cit_fail">Неуспешно</string>
+  <string name="cit_fm_audio_path">Постављање путање звука</string>
+  <string name="cit_fm_audio_path_headset">Слушалице</string>
+  <string name="cit_fm_audio_path_speaker">Звучници</string>
+  <string name="cit_fm_check_summary">Овај тест ће проверити FM радио</string>
+  <string name="cit_fm_check_title">Тестирање FM Радио</string>
+  <string name="cit_fm_close">Искључите Радио</string>
+  <string name="cit_fm_not_supported">Ваш уређај не FM Радио</string>
   <string name="cit_fm_open_1">FM - 88.5</string>
   <string name="cit_fm_open_2">FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Omogućivanje Bluetootha…</string>
-  <string name="cit_fm_start_service">Omogući Radio</string>
-  <string name="cit_front_camera_check_summary">"Koraci testiranja:
+  <string name="cit_fm_open_bluetooth">Омогућавање Bluetootha…</string>
+  <string name="cit_fm_start_service">Омогући Радио</string>
+  <string name="cit_front_camera_check_summary">"Кораци тестирања:
 
-1. Kliknite tipku kamere za otvaranje fotoaparata
-2. Kliknite na kameru
-3. Kliknite na gumb "U redu" sustava kamere, sustav će automatski spremiti sliku
-4. Pregledajte sliku, kada ste zadovoljni, možete je izbrisati."</string>
-  <string name="cit_front_camera_check_title"> Test prednje kamere (prednja kamera)</string>
-  <string name="cit_gps_check_summary">Ovaj test će prikazati informacije GPS-a</string>
-  <string name="cit_gps_check_title">Testiranje GPS-a</string>
-  <string name="cit_gps_disabled">"GPS nije omogućen, 
+1. Кликните дирку за отварање фотоапарата
+2. Кликните на камеру
+3. кликните на дугме "У реду" система камере, систем ће аутоматски сачувати слику
+4. Прегледајте слику, када сте задовољни, можете је избрисати."</string>
+  <string name="cit_front_camera_check_title"> Тест предње камере (предња камера)</string>
+  <string name="cit_gps_check_summary">Овај тест ће приказати информације GPS-a</string>
+  <string name="cit_gps_check_title">Тестирање GPS-a</string>
+  <string name="cit_gps_disabled">"GPS није омогућен, 
 
-  Dodirnite zaslon za početak GPS-a…"</string>
+  Додирните екран за укључивање GPS-a…"</string>
   <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
-  <string name="cit_gps_location">Lokacija: %s</string>
-  <string name="cit_gps_satellite_count">GPS Sateliti: %d</string>
+  <string name="cit_gps_location">Локација: %s</string>
+  <string name="cit_gps_satellite_count">GPS Сателити: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
-  <string name="cit_gyroscope_sensor_check_summary">Vrijednosti senzora žiroskopa X, Y, Z koordinata</string>
-  <string name="cit_gyroscope_sensor_check_title">Testiranje Žiroskopa</string>
-  <string name="cit_headset_button_check_summary">Testiranje će prikazati trenutno odabranu tipku na slušalicama kada se pritisne</string>
-  <string name="cit_headset_button_check_title">Testiranje Slušalica</string>
-  <string name="cit_headset_button_click">Odaberite tipku slušalice</string>
-  <string name="cit_headset_button_current">Tipka slušalice: %s</string>
-  <string name="cit_headset_button_fast_forward">Naprijed</string>
-  <string name="cit_headset_button_next">Dalje</string>
-  <string name="cit_headset_button_pass">Uspješno</string>
-  <string name="cit_headset_button_play_pause">Reproduciraj/Pauza</string>
-  <string name="cit_headset_button_previous">Prethodno</string>
-  <string name="cit_headset_button_rewind">Natrag</string>
-  <string name="cit_headset_button_stop">Zaustavi</string>
-  <string name="cit_headset_button_unknown">Status slušalica nepoznat</string>
-  <string name="cit_headset_loopback_check_summary">Testiranje će izvesti povratnu petlju za slušalice i mikrofon</string>
-  <string name="cit_headset_loopback_check_title">Testiranje povratne petlje slušalica</string>
-  <string name="cit_headset_plug_detect_summary">Testiranje će provjeriti naglavne slušalice, slušalice moraju biti stavljen prije testiranja</string>
-  <string name="cit_headset_plug_detect_title">Testiranje otkrivanja slušalica</string>
-  <string name="cit_headset_plug_finish">Slušalice ukopčane</string>
-  <string name="cit_headset_plug_hint">Ukopčajte slušalice</string>
-  <string name="cit_headset_pull_detect_summary">Testiranje će provjeriti da je slušalica uspješno isključena</string>
-  <string name="cit_headset_pull_detect_title">Testiranje iskopčavanja slušalica</string>
-  <string name="cit_headset_pull_finish">Slušalice iskopčane</string>
-  <string name="cit_headset_pull_hint">Iskopčajte slušalice</string>
-  <string name="cit_hide_menu">Zatvori Izbornik</string>
-  <string name="cit_kayboard_volume_down">Testiranje tipke: VOLUME_DOWN</string>
-  <string name="cit_kayboard_volume_up">Testiranje tipke: VOLUME_UP</string>
-  <string name="cit_keyboard_back">Testiranje tipke: BACK</string>
-  <string name="cit_keyboard_current">Tipkovnica: %s</string>
-  <string name="cit_keyboard_menu">Testiranje tipke: MENU</string>
-  <string name="cit_keyboard_test_summary">Pokazuje trenutno izabranu hardversku tipku, ovaj test ne provjerava home tipku</string>
-  <string name="cit_keyboard_test_title">Testiranje Tipkovnice</string>
-  <string name="cit_label">Otkrivanje Hardvare-a</string>
-  <string name="cit_lcdlight_brightness">Pozadinsko osvjetljenje</string>
-  <string name="cit_lcdlight_brightness_max">Maksimalno</string>
-  <string name="cit_lcdlight_brightness_min">Minimalno</string>
-  <string name="cit_leds_check_summary">Testiranje će provjeriti pozadinsko osvjetljenje, napajanje i bljeskalicu LED diode</string>
+  <string name="cit_gyroscope_sensor_check_summary">Вредности сензора жироскопа X, Y, Z координата</string>
+  <string name="cit_gyroscope_sensor_check_title">Тестирање жироскопа</string>
+  <string name="cit_headset_button_check_summary">Тестирање ће приказати тренутно одабрану дирку на слушалицама када је притиснете</string>
+  <string name="cit_headset_button_check_title">Тестирање Слушалица</string>
+  <string name="cit_headset_button_click">Одаберите дирку за слишалице</string>
+  <string name="cit_headset_button_current">Дирка слишалице: %s</string>
+  <string name="cit_headset_button_fast_forward">Напред</string>
+  <string name="cit_headset_button_next">Даље</string>
+  <string name="cit_headset_button_pass">Успешно</string>
+  <string name="cit_headset_button_play_pause">Пусти/Пауза</string>
+  <string name="cit_headset_button_previous">Претходно</string>
+  <string name="cit_headset_button_rewind">Назад</string>
+  <string name="cit_headset_button_stop">Заустави</string>
+  <string name="cit_headset_button_unknown">Статус слушалица непознат</string>
+  <string name="cit_headset_loopback_check_summary">Тестирање ће извести повратну петљу за слишалице и микрофон</string>
+  <string name="cit_headset_loopback_check_title">Тестирање повратне петље за слушалице</string>
+  <string name="cit_headset_plug_detect_summary">Тестирање ће проверити класичне слушалице, слушалице морају бити стављњне пре тестирања</string>
+  <string name="cit_headset_plug_detect_title">Тестирање откривања слушалица</string>
+  <string name="cit_headset_plug_finish">Слушалице убачене</string>
+  <string name="cit_headset_plug_hint">Убаците слушалице</string>
+  <string name="cit_headset_pull_detect_summary">Тестирање ће проверити да ли је слушалица исправно искључена</string>
+  <string name="cit_headset_pull_detect_title">Тестирање искључивања слушалица</string>
+  <string name="cit_headset_pull_finish">Слушалице искључене</string>
+  <string name="cit_headset_pull_hint">Искључите слушалице</string>
+  <string name="cit_hide_menu">Затвори Мени</string>
+  <string name="cit_kayboard_volume_down">Тестирање дирке: VOLUME_DOWN</string>
+  <string name="cit_kayboard_volume_up">Тестирање дирке: VOLUME_UP</string>
+  <string name="cit_keyboard_back">Тестирање дирке: BACK</string>
+  <string name="cit_keyboard_current">Тастатура: %s</string>
+  <string name="cit_keyboard_menu">Тестирање дирке: MENU</string>
+  <string name="cit_keyboard_test_summary">Показује тренутно одабрану хардверску дирку, овај тест не проверава home дирку</string>
+  <string name="cit_keyboard_test_title">Тестирање Тастатуре</string>
+  <string name="cit_label">Откривање Hardvare-a</string>
+  <string name="cit_lcdlight_brightness">Позадинско осветљење</string>
+  <string name="cit_lcdlight_brightness_max">Максимално</string>
+  <string name="cit_lcdlight_brightness_min">Минимално</string>
+  <string name="cit_leds_check_summary">Тестирање ће проверити позадинско осветљење, напајање и лампу LED диоде</string>
   <string name="cit_leds_check_title">Testiranje LED-a</string>
-  <string name="cit_light_sensor_check_summary">Nađene sljedeće informacije DAC svjetlosnog senzor</string>
-  <string name="cit_light_sensor_check_title">Testiranje Senzora osvjetljenja</string>
-  <string name="cit_magnetic_sensor_check_summary">Ispod je trenutna vrijednost magnetometara u X, Y, Z orijentaciji</string>
-  <string name="cit_magnetic_sensor_check_title">Testiranje Magnetometra</string>
-  <string name="cit_main_camera_check_summary">Testiranje kontrolne liste:
- 1. Kliknite na tipku kamere za otvaranje fotoaparata
- 2. Provjerite da je Bljeskalica uključena 
- 3. Kliknite na popis slika
- 4. Kliknite gumb "U redu", to će automatski spremiti sliku
- 5. Provjerite da li slika prikazana ispravno, a zatim je izbrišite</string>
-  <string name="cit_main_camera_check_title">Testiranje Fotoaparata (glavna kamera)</string>
-  <string name="cit_name">Otkrivanje Hardvare-a</string>
-  <string name="cit_not_available">Korisničko verzija ne podržava ovaj test, jedino je tvornička verzija testiranja dostupna</string>
-  <string name="cit_notificationlight">Indikator Obavijesti</string>
-  <string name="cit_notificationlight_off">Isključite obavijesti LED-a</string>
-  <string name="cit_notificationlight_on">Uključite obavijesti LED-a</string>
-  <string name="cit_otg_not_supported">Ovaj model ne podržava OTG Testiranje.</string>
-  <string name="cit_pass">Uspješno</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Potvrdite da postoji datoteka s nazivom \"music.mp3\" pohranjena na SD kartici. Datoteka \"music.mp3\" treba biti reproducirana kroz putanju HIFI uređaja kada otvorite ovaj test."</string>
-  <string name="cit_play_sd_mp3_hifi_title">Reproduciraj MP3(HIFI) pohranjen na SD kartici</string>
-  <string name="cit_play_sd_mp3_summary">Testiranje će reproducirati music.mp3 koji se nalazi u root mapi SD kartice</string>
-  <string name="cit_play_sd_mp3_title">Testiranje MP3 reprodukcije</string>
-  <string name="cit_playing_sd_mp3">music.mp3 se reproducira…</string>
-  <string name="cit_pointer_location_title">Testiranje Zaslona osjetljiva na dodir</string>
-  <string name="cit_power_check_summary">Ovaj test pokazuje količinu energije na raspolaganju</string>
-  <string name="cit_power_check_title">Indikator baterije</string>
-  <string name="cit_pressure_sensor_check_summary">Provjerite vrijednost senzor tlaka</string>
-  <string name="cit_pressure_sensor_check_title">Senzor tlaka</string>
-  <string name="cit_proximity_sensor_check_summary">Prekrijte senzor blizine telefona prstom, 
-informacije prikazane su od 0.0 (pokriveno)) pa naviše po veličini</string>
-  <string name="cit_proximity_sensor_check_title">Testiranje senzora blizine</string>
-  <string name="cit_reset_check_summary">Ovo testiranje obavlja ponovno pokretanje sustava</string>
-  <string name="cit_reset_check_title">Testiranje Resetiranja</string>
-  <string name="cit_reset_test">Testiranje Resetiranja</string>
-  <string name="cit_sd_fail">Neuspješno čitanje SD kartice, radnja nije uspjela</string>
-  <string name="cit_sd_mount">Učitavanje SD kartice</string>
-  <string name="cit_sd_mount_sucess">Uspješno učitana SD kartica</string>
-  <string name="cit_sd_mp3_not_existed">"Datoteka music.mp3 se ne može naći u root-u SD kartice, 
-dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
-  <string name="cit_sd_plugged_in">SD kartica učitana, uklonite SD kartice</string>
-  <string name="cit_sd_plugged_out">SD kartica nije učitana, učitajte SD karticu</string>
-  <string name="cit_sd_plugin_check_summary">Ovo testiranje će otkriti učitano stanje SD kartice, na zaslonu će se prikazati "SD kartica je učitana"</string>
-  <string name="cit_sd_plugin_check_title">Testiranje učitavanja SD kartice</string>
-  <string name="cit_sd_plugout_check_summary">Ovo testiranje će otkriti neučitano stanje SD kartice, na zaslonu će se prikazati "SD kartica nije učitana</string>
-  <string name="cit_sd_plugout_check_title">Testiranje isključivanja SD kartice</string>
-  <string name="cit_sd_unmount">Isključite SD karticu</string>
-  <string name="cit_sd_unmount_sucess">SD Kartica uspješno isključena</string>
-  <string name="cit_sim_check_summary">Provjera pojedinosti stanja SIM kartice</string>
-  <string name="cit_sim_check_title">Testiranje SIM kartice</string>
-  <string name="cit_sim_error_unknown">Nepoznata greška SIM-a</string>
-  <string name="cit_sim_network_operator">Mrežni davatelji usluga:</string>
-  <string name="cit_sim_network_operator_name">Naziv davatelja usluga mreže:</string>
-  <string name="cit_sim_network_type">Vrsta mreže:</string>
-  <string name="cit_sim_serial_number">Broj SIM kartice:</string>
-  <string name="cit_sim_sim_country">Zemlja:</string>
-  <string name="cit_sim_sim_operator">SIM operater:</string>
-  <string name="cit_sim_sim_operator_name">Naziv davatelja usluga SIM-a:</string>
-  <string name="cit_sim_state_absent">SIM kartica nije pronađena</string>
-  <string name="cit_sim_state_network_locked">PIN Mreže zaključan</string>
-  <string name="cit_sim_state_pin_required">Potreban PIN</string>
-  <string name="cit_sim_state_puk_required">Potreban PUK</string>
-  <string name="cit_sim_state_ready">SIM kartica u redu</string>
-  <string name="cit_sim_state_unkown">Nepoznata pogreška</string>
-  <string name="cit_start_calibration">Započni kalibraciju</string>
-  <string name="cit_stop_calibration">Zaustavi kalibraciju</string>
-  <string name="cit_tool">Alati</string>
-  <string name="cit_tool_bluetooth">Testni alati Bluetootha</string>
-  <string name="cit_tool_bluetooth_dut">Bluetooth test</string>
+  <string name="cit_light_sensor_check_summary">Нађене следеће информације DAC светлосног сензора</string>
+  <string name="cit_light_sensor_check_title">Tестирање Сензора осветљења</string>
+  <string name="cit_magnetic_sensor_check_summary">Испод је тренутна вредност магнетометра у X, Y, Z оријентацији</string>
+  <string name="cit_magnetic_sensor_check_title">Тестирање Магнетометра</string>
+  <string name="cit_main_camera_check_summary">Тестирање контролне листе:
+ 1. Кликните на дирку камере за отварање фотоапарата
+ 2. Проверите да је Лампа укључена
+ 3. Кликните на попис слика
+ 4. Кликните дугме "У реду", то ће аутоматски сачувати слику
+ 5. Проверите да ли је слика приказана исправно, а затим је обришите</string>
+  <string name="cit_main_camera_check_title">Тестирање Фотоапарата (главна камера)</string>
+  <string name="cit_name">Откривање Hardvare-a</string>
+  <string name="cit_not_available">Корисничка верзија не подржава овај тест, једино је фабричка верзија тестирања доступна</string>
+  <string name="cit_notificationlight">Индикатор Обавештења</string>
+  <string name="cit_notificationlight_off">Искључите обавештења LED-a</string>
+  <string name="cit_notificationlight_on">Укључите обавештења LED-a</string>
+  <string name="cit_otg_not_supported">Овај модел не подржава OTG Тестирање.</string>
+  <string name="cit_pass">Успешно</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Потврдите да постоји датотека са називом \"music.mp3\" сачувана на SD картици. Датотека \"music.mp3\" треба бити репродукована кроз путању HIFI уређаја када отворите овај тест."</string>
+  <string name="cit_play_sd_mp3_hifi_title">Репродукуј MP3(HIFI) сачуван на SD картици</string>
+  <string name="cit_play_sd_mp3_summary">Тестирање ће репродуковати music.mp3 који се налази у root мапи SD картице</string>
+  <string name="cit_play_sd_mp3_title">Тестирање MP3 репродукције</string>
+  <string name="cit_playing_sd_mp3">music.mp3 се репродукује…</string>
+  <string name="cit_pointer_location_title">Тестирање екрана осетљивог на додир</string>
+  <string name="cit_power_check_summary">Овај тест показује количину енергије на располагању</string>
+  <string name="cit_power_check_title">Индикатор батерије</string>
+  <string name="cit_pressure_sensor_check_summary">Проверите вредност сензора притиска</string>
+  <string name="cit_pressure_sensor_check_title">Сензор притиска</string>
+  <string name="cit_proximity_sensor_check_summary">Прекријте сензор близине телефона прстом, 
+информације су приказане од 0.0 (покривено)) па нагоре по величини</string>
+  <string name="cit_proximity_sensor_check_title">Тестирање сензора близине</string>
+  <string name="cit_reset_check_summary">Ово тестирање обавља поновно покретање система</string>
+  <string name="cit_reset_check_title">Тестирање Ресетовања</string>
+  <string name="cit_reset_test">Тестирање Ресетовања</string>
+  <string name="cit_sd_fail">Неуспешно учитавање SD картице, радња није успела</string>
+  <string name="cit_sd_mount">Учитавање SD картице</string>
+  <string name="cit_sd_mount_sucess">Успешно учитана SD картица</string>
+  <string name="cit_sd_mp3_not_existed">"Датотека music.mp3 се не може наћи у root-u SD картице, 
+додајте датотеку и покушајте поновити тестирање репродукције."</string>
+  <string name="cit_sd_plugged_in">SD картица учитана, уклоните SD картицу</string>
+  <string name="cit_sd_plugged_out">SD картица није учитана, учитајте SD картицу</string>
+  <string name="cit_sd_plugin_check_summary">Ово тестирање ће открити учитано стање SD картице, на екрану ће се приказати "SD картица је учитана"</string>
+  <string name="cit_sd_plugin_check_title">Тестирање учитавања SD картице</string>
+  <string name="cit_sd_plugout_check_summary">Ово тестирање ће открити неучитано стање SD картице, на екрану ће се приказати "SD картица није учитана</string>
+  <string name="cit_sd_plugout_check_title">Тестирање искључивања SD картице</string>
+  <string name="cit_sd_unmount">Искључите SD картицу</string>
+  <string name="cit_sd_unmount_sucess">SD Картица успешно искључена</string>
+  <string name="cit_sim_check_summary">Провера појединости стања SIM картице</string>
+  <string name="cit_sim_check_title">Тестирање SIM картице</string>
+  <string name="cit_sim_error_unknown">Непозната грешка SIM-a</string>
+  <string name="cit_sim_network_operator">Мрежни даваоци услуга:</string>
+  <string name="cit_sim_network_operator_name">Назив даваоц услуга мреже:</string>
+  <string name="cit_sim_network_type">Врста мреже:</string>
+  <string name="cit_sim_serial_number">Број SIM картице:</string>
+  <string name="cit_sim_sim_country">Земља:</string>
+  <string name="cit_sim_sim_operator">SIM оператер:</string>
+  <string name="cit_sim_sim_operator_name">Назив даваоца услуга SIM-a:</string>
+  <string name="cit_sim_state_absent">SIM картица није пронађена</string>
+  <string name="cit_sim_state_network_locked">PIN Мреже закључан</string>
+  <string name="cit_sim_state_pin_required">Потребан PIN</string>
+  <string name="cit_sim_state_puk_required">потребан PUK</string>
+  <string name="cit_sim_state_ready">SIM картица у реду</string>
+  <string name="cit_sim_state_unkown">Непозната грешка</string>
+  <string name="cit_start_calibration">Започни калибрацију</string>
+  <string name="cit_stop_calibration">Заустави калибрацију</string>
+  <string name="cit_tool">Алати</string>
+  <string name="cit_tool_bluetooth">Тестирајући алати Bluetootha</string>
+  <string name="cit_tool_bluetooth_dut">Bluetooth тест</string>
   <string name="cit_tool_bluetooth_le_tx_ch19">Bluetooth LE 2.440GHz Freq</string>
-  <string name="cit_tool_bluetooth_le_tx_h">Bluetooth LE 2.480GHz Freq Test</string>
-  <string name="cit_tool_bluetooth_le_tx_l">Bluetooth LE 2.402GHz Freq Test</string>
-  <string name="cit_tool_bluetooth_not_on">Bluetooth NIJE uključen!</string>
-  <string name="cit_tool_bluetooth_off">Isključi Bluetooth</string>
-  <string name="cit_tool_bluetooth_on">Uključi Bluetooth</string>
+  <string name="cit_tool_bluetooth_le_tx_h">Bluetooth LE 2.480GHz Freq Тест</string>
+  <string name="cit_tool_bluetooth_le_tx_l">Bluetooth LE 2.402GHz Freq Тест</string>
+  <string name="cit_tool_bluetooth_not_on">Bluetooth НИЈЕ укључен!</string>
+  <string name="cit_tool_bluetooth_off">Искључи Bluetooth</string>
+  <string name="cit_tool_bluetooth_on">Укључи Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Bluetooth BR/EDR 2.480GHz Freq</string>
   <string name="cit_tool_bluetooth_tx_l">Bluetooth BR/EDR 2.402GHz Freq</string>
-  <string name="cit_tool_cal_camera">Alat za kalibraciju fotoaparata</string>
-  <string name="cit_tool_enable_3A_log">Omogući zapis 3A Switch</string>
-  <string name="cit_tool_log">Zapisi</string>
-  <string name="cit_tool_log_bugreport">Izvješće grešaka</string>
+  <string name="cit_tool_cal_camera">Алат за калибрацију фотоапарата</string>
+  <string name="cit_tool_enable_3A_log">Омогући запис 3А Switch</string>
+  <string name="cit_tool_log">Записи</string>
+  <string name="cit_tool_log_bugreport">Извештај о грешкама</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
-  <string name="cit_tool_log_file_not_exist">%s ne postoji</string>
-  <string name="cit_tool_log_generate_bugreport">Stvaranje izvješće grešaka…</string>
-  <string name="cit_tool_log_kmsg">Zapis zadnjeg kernela</string>
-  <string name="cit_tool_log_logcat">ADB zapis</string>
-  <string name="cit_tool_log_modem">Modem zapis</string>
-  <string name="cit_tool_log_no_sdcard">Radnja nije uspjela, umetnite SD karticu</string>
-  <string name="cit_tool_log_ril">RIL zapis</string>
-  <string name="cit_tool_log_toast">Zapis spremljen na %s</string>
-  <string name="cit_tool_log_toast_generate_bugreport">Stvaranje izvješća grešaka… (može potrajati oko 1 min.)</string>
-  <string name="cit_tool_modem">MODEM Test</string>
+  <string name="cit_tool_log_file_not_exist">%s не постоји</string>
+  <string name="cit_tool_log_generate_bugreport">Стварање извештаја грешака…</string>
+  <string name="cit_tool_log_kmsg">Запис задњег келнера</string>
+  <string name="cit_tool_log_logcat">ADB запис</string>
+  <string name="cit_tool_log_modem">Модем запис</string>
+  <string name="cit_tool_log_no_sdcard">Радња није успела, убаците SD картицу</string>
+  <string name="cit_tool_log_ril">RIL запис</string>
+  <string name="cit_tool_log_toast">Запис сачуван на %s</string>
+  <string name="cit_tool_log_toast_generate_bugreport">Стварање извештаја грешака… (може потрајати око 1 мин.)</string>
+  <string name="cit_tool_modem">MODEM Тест</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
-  <string name="cit_tool_modem_exit_ftm">Zatvori FTM</string>
-  <string name="cit_tool_modem_offline_log">Otvori/Zatvori Offline Log</string>
-  <string name="cit_tool_nfc">NFC Test</string>
+  <string name="cit_tool_modem_exit_ftm">Затвори FTM</string>
+  <string name="cit_tool_modem_offline_log">Отвори/Затвори Offline Log</string>
+  <string name="cit_tool_nfc">NFC Тест</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
-  <string name="cit_tool_nfc_st_run">Pokreni</string>
-  <string name="cit_tool_nfc_st_stop">Zaustavi</string>
-  <string name="cit_tool_wifi">Alati testiranja WLAN-a</string>
+  <string name="cit_tool_nfc_st_run">Покрени</string>
+  <string name="cit_tool_nfc_st_stop">Заустави</string>
+  <string name="cit_tool_wifi">Алати тестирања WLAN-a</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
   <string name="cit_tool_wifi_chain_2">2</string>
   <string name="cit_tool_wifi_exit">Exit</string>
   <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
-  <string name="cit_tool_wifi_rx_ap_name">Naziv pristupne točke</string>
-  <string name="cit_tool_wifi_rx_chan">Rx: Kanal</string>
-  <string name="cit_tool_wifi_rx_count_error">Izlazna vrijednost nije broj</string>
+  <string name="cit_tool_wifi_rx_ap_name">Назив приступне тачке</string>
+  <string name="cit_tool_wifi_rx_chan">Rx: Канал</string>
+  <string name="cit_tool_wifi_rx_count_error">Излазна вредност није број</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-  <string name="cit_tool_wifi_rx_error">Došlo je do pogreške</string>
-  <string name="cit_tool_wifi_rx_exit">Rx:izlaz</string>
-  <string name="cit_tool_wifi_rx_run">Pokreni</string>
-  <string name="cit_tool_wifi_rx_stop">Zaustavi</string>
+  <string name="cit_tool_wifi_rx_error">Дошло је до грешке</string>
+  <string name="cit_tool_wifi_rx_exit">Rx:излаз</string>
+  <string name="cit_tool_wifi_rx_run">Покрени</string>
+  <string name="cit_tool_wifi_rx_stop">Заустави</string>
   <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
   <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
@@ -277,59 +277,59 @@ dodajte datoteku i pokušajte ponoviti testiranje reprodukcije."</string>
   <string name="cit_tool_wifi_rxn_test_channel">channel:</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
-  <string name="cit_tool_wifi_tx_bg_chan">Kanal:</string>
-  <string name="cit_tool_wifi_tx_bg_txpr">TX energija:</string>
-  <string name="cit_tool_wifi_tx_bg_txrt">Brzina prijenosa:</string>
+  <string name="cit_tool_wifi_tx_bg_chan">Канал:</string>
+  <string name="cit_tool_wifi_tx_bg_txpr">TX Енергија:</string>
+  <string name="cit_tool_wifi_tx_bg_txrt">Брзина преноса:</string>
   <string name="cit_tool_wifi_tx_n">Tx: N</string>
-  <string name="cit_tool_wifi_tx_n_bandwidth">propusnost:</string>
-  <string name="cit_tool_wifi_tx_n_chan">Kanal:</string>
-  <string name="cit_tool_wifi_tx_n_txpr">TX Energija:</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">пропусност:</string>
+  <string name="cit_tool_wifi_tx_n_chan">Канал:</string>
+  <string name="cit_tool_wifi_tx_n_txpr">TX Енергија:</string>
   <string name="cit_tool_wifi_tx_n_txrt">MCS:</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-  <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
-  <string name="cit_tool_wifi_txrx_chain_selection">Odaberi antenu</string>
-  <string name="cit_torch_off">Isključite svjetiljku</string>
-  <string name="cit_torch_on">Uključite svjetiljku</string>
-  <string name="cit_touch_calib_fail">Kalibriranje uspjelo</string>
-  <string name="cit_touch_calib_instruction">Kalibriranje</string>
-  <string name="cit_touch_calib_pass">Kalibriranje je uspješno završeno</string>
-  <string name="cit_touch_calib_summary">Sljedeći korak potpune kalibracije na dodir, pritisnite tipku OK, ne dodirujte zaslon dok kalibriranje nije dovršeno</string>
-  <string name="cit_touch_calib_title">Kalibriranje na dodir</string>
-  <string name="cit_usb_OTG_in"> USB_OTG uređaj spojen </string>
-  <string name="cit_usb_OTG_out"> USB_OTG oprema nije priključena.</string>
-  <string name="cit_usb_charger_in">USB punjač priključen</string>
-  <string name="cit_usb_charger_out">USB punjač isključen</string>
-  <string name="cit_version_check_summary">Pronađene su sljedeće verzije hardvera i softvera</string>
-  <string name="cit_version_check_title">Verzija Testa</string>
-  <string name="cit_vga_camera_capture">Snimite fotografiju</string>
-  <string name="cit_vga_camera_capture_fail">Neuspjelo snimanje fotografije</string>
-  <string name="cit_vga_camera_delete">Izbriši fotografiju</string>
-  <string name="cit_vga_camera_deleted">Fotografija je izbrisana</string>
-  <string name="cit_vibrator_check_summary">Testiranje će obaviti provjeru vibracije (dugo i kratko)</string>
-  <string name="cit_vibrator_check_title">Testiranje vibracije</string>
+  <string name="cit_tool_wifi_tx_st_chan">Канал:</string>
+  <string name="cit_tool_wifi_txrx_chain_selection">Одабери антену</string>
+  <string name="cit_torch_off">Искључите лампу</string>
+  <string name="cit_torch_on">Укључите лампу</string>
+  <string name="cit_touch_calib_fail">Калибрирање успело</string>
+  <string name="cit_touch_calib_instruction">Калибрирање</string>
+  <string name="cit_touch_calib_pass">Калибрирање је успешно завршено</string>
+  <string name="cit_touch_calib_summary">SСледећи корак потпуне калибрације на додир, притисните дирку OK, не додирујте екран док калибрирање није завршено</string>
+  <string name="cit_touch_calib_title">Калибрирање на додир</string>
+  <string name="cit_usb_OTG_in"> USB_OTG уређај спојен </string>
+  <string name="cit_usb_OTG_out"> USB_OTG опрема није прикључена.</string>
+  <string name="cit_usb_charger_in">USB пуњач прикључен</string>
+  <string name="cit_usb_charger_out">USB пуњач искључен</string>
+  <string name="cit_version_check_summary">Пронађене су следеће верзије хардвера и софтвера</string>
+  <string name="cit_version_check_title">Верзија Теста</string>
+  <string name="cit_vga_camera_capture">Снимите фотографију</string>
+  <string name="cit_vga_camera_capture_fail">Неуспешно снимање фотографије</string>
+  <string name="cit_vga_camera_delete">Избриши фотографију</string>
+  <string name="cit_vga_camera_deleted">Фотографија је избрисана</string>
+  <string name="cit_vibrator_check_summary">Тестирање ће обавити проверу вибрације (дуго и кратко)</string>
+  <string name="cit_vibrator_check_title">Тестирање вибрације</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
-  <string name="cit_vibrator_haptic">Haptička povratna informacija</string>
-  <string name="cit_vibrator_load_down_pattern">Uzorak dolje</string>
-  <string name="cit_vibrator_load_up_pattern">Uzorak gore</string>
-  <string name="cit_vibrator_long">Duga vibracija</string>
-  <string name="cit_vibrator_play_touch_pattern">Uzorak vibracije</string>
-  <string name="cit_vibrator_short">Kratka vibracija</string>
-  <string name="cit_vibrator_show_advanced">Prikaži napredne opcije</string>
-  <string name="cit_wifi_address_check_summary">Testiranje će prikazati trenutno stanje WLAN-a</string>
-  <string name="cit_wifi_address_check_title">Testiranje IP WLAN-a</string>
-  <string name="cit_wifi_address_error">Nemoguće preuzeti adresu WLAN-a, provjerite da je WLAN omogućen i pokušajte ponovno</string>
-  <string name="cit_wifi_ap_scan_check_summary">Testiranje će prikazati popis svih dostupnih WLAN pristupnih točaka</string>
-  <string name="cit_wifi_ap_scan_check_title">Testiranje skeniranja WLAN pristupne točke</string>
-  <string name="cit_wifi_ap_scan_retry">Skeniraj ponovo</string>
-  <string name="cit_wifi_ap_scanning">Traženje pristupnih točaka…</string>
-  <string name="cit_wifi_fail_to_scan">Nije moguće naći bil koju WLAN mrežu</string>
-  <string name="cit_wifi_state_refresh">Osvježi</string>
-  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Testiranje povratne informacije prednjeg zvučnika mikrofona</string>
-  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Testiranje povratne informacije prednjeg mikrofona na zvučnik.
+  <string name="cit_vibrator_haptic">Хаптичка повратна информација</string>
+  <string name="cit_vibrator_load_down_pattern">Узорак доле</string>
+  <string name="cit_vibrator_load_up_pattern">Узорак горе</string>
+  <string name="cit_vibrator_long">Дуга вибрација</string>
+  <string name="cit_vibrator_play_touch_pattern">Узорак вибрације</string>
+  <string name="cit_vibrator_short">Кратка вибрација</string>
+  <string name="cit_vibrator_show_advanced">Прикажи напредне опције</string>
+  <string name="cit_wifi_address_check_summary">Тестирање ће приказати тренутно стање WLAN-a</string>
+  <string name="cit_wifi_address_check_title">Тестирање IP WLAN-a</string>
+  <string name="cit_wifi_address_error">Немогуће преузети адресу WLAN-a, проверите да ли је WLAN омогућен и покушајте поново</string>
+  <string name="cit_wifi_ap_scan_check_summary">Тестирање ће приказати попис свих доступних WLAN приступних тачака</string>
+  <string name="cit_wifi_ap_scan_check_title">Тестирање скенирања WLAN приступне тачке</string>
+  <string name="cit_wifi_ap_scan_retry">Скенирај поново</string>
+  <string name="cit_wifi_ap_scanning">Тражење приступних тачака…</string>
+  <string name="cit_wifi_fail_to_scan">Није могуће наћи било коју WLAN мрежу</string>
+  <string name="cit_wifi_state_refresh">Освежи</string>
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Тестирање повратне информације предњег звучника микрофона</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Тестирање повратне информације предњег микрофона на звучник.
 
-Okrenite uređaj, Govorite u mikrofon u položaju prijemnika, trebali bi čuti glas u zvučniku"</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Testiranje povratne informacije Gornjeg mikrofona na zvučnik. 
+Окрените уређај, Говорите у микрофон у положају пријемника, требали би чути глас у звучнику"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Тестирање повратне информације Горњег микрофона на звучник. 
 
-Okrenite uređaj, Govorite u gornji mikrofon , trebali bi čuti glas u zvučniku"</string>
-  <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje povratne informacije Gornjeg mikrofona</string>
+Окрените уређај, Говорите у микрофон , требали би чути глас у звучнику"</string>
+  <string name="cit_x5_audio_lb_top_to_speaker_title">Тестирање повратне информације Горњег микрофона</string>
 </resources>
