@@ -4,7 +4,7 @@
   <string name="abandon">Одбаци</string>
   <string name="accept">Прихвати</string>
   <string name="accept_or_deny">%1$s дељених албума %2$s са тобом.</string>
-  <string name="activity_not_found">Нема пронађених апликација извршење ове радње.</string>
+  <string name="activity_not_found">Нема пронађених апликација извршење ове радње].</string>
   <string name="add_account">Додај рачун</string>
   <string name="add_sharer">Додај члана</string>
   <string name="add_to_cloud_album">Додај у албум</string>
@@ -23,7 +23,7 @@
   <string name="add_to_secret_failed_message_with_count">"%2$s ставка не може бити додана у сакривени албум: %1$s."</string>
   <string name="add_to_secret_successfully_message">Додано у сакривени албум</string>
   <string name="add_to_secret_unfinished_message_with_count">Ставка није додата у сакривени албум: %1$s</string>
-  <string name="adding_recipients">Додавање примиоца"…</string>
+  <string name="adding_recipients"Додавање примиоца"…</string>
   <string name="adjust">Прилагоди</string>
   <string name="album_member">Члан албума %s</string>
   <string name="album_name">Назив албума</string>
@@ -95,7 +95,7 @@
   <string name="cleaning_cache">Чишћење меморије…</string>
   <string name="clear_thumbnail_cache">Очисти меморију минијатура</string>
   <string name="clear_thumbnail_cache_confirm">Сва меморија минијатура у Галерији ће бити избрисана.</string>
-  <string name="clear_thumbnail_cache_summary">Брисање минијатура кеш у Галерији</string>
+  <string name="clear_thumbnail_cache_summary</string>Брисање минијатура кеш у Галерији
   <string name="click_to_add_picture">Додирните за додавање слика</string>
   <string name="click_to_enter_camera">Покрени фотоапарат</string>
   <string name="click_top_right">Додирните ову икону</string>
