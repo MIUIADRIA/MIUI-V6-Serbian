@@ -95,7 +95,7 @@
   <string name="cleaning_cache">Чишћење меморије…</string>
   <string name="clear_thumbnail_cache">Очисти меморију минијатура</string>
   <string name="clear_thumbnail_cache_confirm">Сва меморија минијатура у Галерији ће бити избрисана.</string>
-  <string name="clear_thumbnail_cache_summary</string>Брисање минијатура кеш у Галерији
+  <string name="clear_thumbnail_cache_summary">Брисање минијатура у Галерији</string>
   <string name="click_to_add_picture">Додирните за додавање слика</string>
   <string name="click_to_enter_camera">Покрени фотоапарат</string>
   <string name="click_top_right">Додирните ову икону</string>
