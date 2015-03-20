@@ -1,67 +1,67 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Još %1$d koraka i postat ćete razvojni programer.</item>
-        <item quantity="one">Još %1$d korak i postat ćete razvojni programer.</item>
+        <item quantity="other">Још %1$d корака и постаће те развојни програмер.</item>
+        <item quantity="one">Још %1$d корак и постаће те развојни програмер.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Zaporka mora sadržavati barem ovoliko slova: %d.</item>
-        <item quantity="one">Zaporka mora sadržavati barem jedno slovo.</item>
+        <item quantity="other">Лозинка мора садржати барем оволико слова: %d.</item>
+        <item quantity="one">Лозинка мора садржати барем једно слово.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Zaporka mora sadržavati barem ovoliko malih slova: %d.</item>
-        <item quantity="one">Zaporka mora sadržavati barem jedno malo slovo.</item>
+        <item quantity="other">Лозинка мора садржати барем оволико малих слова: %d.</item>
+        <item quantity="one">Лозинка мора садржати барем једно мало слово.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Zaporka mora sadržavati barem ovoliko velikih slova: %d.</item>
-        <item quantity="one">Zaporka mora sadržavati barem jedno veliko slovo.</item>
+        <item quantity="other">Лозинка мора садржати барем оволико великих слова: %d.</item>
+        <item quantity="one">Лозинка мора садржати барем једно велико слово.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Zaporka mora sadržavati barem ovoliko brojčanih znamenki: %d.</item>
-        <item quantity="one">Zaporka mora sadržavati barem jednu brojčanu znamenku.</item>
+        <item quantity="other">Лозинка мора садржати барем оволико бројчаних цифара: %d.</item>
+        <item quantity="one">Лозинка мора садржати барем једну бројчану цифру.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Zaporka mora sadržavati barem ovoliko posebnih znakova: %d.</item>
-        <item quantity="one">Zaporka mora sadržavati barem jedan posebni simbol.</item>
+        <item quantity="other">Лозинка мора садржати барем оволико посебних знакова: %d.</item>
+        <item quantity="one">Лозинка мора садржати барем један посебан симбол.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Zaporka mora sadržavati barem ovoliko znakova koji nisu slova: %d.</item>
-        <item quantity="one">Zaporka mora sadržavati barem jedan znak koji nije slovo.</item>
+        <item quantity="other">Лозинка мора садржати барем оволико знакова који нису слова: %d.</item>
+        <item quantity="one">Лозинка мора садржати барем један знак који није слово.</item>
     </plurals>
    <plurals name="power_center_battery_day">
-        <item quantity="other">"%ddana "</item>
-        <item quantity="one">"%ddan "</item>
+        <item quantity="other">"%dдана "</item>
+        <item quantity="one">"%dдан "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%ds "</item>
         <item quantity="one">"%ds "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%dmin "</item>
-        <item quantity="one">"%dmin "</item>
+        <item quantity="other">"%dмин "</item>
+        <item quantity="one">"%dмин "</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Ovoliko aplikacija može čitati obavijesti: %d</item>
-        <item quantity="one">%d aplikacija može čitati obavijesti</item>
+        <item quantity="other">Оволико апликација може читати обавештења: %d</item>
+        <item quantity="one">%d апликација може читати обавештења</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Netočan PIN kôd SIM kartice; imate još ovoliko preostalih pokušaja: %d.</item>
-        <item quantity="one">Netočan PIN kôd SIM kartice; imate još %d pokušaj prije nego što budete morali kontaktirati svog mobilnog operatera da bi otključao vaš uređaj.</item>
+        <item quantity="other">Нетачан PIN код SIM картице; имате још оволико преосталих покушаја: %d.</item>
+        <item quantity="one">Нетачан PIN код SIM картице; имате још %d покушај пре него што будете морали контактирати свог мобилног оператера да би откључао ваш уређај.</item>
     </plurals>
     <plurals name="print_search_result_count_utterance">
-        <item quantity="other">Pronađen je sljedeći broj pisača: %1$s</item>
-        <item quantity="one">Pronađen je %1$s pisač</item>
+        <item quantity="other">Пронађен је следећи број писаца: %1$s</item>
+        <item quantity="one">Пронађен је %1$s писац</item>
     </plurals>
 	<plurals name="show_pho_countdown">
-        <item quantity="other">"Još %1$d koraka od ulaska u informacije o telefonu."</item>
-        <item quantity="one">"Još %1$d korak do ulaska u informacije o telefonu."</item>
+        <item quantity="other">"Још %1$d корака од уласка у информације у телефону."</item>
+        <item quantity="one">"Још %1$d корак до уласка до информација у телефону."</item>
      </plurals>
 	 <plurals name="show_cit_countdown">
-        <item quantity="other">Još %1$d koraka od ulaska u cit.</item>
-        <item quantity="one">Još %1$d korak do ulaska u cit.</item>
+        <item quantity="other">Још %1$d корака од уласка у цит.</item>
+        <item quantity="one">Још %1$d корак до уласка у цит.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Još %1$d koraka do ulaska u prijavljivanja grešaka.</item>
-        <item quantity="one">Još %1$d korak do ulaska u prijavljivanje grešaka.</item>
+        <item quantity="other">Још %1$d корака до уласка у пријављивање грешака.</item>
+        <item quantity="one">Још %1$d корак до улаза у пријављивање грешака.</item>
     </plurals>
 </resources> 
