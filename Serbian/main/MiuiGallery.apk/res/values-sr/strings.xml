@@ -23,7 +23,7 @@
   <string name="add_to_secret_failed_message_with_count">"%2$s ставка не може бити додана у сакривени албум: %1$s."</string>
   <string name="add_to_secret_successfully_message">Додано у сакривени албум</string>
   <string name="add_to_secret_unfinished_message_with_count">Ставка није додата у сакривени албум: %1$s</string>
-  <string name="adding_recipients"Додавање примиоца"…</string>
+  <string name="adding_recipients">Додавање примиоца…</string>
   <string name="adjust">Прилагоди</string>
   <string name="album_member">Члан албума %s</string>
   <string name="album_name">Назив албума</string>
