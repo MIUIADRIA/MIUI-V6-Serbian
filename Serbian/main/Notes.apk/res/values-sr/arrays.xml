@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="welcome_notes_content">
-        <item>"Sada možete jednostavno pribilježiti ideje, bilješke, misli pomoću
+        <item>"Сада можете једноставно прибележити идеје, Белешке, мисли помоћу
 "</item>
-        <item>"Priložite fotografije ili kontakte
+        <item>"Приложите фотографије или контакте
 "</item>
-        <item>"Prekrižite izvršene zadatke prstom
+        <item>"Прецртајте извршене обавезе прстом
 "</item>
-        <item>"I još puno velikih mogućnosti!
-  - Sinkronizacija s Mi Cloud
-  - Postavljanje podsjetnika
+        <item>"И још пуно других ствари!
+  - Синхронизација са Mi Cloud
+  - Постављање подсетника
  
-Ako želite saznati više, posjetite
+Ако желите сазнати више, посетите
 http://www.miui.com/forum.php?lang=1
 "</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Ime</item>
-        <item>Nadimak</item>
-        <item>Telefon</item>
-        <item>E-pošta</item>
-        <item>Organizacija</item>
+        <item>Име</item>
+        <item>Надимак</item>
+        <item>Телефон</item>
+        <item>E-пошта</item>
+        <item>Организација</item>
         <item>IM</item>
-        <item>SIP Telefon</item>
-        <item>Rođendan</item>
-        <item>Web-lokacija</item>
-        <item>Adresa</item>
-        <item>Bilješka</item>
+        <item>SIP Телефон</item>
+        <item>Рођендан</item>
+        <item>Web-локација</item>
+        <item>Адреса</item>
+        <item>Белешка</item>
     </string-array>   
     <string-array name="font_size_names">
-        <item>Maleno</item>
-        <item>Zadano</item>
-        <item>Veliko</item>
-        <item>Ogromno</item>
+        <item>Малено</item>
+        <item>Задато</item>
+        <item>Велико</item>
+        <item>Огромно</item>
     </string-array>
 </resources> 

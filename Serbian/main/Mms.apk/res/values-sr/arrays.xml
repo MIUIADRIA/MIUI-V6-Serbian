@@ -8,58 +8,58 @@
         <item>10x</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Ime</item>
-        <item>Nadimak</item>
-        <item>Telefon</item>
+        <item>Име</item>
+        <item>Надимак</item>
+        <item>Телефон</item>
         <item>E-pošta</item>
-        <item>Organizacija</item>
+        <item>Организација</item>
         <item>IM</item>
-        <item>SIP Telefon</item>
-        <item>Rođendan</item>
-        <item>Web stranica</item>
-        <item>Adresa</item>
-        <item>Bilješka</item>
+        <item>SIP телефон</item>
+        <item>Рођендан</item>
+        <item>Web страница</item>
+        <item>Адреса</item>
+        <item>Белешка</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Primljeno</item>
-        <item>Poslano</item>
+        <item>Примљено</item>
+        <item>Послато</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
-        <item>Mi Poruke</item>
+        <item>Mi Поруке</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
-        <item>Mi Poruke</item>
+        <item>Mi Поруке</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 sekunda</item>
-        <item>2 sekunde</item>
-        <item>3 sekunde</item>
-        <item>4 sekunde</item>
-        <item>5 sekundi</item>
-        <item>6 sekundi</item>
-        <item>7 sekundi</item>
-        <item>8 sekundi</item>
-        <item>9 sekundi</item>
-        <item>10 sekundi</item>
-        <item>Ostalo…</item>
+        <item>1 секунда</item>
+        <item>2 секунде</item>
+        <item>3 секунде</item>
+        <item>4 секунде</item>
+        <item>5 секунди</item>
+        <item>6 секунди</item>
+        <item>7 секунди</item>
+        <item>8 секунди</item>
+        <item>9 секунди</item>
+        <item>10 секунди</item>
+        <item>остало</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Uvijek</item>
-        <item>Samo u bešumnom načinu</item>
-        <item>Nikad</item>
+        <item>Увек</item>
+        <item>Само у бешумном начину</item>
+        <item>Никад</item>
     </string-array>
 	<string-array name="entries_sms_validity_period">
-        <item>Nije podešeno</item>
-        <item>1 sat</item>
-        <item>6 sati</item>
-        <item>12 sati</item>
-        <item>1 dan</item>
-        <item>Maksimalno</item>
+        <item>Није подешено</item>
+        <item>1 сат</item>
+        <item>6 сати</item>
+        <item>12 сати</item>
+        <item>1 дан</item>
+        <item>Максимално</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
-        <item>Maksimalno</item>
-        <item>2 dana</item>
+        <item>Максимално</item>
+        <item>2 дана</item>
     </string-array>
 </resources>
