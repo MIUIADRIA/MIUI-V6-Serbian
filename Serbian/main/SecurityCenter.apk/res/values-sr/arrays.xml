@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cache_sort_type">
-        <item>Veličina</item>
-        <item>Naziv</item>
+        <item>Величина</item>
+        <item>Назив</item>
     </string-array>
     <string-array name="large_file_sort_type">
-        <item>Veličina</item>
-        <item>Naziv</item>
+        <item>Величина</item>
+        <item>Назив</item>
     </string-array>
     <string-array name="installed_app_sort_type">
-        <item>Često korišteno</item>
-        <item>Veličina</item>
+        <item>Често коришћено</item>
+        <item>Величина</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Svakodnevno</item>
-        <item>Svaka 3 dana</item>
-        <item>Svakih 7 dana</item>
+        <item>Свакодневно</item>
+        <item>Свака 3 дана</item>
+        <item>Сваких 7 дана</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100MB</item>
@@ -24,56 +24,56 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-         <item>Pitaj uz obavijest</item>
-         <item>Očisti u pozadini</item>
-         <item>Prikaži obavijest nakon čišćenja</item>
+         <item>Питај уз обавештење</item>
+         <item>Очисти у позадини</item>
+         <item>Прикажи обавештење након чишћења</item>
      </string-array>
      <string-array name="auto_memory_clean">
-         <item>Za 1. minutu</item>
-         <item>Za 5. minuta</item>
-         <item>Za 10. minuta</item>
-         <item>Nikad</item>
+         <item>За 1. минут</item>
+         <item>За 5. минута</item>
+         <item>За 10. минута</item>
+         <item>Никад</item>
      </string-array>
      <string-array name="alarm_repeat_type">
-        <item>Jednom</item>
-        <item>Svakodnevno</item>
-        <item>Radnim danima</item>
-        <item>Vikendom</item>
-        <item>Prilagođeno</item>
+        <item>Једном</item>
+        <item>Свакодневно</item>
+        <item>Радним данима</item>
+        <item>Викендом</item>
+        <item>Прилагођено</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Jednom</item>
-        <item>Svakodnevno</item>
-        <item>Vikendom</item>
-        <item>Prilagođeno</item>
+        <item>Једном</item>
+        <item>Свакодневно</item>
+        <item>Викендом</item>
+        <item>Прилагођено</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Nakon 1 minute</item>
-        <item>Nakon 5 minuta</item>
-        <item>Nakon 10 minuta</item>
-        <item>Nikad</item>
+        <item>Након 1 минута</item>
+        <item>Након 5 минута</item>
+        <item>Након 10 минута</item>
+        <item>Никад</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
-        <item>15 sekundi</item>
-        <item>30 sekundi</item>
-        <item>1 minute</item>
-        <item>2 minute</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>Nikad</item>
+        <item>15 секунди</item>
+        <item>30 секунди</item>
+        <item>1 минут</item>
+        <item>2 минута</item>
+        <item>5 минута</item>
+        <item>10 минута</item>
+        <item>Никад</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Viskoke performanse</item>
-        <item>Balansirano</item>
+        <item>Високе перформансе</item>
+        <item>Балансирани</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
-        <item>Nikad ne vibriraj</item>
-        <item>Vibracija kad je zvuk utišan</item>
-        <item>Uvijek vibriraj</item>
+        <item>Никад не вибрирај</item>
+        <item>Вибрација кад је звук утишан</item>
+        <item>Увек вибрирај</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Isključi</item>
-        <item>Uključi</item>
-        <item>"Ne mijenjaj"</item>
+        <item>Искључи</item>
+        <item>Укључи</item>
+        <item>"Не мењај"</item>
     </string-array>
 </resources>
