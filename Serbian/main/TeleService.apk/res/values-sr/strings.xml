@@ -498,7 +498,7 @@
   <string name="no_voip">"Интернет позиви нису подржани"</string>
   <string name="no_volte">Није могуће направити IMS позив</string>
   <string name="no_vt_allowed">За уписивање видеозаписа искључите TTY начин</string>
-  <string name="no_wifi_available">Морате се повезати са ВЛАН мрежом за Интернет позиве (употребите подешавања Бежично повезивање & амп; мрежа).</string>
+  <string name="no_wifi_available">Морате се повезати са ВЛАН мрежом за Интернет позиве (употребите подешавања Бежично повезивање &amp; мрежа).</string>
   <string name="no_wifi_available_title">Нема WLAN везе</string>
   <string name="not_a_valid_port">Број прикрача требао би бити између 1000 и 65534.</string>
   <string name="not_allowed">Ваша SIM картица не допушта повезивање са овом мрежом.</string>
@@ -665,7 +665,7 @@
   <string name="requesting_sim_unlock">Захтев за SIM откључавање</string>
   <string name="requesting_sp_unlock">Захтев за SIM откључавање даваоца услуге…</string>
   <string name="requesting_unlock">Захтев за откључавање мреже</string>
-  <string name="reset_my_choice_hint">Можете променити свој задати рачун за Интернет позиве у Подешавања & гт; Подешавања позива & гт; Подешавања интернет позива & гт; Рачуни.</string>
+  <string name="reset_my_choice_hint">Можете променити свој задати рачун за Интернет позиве у Подешавања &gt; Подешавања позива &gt; Подешавања интернет позива &gt; Рачуни.</string>
   <string name="respond_via_sms_canned_response_1">Сада не могу разговарати. ста има?</string>
   <string name="respond_via_sms_canned_response_2">Позваћу вас одмах.</string>
   <string name="respond_via_sms_canned_response_3">Позваћу вас касније.</string>
