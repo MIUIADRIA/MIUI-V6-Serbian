@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="more_coupons_count">
-        <item quantity="other">Kupona %d</item>
-        <item quantity="one">1 kupon</item>
+        <item quantity="other">Купона %d</item>
+        <item quantity="one">1 Купон</item>
     </plurals>
     <plurals name="review_count">
-        <item quantity="other">Prikaži sve komentare %d</item>
-        <item quantity="one">Prikaži 1 komentar</item>
+        <item quantity="other">Прикажи све коментаре %d</item>
+        <item quantity="one">Прикажи 1 коментар</item>
     </plurals>
 </resources>

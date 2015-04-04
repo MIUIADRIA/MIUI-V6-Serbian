@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">Ažuriranja dostupna za ovoliko tema: %1$d</item>
-        <item quantity="one">Ažuriranje dostupno za %1$d temu</item>
+        <item quantity="other">Ажурирања доступна за оволико тема: %1$d</item>
+        <item quantity="one">Ажурирање доступно за %1$d тему</item>
     </plurals>
     <plurals name="theme_batch_has_update_text">
-        <item quantity="other">Ažuriranja dostupna za ovoliko tema: %1$d</item>
-        <item quantity="one">Ažuriranje dostupno za %1$d temu.</item>
+        <item quantity="other">Ажурирање доступно за оволико тема: %1$d</item>
+        <item quantity="one">Ажурирање доступно за %1$d тему.</item>
     </plurals>
 </resources>
