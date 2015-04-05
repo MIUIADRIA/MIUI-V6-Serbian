@@ -66,8 +66,8 @@
   <string name="go_on_download">Преузми</string>
   <string name="important_suggestion">Правила о приватности су промењена</string>
   <string name="install">Инсталирај</string>
+  <string name="install_failed">Ažuriranje nije uspjelo</string>
   <string name="install_file_explorer">Морате инсталирати апликацију Датотеке</string>
-  <string name="install_file_explorer">Morate instalirati aplikaciju Datoteke</string>
   <string name="install_local">Инсталирај локално</string>
   <string name="install_qq">"Набавите Tencent Weibo апликацију"</string>
   <string name="internal_build">Интерно</string>

@@ -126,7 +126,7 @@
   <string name="apn_http_port">Порт</string>
   <string name="apn_http_proxy">Прокси</string>
   <string name="apn_mcc">MЦЦ</string>
-  <string name="apn_mcc">МЦК</string>
+  <string name="apn_mms">MMS</string>
   <string name="apn_mms_port">MMS прикључак</string>
   <string name="apn_mms_proxy">MMS прокси</string>
   <string name="apn_mmsc">MMSC</string>

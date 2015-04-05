@@ -425,7 +425,6 @@
   <string name="traffic_saving_whitelist_btn_added">Додато</string>
   <string name="traffic_saving_whitelist_btn_remove">Уклони</string>
   <string name="traffic_saving_whitelist_btn_removed">Апликација уклоњена са пописа</string>
-  <string name="traffic_saving_whitelist_btn_removed">Aplikacija uklonjena s popisa</string>
   <string name="traffic_saving_whitelist_count">"Апликација без ограничења употребе података: %d"</string>
   <string name="traffic_saving_whitelist_no_app">Нема апликација</string>
   <string name="traffic_setting_app_count">Аплик.:%d</string>
