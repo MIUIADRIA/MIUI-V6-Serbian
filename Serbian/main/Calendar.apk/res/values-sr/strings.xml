@@ -29,6 +29,7 @@
   <string name="add_account">Додавање рачуна</string>
   <string name="add_calendar">Додај календар</string>
   <string name="add_topic_success">Додано \"%s\"</string>
+  <string name="add_topic_unsuccess">Dodavanje \"%s\" nije uspjelo</string>
   <string name="agenda_today">Данас, %1$s</string>
   <string name="agenda_tomorrow">Сутра, %1$s</string>
   <string name="agenda_view">Распоред</string>
@@ -281,6 +282,11 @@
   <string name="snooze_all_label">Одложи све</string>
   <string name="snooze_label">одложи</string>
   <string name="subscribe_all">Пријава</string>
+  <string name="sync_notice_cancel_toast_message">"Lokalni Kalendar neće biti sinkroniziran s Mi Cloudom"</string>
+  <string name="sync_notice_message">Niste sinkronizirali Kalendar s Mi Cloudom, dopustiti sinkr. sada?</string>
+  <string name="sync_notice_ok">Dopusti</string>
+  <string name="sync_notice_ok_toast_message">Lokalni Kalendar biti će sinkroniziran s Mi Cloudom</string>
+  <string name="sync_notice_title">Zahtjev za sinkr.</string>
   <string name="synced">синхронизовано</string>
   <string name="tab_local">Локално</string>
   <string name="tab_online">Препорука</string>

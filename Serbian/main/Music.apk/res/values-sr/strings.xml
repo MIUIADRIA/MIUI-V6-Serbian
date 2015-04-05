@@ -7,6 +7,7 @@
   <string name="action_item_add_to_new_playlist">Ново</string>
   <string name="action_item_delete">Избрисати</string>
   <string name="action_item_download">Преузимање</string>
+  <string name="action_item_favorite">Favorit</string>
   <string name="action_item_hide">Сакриј</string>
   <string name="action_item_remove">Уклони</string>
   <string name="action_item_send">Пошаљи</string>
@@ -62,6 +63,7 @@
   <string name="disallow_add_to_personal_radio">Лични Радио је читање само</string>
   <string name="done">Готово</string>
   <string name="download">Преузми</string>
+  <string name="download_all_song">Preuzmi sve</string>
   <string name="download_auto_after_favorite_summary">Аутоматски преузми песме које су вам фаворити</string>
   <string name="download_auto_after_favorite_title">Преузимање фаворита</string>
   <string name="download_auto_cancel">Преузимање фаворита укључено</string>
@@ -180,6 +182,7 @@
   <string name="modify_progress">Промена брзине помицања текста</string>
   <string name="modify_progress_helper">Помакните горе или доле за подешавање напретка текста</string>
   <string name="modify_song_info">Уређивање информација песме</string>
+  <string name="more_about_artist">Više o %s</string>
   <string name="music_browser_label">Музика</string>
   <string name="music_filter">Филтрирај аудио датотеке</string>
   <string name="music_quality">Квалитет музике</string>
@@ -215,6 +218,7 @@
   <string name="order_process_fail">"Није било могуће ауторизовати ваш рачун. Сачекајте неколико минута и покушајте поново."</string>
   <string name="payment_fail">Плаћање није успело</string>
   <string name="payment_success">Плаћање завршено</string>
+  <string name="play_all_song">Reproduciraj sve</string>
   <string name="playback_failed_no_title_by_bad_file">"Формат ове песме није подржан или датотека не постоји."</string>
   <string name="playlist_deleted_message">Листа песама избрисана.</string>
   <string name="playlist_renamed_message">Листа песама преименована.</string>
@@ -247,6 +251,7 @@
   <string name="send_to">Дели</string>
   <string name="send_to_title">Пошаљи (%1$s)</string>
   <string name="set_album_successful">Албум је постављен</string>
+  <string name="server_error">Pogreška poslužitelja. Pokušajte ponovo kasnije</string>
   <string name="set_as_ring">Постави за звук звона</string>
   <string name="set_id3_failed">"Не могу сачувати информације"</string>
   <string name="set_id3_successful">Информације песме су сачуване</string>

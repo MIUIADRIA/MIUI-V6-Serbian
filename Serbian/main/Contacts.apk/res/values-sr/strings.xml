@@ -29,6 +29,7 @@
   <string name="add_xiaomi_account_dialog_msg">Употребите ваш Mi Рачун за синхронизацију и израду сигурносних копија ваших контаката између више уређаја.</string>
   <string name="add_xiaomi_account_dialog_title">Одабир рачуна</string>
   <string name="aggregation_suggestion_edit_dialog_message">Желите ли да пребаците на уређивање изабраног контакта? Биће копиране информације које сте унели до сада.</string>
+  <string name="aggregation_suggestion_edit_dialog_title">Istoimeni</string>
   <string name="aggregation_suggestion_join_dialog_message">Желите ли да тренутни контакт придружите изабраном контакту?</string>
   <string name="all_list_empty">Нема контаката</string>
   <string name="all_resources">Све</string>
@@ -39,11 +40,8 @@
   <string name="auto_nickname">"Аутоматски"</string>
   <string name="auto_set_nickname">"Аутоматски"</string>
   <string name="batch_delete">Избриши серију</string>
-  <string name="batch_delete_msg">Избрисати контакте %d?</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth веза је прекинута</string>
   <string name="blurbJoinContactDataWith">Изаберите контакт који желите да придружите контакту %s.</string>
-  <string name="btn_delete_multi_contacts">Избриши %d</string>
-  <string name="btn_delete_one_contact">"Избриши контакт"</string>
   <string name="btn_rotation">Ротација</string>
   <string name="btn_split_contact">Одвоји</string>
   <string name="button_cancel_scan">"Заустави"</string>
@@ -54,7 +52,6 @@
   <string name="callBack">Узврати позив</string>
   <string name="callDetailTitle">Детаљи позива</string>
   <string name="callDetailsDurationFormat" formatted="false">%s мин %s сек</string>
-  <string name="callNoAnswerTimeFormat">Звони %s пута</string>
   <string name="callShortcutActivityTitle">Одаберите број за позив</string>
   <string name="call_assistant">Позови %s</string>
   <string name="call_callback">Позови за повратни позив</string>
@@ -160,7 +157,6 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Избрисати сву историју позива?</string>
   <string name="confirm_delete_selected_all_call_logs">Избрисати сву историју позива?</string>
-  <string name="confirm_delete_sim_entry_miui">Избрисати %d контаката са SIM картице?</string>
   <string name="confirm_export_message">"Ваш попис контаката биће извезен у датотеку: %s."</string>
   <string name="confirm_export_title">"Извези котакте?"</string>
   <string name="connections">Везе</string>
@@ -348,8 +344,6 @@
   <string name="event_edit_field_hint_text">Датум</string>
   <string name="export_sim_contact_finish">Извоз је завршен</string>
   <string name="export_sim_contact_finish_failure">Премештено: %1$d Преостало: %2$d</string>
-  <string name="export_sim_contact_finish_success">Број копираних контаката: %d</string>
-  <string name="export_sim_contacts_dialog_message">Ваша сим картица може сачувати оволико контаката: %d</string>
   <string name="export_to_sdcard">Извези у меморију</string>
   <string name="export_to_sim">Извоз на SIM картицу</string>
   <string name="export_to_sim1">Извоз на SIM картицу 1</string>
@@ -383,6 +377,7 @@
   <string name="favoritesFrequentContacted">Често контактирани</string>
   <string name="favorites_list_empty">Нема фаворита</string>
   <string name="firewall_setting">Листа блокираних</string>
+  <string name="followed_yellowpage">Provjereni Računi</string>
   <string name="foundTooManyContacts">Пронађено је више од %d.</string>
   <string name="frequentList">Чести</string>
   <string name="from_account_format">%1$s</string>
@@ -537,7 +532,8 @@
   <string name="menu_new_contact_action_bar">Додај контакт</string>
   <string name="menu_new_favorite_action_bar">"Додај уомиљене"</string>
   <string name="menu_new_group_action_bar">Додај групу</string>
-  <string name="menu_redirect_calls_to_vm">Сви позиви у говорну пошту</string>
+  <string name="menu_not_redirect_calls_to_vm">Govorna pošta nije u upotrebi</string>
+  <string name="menu_redirect_calls_to_vm">Svi pozivi na govornu poštu</string>
   <string name="menu_removeStar">Уклони из омиљених контаката</string>
   <string name="menu_search">Претражи</string>
   <string name="menu_select_all">Изабери све</string>
@@ -682,6 +678,7 @@
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Телефон</string>
+  <string name="phone_call_type_voip">VOIP</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">"Primarni"</string>
   <string name="photoPickerNotFoundText">у телефону нема доступних слика.</string>
@@ -772,6 +769,7 @@
   <string name="quickcontact_missing_app">Није пронађена апликација за обраду ове радње</string>
   <string name="quit_dialog_confirm_title">Нисте спојили ни један контакт</string>
   <string name="readOnlyContactDeleteConfirmation">Овај контакт садржи информације из више налога. Информације из налога који су само за читање неће бити избрисане са листе контаката, него скривене.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" sadrži informacije iz više računa. Informacije s računa samo za čitanje će biti sakrivene u vašem popisu kontakata.</string>
   <string name="readOnlyContactWarning">Контакте у оквиру налога који су само за читање не можете да избришете, али можете да их сакријете на листи контаката.</string>
   <string name="readingSimContacts">Читање SIM картице…</string>
   <string name="reading_vcard_canceled_title">Отказано читање података са vCard датотеке</string>
@@ -870,7 +868,6 @@
   <string name="resource_download">Преузимање</string>
   <string name="resource_download_notification_content">Додирните за предлог</string>
   <string name="resource_download_notification_title_many">Преузета тема: %1$s</string>
-  <string name="resource_download_notification_title_one">Тема преузета</string>
   <string name="resource_download_trial">Испробајте бесплатно</string>
   <string name="resource_downloaded_title">Преузети елементи</string>
   <string name="resource_downloading">Преузимам…</string>
@@ -947,6 +944,7 @@
   <string name="resource_share_text">Ево теме која би вам се могла свидети: %1$s! Повезница %2$s</string>
   <string name="resource_share_title">Подели</string>
   <string name="resource_system_title">Ресурси система</string>
+  <string name="resource_tab_to_view">Dodirnite za pregled.</string>
   <string name="resource_tip_select_none">Није одабрано</string>
   <string name="resource_title">Детаљи</string>
   <string name="resource_title_category">Категорија</string>
@@ -1084,7 +1082,6 @@
   <string name="splitConfirmation_title">Раздвојити контакт?</string>
   <string name="starredList">Са звездицом</string>
   <string name="starred_contacts">"Омиљени"</string>
-  <string name="starred_yellowpage">Омиљени директоријум</string>
   <string name="status_available">Доступан/на</string>
   <string name="status_away">Одсутан/на</string>
   <string name="status_busy">Заузет/а</string>
@@ -1162,11 +1159,7 @@
   <string name="yellowPageNavigationLabel">Именик</string>
   <string name="yellowpage_navigation_clear_search_history">Избриши историју</string>
   <string name="yellowpage_navigation_more_items">Више</string>
-  <string name="yellowpage_navigation_network_location_enable">Допусти</string>
-  <string name="yellowpage_navigation_network_location_enable_later">Не сада</string>
-  <string name="yellowpage_navigation_network_location_enabled">Услуга је отворена,можете је искључити у поставкама локације</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Побољшајте резултате претраживања директоријуму приступ подацима о Вашој локацији.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Приступ локацији</string>
+  <string name="yellowpage_navigation_more_items_title">Više usluga</string>
   <string name="yellowpage_navigation_no_content">"Ништа није пронађено"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Град</string>
   <string name="yellowpage_navigation_search_history">Историја</string>

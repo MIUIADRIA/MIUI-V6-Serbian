@@ -8,9 +8,6 @@
   <string name="input_method_category">"Одаберите задату тастатуру коју ће те користити при писању порука e-поште, белешки, и свуда другде. Такође можете инсталирати друге тастатуре касније."</string>
   <string name="input_method_setting">Одаберите задату тастатуру</string>
   <string name="install_preinstall_app">Учитавање апликација…</string>
-  <string name="locale_picker_confirm_dialog_desc">"Подесити %s као ваше место?"</string>
-  <string name="locale_picker_confirm_dialog_title">Одаберите ваше место</string>
-  <string name="locale_picker_desc">"Ако желите касније променити ваше место, мораће те да ресетујете уређај на фабричке поставке."</string>
   <string name="locale_picker_title">Одаберите ваше место</string>
   <string name="miui_privacy_policy_no_network">"Немате мрежну везу. Погледајте правила о приватности на %s"</string>
   <string name="miui_terms_no_network">"Немате мрежну везу. Погледајте услове пружања услуге на %s"</string>
@@ -43,6 +40,7 @@
   <string name="sim_redetection">Провери поново</string>
   <string name="summary_not_set">Није постављено</string>
   <string name="summary_sim_card">Картица %1$d%2$s</string>
+  <string name="summary_sim_card_with_operator">Картица %1$d: %2$s</string>
   <string name="terms_of_use">Услови и Одредбе</string>
   <string name="terms_of_use_label">"Ваша приватност нама је врло важна. Прочитајте наше услове коришћења и Правила о Приватности да би разумели које информације прикупљамо, како ће мо их користити и који су вам избори доступни.
 

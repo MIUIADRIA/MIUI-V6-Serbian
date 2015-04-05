@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Складиште контаката</string>
+  <string name="call_log_provider_label">Zapis poziva</string>
+  <string name="create_contact">Novi kontakt</string>
   <string name="debug_dump_database_message">Управо ћете 1) направити копију базе података која садржи све информације у вези са контактима и целокупну евиденцију позива у интерној меморији и 2) послати је имејлом. Не заборавите да избришете копију чим је будете копирали са уређаја или чим будете примили имејл.</string>
   <string name="debug_dump_delete_button">Избриши одмах</string>
   <string name="debug_dump_email_body">У прилогу је база података са мојим контактима и свим информацијама о њима. Рукујте пажљиво.</string>
@@ -9,9 +11,16 @@
   <string name="debug_dump_start_button">Покрени</string>
   <string name="debug_dump_title">Копирање базе података са контактима</string>
   <string name="default_directory">Контакти</string>
+  <string name="edit_contact">Dodaj kontaktu</string>
   <string name="local_invisible_directory">Други</string>
+  <string name="pound_search_tip">Unesite broj nakon # za traženje kontakta</string>
   <string name="provider_label">Контакти</string>
+  <string name="read_write_all_voicemail_description">Aplikaciji omogućuje pohranjivanje i dohvaćanje svih poruka govorne pošte kojoj ovaj uređaj može pristupati.</string>
+  <string name="read_write_all_voicemail_label">Pristup svoj govornoj pošti</string>
+  <string name="search_the_yellowpage">Pretraži imenik</string>
+  <string name="send_sms">Pošalji poruku</string>
   <string name="sharedUserLabel">Android Core апликације</string>
+  <string name="third_party_delete_contact_info">"\"%s\" pokušava izbrisati vaše kontakte. Ovu radnju ne mogu provoditi aplikacije drugih proizvođača. Stoga, za brisanje kontakata, koristite MIUI aplikaciju Kontakti."</string>
   <string name="upgrade_msg">Надограђивање базе података о контактима.</string>
   <string name="upgrade_out_of_memory_notification_text">Додирните да бисте довршили надоградњу.</string>
   <string name="upgrade_out_of_memory_notification_ticker">За ажурирање контаката потребно је више меморије.</string>

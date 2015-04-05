@@ -42,6 +42,7 @@
   <string name="batch_deleting_message_progress_message">Брисање одабране поруке (a)</string>
   <string name="batch_deleting_progress_message">Брисање одабраних порука(a)</string>
   <string name="bcc_label">"Bcc: "</string>
+  <string name="block_messaging_entry_title">Blokirani SMS-i</string>
   <string name="bookmark">Фаворити</string>
   <string name="bookmark_confirm_delete_message">Одабрана порука ће бити уклоњена из фаворита</string>
   <string name="bookmark_empty">Нема ознака</string>
@@ -78,6 +79,8 @@
   <string name="confirm_no_block_title">"не блокирати број и вратити све поруке?"</string>
   <string name="confirm_rate_limit">Шаље се велики број мултимедијалних порука. Је ли то у реду?</string>
   <string name="confirm_restore_all_title">Вратити све поруке са овог броја？</string>
+  <string name="confirm_restore_checkbox">Deblokiraj Poruke poslane s tog broja</string>
+  <string name="confirm_restore_message">Vratiti odabrane Poruke?</string>
   <string name="confirm_restore_positive">Враћање</string>
   <string name="confirm_restore_title">Вратити све одабране поруке?</string>
   <string name="confirm_send_mms">Један од ваших примаоца укључује и е-маил адресу. Ова порука ће бити послата као ММС, што може довести до додатних трошкова.</string>
@@ -218,10 +221,13 @@
   <string name="menu_view_contact">Прикажи контакт</string>
   <string name="menu_yellowpage">Прикажи %s</string>
   <string name="message_class_label">"Класа поруке: "</string>
+  <string name="message_contact">Kontakt:</string>
   <string name="message_details_title">Појединости поруке</string>
   <string name="message_download_failed_title">Порука није преузета</string>
+  <string name="message_expired">Isteklo</string>
   <string name="message_failed">Није успело</string>
   <string name="message_failed_body">Додирните за преглед поруке и покушајте поново.</string>
+  <string name="message_number">Tel. broj:</string>
   <string name="message_pending">Слање</string>
   <string name="message_queued">Тренутачно нисмо у могућности послати вашу поруку. Порука ће бити послата кад услуга постане доступна.</string>
   <string name="message_readed">Прочитано</string>
@@ -301,9 +307,10 @@
   <string name="notification_multiple_title">Нове поруке</string>
   <string name="number_add_hint">Унесите број за додавање</string>
   <string name="open_url_with_web">Допустити отварање URL-a с Webom?</string>
+  <string name="over_max_mms_size">MMS poruka je prevelika.</string>
   <string name="overwrite_edited_content">Уређени садржај ће бити избрисан, наставити?</string>
   <string name="phrase_confirm_delete_message">Одабрани излаз ће бити избрисан</string>
-  <string name="phrase_empty">Нема излаза</string>
+  <string name="phrase_empty">Nema izraza</string>
   <string name="phrase_from">Шаље %1s</string>
   <string name="phrase_list_title" formatted="false">израза (%1$d)</string>
   <string name="pick_too_many_recipients">Превише доданих примиоца</string>
@@ -334,6 +341,7 @@
   <string name="pref_summary_notification_body_enabled_when_secure">"Не можете прегледати поруке у гост начину рада"</string>
   <string name="pref_summary_off_system_mms_priority">Користите друге апликације за слаље и примање MMS-a</string>
   <string name="pref_summary_on_system_mms_priority">"Постави MIUI Поруке апликацију као задату апликацију за слање и примање MMS-a"</string>
+  <string name="pref_summary_send_delivery_reports">Pošalji izvješća o isporuci za primljene poruke</string>
   <string name="pref_summary_show_recent_contacts">Покажи попис недавних контаката код писања нове поруке</string>
   <string name="pref_summary_wake_up_screen">Упали екран кад стигне нова порука</string>
   <string name="pref_system_title">Систем</string>
@@ -355,9 +363,11 @@
   <string name="pref_title_notification_body_enabled">Прикажи обавештење на закљ. екрану</string>
   <string name="pref_title_ringtone_repeat">Број понављања тона обавештења</string>
   <string name="pref_title_ringtone_repeat_summary">"Број понављања тона обавештења код SMS-a док је екран закључан: "</string>
+  <string name="pref_title_send_delivery_reports">Pošalji izvješće o isporuci</string>
   <string name="pref_title_show_recent_contacts">Недавни контакти</string>
   <string name="pref_title_sms_delete">Ограничење текста поруке</string>
   <string name="pref_title_sms_validity_period">Време важења SMS-a</string>
+  <string name="pref_title_storage_status">Status pohrane poruka</string>
   <string name="pref_title_system_mms_priority">Постави као задано</string>
   <string name="pref_title_vcard">Пошаљи кроз vCard</string>
   <string name="pref_title_wake_up_screen">Буђење екрана</string>
@@ -382,6 +392,7 @@
   <string name="received_label">"Примљено: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Примиоц: "</string>
+  <string name="recipients_over_size">Previše primatelja.</string>
   <string name="recording_failed">"Не могу снимити"</string>
   <string name="refill_now">Надоплати сада</string>
   <string name="refresh">Освежи</string>
@@ -422,6 +433,7 @@
   <string name="secs">сек</string>
   <string name="select_audio">Одабери звук</string>
   <string name="select_bottom_text">Текст при дну</string>
+  <string name="select_copy_text">Odaberite i kopirajte tekst poruke</string>
   <string name="select_different_media">Одаберите други назив: %1$s.</string>
   <string name="select_link_title">Одабир радњe</string>
   <string name="select_local_audio">Одабери локални звукk</string>
@@ -486,6 +498,12 @@
   <string name="stick">означи</string>
   <string name="stick_conversation">Означи тренутни разговор</string>
   <string name="sticked_conversation">разговор већ означен</string>
+  <string name="storage_dialog_attachments">MMS privitci:</string>
+  <string name="storage_dialog_available_space">Dostupan prostor:</string>
+  <string name="storage_dialog_database">Baza podataka:</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
+  <string name="storage_dialog_mms_size">Veličina MMS-a:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Ограничавање порука</string>
   <string name="storage_limits_message">Ограничити број порука које спремате по разговору?</string>
   <string name="storage_limits_setting">Постави ограничења</string>

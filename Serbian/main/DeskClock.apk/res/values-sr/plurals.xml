@@ -12,12 +12,16 @@
         <item quantity="other">Одложи за %d мин.</item>
         <item quantity="one">Одложи за %d мин.</item>
     </plurals>
-    <plurals name="timer_message_with_minutes">
-        <item quantity="other">%1$d мин.</item>
-        <item quantity="one">%1$d минут</item>
+     <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d caти "</item>
+        <item quantity="one">"%1$d caт "</item>
     </plurals>
-    <plurals name="timer_message_with_seconds">
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d мин. "</item>
+        <item quantity="one">"%1$d мин. "</item>
+    </plurals>
+    <plurals name="timer_message_second">
         <item quantity="other">%1$d сек.</item>
-        <item quantity="one">%1$d секунда</item>
+        <item quantity="one">%1$d сек.</item>
     </plurals>
 </resources> 

@@ -438,6 +438,7 @@
   <string name="msim_default_setting">Задате поставке</string>
   <string name="msim_enable_sim">Укључи</string>
   <string name="msim_general_setting">Поставке</string>
+  <string name="msim_has_been_disabled">(Onemogućeno)</string>
   <string name="msim_info_editor_name">Уреди назив SIM картице</string>
   <string name="msim_info_editor_number">Уреди број SIM картице</string>
   <string name="msim_info_editor_set_name_error">"Не могу сачувати име."</string>
@@ -858,6 +859,7 @@
   <string name="voicemail_settings_number_hint">Унесите број говорне порука</string>
   <string name="voicemail_settings_number_label">Број говорнр поште</string>
   <string name="voicemail_settings_number_title">Број говорнр поште</string>
+  <string name="voip_setting">VOIP postavke</string>
   <string name="wrong_password">Лозинка коју сте унели није тачна</string>
   <string name="xdivert_button">X-Divert поставке</string>
   <string name="xdivert_setting">X-Divert поставке</string>

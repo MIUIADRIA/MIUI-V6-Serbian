@@ -81,6 +81,7 @@
   <string name="account_setup_account_type_headline">Врста рачуна</string>
   <string name="account_setup_account_type_instructions">Која је ово врста рачуна?</string>
   <string name="account_setup_account_type_title">	Постављање рачуна</string>
+  <string name="account_setup_address_label">E-pošta</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Потврдите тачност корисничког имена, лозинке, и поставке рачуна.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Проблем са постављањем рачуна</string>
   <string name="account_setup_basics_email_label">Адреса e-pošte</string>
@@ -91,6 +92,7 @@
   <string name="account_setup_check_settings_check_incoming_msg">Проверавање поставки сервера…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Проверавање поставки SMPT-a…</string>
   <string name="account_setup_check_settings_retr_info_msg">Учитавање податка о рачуну…</string>
+  <string name="account_setup_correct_address_tips">Unesite adresu e-pošte</string>
   <string name="account_setup_creating_account_msg">Израда рачуна…</string>
   <string name="account_setup_deleting_account_msg">Брисање рачуна…</string>
   <string name="account_setup_exchange_certificate_title">Сертификат клијента</string>
@@ -252,8 +254,7 @@
   <string name="auth_error_notification_text">Додирните за уређивање поставки рачуна за %s</string>
   <string name="auth_error_notification_title">Грешка провере аутентичности</string>
   <string name="authority_email_provider">com.android.email.provider</string>
-  <string name="auto_advance_help_title">"Постављање аутоматског прелаза на следеће
-(након брисања итд.)"</string>
+  <string name="auto_advance_help_title">"Након брисања иди …</string>
   <string name="auto_advance_label">Аутоматски пређи на следеће</string>
   <string name="auto_advance_summary">Одабероте који ће се екран  приказати након брисања поруке</string>
   <string name="auto_sync_off">Аутоматска синхронизација није укључена.</string>
@@ -676,6 +677,7 @@
   <string name="outbox_alert_certificate_error">Одступање E-mail сертификата, ажурирајте га</string>
   <string name="outbox_alert_description_auth_error">Грешка провере аутентичности с сервера током излазне синхронизације</string>
   <string name="outbox_alert_description_http_error">HTTP Грешка током излазне синхронизације</string>
+  <string name="outbox_alert_description_insufficient_storage_error">Nedovoljno prostora pohrane na poslužitelju e-pošte</string>
   <string name="outbox_alert_description_provision_error">Грешка Одредаба с сервера током излазне синхронизације</string>
   <string name="outbox_alert_description_sent_failed">"Величина прилога прелази ограниченје приматеља."</string>
   <string name="outbox_alert_duplicate_click">"Још синхронизујем…"</string>
@@ -816,6 +818,8 @@
   <string name="recipient_needed">Додајте барем 1 приматеља.</string>
   <string name="recipient_needed_title">Упозори</string>
   <string name="recipient_null_dialog_title">Упозорење</string>
+  <string name="reduce_the_receiving_frequencye_summary">Donja stopa sinkr. e-pošte u podešeno vrijeme</string>
+  <string name="reduce_the_receiving_frequencye_title">Donja stopa sinkr. e-pošte</string>
   <string name="refresh">освежи</string>
   <string name="refreshing">Освежавам</string>
   <string name="refreshing_done">Завршено</string>
@@ -844,8 +848,11 @@
   <string name="save_attachment">Спреми</string>
   <string name="save_draft">Спреми скицу</string>
   <string name="save_draft_failed">"Не могу спремити скицу"</string>
+  <string name="save_power_summary">Ušteda baterije u podešeno vrijeme</string>
+  <string name="save_power_title">Ušteda baterije</string>
   <string name="saved">Спремљено,  %s</string>
   <string name="saving">Спремање</string>
+  <string name="sdcard_cannot_use">SD kartica ne može se koristiti</string>
   <string name="search_attachment">Претражи</string>
   <string name="search_hint">Претражи e-poštu</string>
   <string name="search_result">Резултати</string>
@@ -881,6 +888,7 @@
   <string name="ser_resp_err_map_connect_err">Грешка мрежне везе. покушајте другу мрежу</string>
   <string name="ser_resp_err_map_nouser">"Корисник не постоји"</string>
   <string name="ser_resp_err_map_or">или</string>
+  <string name="ser_resp_err_map_pserr">Netočno korisničko ime ili zaporka</string>
   <string name="ser_resp_err_map_serclosed">Сервер је затворен</string>
   <string name="ser_resp_err_map_ssl">"Одаберите 'SSL/TLS (Прихвати све сертификате)' у 'Врсту сигурности'"</string>
   <string name="set_network">Постављање мреже</string>
@@ -957,6 +965,13 @@
   <string name="unsent_messages_in_outbox">Број непосланих порука у мапи %2$s: %1$s</string>
   <string name="updated_at">Освежено у: %1$s</string>
   <string name="updated_just_now">Osvježeno upravo sada</string>
+  <string name="upload_log">Pošalji dnevnike</string>
+  <string name="upload_log_failed">Slanje dnevnika nije uspjelo</string>
+  <string name="upload_log_no">Odustani</string>
+  <string name="upload_log_success">Dnevnici uspješno poslani</string>
+  <string name="upload_log_title">Poslati dnevnike dijagnostike?</string>
+  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+  <string name="uploading_logs">Slanje dnevnika</string>
   <string name="validation_failed_prompt">Провера исправности није успела. Проверите поставке сервера %s</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -980,5 +995,6 @@
   <string name="widget_other_views">остало</string>
   <string name="wrong_password">Лозинка коју сте унели није тачна</string>
   <string name="yes">Да</string>
+  <string name="you_are_in_mobile_network">Trenutno koristite mobilnu podatkovnu vezu, obrtite pozornost na uporabu podataka!</string>
   <string name="zip_viewer_no_file">Нема датотека</string>
 </resources>

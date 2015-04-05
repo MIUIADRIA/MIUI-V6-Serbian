@@ -34,6 +34,16 @@
          <item>За 10. минута</item>
          <item>Никад</item>
      </string-array>
+     <string-array name="preferred_app_entries">
+         <item>Pokretač</item>
+         <item>Biranje</item>
+         <item>Poruke</item>
+         <item>Preglednik</item>
+         <item>Kamera</item>
+         <item>Galerija</item>
+         <item>Glazba</item>
+         <item>E-pošta</item>
+     </string-array>
      <string-array name="alarm_repeat_type">
         <item>Једном</item>
         <item>Свакодневно</item>

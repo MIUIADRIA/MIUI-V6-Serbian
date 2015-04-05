@@ -2,6 +2,8 @@
 <resources>
   <string name="account_bind_prompt">Премештам корисничне податке… 
 То може потрајати неколико минута</string>
+  <string name="action_mode_deselect_all">Poništi odabir</string>
+  <string name="action_mode_select_all">Odaberi sve</string>
   <string name="add_task">Додај задатак</string>
   <string name="adding_upload_tasks">Учитавам задатке…</string>
   <string name="already_signin_description">"Већ сте се пријавили данас."</string>
@@ -14,6 +16,7 @@
   <string name="binded_accout_description">"Ваш Mi Рачун је Синхронизован са KuaiPan.Сада можете користити свој Mi Рачун за приступ подацима које сте сачували на KuaiPan."</string>
   <string name="binded_accout_title">Рачун синхронизован</string>
   <string name="byteShort">B</string>
+  <string name="can_not_send_with_too_many">"Ne mogu poslati toliko puno stavaka"</string>
   <string name="cancel">Одустани</string>
   <string name="category">Категорије</string>
   <string name="category_all">Све</string>
@@ -133,6 +136,7 @@
   <string name="kuaipan_create_shortcut_success">Пречица направљена</string>
   <string name="kuaipan_data_formater_with_year">месец M дан d година YYYY</string>
   <string name="kuaipan_data_formater_without_year">M месец d дан</string>
+  <string name="kuaipan_delete_guide_des">Izbrisati vodič?</string>
   <string name="kuaipan_delete_success">Слика избрисана</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Недовољно простора</string>

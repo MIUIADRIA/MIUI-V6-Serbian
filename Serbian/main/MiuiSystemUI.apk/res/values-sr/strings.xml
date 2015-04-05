@@ -117,6 +117,9 @@
   <string name="mdb_restore_mode">Начин рада обнове</string>
   <string name="mdb_usb_disconnection_exit">"USB није повезан"</string>
   <string name="mount_storage">"Да"</string>
+  <string name="media_projection_action_text">Započni</string>
+  <string name="media_projection_dialog_text">"%s će početi snimanje svega što se prikazuje na zaslonu."</string>
+  <string name="media_projection_remember_text">"Ne prikazuj ponovo"</string>
   <string name="no_notification_tips">Нема обавештења</string>
   <string name="notification_otg_gamestick_in">Играчи контролер је повезан</string>
   <string name="notification_otg_gamestick_out">Играчи контролер није повезан</string>

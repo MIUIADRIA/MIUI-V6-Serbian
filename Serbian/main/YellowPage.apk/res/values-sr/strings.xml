@@ -12,6 +12,7 @@
   <string name="account_updating_device_failed">"Не могу се пријавити"</string>
   <string name="account_verify_password">"Користите ову услугу на другом уређају. Ради сигурности, морате потврдити свој Mi Рачун на овом уређају."</string>
   <string name="account_yellowpage_favorite">Фаворити</string>
+  <string name="account_yellowpage_followed">Provjereni Računi</string>
   <string name="account_yellowpage_recent">Прикажи историју</string>
   <string name="agree">Слажем се</string>
   <string name="all_resources">све</string>
@@ -72,7 +73,6 @@
   <string name="download_failed_server">Преузимање неуспешно, покушајте поново касније</string>
   <string name="download_failed_space">Преузимање неуспешно, недовољно простора</string>
   <string name="download_failed_storage">Преузимање неуспешно, проверите вашу SD картицу</string>
-  <string name="download_preview_failed">"Не могу учитати преглед"</string>
   <string name="downloading">Преузимање</string>
   <string name="enable_now">Омогући сада</string>
   <string name="exapress_save_address_to_contact">Спреми адресу у контакту</string>
@@ -135,7 +135,6 @@
   <string name="express_inquiry_untrace_success">Није праћено</string>
   <string name="express_no_address">Празно</string>
   <string name="express_no_order">Нема поруџбина</string>
-  <string name="express_no_order_info">Нема информација о поруџбини</string>
   <string name="express_order_confirmation">Потврда поруџбине</string>
   <string name="express_order_created_time">Време поруџбине</string>
   <string name="express_order_detail">Детаљи</string>
@@ -175,6 +174,7 @@
   <string name="express_submit_order">Пошаљи</string>
   <string name="express_track_order">Прати</string>
   <string name="express_tracking_number">Број за праћење</string>
+  <string name="express_urge_order">Ping</string>
   <string name="express_view_order">Приказ поруџбина</string>
   <string name="express_view_status">Прати</string>
   <string name="expresss_inquiry_all_logistics">Све</string>
@@ -222,6 +222,7 @@
   <string name="menu_delete_call_log">Избрисати попис позива</string>
   <string name="menu_delete_one">Уклони ставку са пописа позива</string>
   <string name="menu_enroll_in_yellow_page">Пријавите се за Mi жуте странице</string>
+  <string name="menu_follow_yellow_page">Prati</string>
   <string name="menu_remove_black_list">Уклонити са листе забрањених</string>
   <string name="menu_remove_from_favorite">Уклони из фаворита</string>
   <string name="menu_save_contact">Спреми број контакту</string>
@@ -258,6 +259,7 @@
   <string name="order_product_name_label">"Нема производа: "</string>
   <string name="order_status">%s</string>
   <string name="order_status_label">Статус поруџбине: %s</string>
+  <string name="order_type_recharge">Nadoplata</string>
   <string name="packages_no_package">Нема препоручених пакета</string>
   <string name="packages_pay">купи</string>
   <string name="packages_pay_confirm">Потврди праћење</string>
@@ -290,6 +292,7 @@
   <string name="recharge_pay">Надоплатити сад</string>
   <string name="recharge_pay_hint">Prowided by Xiaomi</string>
   <string name="recharge_pay_hint_license">Обавештење надоплате</string>
+  <string name="recharge_payment_error">Narudžba zatvorena ili je došlo do pogreške</string>
   <string name="recharge_payment_result_failed_summary">Покушајте поново</string>
   <string name="recharge_payment_result_failed_title">Надоплата неуспела</string>
   <string name="recharge_payment_result_ok_summary">Потврдите да се тај износ неће одразити на ваш рачун.</string>
@@ -418,6 +421,7 @@
   <string name="resource_mute">Ништа</string>
   <string name="resource_my">Локално</string>
   <string name="resource_no_result">"Ништа није пронађено"</string>
+  <string name="resource_notification_default">Obavijesti</string>
   <string name="resource_on_trial">Испробавам: %1$s</string>
   <string name="resource_online">Мрежно %1$s</string>
   <string name="resource_pack_confirm">"Иако сте већ купили% 1 $ д компоненте ове теме, још је увек јефтиније ако купите цео пакет."</string>
@@ -507,4 +511,10 @@
   <string name="voicemail">Говорна пошта</string>
   <string name="web_permission_message">%1$s Треба погледати ваш %2$s да правилно функционише.</string>
   <string name="yellow_page_website">Службена страница</string>
+  <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Ne sada</string>
+  <string name="yellowpage_navigation_network_location_enabled">Pristup lokaciji je uključen. Možetem isključiti ovu značajku u bilo kojem trenutku u Postavkama.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Poboljšajte rezultate pretraživanja dopuštajući Žutim Stranicama pristup podacima o Vašoj lokaciji.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Pristup lokaciji</string>
+  <string name="yuan">Yuan</string>
 </resources>

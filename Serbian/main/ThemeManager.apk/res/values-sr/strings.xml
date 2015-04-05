@@ -64,6 +64,7 @@
   <string name="gift_purchased_list_empty_with_received_list_empty">Нема поклона.</string>
   <string name="gift_received_endnote">Шаље: %1$s (примљено %2$s)</string>
   <string name="gift_received_list_empty">"Немате примљених поклона."</string>
+  <string name="gift_received_notification_title">%s vam je poklonio temu.</string>
   <string name="gift_share">Подели</string>
   <string name="gift_transfer">Пренеси</string>
   <string name="gift_unbind_fail_dlg_title">"Не могу креирати код"</string>
@@ -158,7 +159,6 @@
   <string name="resource_download">Преузимање</string>
   <string name="resource_download_notification_content">Додирните за преглед.</string>
   <string name="resource_download_notification_title_many">Преузето Тема: %1$s</string>
-  <string name="resource_download_notification_title_one">Тема преузета</string>
   <string name="resource_download_trial">Испробајте бесплатно</string>
   <string name="resource_downloaded_title">Преузети елементи</string>
   <string name="resource_downloading">Преузимам…</string>
@@ -235,6 +235,7 @@
   <string name="resource_share_text">Ево теме које би вам се могле свидети: %1$s! Повезница: %2$s</string>
   <string name="resource_share_title">Подели</string>
   <string name="resource_system_title">Ресурси система</string>
+  <string name="resource_tab_to_view">Dodirnite za pregled.</string>
   <string name="resource_tip_select_none">Није одабрано</string>
   <string name="resource_title">Детаљи</string>
   <string name="resource_title_category">Категорије</string>
@@ -318,6 +319,7 @@
   <string name="theme_user_agreement_content3">" и "</string>
   <string name="theme_user_agreement_content4">Правила о приватности</string>
   <string name="theme_user_agreement_content5">. Ова апликација се мора повезати на интернет за нормални рад. "</string>
+  <string name="theme_user_agreement_exit">Izlaz</string>
   <string name="theme_user_agreement_remind_again">Прикажи упит Услова коришћења</string>
   <string name="theme_user_agreement_remind_never">"Не приказуј поново"</string>
   <string name="theme_user_agreement_remind_summary">Прикажи упит услова коришћења сваки пут кад се отвори апликација "Теме". Ова подешавања ће ступити на снагу након што поново покренете свој уређај.</string>

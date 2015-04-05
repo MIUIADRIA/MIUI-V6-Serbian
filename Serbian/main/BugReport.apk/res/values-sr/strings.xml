@@ -58,6 +58,7 @@
   <string name="loading_problem_list">Учитавање пописа…</string>
   <string name="menu_copy">Копирај</string>
   <string name="network_err">"Не могу се повезати на мрежу."</string>
+  <string name="network_disconnected">Nema mreže</string>
   <string name="network_unavailable_dialog_button_ok">У реду</string>
   <string name="network_unavailable_dialog_content">Ваш извештај ће бити послат када имате везу са подацима."</string>
   <string name="network_unavailable_dialog_title">"Не могу се повезати на мрежу"</string>
@@ -65,6 +66,7 @@
   <string name="non_system_app_select">Преузете апликације</string>
   <string name="packaging_dialog_content">Стварање извештаја…</string>
   <string name="plus_one_submit_dialog_content">"Ваше одабране повратне информације, заједно са извештајима грешака, ће бити послати на MI сервере."</string>
+  <string name="submit_dialog_not_wifi_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na Mi poslužitelje kak je vaš uređaj povezan s WLAN mrežom."</string>
   <string name="plus_one_submit_dialog_not_show_again">Запамти </string>
   <string name="power_consuming_problem1">Повећана потрошња батерије након ажурирања</string>
   <string name="power_consuming_problem2">Висока потрошња батерије коришћењем апликације</string>
@@ -96,12 +98,14 @@
   <string name="title_nonsystem_app">Остале аплик.</string>
   <string name="title_system_app">MIUI Аплик.</string>
   <string name="toast_description_required">Потребан је опис </string>
-  <string name="toast_feedback_network_unavailable">"Не могу се повезати на мрежу"</string>
-  <string name="toast_feedback_pending_wlan">"Извештај ће бити послат када будете повезани на WLAN мрежу. Пов. информација ће бити послата кад WLAN мрежа буде доступна."</string>
-  <string name="toast_feedback_submitted">Извештај је послат</string>
-  <string name="toast_feedback_submitting">Слање…</string>
-  <string name="toast_feedbackservice_in_submit">Слање предходних информација…</string>
-  <string name="toast_network_unavailable">"Не могу послати. Не могу се повезати на мрежу."</string>
+  <string name="toast_feedback_collect_store">Prikupljanje izvješća…</string>
+  <string name="toast_feedback_network_unavailable">"Ne mogu se povezati na mrežu"</string>
+  <string name="toast_feedback_pending_wlan">"Izvješće će biti poslano kada budete povezani na WLAN mrežu. Pov. informacija će biti poslana kada WLAN mreža bude dostupna."</string>
+  <string name="toast_feedback_submitted">Izvješće je poslano</string>
+  <string name="toast_feedback_submitting">Slanje…</string>
+  <string name="toast_feedbackservice_in_submit">Upravljanje prethodnih informacija…</string>
+  <string name="toast_fill_brackets">Ispunite sadržaj između zagrada</string>
+  <string name="toast_network_unavailable">"Ne mogu poslati. Ne mogu se povezati na mrežu."</string>
   <string name="toast_pending_log_collection">Још прикупљам записе…</string>
   <string name="toast_report_copied_to_clipboard">Извештај копиран у међуспремник</string>
   <string name="toast_report_sent_failed">"Не могу послати извештај"</string>

@@ -40,6 +40,14 @@
         <item quantity="other">Говорних порука: %1$d"</item>
         <item quantity="one">Говорна пошта</item>
     </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM kartica može pohraniti ovoliko kontakata (%d).</item>
+        <item quantity="one">SIM kartica može pohraniti(%d) kontakt.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Izbrisati kontakte (%d) sa SIM kartice?</item>
+        <item quantity="one">Izbrisati kontakt (%d) sa SIM kartice?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Одабране ставке: %1$d"</item>
         <item quantity="one">%1$d одабран</item>
@@ -76,6 +84,14 @@
         <item quantity="other">" %1$d  контаката додато"</item>
         <item quantity="one">%1$d контакт додат</item>
     </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Kopirano kontakata (%d)</item>
+        <item quantity="one">Kopiran %d kontakt</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Izbrisati kontakte (%d)</item>
+        <item quantity="one">Izbriši kontakt</item>
+    </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d људи</item>
         <item quantity="one">1особа</item>
@@ -84,9 +100,17 @@
         <item quantity="other">Увезено контаката: %1$d</item>
         <item quantity="one">%1$d контакт увезен</item>
     </plurals>
+	<plurals name="batch_delete_msg">
+        <item quantity="other">Izbrisati kontakte (%d)?</item>
+        <item quantity="one">Izbrisati %d kontakt?</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d одабрано</item>
         <item quantity="zero">%1$d одабрано</item>
         <item quantity="one">%1$d одабран</item>
+    </plurals>
+	<plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Zvoni ovoliko puta (%d)</item>
+        <item quantity="one">Zvoni ovoliko puta (%d)</item>
     </plurals>
 </resources> 
