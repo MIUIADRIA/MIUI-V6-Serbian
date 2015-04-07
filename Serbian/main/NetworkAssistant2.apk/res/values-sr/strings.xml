@@ -158,11 +158,11 @@
   <string name="main_primary_message_traffic_purchase">Морате доплатити бон</string>
   <string name="main_primary_message_traffic_warning">Приближавање ограничења употребе података</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
-Искљ.макс.: %1$s преостало | %2$s искоришћено"</string>
+Искљ.макс.: %1$s | %2$s искоришћено"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
-Макс.: %1$s%2$s преостало | %3$s искориштено"</string>
-  <string name="main_secondary_message_traffic_over">Прекорачено</string>
-  <string name="main_secondary_message_traffic_remain">преостало</string>
+Макс.: %1$s%2$s | %3$s искориштено"</string>
+  <string name="main_secondary_message_traffic_over">"прекорачено "</string>
+  <string name="main_secondary_message_traffic_remain">"преостало "</string>
   <string name="main_secondary_message_traffic_used_leisure">%s Искљ. макс. података искоришћено</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s макс.података искоришћено | нема искљ. макс. података преостало</string>
   <string name="main_secondary_message_traffic_used_normal">%s макс.података искориштено</string>
@@ -293,6 +293,7 @@
   <string name="read_number">86 предмета</string>
   <string name="read_unit">" предмета"</string>
   <string name="repair">Obnovi</string>
+  <string name="repair_loading_text">Учитавање…</string>
   <string name="replace_dns">Zamjeni DNS automatski</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Апликација на листи допуштених ће се моћи повезати на везу са подацима у међународном ромингу.</string>

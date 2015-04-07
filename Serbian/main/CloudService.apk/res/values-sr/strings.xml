@@ -28,6 +28,16 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
   <string name="buy_space_sulotion_title">Купите простор за меморију</string>
   <string name="calendar_sync">Kalendar</string>
   <string name="click_to_enabled">Dodirni za sinkr.</string>
+  <string name="close_cloud_app_backup_cancel">Odustani</string>
+  <string name="close_cloud_app_backup_close">Zatvori</string>
+  <string name="close_cloud_app_backup_local_backup">Napravi Sig. kopiju</string>
+  <string name="close_cloud_app_backup_message">Cloud App Backup Usluga će biti zaustavljena i podaci će biti izbrisani 1. svibnja 2015, molimo Vas, kopirajte vaše podatke u najkraćem mogućem roku.</string>
+  <string name="close_cloud_app_backup_notification_message">Dodirnite za detalje</string>
+  <string name="close_cloud_app_backup_notification_title">Prilagodi obavijest Mi Cloud Usluge</string>
+  <string name="close_cloud_app_backup_title">Zatvori obavijest</string>
+  <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud App Backup Usluga će biti obustavljena za ne-MIUI aplikacije. Srodni podaci drugih aplikacija će biti izbrisani od 1. svibnja 2015. Da izbjegnete gubitak važnih informacija, napravite sada lokalnu sig. kopiju vaših podataka aplikacija."</string>
+  <string name="cloud_app_back_up_quit_notification_content2">To neće utjecati na Kontakte, Poruke, Galeriju i druge aplikacije sustava MIUI.</string>
+  <string name="cloud_app_back_up_quit_notification_content3">Napravi Sig. kopiju podataka aplikacija</string>
   <string name="cloud_back_up_button_ok">Prisilno zaustavi</string>
   <string name="cloud_back_up_close_info">Dodirni za izradu Sig. kopije</string>
   <string name="cloud_back_up_dialog_content">"Zaustaviti izradu Sig. kopije u tijeku? Ako zaustavite sada, nećete biti u mogućnosti koristiti ovu Sig. kopiju za vraćanje aplikacija."</string>

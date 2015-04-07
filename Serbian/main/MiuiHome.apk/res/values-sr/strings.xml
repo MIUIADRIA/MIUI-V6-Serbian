@@ -40,6 +40,7 @@
   <string name="choose_wallpaper">Одабери слику позадине</string>
   <string name="chooser_wallpaper">Одабери слику позадине</string>
   <string name="cloud_app_restore_title">Na čekanju</string>
+  <string name="configure_wallpaper">Подешавања</string>
   <string name="confirm_btn_label">У реду</string>
   <string name="current_preview">Преглед</string>
   <string name="current_wallpaper">Тренутна</string>
@@ -68,6 +69,7 @@
   <string name="failed_to_drop">"Не могу преместити"</string>
   <string name="failed_to_drop_widget_invalid">Неисправан Widget</string>
   <string name="failed_to_drop_widget_nospace">На овом екрану више нема места</string>
+  <string name="failed_to_load_image">"Не могу учитати слику"</string>
   <string name="folder_name">Мапа</string>
   <string name="frame_load_failed">"Не могу учитати оквир"</string>
   <string name="free_style_apps_title">Одабери апликацију</string>
@@ -145,6 +147,7 @@
   <string name="menu_wallpaper">Слика позадине</string>
   <string name="menu_workspace_preview">Преглед Почетних екрана</string>
   <string name="mi_wallpaper">MIUI Продавница Тема</string>
+  <string name="mtzgadget_missing_text">"Није обезбеђено дуже, молимо додајте поново"</string>
   <string name="multi_selecting_tips">Да преузмете апликацију, додирните њену икону</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">На овом екрану више нема места.</string>
