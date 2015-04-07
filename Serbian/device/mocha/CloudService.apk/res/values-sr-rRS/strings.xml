@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="micloud_storage_usage" formatted="false">Iskorišteno %s / Sveukupno %s</string>
-  <string name="micloud_title_dspt" formatted="false">Iskorišteno %s / Sveukupno %s,</string>
-  <string name="micloud_title_dspt_remain">" Preostalo %s"</string>
+  <string name="micloud_storage_usage" formatted="false">Искориштено %s / Свеукупно %s</string>
+  <string name="micloud_title_dspt" formatted="false">Искориштено %s / Свеукупно %s,</string>
+  <string name="micloud_title_dspt_remain">" Преостало %s"</string>
 </resources>

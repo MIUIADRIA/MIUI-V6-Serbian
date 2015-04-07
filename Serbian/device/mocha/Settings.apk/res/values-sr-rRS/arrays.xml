@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="screen_key_long_press_action">
-        <item>Ništa</item>
-        <item>Pokaži nedavne aplikacije</item>
-        <item>Pokreni upravitelje</item>
-        <item>Pokreni Google now</item>
-        <item>Zatvori trenutnu aplikaciju</item>
-		<item>Prikaži Izbornik</item>
+        <item>Ништа</item>
+        <item>Прикажи недавне апликације</item>
+        <item>Покрени сервере</item>
+        <item>Покрени Google now</item>
+        <item>Затвори тренутну апликацију</item>
+		<item>Прикажи мени</item>
     </string-array>
 </resources>
