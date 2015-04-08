@@ -529,7 +529,7 @@
   <string name="toast_feedback_max">"Не могу послати више од 3 извештаја дневно"</string>
   <string name="toast_feedback_start">Добивање података записа…</string>
   <string name="too_many_attachments">Ограничење броја прилога је: %1$s. Додано ће бити само оволико првих прилога: %2$s.</string>
-  <string name="too_many_recipients">Порука има превише примаоца (% 1 $ с). Граница броја прималаца износи: %2$s.</string>
+  <string name="too_many_recipients">Порука има превише примаоца (%1$s). Граница броја прималаца износи: %2$s.</string>
   <string name="too_many_unsent_mms">"Ову поруку тренутно није могуће послати. Постоји превише нису послате мултимедијалних порука."</string>
   <string name="try_to_send">Покушати послати</string>
   <string name="type_attachment">прилог</string>
