@@ -702,6 +702,7 @@
   <string name="toast_network_eror">"Не могу се повезати на мрежу"</string>
   <string name="toast_network_switch">Ова се апликација не може повезати на интернет</string>
   <string name="toast_removed_from_white_list">" је уклоњен из изузетака"</string>
+  <string name="toast_resolve_apk_error">Решавање грешке Apk</string>
   <string name="toast_root_apply_accept">ROOT приступ одобрен за %s</string>
   <string name="toast_root_apply_reject">ROOT приступ одбијен за %s</string>
   <string name="toast_shortcut_install">Пречица стављена на почетни екран</string>

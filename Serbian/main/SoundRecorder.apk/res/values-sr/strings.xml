@@ -67,6 +67,7 @@
   <string name="record_list_cloud_call">Синх. Снимљени позиви</string>
   <string name="record_list_cloud_fm">Синх. снимке FM-a</string>
   <string name="record_list_fm">FM Снимке</string>
+  <string name="record_mark_point">%s означен</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Одабери снимак</string>
   <string name="recording">Снимање…</string>
