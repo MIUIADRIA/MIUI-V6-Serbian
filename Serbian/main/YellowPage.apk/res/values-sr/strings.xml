@@ -12,7 +12,7 @@
   <string name="account_updating_device_failed">"Не могу се пријавити"</string>
   <string name="account_verify_password">"Користите ову услугу на другом уређају. Ради сигурности, морате потврдити свој Mi Рачун на овом уређају."</string>
   <string name="account_yellowpage_favorite">Фаворити</string>
-  <string name="account_yellowpage_followed">Provjereni Računi</string>
+  <string name="account_yellowpage_followed">Провери рачуне</string>
   <string name="account_yellowpage_recent">Прикажи историју</string>
   <string name="agree">Слажем се</string>
   <string name="all_resources">све</string>
@@ -222,7 +222,7 @@
   <string name="menu_delete_call_log">Избрисати попис позива</string>
   <string name="menu_delete_one">Уклони ставку са пописа позива</string>
   <string name="menu_enroll_in_yellow_page">Пријавите се за Mi жуте странице</string>
-  <string name="menu_follow_yellow_page">Prati</string>
+  <string name="menu_follow_yellow_page">Прати</string>
   <string name="menu_remove_black_list">Уклонити са листе забрањених</string>
   <string name="menu_remove_from_favorite">Уклони из фаворита</string>
   <string name="menu_save_contact">Спреми број контакту</string>
@@ -259,7 +259,7 @@
   <string name="order_product_name_label">"Нема производа: "</string>
   <string name="order_status">%s</string>
   <string name="order_status_label">Статус поруџбине: %s</string>
-  <string name="order_type_recharge">Nadoplata</string>
+  <string name="order_type_recharge">Доплата</string>
   <string name="packages_no_package">Нема препоручених пакета</string>
   <string name="packages_pay">купи</string>
   <string name="packages_pay_confirm">Потврди праћење</string>
@@ -292,7 +292,7 @@
   <string name="recharge_pay">Надоплатити сад</string>
   <string name="recharge_pay_hint">Prowided by Xiaomi</string>
   <string name="recharge_pay_hint_license">Обавештење надоплате</string>
-  <string name="recharge_payment_error">Narudžba zatvorena ili je došlo do pogreške</string>
+  <string name="recharge_payment_error">Наруџбина затворена или је дошло до грешке</string>
   <string name="recharge_payment_result_failed_summary">Покушајте поново</string>
   <string name="recharge_payment_result_failed_title">Надоплата неуспела</string>
   <string name="recharge_payment_result_ok_summary">Потврдите да се тај износ неће одразити на ваш рачун.</string>
@@ -421,7 +421,7 @@
   <string name="resource_mute">Ништа</string>
   <string name="resource_my">Локално</string>
   <string name="resource_no_result">"Ништа није пронађено"</string>
-  <string name="resource_notification_default">Obavijesti</string>
+  <string name="resource_notification_default">Обавештења</string>
   <string name="resource_on_trial">Испробавам: %1$s</string>
   <string name="resource_online">Мрежно %1$s</string>
   <string name="resource_pack_confirm">"Иако сте већ купили% 1 $ д компоненте ове теме, још је увек јефтиније ако купите цео пакет."</string>
@@ -494,7 +494,7 @@
   <string name="toast_finish_delete_call_log">Попис позива је обрисан</string>
   <string name="toast_text_copied">Текст копиран</string>
   <string name="try_again">Покушај поново</string>
-  <string name="turn_on_smart_antispam_hint">"Идентифицирај позиве непознатих бројева помоћу Xiaomi ознаке именика"</string>
+  <string name="turn_on_smart_antispam_hint">"Идентификуј позиве непознатих бројева помоћу Xiaomi ознаке именика"</string>
   <string name="turn_on_smart_antispam_summary_off">Претражи само бројеве спремљена на овом уређају</string>
   <string name="turn_on_smart_antispam_summary_on">Пошаљи и идентификуј непознате бројеве у записима позива и СМС порукомa</string>
   <string name="turn_on_smart_antispam_title">Идентификуј непознате бројеве</string>
@@ -511,10 +511,10 @@
   <string name="voicemail">Говорна пошта</string>
   <string name="web_permission_message">%1$s Треба погледати ваш %2$s да правилно функционише.</string>
   <string name="yellow_page_website">Службена страница</string>
-  <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
-  <string name="yellowpage_navigation_network_location_enable_later">Ne sada</string>
-  <string name="yellowpage_navigation_network_location_enabled">Pristup lokaciji je uključen. Možetem isključiti ovu značajku u bilo kojem trenutku u Postavkama.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Poboljšajte rezultate pretraživanja dopuštajući Žutim Stranicama pristup podacima o Vašoj lokaciji.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Pristup lokaciji</string>
+  <string name="yellowpage_navigation_network_location_enable">Допусти</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Не сада</string>
+  <string name="yellowpage_navigation_network_location_enabled">Приступ локацији је укључен. Можете искључити ову функцију у било ком тренутку у Подешавањима.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Побољшајте резултате претраживања допуштајући Жутим страницама приступ подацима о вашој Локацији.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Приступ локацији</string>
   <string name="yuan">Yuan</string>
 </resources>

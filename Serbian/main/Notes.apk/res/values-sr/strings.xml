@@ -102,12 +102,12 @@
   <string name="toast_reach_text_limit_truncate">Белешка је предугачка. Део текста је одсечен са краја белешке због прилагођавања.</string>
   <string name="undo">Поништи</string>
   <string name="unknown_source">Непознат извор</string>
-  <string name="welcome_note_for_cm">"I još puno velikih mogućnosti!
-  - Sinkronizacija s Mi Cloud
-  - Spremanje kod izlaza 
-  - Postavljanje podsjetnika
+  <string name="welcome_note_for_cm">"И још пуно великих могућности!
+  - Синхронизација са Mi Cloud
+  - Чување код излаза 
+  - Постављање потсетника
   
-Ako želite saznati više, posjetite
+Ако желите да сазнате више посетите
 http://www.miui.com/forum.php?lang=1
 "</string>
   <string name="widget_content_loading">Учитавање…</string>

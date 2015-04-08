@@ -192,7 +192,7 @@
   <string name="micloud_reg_new">Направите Mi Рачун</string>
   <string name="micloud_space_info">%s доступно</string>
   <string name="micloud_sync_state_need_wifi">Користи WLAN за сихро.</string>
-  <string name="micloud_sync_state_pending">Na čekanju</string>
+  <string name="micloud_sync_state_pending">На чекању</string>
   <string name="micloud_sync_state_stop">Заустављено</string>
   <string name="micloud_sync_state_synced">Синхронизација</string>
   <string name="micloud_sync_state_syncing">Синхронизујем</string>

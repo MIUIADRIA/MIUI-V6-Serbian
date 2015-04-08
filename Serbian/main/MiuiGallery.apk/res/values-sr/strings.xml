@@ -38,7 +38,7 @@
   <string name="album_share_subtitle_not_ready">Недостају детаљи о албуму</string>
   <string name="album_share_subtitle_quitting">Излаз…</string>
   <string name="album_share_subtitle_requesting">преузимање детаља албума…</string>
-  <string name="album_share_title_new_album">Podijeli novi album</string>
+  <string name="album_share_title_new_album">Подели нови албум</string>
   <string name="albums">Албуми</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Напомена</string>
@@ -49,12 +49,12 @@
   <string name="alert_secret_album_set_pattern">Подесите узорак за откључавање</string>
   <string name="alert_secret_album_title">Додано у сакривени албум</string>
   <string name="already_apply_album">Отворити %1$s?</string>
-  <string name="always_rotate_alert_msg">Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama Galerije</string>
-  <string name="always_rotate_alert_positive_button_text">Uključi</string>
-  <string name="always_rotate_alert_title">Auto. rotiranje slika</string>
+  <string name="always_rotate_alert_msg">Можете укључити/искључити ову функцију у било којем тренутку у подешавањима Галерије</string>
+  <string name="always_rotate_alert_positive_button_text">Укључи</string>
+  <string name="always_rotate_alert_title">Ауто.ротација слика</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android слике позадине</string>
-  <string name="aperture">Отвор blende</string>
+  <string name="aperture">Отвор бленде</string>
   <string name="app_name">Галерија</string>
   <string name="appwidget_empty_text">Нема фотографија.</string>
   <string name="appwidget_title">Галерија</string>
@@ -86,7 +86,7 @@
   <string name="camera_connected">Фотоапарат укључен.</string>
   <string name="camera_disconnected">Фотоапарат је искључен.</string>
   <string name="camera_folder_display_name">Фотоапарат</string>
-  <string name="camera_path">/DCIM/Camera</string>
+  <string name="camera_path">/DCIM/Камера</string>
   <string name="camera_setas_wallpaper">Позадине</string>
   <string name="camera_view_none_message">Снимљене фотографије ће овде бити приказане.</string>
   <string name="cancel">Одустани</string>
@@ -230,7 +230,7 @@
   <string name="face_album_not_named">Без назива</string>
   <string name="face_album_rename_hint">Унесите назив</string>
   <string name="face_albumset_detecting_tip">"Откривање лица…</string>
-  <string name="face_albumset_empty">Prazno.</string>
+  <string name="face_albumset_empty">Празно.</string>
   <string name="face_albumset_use_tip">"Помозите пронаћи она лепа лица,
 Чинећи га једноставнијим за приказ и управљањем слика"</string>
   <string name="face_move_dialog_title">Одаберите лице албума</string> 
@@ -551,7 +551,7 @@
   <string name="slideshow_interval_invalid">Интервал мора бити између 1 и 3600 секунди</string>
   <string name="slideshow_repeat_mode">Поновити</string>
   <string name="square">Квадрат</string>
-  <string name="sports_camera">Sportska Kamera</string>
+  <string name="sports_camera">Спортска камера</string>
   <string name="start_slide_show">Покрени дијапројекцију</string>
   <string name="start_to_use_face_albumset">Започните користити албуме лица</string>
   <string name="storage_all_volumes">Сви уређаји за складиште</string>

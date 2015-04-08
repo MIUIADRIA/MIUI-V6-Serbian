@@ -33,7 +33,7 @@
         <item quantity="one">Особа: %1$d</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">Ukupno brojeva: %1$d</item>
+        <item quantity="other">Укупно бројева: %1$d</item>
         <item quantity="one">%1$d број</item>
     </plurals>
     <plurals name="notification_voicemail_title">
@@ -41,12 +41,12 @@
         <item quantity="one">Говорна пошта</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM kartica može pohraniti ovoliko kontakata (%d).</item>
-        <item quantity="one">SIM kartica može pohraniti(%d) kontakt.</item>
+        <item quantity="other">SIM картица може сачувати оволико контаката (%d).</item>
+        <item quantity="one">SIM картица може сачувати(%d) контакт.</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Izbrisati kontakte (%d) sa SIM kartice?</item>
-        <item quantity="one">Izbrisati kontakt (%d) sa SIM kartice?</item>
+        <item quantity="other">Избрисати контакте (%d) са SIM картице?</item>
+        <item quantity="one">Избрисати контакт (%d) са SIM картице?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Одабране ставке: %1$d"</item>
@@ -85,24 +85,24 @@
         <item quantity="one">%1$d контакт додат</item>
     </plurals>
     <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Kopirano kontakata (%d)</item>
-        <item quantity="one">Kopiran %d kontakt</item>
+        <item quantity="other">Копирано контаката (%d)</item>
+        <item quantity="one">Копиран %d контакт</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Izbrisati kontakte (%d)</item>
-        <item quantity="one">Izbriši kontakt</item>
+        <item quantity="other">Избрисати контакте (%d)</item>
+        <item quantity="one">Избриши контакт</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d људи</item>
-        <item quantity="one">1особа</item>
+        <item quantity="one">1 особа</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">Увезено контаката: %1$d</item>
         <item quantity="one">%1$d контакт увезен</item>
     </plurals>
 	<plurals name="batch_delete_msg">
-        <item quantity="other">Izbrisati kontakte (%d)?</item>
-        <item quantity="one">Izbrisati %d kontakt?</item>
+        <item quantity="other">Избрисати контакте (%d)?</item>
+        <item quantity="one">Избрисати %d контакт?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d одабрано</item>
@@ -110,7 +110,7 @@
         <item quantity="one">%1$d одабран</item>
     </plurals>
 	<plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Zvoni ovoliko puta (%d)</item>
-        <item quantity="one">Zvoni ovoliko puta (%d)</item>
+        <item quantity="other">Звони оволико пута (%d)</item>
+        <item quantity="one">Звони оволико пута (%d)</item>
     </plurals>
 </resources> 

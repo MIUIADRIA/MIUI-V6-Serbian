@@ -29,7 +29,7 @@
   <string name="add_xiaomi_account_dialog_msg">Употребите ваш Mi Рачун за синхронизацију и израду сигурносних копија ваших контаката између више уређаја.</string>
   <string name="add_xiaomi_account_dialog_title">Одабир рачуна</string>
   <string name="aggregation_suggestion_edit_dialog_message">Желите ли да пребаците на уређивање изабраног контакта? Биће копиране информације које сте унели до сада.</string>
-  <string name="aggregation_suggestion_edit_dialog_title">Istoimeni</string>
+  <string name="aggregation_suggestion_edit_dialog_title">Истоимени</string>
   <string name="aggregation_suggestion_join_dialog_message">Желите ли да тренутни контакт придружите изабраном контакту?</string>
   <string name="all_list_empty">Нема контаката</string>
   <string name="all_resources">Све</string>
@@ -377,7 +377,7 @@
   <string name="favoritesFrequentContacted">Често контактирани</string>
   <string name="favorites_list_empty">Нема фаворита</string>
   <string name="firewall_setting">Листа блокираних</string>
-  <string name="followed_yellowpage">Provjereni Računi</string>
+  <string name="followed_yellowpage">Проверени рачуни</string>
   <string name="foundTooManyContacts">Пронађено је више од %d.</string>
   <string name="frequentList">Чести</string>
   <string name="from_account_format">%1$s</string>
@@ -532,8 +532,8 @@
   <string name="menu_new_contact_action_bar">Додај контакт</string>
   <string name="menu_new_favorite_action_bar">"Додај уомиљене"</string>
   <string name="menu_new_group_action_bar">Додај групу</string>
-  <string name="menu_not_redirect_calls_to_vm">Govorna pošta nije u upotrebi</string>
-  <string name="menu_redirect_calls_to_vm">Svi pozivi na govornu poštu</string>
+  <string name="menu_not_redirect_calls_to_vm">Говорна пошта није у употреби</string>
+  <string name="menu_redirect_calls_to_vm">Сви позиви на говорну пошту</string>
   <string name="menu_removeStar">Уклони из омиљених контаката</string>
   <string name="menu_search">Претражи</string>
   <string name="menu_select_all">Изабери све</string>
@@ -769,7 +769,7 @@
   <string name="quickcontact_missing_app">Није пронађена апликација за обраду ове радње</string>
   <string name="quit_dialog_confirm_title">Нисте спојили ни један контакт</string>
   <string name="readOnlyContactDeleteConfirmation">Овај контакт садржи информације из више налога. Информације из налога који су само за читање неће бити избрисане са листе контаката, него скривене.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" sadrži informacije iz više računa. Informacije s računa samo za čitanje će biti sakrivene u vašem popisu kontakata.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" садри информације из више рачуна. Информације са рачуна само за читање ће бити сакривено у вашој листи контаката.</string>
   <string name="readOnlyContactWarning">Контакте у оквиру налога који су само за читање не можете да избришете, али можете да их сакријете на листи контаката.</string>
   <string name="readingSimContacts">Читање SIM картице…</string>
   <string name="reading_vcard_canceled_title">Отказано читање података са vCard датотеке</string>
@@ -944,7 +944,7 @@
   <string name="resource_share_text">Ево теме која би вам се могла свидети: %1$s! Повезница %2$s</string>
   <string name="resource_share_title">Подели</string>
   <string name="resource_system_title">Ресурси система</string>
-  <string name="resource_tab_to_view">Dodirnite za pregled.</string>
+  <string name="resource_tab_to_view">Додирните за преглед.</string>
   <string name="resource_tip_select_none">Није одабрано</string>
   <string name="resource_title">Детаљи</string>
   <string name="resource_title_category">Категорија</string>
@@ -1159,7 +1159,7 @@
   <string name="yellowPageNavigationLabel">Именик</string>
   <string name="yellowpage_navigation_clear_search_history">Избриши историју</string>
   <string name="yellowpage_navigation_more_items">Више</string>
-  <string name="yellowpage_navigation_more_items_title">Više usluga</string>
+  <string name="yellowpage_navigation_more_items_title">Више услуга</string>
   <string name="yellowpage_navigation_no_content">"Ништа није пронађено"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Град</string>
   <string name="yellowpage_navigation_search_history">Историја</string>
