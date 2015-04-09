@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="miui">miui</string>
+  <string name="screen_button_disabled_message">Навигационе дирке су искључене. Да их поново укључите, притисните дирку \"Почетна\" и \"Напајање\" истовремено.</string>
+  <string name="screen_button_enabled_message">Навигационе дирке су искључене.</string>
   <string name="status_bar_toggle_ac">Приступ</string>
   <string name="status_bar_toggle_auto_brightness">Светлина</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
