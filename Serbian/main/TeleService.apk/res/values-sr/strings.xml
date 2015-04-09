@@ -469,9 +469,9 @@
   <string name="network_forbidden">%s (забрањено)</string>
   <string name="network_id">ID мреже</string>
   <string name="network_message">Мрежна порука</string>
-  <string name="network_settings_auto_select_title">Мрежна веза</string>
-  <string name="network_settings_automatically_option">Аутоматски одабери жељену мрежу (%s)</string>
-  <string name="network_settings_confirm_message">Мрежа је недоступна.</string>
+  <string name="network_settings_auto_select_title">Zatvori Autom. odabir</string>
+  <string name="network_settings_automatically_option">Autom. odaberi željenu mrežu (%s)</string>
+  <string name="network_settings_confirm_message">Mreža je možda nedostupna, jeste li sigurni?</string>
   <string name="network_settings_data_connected_change">Морате искључити мобилне податке код пребацивања на другу мрежу.</string>
   <string name="network_settings_duringcall">"Радња није дозвољена током позива"</string>
   <string name="network_settings_forbidden">%s (забрањено)</string>

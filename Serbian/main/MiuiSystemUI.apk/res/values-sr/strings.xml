@@ -216,4 +216,8 @@
   <string name="user_guide_for_notification">Клизните према доле прстом ради приказа панела са обавештењима</string>
   <string name="user_guide_for_toggle">Попис пречица је могуће померати водоравно</string>
   <string name="user_guide_for_toggle_list">Управљај пречицама</string>
+  <string name="vpn_text">Dodirni za prikaz postavki.</string>
+  <string name="vpn_text_long">Povezano na %s. Dodirni za prikaz detalja.</string>
+  <string name="vpn_title">VPN aktiviran</string>
+  <string name="vpn_title_long">Povezivanje na VPN koristeći %s</string>
 </resources>

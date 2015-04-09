@@ -47,6 +47,9 @@
   <string name="address_choose_hint">%1$s, %2$s i %3$d остале локације</string>
   <string name="addwhitelist">Додај у изузетке</string>
   <string name="all_address_choose_hint">Сви бројеви у овој покрајини</string>
+  <string name="antispam_notificaiton_type_show_all">Svi brojevi</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Neblokirani brojevi</string>
+  <string name="antispam_notificaiton_type_show_none">Nikad</string>
   <string name="app_name">Листа забрањених</string>
   <string name="backsound_set_hint">Поставите своју поруку \"Одсутан сам\" за %s?</string>
   <string name="baidu_thanks">Powered By Baidu</string>

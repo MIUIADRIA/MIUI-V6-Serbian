@@ -590,6 +590,7 @@
   <string name="controls_label">Контроле</string>
   <string name="controls_subtitle">Прилагођавање коришћења напајања</string>
   <string name="copyright_title">Ауторска права</string>
+  <string name="country_name">%s (sustav)</string>
   <string name="create">Направи</string>
   <string name="credential_storage_type">Тип складишног простора</string>
   <string name="credential_storage_type_hardware">Подржан хардвером</string>
@@ -1091,6 +1092,7 @@
   <string name="input_settings">Подешавање уноса</string>
   <string name="install_all_warning">Телефон и лични подаци су подложнији нападу апликација из непознатих извора. Сагласни сте да сте само ви одговорни за сву штету на телефону или губитак података до којих може да дође услед коришћења ових апликација.</string>
   <string name="install_applications">Непознати извори</string>
+  <string name="install_preinstall_app">Učitavanje aplikacija…</string>
   <string name="install_text">Инсталирај</string>
   <string name="install_unknown_applications">Дозволи инсталацију апликација из непознатих извора</string>
   <string name="install_whole_rom">Преузми ROM</string>
@@ -1162,6 +1164,7 @@
   <string name="local_backup_section_summary">Сиг. копија подешавања система, детаља рачуна, и апликација</string>
   <string name="local_backup_section_title">Локална меморија</string>
   <string name="locale_default">Подразумевано</string>
+  <string name="locale_settings">Локалнo</string>
   <string name="location_access_off">Искључено</string>
   <string name="location_access_on">Укључено</string>
   <string name="location_access_summary">Нека апликације које су тражиле дозволу користе информације о вашој локацији</string>
@@ -1899,12 +1902,20 @@
   <string name="screen_on_proximity_sensor_summary">Аутоматски закључај кад се ставља у џеп</string>
   <string name="screen_on_proximity_sensor_title">Спречи случајно бирање у џепу</string>
   <string name="screen_optimize">Контракст</string>
+  <string name="screen_paper_mode_adjust_level">Prilagodi efekat Načina čitanja</string>
+  <string name="screen_paper_mode_apps_loading">Učitavanje…</string>
   <string name="screen_paper_mode_apps_title">Користи начин читања за ове апликације</string>
   <string name="screen_paper_mode_off_apps_title">"Немој користити Начин читања за следеће апликације"</string>
   <string name="screen_paper_mode_summary">"Смањи одсјај позадине"</string>
   <string name="screen_paper_mode_title">Начин читања</string>
   <string name="screen_paper_mode_turn_off">Искључено</string>
   <string name="screen_paper_mode_turn_on">Укључено</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne pitaj</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Slažem se i Nastavi</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da se ažurira popis aplikacija koje mogu koristiti način čitanja, potrebno je povezati se na mrežu. Slažete li se?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Uvjeti i Odredbe</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje koriste načina čitanja preko mreže</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Popis ažuriranja mreže</string>
   <string name="screen_saturation">Засићење</string>
   <string name="screen_timeout">Мировање</string>
   <string name="screen_timeout_summary">Након %1$s неактивности</string>
@@ -2090,6 +2101,7 @@
   <string name="sim_reenter_new">Поново унесите нови PIN</string>
   <string name="sim_status_title">Статус SIM картице</string>
   <string name="skip_label">Прескочи</string>
+  <string name="skip_lock_screen_confirm_msg">Sljedeće značajke će biti onemogućene za zaključavanje zaslona: obavijesti, kontrole sviranje glazbe, Povucite lijevo za Kameru i Povucite desno za Telefon.</string>
   <string name="skip_step">Прескочи</string>
   <string name="slot_status_title">IMEI подаци</string>
   <string name="small_font">Малено</string>

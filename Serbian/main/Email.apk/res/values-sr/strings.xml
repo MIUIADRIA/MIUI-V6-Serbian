@@ -56,6 +56,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Не могу се пријавити у %s; Ово је порука сервера: %s"</string>
   <string name="account_settings_login_dialog_title">Неуспела пријава</string>
   <string name="account_settings_mail_check_frequency_label">Фреквенција синхронизације</string>
+  <string name="account_settings_mibill_resolve_label">Analiziraj izjave E-pošte</string>
   <string name="account_settings_name_label">Ваше име</string>
   <string name="account_settings_notifications">Поставке обавештења</string>
   <string name="account_settings_notify_label">Обавештења e-поште</string>
@@ -146,7 +147,7 @@
   <string name="account_setup_names_headline">Ваш је рачун постављен, а e-pošta стиже!</string>
   <string name="account_setup_names_title">Постављање рачуна</string>
   <string name="account_setup_names_user_name_empty_error">Ово поље несме бити празно.</string>
-  <string name="account_setup_names_user_name_label">Ваше име (приказано у излазним порукама)</string>
+  <string name="account_setup_names_user_name_label">Nadimak (приказано у излазним порукама)</string>
   <string name="account_setup_need_password_verification">Ваш рачун има отворену средњу потврду идентитета лозинке. Потребна је провера аутентичности</string>
   <string name="account_setup_not_disturb_title">Не узнемиравај</string>
   <string name="account_setup_options_background_attachments_label">Аутоматски преузми прилоге за време повезаности са WLAN мрежом</string>
@@ -387,7 +388,7 @@
   <string name="done_action">Готово</string>
   <string name="donot_disturb_endtime_title">До</string>
   <string name="donot_disturb_starttime_title">Од</string>
-  <string name="donot_disturb_summary">Ваш уређај неће обавештавати о новим порукама одређено време</string>
+  <string name="donot_disturb_summary">Obavijesti dolazne e-pošte će biti utišane</string>
   <string name="donot_disturb_title">Не узнемиравај током ноћи</string>
   <string name="downlaod_cancel_confirm_download">Заустави</string>
   <string name="downlaod_cancel_continue_download">Нтраг</string>
@@ -493,6 +494,11 @@
   <string name="general_preference_text_zoom_small">Мален</string>
   <string name="general_preference_text_zoom_tiny">Ситан</string>
   <string name="generic_attachment_problem">"Не могу приложити датотеку."</string>
+  <string name="gmail_acceleration">Koristi proxy poslužitelj za Gmail Račun</string>
+  <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy poslužitelj za pristup Gmail Računu?</string>
+  <string name="gmail_login_verify">Dodaj Gmail Račun</string>
+  <string name="gmail_web_login_go">U redu</string>
+  <string name="gmail_web_login_required_message">Prijavite se u Gmail</string>
   <string name="head_only_enable_dialog_message">Само наслов (уместо целе e-pošte) је преузет без клика под прметом.</string>
   <string name="head_only_enable_dialog_nagative">Одбиј</string>
   <string name="head_only_enable_dialog_positive">Прихвати</string>
@@ -630,6 +636,11 @@
   <string name="message_saved">Порука је спремљена као скица.</string>
   <string name="message_type_name">Поруке</string>
   <string name="message_view_attachment_background_load">Један или више прилога у прослеђеној поруци преузеће се пре слања.</string>
+  <string name="mibill_privacy_policy_button1">Ne sada</string>
+  <string name="mibill_privacy_policy_button2">Slažem se</string>
+  <string name="mibill_privacy_policy_description">Mi Wallet će analizirati sve izjave e-pošte primljene u vašoj Mail aplikaciji, i upravljati svim vašim računima kreditnih kartica za vas. Ova usluga je zadana za tvrtke pošte.</string>
+  <string name="mibill_privacy_policy_link">Slažem se s &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Credit Card Bill Service User Agreement&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_title">Mi Wallet analizira izjave e-pošte</string>
   <string name="more_atts_remaining">%1$d још преостало</string>
   <string name="more_atts_total">%1$d прилога</string>
   <string name="more_context">Више</string>
@@ -670,6 +681,7 @@
   <string name="notification_exchange_calendar_added">Додан Exchange календар</string>
   <string name="ok">У реду</string>
   <string name="okay_action">У реду</string>
+  <string name="open_proxy_in_settings">"Gmail nije dostupan na vašoj trenutnoj lokaciji. Još uvijek možete slati i primati poruke iz vašeg Gmail računa pomoću proxy poslužitelja Pošte.  Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
   <string name="other_mail">Остала e-pošta</string>
   <string name="outbox_alert_button_confirm">Уреди</string>
   <string name="outbox_alert_button_no_resend">"Немој послати"</string>
@@ -818,8 +830,8 @@
   <string name="recipient_needed">Додајте барем 1 приматеља.</string>
   <string name="recipient_needed_title">Упозори</string>
   <string name="recipient_null_dialog_title">Упозорење</string>
-  <string name="reduce_the_receiving_frequencye_summary">Доња стопа синхр. e-поште у подешено време</string>
-  <string name="reduce_the_receiving_frequencye_title">Доња стопа синхр. e-поште</string>
+  <string name="reduce_the_receiving_frequencye_summary">Manje učestalo sinkr. pristiglu poštu kad je uključen način ""Ne ometaj me"</string>
+  <string name="reduce_the_receiving_frequencye_title">Sinkr. manje učestalo</string>
   <string name="refresh">освежи</string>
   <string name="refreshing">Освежавам</string>
   <string name="refreshing_done">Завршено</string>
@@ -848,8 +860,8 @@
   <string name="save_attachment">Спреми</string>
   <string name="save_draft">Спреми скицу</string>
   <string name="save_draft_failed">"Не могу спремити скицу"</string>
-  <string name="save_power_summary">Уштеда батерије у подешено време</string>
-  <string name="save_power_title">Уштеда батерије</string>
+  <string name="save_power_summary">Obavijesti dolazne e-pošte će biti utišane</string>
+  <string name="save_power_title">Ne ometaj me</string>
   <string name="saved">Спремљено,  %s</string>
   <string name="saving">Спремање</string>
   <string name="sdcard_cannot_use">SD картица се не може користити</string>
@@ -947,6 +959,11 @@
   <string name="tip_cannot_switchview_in_unread_folder">Nije moguće prebaciti način prikaza agregacije nepročitane pošte</string>
   <string name="to">прима</string>
   <string name="to_heading">"прима: "</string>
+  <string name="toast_bar_fail_synchronization">Nenormalano povezivanje s mrežom. Pokušajte ponovo kasnije</string>
+  <string name="toast_bar_insufficient_memory_space">Nedovoljno prostora za pohranu u telefonu, sinkr. e-pošte nije uspjela</string>
+  <string name="toast_bar_invalid_account">Račun je istekao, prijavite se ponovno</string>
+  <string name="toast_bar_no_connection_network">Nije povezano s mrežom, kliknite na postavljanje</string>
+  <string name="toast_bar_open_gmail_synchronization">Neka korištenje Gmaila više nije ograničeno, kliknite na korištenje</string>
   <string name="too_large_to_attach_additional">"Величина датотеке не сме прелазити %1$s."</string>
   <string name="too_large_to_attach_multiple">Једна или више датотека није приложено.Величина не сме прелазити %1$s."</string>
   <string name="too_large_to_attach_single">"Не могу приложити датотеку користећи %1$s."</string>
@@ -971,6 +988,7 @@
   <string name="upload_log_success">Дневници успешно послати</string>
   <string name="upload_log_title">Послати дневнике дијагностике?</string>
   <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+  <string name="upload_log_yes">Pošalji</string>
   <string name="uploading_logs">Слање дневника</string>
   <string name="validation_failed_prompt">Провера исправности није успела. Проверите поставке сервера %s</string>
   <string name="veiled_address"/>
@@ -995,6 +1013,6 @@
   <string name="widget_other_views">остало</string>
   <string name="wrong_password">Лозинка коју сте унели није тачна</string>
   <string name="yes">Да</string>
-  <string name="you_are_in_mobile_network">Тренутно користите мобилну мрежу са подацима, обратите пажњу на употребу података!</string>
+  <string name="you_are_in_mobile_network">Тренутно користите мобилну мрежу са подацима!</string>
   <string name="zip_viewer_no_file">Нема датотека</string>
 </resources>
