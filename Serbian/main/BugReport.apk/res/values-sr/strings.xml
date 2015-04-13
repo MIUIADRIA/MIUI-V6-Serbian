@@ -58,7 +58,7 @@
   <string name="loading_problem_list">Учитавање пописа…</string>
   <string name="menu_copy">Копирај</string>
   <string name="network_err">"Не могу се повезати на мрежу."</string>
-  <string name="network_disconnected">Нема мреже</string>
+  <string name="network_disconnected">"Не могу се повезати на мрежу."</string>
   <string name="network_unavailable_dialog_button_ok">У реду</string>
   <string name="network_unavailable_dialog_content">Ваш извештај ће бити послат када имате везу са подацима."</string>
   <string name="network_unavailable_dialog_title">"Не могу се повезати на мрежу"</string>
@@ -88,7 +88,7 @@
   <string name="submit_dialog_cancel">Одустани</string>
   <string name="submit_dialog_confirm">Пошаљи</string>
   <string name="submit_dialog_content">"Ваше повратне информације, заједно са извештајима грешака и приложеним сликама,биће послати на MI сервере."</string>
-  <string name="submit_dialog_title">Пошаљи извештај Xiaomi-u</string>
+  <string name="submit_dialog_title">Пошаљи извештај o грешки</string>
   <string name="suggestion_description">Напишите овде свој предлог</string>
   <string name="suggestion_problem1">"Реците нам које функције би волели видети у будућности"</string>
   <string name="system_app_select">MIUI апликације</string>
@@ -104,7 +104,7 @@
   <string name="toast_feedback_submitted">Извештај послат</string>
   <string name="toast_feedback_submitting">Слање...</string>
   <string name="toast_feedbackservice_in_submit">Управљање претходним информацијама...</string>
-  <string name="toast_fill_brackets">Испуните садржај између заграда</string>
+  <string name="toast_fill_brackets">Вашем извештају недостају неке информације</string>
   <string name="toast_network_unavailable">"Не могу да пошањем. Не могу се повезати на мрежу."</string>
   <string name="toast_pending_log_collection">Још прикупљам записе…</string>
   <string name="toast_report_copied_to_clipboard">Извештај копиран у бафер</string>

@@ -161,14 +161,14 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_main_set_internet">Мрежа</string>
   <string name="micloud_main_space_full">Недовољно простора за складиштење</string>
   <string name="micloud_main_space_risk">Синхронизована ставка %d</string>
-  <string name="micloud_main_stop_sync">Заустави синхро.</string>
+  <string name="micloud_main_stop_sync">Синхр. заустављена</string>
   <string name="micloud_main_suggest_sync">"Не могу синхронизовати све"</string>
   <string name="micloud_main_sync_exception">грешка синхро.</string>
   <string name="micloud_main_sync_init">Прикупљање информација</string>
   <string name="micloud_main_sync_now">Синхронизуј сада</string>
   <string name="micloud_main_sync_on_wifi">Само путем WLAN-a</string>
-  <string name="micloud_main_sync_pause">Паузирај синхро.</string>
-  <string name="micloud_main_sync_stop">Заустави синхро.</string>
+  <string name="micloud_main_sync_pause">Синхр. паузиранa</string>
+  <string name="micloud_main_sync_stop">Синхр. заустављена</string>
   <string name="micloud_main_synced_data_count">Синхронизована ставка %d</string>
   <string name="micloud_main_syncing">Синхронизујем…</string>
   <string name="micloud_main_update_space">Набавите више простора за складиштење</string>

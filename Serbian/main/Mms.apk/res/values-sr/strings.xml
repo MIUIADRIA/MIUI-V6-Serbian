@@ -341,7 +341,7 @@
   <string name="pref_summary_notification_body_enabled_when_secure">"Не можете прегледати поруке у гост начину рада"</string>
   <string name="pref_summary_off_system_mms_priority">Користите друге апликације за слаље и примање MMS-a</string>
   <string name="pref_summary_on_system_mms_priority">"Постави MIUI Поруке апликацију као задату апликацију за слање и примање MMS-a"</string>
-  <string name="pref_summary_send_delivery_reports">Пошаљи извештај о испоруци за примљене поруке</string>
+  <string name="pref_summary_send_delivery_reports">Пошаљи пошиљаоцу потврду извештаја о испоруци за примљен ММС</string>
   <string name="pref_summary_show_recent_contacts">Покажи попис недавних контаката код писања нове поруке</string>
   <string name="pref_summary_wake_up_screen">Упали екран кад стигне нова порука</string>
   <string name="pref_system_title">Систем</string>
