@@ -86,7 +86,6 @@
   <string name="camera_connected">Фотоапарат укључен.</string>
   <string name="camera_disconnected">Фотоапарат је искључен.</string>
   <string name="camera_folder_display_name">Фотоапарат</string>
-  <string name="camera_path">/DCIM/Камера</string>
   <string name="camera_setas_wallpaper">Позадине</string>
   <string name="camera_view_none_message">Снимљене фотографије ће овде бити приказане.</string>
   <string name="cancel">Одустани</string>
