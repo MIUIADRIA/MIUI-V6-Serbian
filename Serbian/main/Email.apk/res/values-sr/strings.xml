@@ -480,7 +480,6 @@
   <string name="forward_attribution_no_headers">---------- Прослеђена порука ----------</string>
   <string name="forward_download_failed_ticker">Један или више прилога није било могуће проследити.</string>
   <string name="forward_download_failed_title">Прилог није прослеђен</string>
-  <string name="forward_subject_label">Даље:</string>
   <string name="from">Шаље</string>
   <string name="from_heading">"Шаље: "</string>
   <string name="general_preference_confirm_delete_label">Потврди пре брисања</string>
@@ -543,14 +542,6 @@
   <string name="long_string">дууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууууго</string>
   <string name="mail">E-pošta</string>
   <string name="mail_body_turncated">Ова порука је превелика за учитавање, приказа ће се само део те је прочитајте PC-u касније</string>
-  <string name="mailbox_name_server_all_unread">Непрочитано</string>
-  <string name="mailbox_name_server_drafts">Нацрти</string>
-  <string name="mailbox_name_server_inbox">Примљено</string>
-  <string name="mailbox_name_server_junk">Cмеће</string>
-  <string name="mailbox_name_server_outbox">Послано</string>
-  <string name="mailbox_name_server_sent">Послатo</string>
-  <string name="mailbox_name_server_starred">Са звездицом</string>
-  <string name="mailbox_name_server_trash">Cмеће</string>
   <string name="mail_header_downloading_message_body">Преузимање</string>
   <string name="mail_header_message_body_auto_download_complete">Преузети садржај e-pošte путем WLAN-a.</string>
   <string name="mail_header_message_body_auto_download_tip">Садржај e-pošte ће се преузети путем WLAN-a.</string>
@@ -856,14 +847,9 @@
   <string name="reply">одговор</string>
   <string name="reply_all">Одговори свима</string>
   <string name="reply_attribution" formatted="false">Дана %s особа %s написала је:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"одговори: "</string>
   <string name="report">Пријави</string>
   <string name="report_phishing">Пријавите крађу идентитета</string>
-  <string name="report_rendering_improvement">Изгледа добро</string>
-  <string name="report_rendering_improvement_desc">Ова порука изгледа добро.</string>
-  <string name="report_rendering_problem">Изгледа лоше</string>
-  <string name="report_rendering_problem_desc">Ова порука изгледа лоше.</string>
   <string name="report_spam">Пријавите нежељену пошту</string>
   <string name="request_entity_large">Датотека је превелика</string>
   <string name="require_manual_sync_message">Синхронизација за овај рачун је искључена у ромингу.</string>
