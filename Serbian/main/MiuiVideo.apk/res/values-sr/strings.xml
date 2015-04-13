@@ -60,8 +60,8 @@
   <string name="click_to_login">Додирните за пријаву</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Коментари</string>
-  <string name="comment_count_less_tip">Коментар мора имати најмање d% знакова</string>
-  <string name="comment_count_much_tip">"Коментар не може прелазити d% знакова"</string>
+  <string name="comment_count_less_tip">Коментар мора имати најмање %d знакова</string>
+  <string name="comment_count_much_tip">"Коментар не може прелазити %d знакова"</string>
   <string name="comment_edit_blog_hint">Прикажи на Weibo</string>
   <string name="comment_edit_et_hint">Унеси коментар</string>
   <string name="comment_edit_start_hint">Додирните звезду да оцените</string>
@@ -175,7 +175,7 @@
   <string name="menu_item_enable_audio_enhance">Побољшање звука</string>
   <string name="mipush_setting">Обавештења садржаја</string>
   <string name="month">Месец</string>
-  <string name="more">Више</string>
+  <string name="more">Више %s</string>
   <string name="my_favorite">Фаворити</string>
   <string name="my_offline">Преузето</string>
   <string name="my_video">Локално</string>
@@ -222,7 +222,7 @@
   <string name="rank">Најпопуларније</string>
   <string name="receive_mipush">Обавештења нових видеозаписа</string>
   <string name="receive_mipush_summary">Примање обавештења када је нови запис доступан за гледање на интернету</string>
-  <string name="recent_play">Недавно репродуковано: Еп.%d</string>
+  <string name="recent_play">Недавно репродуковано</string>
   <string name="recentplay">Недавно репродуковано</string>
   <string name="recommend">Препорука</string>
   <string name="reloading_tip">"Не могу се спојити на мрежу"</string>
@@ -282,7 +282,7 @@
   <string name="update_button">Ажурирање</string>
   <string name="update_size_prefix">Size:</string>
   <string name="update_title">Доступно ажурирање</string>
-  <string name="update_to_count_ji">Ажурирано на еп S. %s</string>
+  <string name="update_to_count_ji">Ажурирано на еп S. %d</string>
   <string name="update_version_prefix">Ажурирај на верзију:</string>
   <string name="updateapk_intro">"Шта је ново"</string>
   <string name="updatedalready">Ажурирано</string>

@@ -514,7 +514,7 @@
   <string name="notification_voicemail_no_vm_number">Непознат је број говорне поште</string>
   <string name="notification_voicemail_text_format">Бирај %s</string>
   <string name="notification_voicemail_title">Нова говорна пошта</string>
-  <string name="notification_voicemail_title_count">Нова говорна пошта (%д)</string>
+  <string name="notification_voicemail_title_count">Нова говорна пошта (%d)</string>
   <string name="number">број</string>
   <string name="nw_subset_unlock_failed">Откључавање подскупа SIM-a Mреже неуспешно.</string>
   <string name="nw_subset_unlock_success">Откључавање подскупа SIM-a Мреже успешно.</string>
