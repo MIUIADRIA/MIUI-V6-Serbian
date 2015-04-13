@@ -159,6 +159,7 @@
   <string name="resource_download">Преузимање</string>
   <string name="resource_download_notification_content">Додирните за преглед.</string>
   <string name="resource_download_notification_title_many">Преузето Тема: %1$s</string>
+  <string name="resource_download_notification_title_one">Тема преузетa</string>
   <string name="resource_download_trial">Испробајте бесплатно</string>
   <string name="resource_downloaded_title">Преузети елементи</string>
   <string name="resource_downloading">Преузимам…</string>

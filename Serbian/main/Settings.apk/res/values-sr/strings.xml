@@ -1905,7 +1905,13 @@
   <string name="screen_paper_mode_adjust_level">Prilagodi efekat Načina čitanja</string>
   <string name="screen_paper_mode_apps_loading">Učitavanje…</string>
   <string name="screen_paper_mode_apps_title">Користи начин читања за ове апликације</string>
+  <string name="screen_paper_mode_global_summary">Use reading mode globally，not custom</string>
+  <string name="screen_paper_mode_global_title">Global</string>
+  <string name="screen_paper_mode_local_summary">Use reading mode locally，click right arrow to custom</string>
+  <string name="screen_paper_mode_local_title">Local</string>
   <string name="screen_paper_mode_off_apps_title">"Немој користити Начин читања за следеће апликације"</string>
+  <string name="screen_paper_mode_range_title">Range</string>
+  <string name="screen_paper_mode_set_apps_title">Custom reading mode</string>
   <string name="screen_paper_mode_summary">"Смањи одсјај позадине"</string>
   <string name="screen_paper_mode_title">Начин читања</string>
   <string name="screen_paper_mode_turn_off">Искључено</string>

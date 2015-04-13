@@ -134,7 +134,7 @@
   <string name="lock_screen_setting_summary">Покажи обавештење након искориштених 100kB код заључавања. екрана</string>
   <string name="lock_screen_traffic_guide_notification_summary">Моб. подаци кориштени током закљ. екрана.</string>
   <string name="lock_screen_traffic_guide_notification_title">Искориштено %s mob. података</string>
-  <string name="lock_screen_traffic_notify_body">Locked for %2$s at %1$s, data used %3$s</string>
+  <string name="lock_screen_traffic_notify_body">Закључено за %2$s на %1$s,  Искориштено %3$s мобилних података</string>
   <string name="lock_screen_traffic_purchase_textview">Доплатите бон</string>
   <string name="lock_screen_traffic_warn_title">Обавештења закључаног екрана.</string>
   <string name="main_alert_message_month_limit_error">Ограничење података које сте поставили је нетачно</string>
@@ -422,6 +422,7 @@
   <string name="traffic_saving_toast_start_none_mobile">Уштеда почиње приликом коришћења нових података</string>
   <string name="traffic_saving_toast_start_unreachable">"Не могу покренути уштеду"</string>
   <string name="traffic_saving_toast_stop">Уштеда података искључена</string>
+  <string name="traffic_saving_whitelist_btn_add">Додај</string>
   <string name="traffic_saving_whitelist_btn_add_app">Додај</string>
   <string name="traffic_saving_whitelist_btn_added">Додато</string>
   <string name="traffic_saving_whitelist_btn_remove">Уклони</string>

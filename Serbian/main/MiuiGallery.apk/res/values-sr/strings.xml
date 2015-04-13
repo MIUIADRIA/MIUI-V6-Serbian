@@ -66,6 +66,7 @@
   <string name="auto_upload_guide">Аутоматски учитајте ваше фотографије са других апликација на Mi Cloud</string>
   <string name="auto_upload_guide_msssage">"Аутоматски преузмите своје фотографије из других апликација на Мi cloud. Погледајте подешавања у Подешавања Галерије - Sink. s Mi Cloud - Аутоматски учитај"</string>
   <string name="auto_upload_guide_title">Аутоматски учитај</string>
+  <string name="auto_upload_title">Синхро. Аутоматски</string>
   <string name="autofix">Аут. поправак</string>
   <string name="autohomemain">Autohomemain</string>
   <string name="baidu_bdmobile_downloads">Baidu Mobile</string>

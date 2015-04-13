@@ -38,6 +38,7 @@
   <string name="login_sync">Пријави се &amp; Синх.</string>
   <string name="menu_create_folder">Нова мапа</string>
   <string name="menu_delete">"Избриши"</string>
+  <string name="menu_folders">Мапe</string>
   <string name="menu_move">Премести</string>
   <string name="menu_move_parent_folder">Старија мапа</string>
   <string name="menu_send_to_desktop">Додај на почетни екран</string>
@@ -73,6 +74,7 @@
   <string name="search_setting_description">Текст у вашим белешкама</string>
   <string name="select_account_prompt">Синх. белешке</string>
   <string name="sina_share_fail">Слање није успело</string>
+  <string name="sina_share_fail_content_repeat">"Не могу да поделим, садржај већ постоји…"</string>
   <string name="sina_share_pendding">Шаљем…</string>
   <string name="sina_share_success">Послато</string>
   <string name="sina_token_expired_warning">Weibo је истекао: Обновите рачун</string>

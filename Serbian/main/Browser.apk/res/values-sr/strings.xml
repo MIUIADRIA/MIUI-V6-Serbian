@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Почетна страница</string>
+  <string name="action_menu_text_fullscreen">Full screen</string>
   <string name="accessibility_button_clear">Обриши унос</string>
   <string name="accessibility_content_view">Web-приказ</string>
   <string name="accessibility_date_picker_month">Месец</string>
@@ -44,6 +45,8 @@
   <string name="add_quicklink_to_popular">Додај на почетну страницу</string>
   <string name="add_quicklinks">на почетну страницу</string>
   <string name="add_to_bookmark">Ознаке</string>
+  <string name="add_to_desk">Place on Home screen</string>
+  <string name="add_to_desk_success">Placed on Home screen</string>
   <string name="add_to_quicklink">Почетна страница</string>
   <string name="added_to_bookmarks">Додато у ознаке.</string>
   <string name="adjust_text_zoom_toast">Промена текста зумирањем може проузроковати да се неке web странице погрешно приказују</string>
@@ -101,6 +104,7 @@
   <string name="bookmark_to_readmodelist_not_saved">"Не могу додати на попис читања."</string>
   <string name="bookmark_to_readmodelist_saved">Спремљено на попис читања.</string>
   <string name="bookmark_url">URL http://</string>
+  <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Овај URL није добар."</string>
   <string name="bookmarks">Ознаке</string>
