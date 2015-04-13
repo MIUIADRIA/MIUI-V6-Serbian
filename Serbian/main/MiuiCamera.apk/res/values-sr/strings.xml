@@ -355,7 +355,6 @@
   <string name="toast_start_audio_capture">Направите звук на окидању</string>
   <string name="ubi_focus_capture_fail">"Не могу снимити фотографију"</string>
   <string name="ubifocus_capture_warning_message">За најбоље резултате, ваша фотографија би требала садржати објекте и близу (мање од 1 метра од објектива) и далеко</string>
-  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Достигнуто ограничење величине.</string>
   <string name="wait">Причекајте…</string>
 </resources>
