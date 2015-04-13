@@ -105,7 +105,7 @@
   <string name="copy_message_text_success">Текс успешно кпиран!</string>
   <string name="copy_to_sdcard">Спреми прилог</string>
   <string name="copy_to_sdcard_fail">Немогуће спремити прилог</string>
-  <string name="copy_to_sdcard_success">Прилог спремљен</string>
+  <string name="copy_to_sdcard_success">Прилог спремљен %s</string>
   <string name="database_corruption">Поправак базе података</string>
   <string name="delete">Избриши</string>
   <string name="delete_bookmark">Уклонити из фаворита</string>
@@ -312,7 +312,7 @@
   <string name="phrase_confirm_delete_message">Одабрани излаз ће бити избрисан</string>
   <string name="phrase_empty">Нема израза</string>
   <string name="phrase_from">Шаље %1s</string>
-  <string name="phrase_list_title" formatted="false">израза (%1$d)</string>
+  <string name="phrase_list_title">израза</string>
   <string name="pick_too_many_recipients">Превише доданих примиоца</string>
   <string name="play">Репродукуј</string>
   <string name="playing_failed">"Не могу репродуковати"</string>
@@ -483,7 +483,6 @@
   <string name="snippet_picture">[слика]</string>
   <string name="sp_category_all">Све поруке услуга</string>
   <string name="sp_category_bank">Обавештења поруке из банке</string>
-  <string name="sp_category_title_prefix">%с</string>
   <string name="sp_conversation_title">Обавештења</string>
   <string name="sp_mark_as_read">Означити све поруке прочитанима?</string>
   <string name="sp_mark_as_read_progress">обрада</string>

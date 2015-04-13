@@ -127,7 +127,7 @@
 Проверите свој број за праћење."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Број за праћење</string>
-  <string name="express_inquiry_serial_number_prefix">"Сериски број: "</string>
+  <string name="express_inquiry_serial_number_prefix">"Сериски број: %s"</string>
   <string name="express_inquiry_trace">Прати</string>
   <string name="express_inquiry_trace_success">Праћено</string>
   <string name="express_inquiry_trace_user_notice_content">"Обавијестити ћемо вас о промени статуса ваше поруџбине."</string>
@@ -249,16 +249,16 @@
   <string name="notify_connect_title">Oбавештење повезивања на интернет</string>
   <string name="online_no_network">"Не могу се повезати на мрежу"</string>
   <string name="online_search_hint">Претраживање на онлине ресурсима</string>
-  <string name="order_date_label">Датум поруџбине: %s</string>
+  <string name="order_date_label">Датум поруџбине: </string>
   <string name="order_empty_hint">Нема поруџбине</string>
-  <string name="order_id_label">ID поруџбе: %s</string>
+  <string name="order_id_label">ID поруџбе:</string>
   <string name="order_merchant_title">Моје поруџбине</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Нема повезаних поруџбина</string>
-  <string name="order_price_label">Цена поруџбине: %s</string>
+  <string name="order_price_label">Цена поруџбине:</string>
   <string name="order_product_name_label">"Нема производа: "</string>
   <string name="order_status">%s</string>
-  <string name="order_status_label">Статус поруџбине: %s</string>
+  <string name="order_status_label">Статус поруџбине:</string>
   <string name="order_type_recharge">Доплата</string>
   <string name="packages_no_package">Нема препоручених пакета</string>
   <string name="packages_pay">купи</string>

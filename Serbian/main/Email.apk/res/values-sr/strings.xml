@@ -183,7 +183,7 @@
   <string name="account_setup_outgoing_smtp_server_label">SMTP сервер</string>
   <string name="account_setup_outgoing_title">Постављање рачуна</string>
   <string name="account_setup_outgoing_username_label">Корисничко име</string>
-  <string name="account_setup_security_policies_required_fmt">Сервер% с захтева да му омогућите даљинско управљање неким безбедносним функцијама свог Андроид уређаја. Желите ли довршити постављање овог рачуна?</string>
+  <string name="account_setup_security_policies_required_fmt">Сервер %s захтева да му омогућите даљинско управљање неким безбедносним функцијама свог Андроид уређаја. Желите ли довршити постављање овог рачуна?</string>
   <string name="account_setup_security_required_title">Сигурносна администрација на даљину</string>
   <string name="account_setup_server_acc_manager_title">Управитељ рачуна</string>
   <string name="account_setup_service_not_set">"Рачун није постављен"</string>
@@ -703,11 +703,11 @@
   <string name="parase_setup_data">Добивање података…</string>
   <string name="password_changed_prompt">"Не могу се пријавити."</string>
   <string name="password_expire_warning_content_title">Истиче лозинка за закључавање екрана</string>
-  <string name="password_expire_warning_dialog_content_fmt">Ускоро морате променити свој ​​PIN или лозинку за закључавање екрана или ће бити избрисани подаци за рачун% с. Желите ли то променити сада?</string>
+  <string name="password_expire_warning_dialog_content_fmt">Ускоро морате променити свој ​​PIN или лозинку за закључавање екрана или ће бити избрисани подаци за рачун %s. Желите ли то променити сада?</string>
   <string name="password_expire_warning_dialog_title">Истиче лозинка за закључавање екрана</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" захтева да промените PIN или лозинку за закључавање екрана.</string>
   <string name="password_expired_content_title">Истекла зап. за закљ. засл.</string>
-  <string name="password_expired_dialog_content_fmt">Подаци за рачун% с бришу се са вашег уређаја. Можете их вратити променом PIN-a или лозинке за закључавање. Желите ли то променити сада?</string>
+  <string name="password_expired_dialog_content_fmt">Подаци за рачун %s бришу се са вашег уређаја. Можете их вратити променом PIN-a или лозинке за закључавање. Желите ли то променити сада?</string>
   <string name="password_expired_dialog_title">Истекла зап. за закљ. засл.</string>
   <string name="password_expired_ticker">PIN или лозинка за закључавање екрана истекли су.</string>
   <string name="perference_change_pw">Промена лозинке</string>

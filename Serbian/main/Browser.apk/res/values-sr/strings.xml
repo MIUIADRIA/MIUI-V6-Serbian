@@ -268,7 +268,7 @@
   <string name="general_set_default_browser_dialog_summary">Употреби MIUI-уграђене апликације за брже и једноставније перформансе</string>
   <string name="general_set_default_browser_title">Подеси као изабрани Претраживач</string>
   <string name="geolocation_permissions_prompt_dont_share">Одби</string>
-  <string name="geolocation_permissions_prompt_message">жели знати вашу локацију</string>
+  <string name="geolocation_permissions_prompt_message">%s жели знати вашу локацију</string>
   <string name="geolocation_permissions_prompt_remember">запамти предности</string>
   <string name="geolocation_permissions_prompt_share">Дели локацију</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Ова страница може приступити детаљима ваше апликације. То можете променити у поставке &gt; Напредно &gt; Подаци Web странице.</string>

@@ -38,61 +38,9 @@
         <item>Прилагођено</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Почетна</item>
+        <item>Кућа</item>
         <item>Посао</item>
-        <item>Остало</item>
+        <item>Друго</item>
         <item>Прилагођено</item>
-    </string-array>
-    <string-array name="app_ops_labels">
-        <item>Локација</item>
-        <item>Локација</item>
-        <item>Локација</item>
-        <item>Вибрирање</item>
-        <item>Читање контаката</item>
-        <item>Измена контаката</item>
-        <item>Читање записника позива</item>
-        <item>Измена записника позива</item>
-        <item>Читање календара</item>
-        <item>Измена календара</item>
-        <item>Локација</item>
-        <item>Објављивање обавештења</item>
-        <item>Локација</item>
-        <item>Позив на телефон</item>
-        <item>Читање SMS-a/MMS-a</item>
-        <item>Писање SMS-a/MMS-a</item>
-        <item>Примање SMS-a/MMS-a</item>
-        <item>Примање SMS-a/MMS-a</item>
-        <item>Примање SMS-a/MMS-a</item>
-        <item>Примање SMS-a/MMS-a</item>
-        <item>Слање SMS-a/MMS-a</item>
-        <item>Читање SMS-a/MMS-a</item>
-        <item>Писање SMS-a/MMS-a</item>
-        <item>Измена поставки</item>
-        <item>Повлачење на врх</item>
-        <item>Приступ обавештењима</item>
-        <item>Камера</item>
-        <item>Снимање звука</item>
-        <item>Репродукција аудио записа</item>
-        <item>Читање бафера</item>
-        <item>Измена долазне поште</item>
-        <item>Измени бафер</item>
-        <item>Медиска дугмад</item>
-        <item>Аудиофокус</item>
-        <item>Главна гласноћа</item>
-        <item>Гласноћа гласа</item>
-        <item>Гласноћа звона</item>
-        <item>Гласноћа медиа</item>
-        <item>Гласноћа аларма</item>
-        <item>Гласноћа обавештења</item>
-        <item>Гласноћа Bluetootha</item>
-        <item>Задржи у активном стању</item>
-        <item>Локација</item>
-        <item>Локација</item>
-        <item>Укљ./искљ WLAN</item>
-        <item>Укљ./искљ Bluetooth</item>
-        <item>Укљ./искљ. података</item>
-        <item>Локација</item>
-        <item>Локација</item>
-        <item>Покрени код покретања</item>
     </string-array>
 </resources>
