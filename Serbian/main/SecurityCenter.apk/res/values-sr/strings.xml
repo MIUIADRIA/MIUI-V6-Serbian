@@ -7,7 +7,7 @@
   <string name="Settings_title_network_assistants">Подешавања употребе меморије</string>
   <string name="Settings_title_power_center">Подешавања батерије</string>
   <string name="activity_title_ad">Реклама</string>
-  <string name="activity_title_antispam">AntiSpam</string>
+  <string name="activity_title_antispam">Антиспам</string>
   <string name="activity_title_antivirus">АнтиВирус</string>
   <string name="activity_title_apk">Пакети</string>
   <string name="activity_title_apps_manager">Апл.</string>
@@ -312,7 +312,7 @@
   <string name="menu_item_about_title">О апликацији</string>
   <string name="menu_item_app_details">Детаљи</string>
   <string name="menu_item_app_permissions_control">Управљач Допуштења</string>
-  <string name="menu_item_control_app_permissions">Апликација ће питати за дозволу пре него сто јој се допусти приступ вашим контактима, историји позива, подешавањима промене система и камере и осталим ресурсима уређаја</string>
+  <string name="menu_item_control_app_permissions">Апликација ће питати за дозволу пре него што јој се допусти приступ вашим контактима, историји позива, подешавањима промене система и камере и осталим ресурсима уређаја</string>
   <string name="menu_item_force_stop">Присилно заустави</string>
   <string name="menu_item_notification_antispam_text_avail">Спам</string>
   <string name="menu_item_notification_antispam_text_normal">Спам</string>
@@ -330,8 +330,8 @@
   <string name="menu_item_virus_install_monitor_title">Скенирање апликација пре инсталирања</string>
   <string name="menu_item_virus_lib_auto_update_summary">Ажурирано на %s</string>
   <string name="menu_item_virus_lib_auto_update_title">Ажурирај аутоматски</string>
-  <string name="menu_text_antispam">AntiSpam</string>
-  <string name="menu_text_antivirus">AntiVirus</string>
+  <string name="menu_text_antispam">Антиспам</string>
+  <string name="menu_text_antivirus">Анти Вирус</string>
   <string name="menu_text_garbage_cleanup">Чистач</string>
   <string name="menu_text_license_manager">Допуштења</string>
   <string name="menu_text_networkassistants">Потрошња података</string>

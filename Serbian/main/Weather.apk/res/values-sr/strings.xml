@@ -16,7 +16,7 @@
   <string name="act_weather_find_city_searching">Претраживање…</string>
   <string name="activity_find_city_dialog_cancel">Одустани</string>
   <string name="activity_find_city_dialog_message">Нека Време користи услугу лоцирања</string>
-  <string name="activity_find_city_dialog_set">Поставке</string>
+  <string name="activity_find_city_dialog_set">Подешавања</string>
   <string name="activity_find_city_dialog_title">Услуга лоцирана</string>
   <string name="activity_main_refresh_time">Задње ажурирање %1$s</string>
   <string name="activity_main_refresh_timeout">Ажурирање није успело</string>
@@ -27,7 +27,7 @@
   <string name="activity_weathermain_locationg">Лоцирање…</string>
   <string name="activity_weathermain_locationg_error">"Не могу лоцирати"</string>
   <string name="add_city">Додај</string>
-  <string name="app_label">Пружатељ врем. пргнозе</string>
+  <string name="app_label">Пружаоц врем. прогнозе</string>
   <string name="app_name">Време</string>
   <string name="application_screenorientation">Портрет</string>
   <string name="aqi_quality_index_break">AQI %1$s</string>

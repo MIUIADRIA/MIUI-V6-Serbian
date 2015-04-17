@@ -44,8 +44,8 @@
   <string name="accessibility_wimax_signal_full">WiMAX пуни сигнал.</string>
   <string name="accessibility_wimax_three_bars">WiMAX три линије.</string>
   <string name="accessibility_wimax_two_bars">WiMAX две линије.</string>
-  <string name="always_use_accessory">"Користи се као задата поставка за овај USB додатак"</string>
-  <string name="always_use_device">"Користи се као задата поставка за овај USB уређај"</string>
+  <string name="always_use_accessory">"Користи се као задата подешавања за овај USB додатак"</string>
+  <string name="always_use_device">"Користи се као задата подешавања за овај USB уређај"</string>
   <string name="app_label">"UI Система"</string>
   <string name="audio_effect_custom">Конфигуриши</string>
   <string name="audio_effect_info">Оптимизуј звук</string>

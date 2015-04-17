@@ -28,11 +28,11 @@
   <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day"/>
   <string name="easter">Ускрс</string>
-  <string name="first_back_long_press_message">Дуги притисак на дугме "Назад" ће зауставити тренутни процес и његове позадинске услуге. За омогућавање ове функције, идите на Поставке &gt; Систем &gt; Дирке</string>
+  <string name="first_back_long_press_message">Дуги притисак на дугме "Назад" ће зауставити тренутни процес и његове позадинске услуге. За омогућавање ове функције, идите на Подешавања &gt; Систем &gt; Дирке</string>
   <string name="fm_record_smaple_prefix_miui">Снимање</string>
   <string name="fools_day">Први април</string>
   <string name="force_exit_message">"Успешно затворена апликација: \"%1$s"</string>
-  <string name="global_actions_airplane_mode">"Ваздухопловни начин"</string>
+  <string name="global_actions_airplane_mode">"Авионски начин"</string>
   <string name="global_actions_reboot">"Поново покрени"</string>
   <string name="global_actions_shutdown">"Искључи"</string>
   <string name="global_actions_silent_mode">"Бешумни начин"</string>
@@ -55,7 +55,7 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
-  <string name="lockscreen_access_pattern_cell_added">"Додан је мобилни"</string>
+  <string name="lockscreen_access_pattern_cell_added">"Додат је мобилни"</string>
   <string name="lockscreen_access_pattern_cleared">"Узорак је обрисан"</string>
   <string name="lockscreen_access_pattern_detected">"Узорак је довршен"</string>
   <string name="lockscreen_access_pattern_start">"Узорак се покренуо"</string>

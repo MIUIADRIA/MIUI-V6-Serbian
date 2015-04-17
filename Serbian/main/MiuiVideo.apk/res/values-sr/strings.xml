@@ -203,7 +203,7 @@
   <string name="offline_setting">Обавештења употребе података</string>
   <string name="ok">У реду</string>
   <string name="online_video">Интернет</string>
-  <string name="other_setting">Додатне поставке</string>
+  <string name="other_setting">Додатнa подешавања</string>
   <string name="partner_specials">Садржај партнера</string>
   <string name="pause">Пауза</string>
   <string name="percent_status">%.1f%%</string>
@@ -247,7 +247,7 @@
   <string name="select_tv_empty_hint">Празно</string>
   <string name="select_tvs">Одабери уређај</string>
   <string name="send">Пошаљи</string>
-  <string name="setting">Поставке</string>
+  <string name="setting">Подешавања</string>
   <string name="share_device">Дељени уређаји</string>
   <string name="sina">Сина</string>
   <string name="souhu">Souhu</string>
@@ -330,7 +330,7 @@
   <string name="vp_exit">Излаз</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Репродукуј у пуном екрану</string>
-  <string name="vp_function">Поставке</string>
+  <string name="vp_function">Подешавања</string>
   <string name="vp_get_url_error">"Не могу проћи URL за овај видо запис."</string>
   <string name="vp_hide_media_info">Сакри детаље видеозаписа</string>
   <string name="vp_high_definition">HD</string>

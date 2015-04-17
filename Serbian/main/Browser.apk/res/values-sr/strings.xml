@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_startpage">Почетна страница</string>
-  <string name="action_menu_text_fullscreen">Full screen</string>
+  <string name="action_menu_text_fullscreen">Пуни екран</string>
   <string name="accessibility_button_clear">Обриши унос</string>
   <string name="accessibility_content_view">Web-приказ</string>
   <string name="accessibility_date_picker_month">Месец</string>
@@ -26,7 +26,7 @@
   <string name="action_menu_text_nightmode">Ноћни мод</string>
   <string name="action_menu_text_nightmode_off">Ноћни мод искљ.</string>
   <string name="action_menu_text_nightmode_on">Ноћни мод укљ.</string>
-  <string name="action_menu_text_setting">Поставке</string>
+  <string name="action_menu_text_setting">Подешавања</string>
   <string name="action_menu_text_share">Дели</string>
   <string name="action_menu_text_snapshot">Спреми страницу</string>
   <string name="action_menu_text_video">Видео</string>
@@ -45,8 +45,8 @@
   <string name="add_quicklink_to_popular">Додај на почетну страницу</string>
   <string name="add_quicklinks">на почетну страницу</string>
   <string name="add_to_bookmark">Ознаке</string>
-  <string name="add_to_desk">Place on Home screen</string>
-  <string name="add_to_desk_success">Placed on Home screen</string>
+  <string name="add_to_desk">Место на почетном екрану</string>
+  <string name="add_to_desk_success">Стављен на почетном екрану</string>
   <string name="add_to_quicklink">Почетна страница</string>
   <string name="added_to_bookmarks">Додато у ознаке.</string>
   <string name="adjust_text_zoom_toast">Промена текста зумирањем може проузроковати да се неке web странице погрешно приказују</string>
@@ -75,7 +75,7 @@
   <string name="autofill_profile_successful_delete">Текст аутоматског уписивања избрисан.</string>
   <string name="autofill_profile_successful_save">Текст аутомацког уписивања сачуван.</string>
   <string name="autofill_setup_dialog_message">Претраживач аутоматски може сачувати web-обрасце као што је овај један. Желите ли поставити аутомацко уписивање текста?</string>
-  <string name="autofill_setup_dialog_negative_toast">Увек можете поставити текст са аутомацко уписивање са екрана у Претраживач &gt; Поставке &gt; Уопштено.</string>
+  <string name="autofill_setup_dialog_negative_toast">Увек можете поставити текст са аутомацко уписивање са екрана у Претраживач &gt; Подешавања &gt; Уопштено.</string>
   <string name="autologin_bar_error">"Неуспела пријава."</string>
   <string name="autologin_bar_hide_text">Сакри</string>
   <string name="autologin_bar_login_text">Пријава</string>
@@ -104,7 +104,7 @@
   <string name="bookmark_to_readmodelist_not_saved">"Не могу додати на попис читања."</string>
   <string name="bookmark_to_readmodelist_saved">Спремљено на попис читања.</string>
   <string name="bookmark_url">URL http://</string>
-  <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
+  <string name="bookmark_url_already_exisit">"Већ сте обележили овај URL"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Овај URL није добар."</string>
   <string name="bookmarks">Ознаке</string>
@@ -130,7 +130,7 @@
   <string name="clip_dialog_title">Отворите копирану везу?</string>
   <string name="close_ads_choice_no">Допусти</string>
   <string name="close_ads_choice_yes">Блокирај</string>
-  <string name="close_ads_message">"Блокирати садржај са ове web странице? Можете видети које сте странице блокирали у Поставке &gt; Напредно &gt; Блокиране странице."</string>
+  <string name="close_ads_message">"Блокирати садржај са ове web странице? Можете видети које сте странице блокирали у Подешавања &gt; Напредно &gt; Блокиране странице."</string>
   <string name="close_ads_title">Блокирати садржај?</string>
   <string name="close_all_tab_alert_message">Затворити све картице тренутно отворене у Претраживачу?</string>
   <string name="close_all_tab_alert_title">Затвори све картице</string>
@@ -275,7 +275,7 @@
   <string name="geolocation_permissions_prompt_message">%s жели знати вашу локацију</string>
   <string name="geolocation_permissions_prompt_remember">запамти предности</string>
   <string name="geolocation_permissions_prompt_share">Дели локацију</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Ова страница може приступити детаљима ваше апликације. То можете променити у поставке &gt; Напредно &gt; Подаци Web странице.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Ова страница може приступити детаљима ваше апликације. То можете променити у подешавањима &gt; Напредно &gt; Подаци Web странице.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Ова страница не може приступити вашој локацији</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Откажи</string>
   <string name="geolocation_settings_page_dialog_message">Очисти приступ локацији за ову страницу?</string>
@@ -340,7 +340,7 @@
   <string name="menu_exit_nightmode">Излаз</string>
   <string name="menu_hv_swap">V/H екрана</string>
   <string name="menu_nightmode">Ноћни начин</string>
-  <string name="menu_preferences">Поставке</string>
+  <string name="menu_preferences">Подешавања</string>
   <string name="menu_save_bandwidth_mode_close_toast">Мобилни чеп подаци онемогућени</string>
   <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">У реду</string>
   <string name="menu_save_bandwidth_mode_first_clicked_txt">"Претраживач неће користити мобилне податке за предучитавање страница или приказ слика."</string>
@@ -375,7 +375,7 @@
   <string name="miuichromium_error_page_reload">Учитај поново</string>
   <string name="miuichromium_error_page_title">Није могуће учитати ову страницу</string>
   <string name="miuichromium_error_page_url">Прикажи URL</string>
-  <string name="miuichromium_error_page_wlan">Поставке WLAN-a</string>
+  <string name="miuichromium_error_page_wlan">Подешавања WLAN-a</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">USB меморија је потребна за измену ове путање</string>
   <string name="month_picker_dialog_title">Поставите месец</string>
   <string name="move_to_up_folder">Један ниво горе</string>
@@ -433,7 +433,7 @@
   <string name="pref_content_block_float_popups">Блокирај искачуће прозоре</string>
   <string name="pref_content_block_popups">Блокирај искачуће прозоре</string>
   <string name="pref_content_cloud_speedup">Учитавај садржај брже помоћу proxy сервера</string>
-  <string name="pref_content_fontsize_setting">Поставке фонта</string>
+  <string name="pref_content_fontsize_setting">Подешавање фонта</string>
   <string name="pref_content_homepage">Постави почетну страницу</string>
   <string name="pref_content_javascript">Омогући JavaScript</string>
   <string name="pref_content_load_page">Отвори странице у претраживачу</string>
@@ -468,12 +468,12 @@
   <string name="pref_enable_adblock_notification">Прикажи обавештења Блокирања реклама</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Изађи затварањем задње картице</string>
   <string name="pref_extras_reset_default">Врати на задато</string>
-  <string name="pref_extras_reset_default_dlg">Вратити поставке на задате вредности?</string>
+  <string name="pref_extras_reset_default_dlg">Вратити подешавања на задате вредности?</string>
   <string name="pref_extras_reset_default_summary">Врати на задате вредности</string>
   <string name="pref_extras_reset_default_title">Врати на задато</string>
   <string name="pref_extras_title">Напредно</string>
-  <string name="pref_extras_website_settings">Поставке web-lokacije</string>
-  <string name="pref_extras_website_settings_summary">Напредне поставке за појединачне web-локације</string>
+  <string name="pref_extras_website_settings">Подешавања web-локације</string>
+  <string name="pref_extras_website_settings_summary">Напредна подешавања за појединачне web-локације</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Спреми датотеке на задату локацију Претраживача"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Врати на задату локацију</string>
   <string name="pref_file_download_default_path_prefix">Задата локација: %s</string>
@@ -486,7 +486,7 @@
   <string name="pref_force_userscalable_summary">"Пребриши захтев неких web локација за контролу понашања зумирања"</string>
   <string name="pref_general_autofill_title">Ауто-попуњавање</string>
   <string name="pref_general_exit_setting_title">Излаз из поставака</string>
-  <string name="pref_general_setting_title">Поставке</string>
+  <string name="pref_general_setting_title">Подешавања</string>
   <string name="pref_general_title">Уопштено</string>
   <string name="pref_gesture_title">Гесте</string>
   <string name="pref_images_preload_dialogtitle">Предучитавање слика…</string>
@@ -498,8 +498,8 @@
   <string name="pref_inverted">Обрнуто рендирање екрана</string>
   <string name="pref_inverted_category">Обрнуто рендирање екрана</string>
   <string name="pref_inverted_contrast">Контраст</string>
-  <string name="pref_key_gesture_title">Gumbi &amp; геста</string>
-  <string name="pref_key_title">Поставке gumba</string>
+  <string name="pref_key_gesture_title">Дугмад &amp; геста</string>
+  <string name="pref_key_title">Подешавања Дугмади</string>
   <string name="pref_link_prefetch_dialogtitle">Предучитавање web страница</string>
   <string name="pref_link_prefetch_summary">Допустити претраживачу  повезаних web страница у позадини</string>
   <string name="pref_link_prefetch_title">Предучитавање web страница</string>
@@ -545,7 +545,7 @@
   <string name="pref_security_show_security_warning">Прикажи Сигурносно упозорење</string>
   <string name="pref_security_show_security_warning_summary">"Прикажи упозорење ако постоји проблем са сигурношћу странице"</string>
   <string name="pref_set_homepage_to">Постави на</string>
-  <string name="pref_setting_title">Поставке странице</string>
+  <string name="pref_setting_title">Подешавање странице</string>
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_string">Низ корисничког агента</string>
   <string name="pref_ua_title">Управљање корисничким агентом</string>
@@ -554,7 +554,7 @@
   <string name="pref_video_preload_summary">: Предучитај видео записе када сервер то допусти</string>
   <string name="pref_video_preload_title">Предучитавање видео записа</string>
   <string name="pref_volume_key_action">Помичите помоћу типки за гласноћу</string>
-  <string name="pref_volume_key_enabled">Типке за гласноћу</string>
+  <string name="pref_volume_key_enabled">Тастер за гласноћу</string>
   <string name="pref_volume_key_operation">Функција типки за гласноћу</string>
   <string name="pref_webapp_settings_fontsize">Величина фонта</string>
   <string name="pref_webapp_settings_hidebottombar">Сакри доњу траку</string>
@@ -773,9 +773,9 @@
   <string name="webapp_menu_exit">Излаз</string>
   <string name="webapp_menu_favorites">Фаворити</string>
   <string name="webapp_menu_nightmode">Ноћни мод</string>
-  <string name="webapp_menu_settings">Поставке</string>
+  <string name="webapp_menu_settings">Подешавања</string>
   <string name="webapp_menu_share">Дели</string>
-  <string name="webapp_settings_title">Поставке</string>
+  <string name="webapp_settings_title">Подешавања</string>
   <string name="webapp_splashview_loading">Учитавам…</string>
   <string name="webapp_webapp_favortes_title">Фаворити</string>
   <string name="webpage_bookmark_title">Ознака</string>

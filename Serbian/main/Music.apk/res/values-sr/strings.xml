@@ -73,12 +73,12 @@
   <string name="download_auto_quality_alert_title">Квалитет преузимања музике</string>
   <string name="download_auto_when_all_network">Користи мобилну мрежу и WLAN</string>
   <string name="download_auto_when_free_network">Користи само WLAN</string>
-  <string name="download_auto_when_free_network_summary">Додатне поставке за песме које су вам фаворити</string>
+  <string name="download_auto_when_free_network_summary">Додатнa подешавања за песме које су вам фаворити</string>
   <string name="download_completed">Преузето</string>
   <string name="download_method">Преузми</string>
   <string name="download_processing">Преузимање…</string>
   <string name="download_quality">Квалитет преузимања</string>
-  <string name="download_quality_summary">Додатне поставке за песме које сте преузели</string>
+  <string name="download_quality_summary">Додатна подешавања за песме које сте преузели</string>
   <string name="download_while_playing_summary">Аутоматски преузми песме које очитавате online</string>
   <string name="download_while_playing_title">Слушај за време преузимања</string>
   <string name="empty_page_no_album">Нема албума.</string>
@@ -170,7 +170,7 @@
   <string name="lyric">Текст</string>
   <string name="lyric_is_empty">Текст је недоступан</string>
   <string name="lyric_open_other_connect">Преузми текст користећи мобилну мрежу</string>
-  <string name="lyric_setting">Поставке текста</string>
+  <string name="lyric_setting">Подешавање текста</string>
   <string name="max_sleep_time">90</string>
   <string name="metered_alert">Упозорење употребе података</string>
   <string name="metered_alert_msg">"Коришћење ваше мобилне мреже за слушање музике ће повећати вашу употребу података. Ако прекорачите ваше месечно ограничење, то може довести до високих додатних трошкова."</string>
@@ -224,7 +224,7 @@
   <string name="playlist_renamed_message">Листа песама преименована.</string>
   <string name="please_download_first">Морате преузети ту песму пре да бисте је могли поставити као звук звона</string>
   <string name="please_search_or_select">Претражите или поставите поље</string>
-  <string name="presonal_center">Поставке рачуна</string>
+  <string name="presonal_center">Подешавање рачуна</string>
   <string name="priority_storage">Користи спољашњу SD картицу</string>
   <string name="priority_storage_summary">Аутоматско преузимање на спољашњу SD картицу ако је доступна</string>
   <string name="project_device">Mi Телефон</string>
@@ -276,7 +276,7 @@
   <string name="tab_local_folder_list">Мапе</string>
   <string name="tab_local_track_list">Песме</string>
   <string name="tab_track_list">Песме</string>
-  <string name="take_effect_afater_restart">Морате поново покренути апликацију да ове поставке ступе на снагу.</string>
+  <string name="take_effect_afater_restart">Морате поново покренути апликацију да ова подешавања ступе на снагу.</string>
   <string name="today_update">Музика је ажурирана</string>
   <string name="track_list_control_download">"Преузми"</string>
   <string name="track_list_control_edit_add_tracks">Додај песме</string>

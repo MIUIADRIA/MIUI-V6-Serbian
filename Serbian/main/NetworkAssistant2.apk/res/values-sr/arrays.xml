@@ -52,7 +52,7 @@
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Набавите предлог поруке аутоматски</item>
-        <item>Поставите предлог поруке ручно</item>
+        <item>Подесите предлог поруке ручно</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Покажи упозорење</item>

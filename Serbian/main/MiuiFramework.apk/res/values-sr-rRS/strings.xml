@@ -31,7 +31,7 @@
   <string name="double_seventh_day"/>
   <string name="easter">Ускрс</string>
   <string name="first_back_long_press_message">"Притисните &amp; држите дирку Назад за искљушивање тренутног процеса и његових позадинских услуга. 
-За укључивање ове функције, идите на Поставке &gt; Додатне поставке &gt; Дирке</string>
+За укључивање ове функције, идите на Подешавања &gt; Додатна подешавања &gt; Дирке</string>
   <string name="fm_record_smaple_prefix_miui">FM Снимање</string>
   <string name="fools_day">1. април</string>
   <string name="force_exit_message">Успешно затворена апликација: \"%1$s\"</string>
@@ -87,10 +87,10 @@
   <string name="lunar_yi">" "</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">" "</string>
-  <string name="maml_component_customization_title">Поставке</string>
+  <string name="maml_component_customization_title">Подешавања</string>
   <string name="memory_clear_nothing_result">Употреба меморије је већ оптимизована.</string>
   <string name="memory_clear_result">"Избрисано: %1$s Доступно: %2$s"</string>
-  <string name="miui_device_name">Android</string>
+  <string name="miui_device_name">Андроид</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
   <string name="new_years_day"/>
@@ -115,7 +115,7 @@
   <string name="screen_on_proximity_sensor_hint">"За искључивање ове функције, истовремено притисните дирке \"Назад\" и \"Повећање гласноће\"."</string>
   <string name="screen_on_proximity_sensor_summary">Немојте покрити наранџасти део екрана.</string>
   <string name="screen_on_proximity_sensor_title">Спречи случајно бирање у џепу</string>
-  <string name="screen_paper_mode_enter_toast">Начин читања је искључен. Можете укључити/искључити ову функцију у било којем тренутку у Додатне поставке &gt; Начин читања.</string>
+  <string name="screen_paper_mode_enter_toast">Начин читања је искључен. Можете укључити/искључити ову функцију у било којем тренутку у Додатна подешавања &gt; Начин читања.</string>
   <string name="screen_rotation_freeze_message">Ауто. ротација онемогућена.</string>
   <string name="select">Одабери</string>
   <string name="select_all">Одабери све</string>
@@ -139,7 +139,7 @@
   <string name="status_bar_toggle_flight_mode">Авионски мод</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Закљ.</string>
-  <string name="status_bar_toggle_mute">Bešumno</string>
+  <string name="status_bar_toggle_mute">Бешумно</string>
   <string name="status_bar_toggle_network_type">Мрежа</string>
   <string name="status_bar_toggle_paper_mode">Начин читања</string>
   <string name="status_bar_toggle_power_mode">Перформансе</string>
@@ -157,7 +157,7 @@
   <string name="status_bar_toggle_torch">Лампа</string>
   <string name="status_bar_toggle_vibrate">Вибрација</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
-  <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="status_bar_toggle_wifi_ap">Хотспот</string>
   <string name="stopping_the_heat"/>
   <string name="summer_begins"/>
   <string name="summer_solstice"/>
@@ -174,14 +174,14 @@
   <string name="tw_youth_day"/>
   <string name="united_nations_day">Дан уједињених народа</string>
   <string name="unknown_caller">Непознати број</string>
-  <string name="valentines_day">Дан заљубљњних</string>
+  <string name="valentines_day">Дан заљубљених</string>
   <string name="vernal_equinox"/>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
   <string name="yellow_page_module_sms_sent">SMS порука послата.</string>
-  <string name="yellow_page_sms_disabled_in_privacy_mode">"Не могу слати поруке у "Gost" начину рада."</string>
-  <string name="yellow_page_sms_send_failed">"Не могу посалти SMS поруку"</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">"Не могу слати поруке у "Гост" начину рада."</string>
+  <string name="yellow_page_sms_send_failed">"Не могу послати SMS поруку"</string>
   <string name="yellow_page_sms_sending">Шаљем…</string>
   <string name="yellow_page_unable_send_sms">Не могу послати SMS поруку.</string>
 </resources>

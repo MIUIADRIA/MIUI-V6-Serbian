@@ -37,7 +37,7 @@
         <item quantity="one">"Апликација без ROOT приступа: %d"</item>
     </plurals>
 	<plurals name="summary_app_update">
-        <item quantity="other">Ажурирања доступна ѕа апл.: %d.</item>
+        <item quantity="other">Ажурирања доступна са апл.: %d.</item>
         <item quantity="one">Ажурирање доступно за апл.: %d.</item>
     </plurals>
 </resources>

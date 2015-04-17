@@ -98,10 +98,10 @@
   <string name="no_backup">Нема Сиг. копија</string>
   <string name="open_wifi">Укључите сада WLAN</string>
   <string name="open_wifi_description">Повежите с WLAN мређом да обновите податке апликације</string>
-  <string name="open_wifi_setting">WLAN Поставке</string>
+  <string name="open_wifi_setting">WLAN Подешавања</string>
   <string name="process_whole_recovery">Обнављање \"%s\"</string>
   <string name="recover_from_micloud">Обнови користећи MiCloud</string>
-  <string name="recover_settings">Обнови поставке Почетног екрана</string>
+  <string name="recover_settings">Обнови подешавања Почетног екрана</string>
   <string name="recover_settings_description">Држите уређај укљученим</string>
   <string name="recovering">Обнављам %s</string>
   <string name="restore_from_cloud">Обнови из MiClouda</string>

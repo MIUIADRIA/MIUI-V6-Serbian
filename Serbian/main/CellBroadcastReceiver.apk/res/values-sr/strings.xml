@@ -6,9 +6,9 @@
   <string name="button_cancel">Одустани</string>
   <string name="button_delete">Избриши</string>
   <string name="button_dismiss">У реду</string>
-  <string name="category_brazil_settings_title">Поставке за Бразил</string>
+  <string name="category_brazil_settings_title">Подешавање за Бразил</string>
   <string name="category_dev_settings_title">Опције за развојне програмере</string>
-  <string name="category_etws_settings_title">Поставке за ETWS</string>
+  <string name="category_etws_settings_title">Подешавање за ETWS</string>
   <string name="cb_other_message_identifiers">Емитовања на мобилне</string>
   <string name="cmas_amber_alert">Отмице деце (упозорење Amber)</string>
   <string name="cmas_category_cbrne">Хемијско/биолошко/нуклеарно/експлозивно</string>
@@ -54,7 +54,7 @@
   <string name="confirm_delete_all_broadcasts">Избрисати све емитоване примљене поруке?</string>
   <string name="confirm_delete_broadcast">Избрисати ово емитовање?</string>
   <string name="delivery_time_heading">Примљено:</string>
-  <string name="emergency_alert_settings_title">Поставке хитних упозорења</string>
+  <string name="emergency_alert_settings_title">Подешавања хитних упозорења</string>
   <string name="enable_alert_speech_summary">Употребите претварање текста у говор за изговарање хитних упозорења</string>
   <string name="enable_alert_speech_title">Изговарање порука упозорења</string>
   <string name="enable_alert_vibrate_summary">Вибрација за упозорење</string>
@@ -80,15 +80,15 @@
   <string name="etws_tsunami_warning">Упозорење о цунамијима</string>
   <string name="menu_delete">Брисање емитовања</string>
   <string name="menu_delete_all">Избриши емитовања</string>
-  <string name="menu_preferences">Поставке</string>
+  <string name="menu_preferences">Подешавања</string>
   <string name="menu_view_details">Приказ појединости</string>
   <string name="message_options">Опције порука</string>
-  <string name="no_cell_broadcasts">Нема активних упозорења у вашем подручју. Можете променити поставке упозорења помоћу опције менија Поставке.</string>
+  <string name="no_cell_broadcasts">Нема активних упозорења у вашем подручју. Можете променити подешавања упозорења помоћу опције менија Подешавања.</string>
   <string name="notification_multiple">Непрочитана обавештења: %s.</string>
   <string name="notification_multiple_title">Нова упозорења</string>
   <string name="pws_other_message_identifiers">Хитно упозорење</string>
   <string name="show_cmas_opt_out_summary">Прикажи дијалошки оквир за искључивање након приказивања првог упозорења CMAS-a (осим председничког).</string>
   <string name="show_cmas_opt_out_title">Прикажи дијалошки оквир за искључивање</string>
-  <string name="sms_cb_settings">Поставке емитовања на мобилне</string>
+  <string name="sms_cb_settings">Подешавања емитовања на мобилне</string>
   <string name="view_details_title">Појединости упозорења</string>
 </resources>

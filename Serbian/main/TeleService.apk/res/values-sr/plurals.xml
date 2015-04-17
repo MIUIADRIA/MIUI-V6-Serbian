@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Нема податковне везе %s мин</item>
-        <item quantity="one">Нема податковне везе %s мин</item>
+        <item quantity="other">Нема везе са подацима %s мин</item>
+        <item quantity="one">Нема везе са подацима %s мин</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Телефон ће бити у режиму хитног повратног позива% с мин. За то се време не може употребљавати ниједна апликација којој је потребна веза за пренос података. Желите ли изаћи сада?</item>

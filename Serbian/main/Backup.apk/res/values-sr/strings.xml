@@ -83,17 +83,17 @@
   <string name="enable_encrypt_summery1">Пријавите се са својим Mi Рачуном за приступ шифрованим сиг. копијама.</string>
   <string name="enable_encrypt_summery2">"Ваше Сиг. копије ће бити аутоматски шифроване. Морате се пријавити са својим Mi Рачуном да им можете приступити."</string>
   <string name="enable_encrypt_title">Шифруј Сиг. копије</string>
-  <string name="enable_encrypt_xiaomi_account">Sig. kopija od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
+  <string name="enable_encrypt_xiaomi_account">Сиг. копија од %1$s, обришите тренутни рачун, и пријавите се као %2$s да вратите корисничке податке.</string>
   <string name="every_day">Сваки дан</string>
   <string name="exchange_account">Промени рачун</string>
   <string name="fail">Није успело</string>
   <string name="findlost_contact">Врати контакте</string>
   <string name="findlost_contact_online">Врати контакте са Mi Cloud-a</string>
-  <string name="guarded_mode_dialog_message">Ова функција није допуштена у "Gost" načinu rada</string>
+  <string name="guarded_mode_dialog_message">Ова функција није допуштена у "Гост" начину рада</string>
   <string name="guarded_mode_dialog_title">Ви сте у "Gost" начину рада</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Преузмите Mi Talk апликацију и пријавите се.
 \u0009http://www.miliao.com
-2.\u0009Idite u Mi Talk поставке и одаберите ”Сачувај податке на Mi Рачун”"</string>
+2.\u0009Idite u Mi Talk подешавања и одаберите ”Сачувај податке на Mi Рачун”"</string>
   <string name="import_from_xiaomi_account_hint2">Ако већ имате направљњну Сиг. копију, додирните Даље.</string>
   <string name="import_from_xiaomi_account_hint_title">Користите Mi Talk ѕа Сиг. копију контаката између уређаја</string>
   <string name="local_app_name">Сиг. копија</string>
@@ -126,7 +126,7 @@
   <string name="restore_contact_content">Враћање контаката може резултирати дуплим контактима</string>
   <string name="restore_contacts_hit">Можда ћете морати поново пријавити да бисте видели обновљене податке</string>
   <string name="restore_counts">Враћање:</string>
-  <string name="restore_data">Одаберите поставке за враћање</string>
+  <string name="restore_data">Одаберите подешавања за враћање</string>
   <string name="restore_failed">"Не могу вратити"</string>
   <string name="restore_finished">Враћање успешно</string>
   <string name="restore_launcher_layout_hit">Враћање поставки покретача</string>
@@ -151,14 +151,14 @@
   <string name="select_all">Одабери све</string>
   <string name="select_backup_item">Одаберите ставке</string>
   <string name="service_stoped">Услуга заустављена</string>
-  <string name="settings_summary">": поставке телефона и порука</string>
+  <string name="settings_summary">": подешавања телефона и порука</string>
   <string name="sms_title">SMS</string>
   <string name="software_backup_info">Подаци апликације</string>
   <string name="start_backup">Започни стварање Сиг. копије</string>
   <string name="start_restore">Врати</string>
   <string name="succeed">Завршено</string>
   <string name="system_backup">Sig. kopija</string>
-  <string name="system_backup_info">Поставке система, почетног екрана итд.</string>
+  <string name="system_backup_info">Подешавања система, почетног екрана итд.</string>
   <string name="task_backup_cancel_progress">Отказивање…</string>
   <string name="task_backup_finished_local">Сиг. копија завршена</string>
   <string name="task_canceled">Отказано</string>
@@ -190,6 +190,6 @@
   <string name="unit_byte">B</string>
   <string name="unit_piece">" ставки"</string>
   <string name="unknown_hint">Непознато</string>
-  <string name="wifi_title">Поставке WLAN-a</string>
+  <string name="wifi_title">Подешавања WLAN-a</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

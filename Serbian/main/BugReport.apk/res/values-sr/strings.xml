@@ -38,7 +38,7 @@
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Фотоапарат</string>
   <string name="err_type_hardware">Hardware</string>
-  <string name="err_type_hardware_summary">Типке, пуњење, сензори, итд.</string>
+  <string name="err_type_hardware_summary">Тастери, пуњење, сензори, итд.</string>
   <string name="err_type_more">Више</string>
   <string name="err_type_nonsystemapp">Остале апликације</string>
   <string name="err_type_power_consuming">Батерија</string>

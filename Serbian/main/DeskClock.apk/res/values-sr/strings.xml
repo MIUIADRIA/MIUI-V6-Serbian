@@ -15,7 +15,7 @@
   <string name="alarm_notify_text">одложите или обуставите аларм.</string>
   <string name="alarm_repeat">понови</string>
   <string name="alarm_screen">екран и мелодија аларма</string>
-  <string name="alarm_settings">Поставке аларма</string>
+  <string name="alarm_settings">Подешавање аларма</string>
   <string name="alarm_vibrate">Вибрација</string>
   <string name="alarm_volume_summary">Подеси гласноћу аларма</string>
   <string name="alarm_volume_title">Гласноћа аларма</string>
@@ -29,7 +29,7 @@
   <string name="battery_charging_level">%d%%</string>
   <string name="cancel">Одустани</string>
   <string name="close_alarm">Зтвори аларм</string>
-  <string name="common_settings">Поставке</string>
+  <string name="common_settings">Подешавања</string>
   <string name="confirm_abort">Одбаци</string>
   <string name="control_set_alarm">Подеси аларм</string>
   <string name="control_set_alarm_with_existing">Аларм подешен: %s</string>
@@ -68,7 +68,7 @@
   <string name="menu_add_worldclock">Додај сат</string>
   <string name="menu_desk_clock">Стони сат</string>
   <string name="menu_edit_timer_item">Уреди задатак хронометра</string>
-  <string name="menu_item_dock_settings">Поставке доцка</string>
+  <string name="menu_item_dock_settings">Подешавање доцка</string>
   <string name="menu_item_sort_by_gmt_offset">Поређај по времену</string>
   <string name="menu_item_sort_by_name">Поређај по називу</string>
   <string name="minute">1 минут</string>
@@ -79,7 +79,7 @@
   <string name="reset">Ресетуј</string>
   <string name="revert">Обнови</string>
   <string name="set_alarm">Подеси аларм</string>
-  <string name="settings">Поставке</string>
+  <string name="settings">Подешавања</string>
   <string name="shutdown_alarm_disable_summary">Искључено гашење аларма</string>
   <string name="shutdown_alarm_enable_summary">Укључено гашење аларма</string>
   <string name="shutdown_alarm_title">Искључи аларм</string>
@@ -91,7 +91,7 @@
   <string name="start_up">старт</string>
   <string name="stopwatch_lap_empty_text">Нема кругова</string>
   <string name="stopwatch_title">Штоперица</string>
-  <string name="system_time_setting">Поставке</string>
+  <string name="system_time_setting">Подешавања</string>
   <string name="time">Време</string>
   <string name="timer_alert_alert_silenced">Хронометар ће се угасити за %d мин.</string>
   <string name="timer_continue">Настави</string>

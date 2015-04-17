@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_settings">Поставке</string>
+  <string name="action_settings">Подешавања</string>
   <string name="alread_check_num">Проверено</string>
   <string name="app_name">Mi ID</string>
   <string name="base">Основне информације</string>
@@ -57,7 +57,7 @@
   <string name="order_check">Провера наруџбине</string>
   <string name="performance_compare">Performanse</string>
   <string name="person_check">Подели</string>
-  <string name="please_set_network">Подесите поставке мреже</string>
+  <string name="please_set_network">Подесите подешавања мреже</string>
   <string name="public_beta">Службено</string>
   <string name="restart_app">Поново покрени Mi ID</string>
   <string name="retry">Покушај поново</string>

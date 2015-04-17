@@ -67,7 +67,7 @@
   <string name="android_upgrading_apk">Оптимизовање апликације %1$d од %2$d.</string>
   <string name="android_upgrading_complete">Завршавање покретања.</string>
   <string name="android_upgrading_starting_apps">Покретање апликација.</string>
-  <string name="android_upgrading_title">Android се надограђује…</string>
+  <string name="android_upgrading_title">Андроид се надограђује…</string>
   <string name="anr_activity_application">"%2$s не реагује.
 
 Да ли желите да је затворите?"</string>
@@ -514,7 +514,7 @@
   <string name="lockscreen_plugged_in">Пуњење, %d%%</string>
   <string name="lockscreen_return_to_call">Назад на позив</string>
   <string name="lockscreen_screen_locked">Екран је закључан.</string>
-  <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
+  <string name="lockscreen_sim_error_message_short">Неважећа картица.</string>
   <string name="lockscreen_sim_locked_message">SIM картица је закључана.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Погледајте Кориснички водич или контактирајте Корисничку подршку.</string>
   <string name="lockscreen_sim_puk_locked_message">SIM картица је закључана PUK кодом.</string>
@@ -1189,7 +1189,7 @@
   <string name="permlab_reorderTasks">промена редоследа покренутих апликација</string>
   <string name="permlab_retrieveWindowToken">преузимање токена прозора</string>
   <string name="permlab_retrieve_window_content">преузимање садржаја екрана</string>
-  <string name="permlab_retrieve_window_info">retrieve window info</string>
+  <string name="permlab_retrieve_window_info">Повратити информације прозора</string>
   <string name="permlab_route_media_output">Усмеравање излаза медија</string>
   <string name="permlab_runSetActivityWatcher">надгледање и контрола покретања свих апликација</string>
   <string name="permlab_scoreNetworks">тестирај мреже</string>
@@ -1460,12 +1460,12 @@
   <string name="ssl_certificate">Безбедносни сертификат</string>
   <string name="ssl_certificate_is_valid">Овај сертификат је важећи.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
-  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
-  <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
-  <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
-  <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
-  <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
+  <string name="stk_cc_ss_to_dial">SS захтев је модификован за DIAL захтев.</string>
+  <string name="stk_cc_ss_to_ss">SS захтев је модификован за нови SS захтев.</string>
+  <string name="stk_cc_ss_to_ussd">SS захтев је модификован за USSD захтев.</string>
+  <string name="stk_cc_ussd_to_dial">USSD захтев је модификован за DIAL захтев.</string>
+  <string name="stk_cc_ussd_to_ss">USSD захтев је модификован за SS захтев.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD захтев је модификован за нови USSD захтев.</string>
   <string name="storage_internal">Интерна меморија</string>
   <string name="storage_sd_card">SD картица</string>
   <string name="storage_usb">USB меморија</string>
@@ -1542,27 +1542,27 @@
   <string name="vpn_title_long">Апликација %s је активирала VPN</string>
   <string name="wait">Сачекај</string>
   <string name="wallpaper_binding_label">Позадина</string>
-  <string name="web_user_agent_target_content">"Mobile "</string>
-  <string name="webviewchromium_color_picker_button_black">Black</string>
-  <string name="webviewchromium_color_picker_button_blue">Blue</string>
-  <string name="webviewchromium_color_picker_button_cyan">Cyan</string>
-  <string name="webviewchromium_color_picker_button_green">Green</string>
-  <string name="webviewchromium_color_picker_button_magenta">Magenta</string>
-  <string name="webviewchromium_color_picker_button_red">Red</string>
-  <string name="webviewchromium_color_picker_button_white">White</string>
-  <string name="webviewchromium_color_picker_button_yellow">Yellow</string>
-  <string name="webviewchromium_copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
-  <string name="webviewchromium_date_picker_dialog_other_button_label">Other</string>
-  <string name="webviewchromium_profiler_error_toast">Failed to start profiler</string>
-  <string name="webviewchromium_profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
-  <string name="webviewchromium_profiler_started_toast">Profiler started</string>
-  <string name="webviewchromium_profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
+  <string name="web_user_agent_target_content">"Мобилни "</string>
+  <string name="webviewchromium_color_picker_button_black">Црн</string>
+  <string name="webviewchromium_color_picker_button_blue">Плав</string>
+  <string name="webviewchromium_color_picker_button_cyan">Циан</string>
+  <string name="webviewchromium_color_picker_button_green">Зелен</string>
+  <string name="webviewchromium_color_picker_button_magenta">Магента</string>
+  <string name="webviewchromium_color_picker_button_red">Црвен</string>
+  <string name="webviewchromium_color_picker_button_white">Бели</string>
+  <string name="webviewchromium_color_picker_button_yellow">Жут</string>
+  <string name="webviewchromium_copy_to_clipboard_failure_message">Грешка копирања у остави</string>
+  <string name="webviewchromium_date_picker_dialog_other_button_label">Други</string>
+  <string name="webviewchromium_profiler_error_toast">Грешка при покретању профилера </string>
+  <string name="webviewchromium_profiler_no_storage_toast">"Не могу да покренем профилер зато што спољна меморија није спремна"</string>
+  <string name="webviewchromium_profiler_started_toast">Профилер покренут</string>
+  <string name="webviewchromium_profiler_stopped_toast">Профилер завршио. Резултати су у %1$s.</string>
   <string name="webviewchromium_time_picker_dialog_am">AM</string>
   <string name="webviewchromium_time_picker_dialog_hour_minute_separator">:</string>
   <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
   <string name="webviewchromium_time_picker_dialog_pm">PM</string>
   <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
-  <string name="webviewchromium_time_picker_dialog_title">Set time</string>
+  <string name="webviewchromium_time_picker_dialog_title">Подеси време</string>
   <string name="webpage_unresponsive">"Страница је престала да се одазива.
 
  Да ли желите да је затворите?"</string>

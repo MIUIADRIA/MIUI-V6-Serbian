@@ -109,7 +109,7 @@
   <string name="callrecordview_menu_delete_stranger">Избриши непознате бројеве</string>
   <string name="callrecordview_menu_edit_call_note">Уреди белешку позива</string>
   <string name="callrecordview_menu_paste">Залепи</string>
-  <string name="callrecordview_menu_settings">Поставке</string>
+  <string name="callrecordview_menu_settings">Подешавања</string>
   <string name="callrecordview_menu_show">Филтрирај</string>
   <string name="callrecordview_menu_show_accepted">Одговорени позиви</string>
   <string name="callrecordview_menu_show_all">Сви позиви</string>
@@ -138,7 +138,7 @@
   <string name="clearCallLogConfirmation">"Сви ваши записи позива це бити избрисани."</string>
   <string name="clearCallLogConfirmation_title">Обрисати евиденцију позива?</string>
   <string name="clearCallLogProgress_title">Брисање евиденције позива…</string>
-  <string name="clearFrequentsConfirmation">"Избрисати попис особа са којима често контактирате у апликацијама Особе и Телефон па ће апликације e-поште морати из почетка учити поставке адресирања."</string>
+  <string name="clearFrequentsConfirmation">"Избрисати попис особа са којима често контактирате у апликацијама Особе и Телефон па ће апликације e-поште морати из почетка учити подешавања адресирања."</string>
   <string name="clearFrequentsConfirmation_title">"Брисати податке о честим контактима?"</string>
   <string name="clearFrequentsProgress_title">"Брисање често контактираних…"</string>
   <string name="clear_default">Избриши задато</string>
@@ -721,7 +721,7 @@
   <string name="preference_auto_ip_summary_on">IP префикс оператера: %s</string>
   <string name="preference_auto_ip_title">Аутоматски IP префикс</string>
   <string name="preference_contacts">"Контакти"</string>
-  <string name="preference_contacts_display">Прикажи жељене поставке</string>
+  <string name="preference_contacts_display">Прикажи жељена подешавања</string>
   <string name="preference_contacts_filter">Конфигуриши попис контаката</string>
   <string name="preference_contacts_more">Организуј контакте</string>
   <string name="preference_dial_pad_touch_tone_default">Задато</string>
@@ -737,7 +737,7 @@
   <string name="preference_import_export_title">"Увоз/извоз контаката"</string>
   <string name="preference_others">Остало</string>
   <string name="preference_phone">"Телефон"</string>
-  <string name="preference_phone_more_title">Поставке позива</string>
+  <string name="preference_phone_more_title">Подешавање позива</string>
   <string name="preference_remove_duplicate">Споји двоструке контакте</string>
   <string name="preference_simple_mode_description">Сакри слике и остале податке контактима у пописном прегледу</string>
   <string name="preference_simple_mode_title">Поједностави</string>
@@ -959,7 +959,7 @@
   <string name="resource_trial_end_restore">Крај пробног периода</string>
   <string name="resource_trial_end_title">Пробни период истекао</string>
   <string name="resource_trial_fail_cancel">У реду</string>
-  <string name="resource_trial_fail_go_settings">Поставке</string>
+  <string name="resource_trial_fail_go_settings">Подешавања</string>
   <string name="resource_trial_fail_message">Проверите дали је сат вашег система постављен на тачно време.</string>
   <string name="resource_trial_fail_title">"Није било могуће поставити пробни период"</string>
   <string name="resource_trial_time">（probni period: %1$d min.）</string>

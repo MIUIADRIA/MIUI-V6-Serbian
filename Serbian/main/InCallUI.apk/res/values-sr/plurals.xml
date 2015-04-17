@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Нема податковне везе %s минута</item>
-        <item quantity="one">Нема податковне везе %s минута</item>
+        <item quantity="other">Нема везе са подацима %s минута</item>
+        <item quantity="one">Нема везе са подацима %s минута</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Телефон ће бити у начину хитног позива %s минута. Док је у начину хитног позива ниједна апликација која користи везу за пренос података
-не може бити коришћена. Желите ли сада изаћи?</item>		
+не моће бити коришћена. Желите ли сада изаћи?</item>		
         <item quantity="one">Телефон ће бити у начину хитног позива %s минуту. Док је у начину хитног позива ниједна апликација која користи везу за пренос података 
-не може бити коришћена. Желите ли сада изаћи?</item>		
+не моће бити коришћена. Желите ли сада изаћи?</item>		
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
        <item quantity="other">Одабрана акција није могућа у начину хитног позива. Телефон ће бити у овом начину% с минута. Желите ли сада изаћи?</item>

@@ -31,11 +31,11 @@
   <string name="lockscreen_access_pattern_start">Узорак започет</string>
   <string name="lockscreen_charging_msg">Пуњење</string>
   <string name="lockscreen_emergency_call">Хитан позив</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Нетачно сте покушали откључати телефон %d пута. Након још %d неуспелих покушаја, телефон ће се ресетовати на фабричке поставке и сви кориснички подаци ће бити изгубљени.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Нетачно сте покушали откључати телефон %d пута. Након још %d неуспелих покушаја, телефон ће се ресетовати на фабричкa подешавања и сви кориснички подаци ће бити изгубљени.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Нетачно сте унели лозинку %d пута. Након још %d неуспелих покушаја, од вас ће се тражити пријава на ваш Mi Рачун како би откључали телефон .
 	
 Покушајте поново за %d сек."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Нетачно сте покушали откључати телефон %d пута. Телефон ће се вратити на фабричке поставке.</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Нетачно сте покушали откључати телефон %d пута. Телефон ће се вратити на фабричка подешавања.</string>
   <string name="lockscreen_glogin_checking_password">Провера…</string>
   <string name="lockscreen_glogin_invalid_input">Нетачно корисничко име или лозинка.</string>
   <string name="lockscreen_glogin_password_hint">Лозинка</string>

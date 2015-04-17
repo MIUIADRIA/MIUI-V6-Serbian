@@ -64,7 +64,7 @@
   <string name="permlab_accessNote">Приступите вашим белешкама</string>
   <string name="pref_desc_alarm_when_silent">Активни аларми ће звонити и када је тон звона утишан</string>
   <string name="pref_title_alarm_when_silent">Аларми у бешумном начину</string>
-  <string name="pref_title_common">"Додатне поставке"</string>
+  <string name="pref_title_common">"Додатна Подешавања"</string>
   <string name="pref_title_font_size">Величина фонта</string>
   <string name="pref_title_note_style">Стил белешке</string>
   <string name="redo">Понови</string>
@@ -107,7 +107,7 @@
   <string name="welcome_note_for_cm">"И још пуно великих могућности!
   - Синхронизација са Mi Cloud
   - Чување код излаза 
-  - Постављање потсетника
+  - Подешавање потсетника
   
 Ако желите да сазнате више посетите
 http://www.miui.com/forum.php?lang=1

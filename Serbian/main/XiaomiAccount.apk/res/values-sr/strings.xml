@@ -321,7 +321,7 @@
   <string name="passport_skip_login">Прскочи пријаву</string>
   <string name="passport_skip_register">Прескочи пријаву</string>
   <string name="passport_skip_setup_account_msg">Можете поставити Mi Рачун касније у Подешавањима.</string>
-  <string name="passport_skip_setup_account_title">Прескочи постављање</string>
+  <string name="passport_skip_setup_account_title">Прескочи подешавања</string>
   <string name="passport_title_reg">Изради Рачун</string>
   <string name="passport_trust_device">Веруј овом уређају</string>
   <string name="passport_user_agreement">Кориснички Споразум</string>

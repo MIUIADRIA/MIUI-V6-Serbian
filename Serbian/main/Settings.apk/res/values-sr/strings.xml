@@ -48,7 +48,7 @@
   Напомена: Троструки додир за увећање вреди свуда осим на тастаури у навигационој траци."</string>
   <string name="accessibility_screen_magnification_title">Покрети за увећање</string>
   <string name="accessibility_service_default_description">Није наведен опис.</string>
-  <string name="accessibility_service_no_apps_message">TalkBack пружа говорне повратне информације како би помогао слепим корисницима и корисницима са слабим видом. Да ли желите да га бесплатно инсталирате са Android Market-а?</string>
+  <string name="accessibility_service_no_apps_message">TalkBack пружа говорне повратне информације како би помогао слепим корисницима и корисницима са слабим видом. Да ли желите да га бесплатно инсталирате са Андроид Market-а?</string>
   <string name="accessibility_service_no_apps_title">Потребан вам је читач екрана?</string>
   <string name="accessibility_services_title">Услуге</string>
   <string name="accessibility_settings">Приступачност</string>
@@ -195,7 +195,7 @@
   <string name="audio_record_proc_title">Умањивање шума</string>
   <string name="auto_caps">Аутоматско писање великих почетних слова</string>
   <string name="auto_caps_summary">Велико слово на почетку реченице</string>
-  <string name="auto_launch_disable_text">Нису постављене подразумеване вредности.</string>
+  <string name="auto_launch_disable_text">Нису подешене подразумеване вредности.</string>
   <string name="auto_launch_enable_text">Изабрали сте подразумевано покретање ове апликације за неке радње.</string>
   <string name="auto_launch_label">Подразумевано покрени</string>
   <string name="auto_launch_label_generic">Подразумевана подешавања</string>
@@ -776,7 +776,7 @@
   <string name="device_internal_memory">Унутрашња меморија</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI верзија</string>
-  <string name="device_name">Назив уреаја</string>
+  <string name="device_name">Назив уређаја</string>
   <string name="device_name_input_error">"Не могу сачувати назив уређаја"</string>
   <string name="device_name_input_hint">Унеси назив</string>
   <string name="device_name_usage_point">Овај ће назив бити видљив другим уређајима у средини</string>
@@ -956,7 +956,7 @@
   <string name="filter_dlg_title">Избор опција филтера</string>
   <string name="finish_application">Присилно застави</string>
   <string name="finish_button_label">Заврши</string>
-  <string name="firmware_version">Android верзија</string>
+  <string name="firmware_version">Андроид верзија</string>
   <string name="floating_window_switch_label">Прикажи искачуће прозоре </string>
   <string name="floating_window_switch_label_disable">Сакри искачуће прозоре</string>
   <string name="font_size_huge">Огроман</string>
@@ -1128,7 +1128,7 @@
   <string name="keyboard_layout_dialog_title">Избор распореда тастатуре</string>
   <string name="keyboard_layout_picker_title">Распореди тастатуре</string>
   <string name="keyboard_settings_category">Тастатура и методи уноса</string>
-  <string name="keyboard_settings_title">Android тастатура</string>
+  <string name="keyboard_settings_title">Андроид тастатура</string>
   <string name="language_keyboard_settings_title">Језик и унос</string>
   <string name="language_picker_title">Језик</string>
   <string name="language_settings">Језик и унос</string>
@@ -1159,8 +1159,8 @@
   <string name="local_backup_password_summary_none">Резервне копије читавог система тренутно нису заштићене</string>
   <string name="local_backup_password_title">Рез. копија лоз. рачунара</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Нова лозинка и њена потврда се не подударају</string>
-  <string name="local_backup_password_toast_success">Постављена је нова резервнa лозинка</string>
-  <string name="local_backup_password_toast_validation_failure">Постављање резервне лозинке није успело</string>
+  <string name="local_backup_password_toast_success">Подешена је нова резервнa лозинка</string>
+  <string name="local_backup_password_toast_validation_failure">Подешавање резерне лозинке није успело</string>
   <string name="local_backup_section_summary">Сиг. копија подешавања система, детаља рачуна, и апликација</string>
   <string name="local_backup_section_title">Локална меморија</string>
   <string name="locale_default">Подразумевано</string>
@@ -1245,14 +1245,14 @@
   <string name="lockpassword_password_requires_alpha">Лозинка мора да садржи најмање једно слово.</string>
   <string name="lockpassword_password_requires_digit">Лозинка мора да садржи најмање једну цифру.</string>
   <string name="lockpassword_password_requires_symbol">Лозинка мора да садржи најмање један симбол.</string>
-  <string name="lockpassword_password_set_toast">Лозинка је постављена</string>
+  <string name="lockpassword_password_set_toast">Лозинка је подешена</string>
   <string name="lockpassword_password_too_long">Лозинка мора да има мање од %d знак(ов)а.</string>
   <string name="lockpassword_password_too_short">Минимални број знакова који лозинка мора да садржи је %d</string>
-  <string name="lockpassword_pattern_set_toast">Шаблон је постављен</string>
+  <string name="lockpassword_pattern_set_toast">Шаблон је подешен</string>
   <string name="lockpassword_pin_contains_non_digits">PIN мора да садржи само цифре 0–9.</string>
   <string name="lockpassword_pin_fixed_length">PIN мора садржати %d знакова</string>
   <string name="lockpassword_pin_recently_used">Администратор уређаја не допуста употребу недавног PIN-a.</string>
-  <string name="lockpassword_pin_set_toast">PIN је постављен</string>
+  <string name="lockpassword_pin_set_toast">PIN је подешен</string>
   <string name="lockpassword_pin_too_long">PIN мора да има мање од %d цифре(ара).</string>
   <string name="lockpassword_pin_too_short">Минимални број цифара у PIN-у је %d</string>
   <string name="lockpassword_press_continue">Додирните „Настави“ када завршите</string>
@@ -1841,7 +1841,7 @@
   <string name="reset_legacy_password_settings_preface_text">Морате ресетовати вашу лозинку за закључавање екрана.</string>
   <string name="resource_ringtone_volume_mute">Тон звона је искључен</string>
   <string name="restore_default_apn">Враћање подразумеваних подешавања назива приступне тачке.</string>
-  <string name="restore_default_apn_completed">Поновно постављање подразумеваних подешавања назива приступне тачке је завршено</string>
+  <string name="restore_default_apn_completed">Поновно подешавање подразумеваних подешавања назива приступне тачке је завршено</string>
   <string name="restrict_background_data_dialog_summary">"Апликације које се изводе у позадини нећете бити у могућности да преузмете нове поруке. Да ли стварно желите омогућити податке у позадини?"</string>
   <string name="restrict_background_data_notification_summary">Апликације се не могу повезати на мрежу ако је ограничено коришћење позадинских података</string>
   <string name="restrict_background_data_title">Ограничење позадинских података</string>
@@ -1902,26 +1902,26 @@
   <string name="screen_on_proximity_sensor_summary">Аутоматски закључај кад се ставља у џеп</string>
   <string name="screen_on_proximity_sensor_title">Спречи случајно бирање у џепу</string>
   <string name="screen_optimize">Контракст</string>
-  <string name="screen_paper_mode_adjust_level">Prilagodi efekat Načina čitanja</string>
-  <string name="screen_paper_mode_apps_loading">Učitavanje…</string>
+  <string name="screen_paper_mode_adjust_level">Прилагоди ефекат начина читања</string>
+  <string name="screen_paper_mode_apps_loading">Учитавање...</string>
   <string name="screen_paper_mode_apps_title">Користи начин читања за ове апликације</string>
-  <string name="screen_paper_mode_global_summary">Use reading mode globally，not custom</string>
-  <string name="screen_paper_mode_global_title">Global</string>
-  <string name="screen_paper_mode_local_summary">Use reading mode locally，click right arrow to custom</string>
-  <string name="screen_paper_mode_local_title">Local</string>
+  <string name="screen_paper_mode_global_summary">Користите режим читања глобално，не обично</string>
+  <string name="screen_paper_mode_global_title">Глобално</string>
+  <string name="screen_paper_mode_local_summary">Користите режим читања локално，кликните стрелицу удесно за обично</string>
+  <string name="screen_paper_mode_local_title">Локални</string>
   <string name="screen_paper_mode_off_apps_title">"Немој користити Начин читања за следеће апликације"</string>
-  <string name="screen_paper_mode_range_title">Range</string>
-  <string name="screen_paper_mode_set_apps_title">Custom reading mode</string>
+  <string name="screen_paper_mode_range_title">Домет</string>
+  <string name="screen_paper_mode_set_apps_title">Режим читања обично</string>
   <string name="screen_paper_mode_summary">"Смањи одсјај позадине"</string>
   <string name="screen_paper_mode_title">Начин читања</string>
   <string name="screen_paper_mode_turn_off">Искључено</string>
   <string name="screen_paper_mode_turn_on">Укључено</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne pitaj</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Slažem se i Nastavi</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da se ažurira popis aplikacija koje mogu koristiti način čitanja, potrebno je povezati se na mrežu. Slažete li se?</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Uvjeti i Odredbe</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje koriste načina čitanja preko mreže</string>
-  <string name="screen_paper_mode_update_white_pkg_list_title">Popis ažuriranja mreže</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Не питај</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Слажем се и настави</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Да се ажурира листа апликација које могу користити начин читања, потребно је повезати се на мрежу. Слажете ли се?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Услови и одредбе</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Ажурирај листу апликација које користе начин читања преко мреже</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Листа ажурирања мреже</string>
   <string name="screen_saturation">Засићење</string>
   <string name="screen_timeout">Мировање</string>
   <string name="screen_timeout_summary">Након %1$s неактивности</string>
@@ -2031,7 +2031,7 @@
   <string name="selinux_status_permissive">Допуштање</string>
   <string name="service_background_processes">%1$s слободно</string>
   <string name="service_foreground_processes">%1$s искориштено</string>
-  <string name="service_manage">"Постављање"</string>
+  <string name="service_manage">"Подешавање"</string>
   <string name="service_manage_description">%1$s: тренутно у употреби. Додирните Подешавања за управљање.</string>
   <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Поново покретање</string>
@@ -2232,7 +2232,7 @@
   <string name="strict_mode_summary">Бљескање екрана када апликације извршавају дуге операције на главној нити</string>
   <string name="sum_carrier_select">"Одаберите мрежног оператера"</string>
   <string name="summary_font_size">%1$s</string>
-  <string name="supl_not_set">&lt;Није постављено&gt;</string>
+  <string name="supl_not_set">&lt;Није подешено&gt;</string>
   <string name="supplicant_state_label">Стање молбодавца:</string>
   <string name="symbols_not_allowed_for_password">"Лозинка не може садржати симболе"</string>
   <string name="sync_active">Синхронизација активна</string>
@@ -2440,7 +2440,7 @@ Google-ов приступ синхронизацији података за м
   <string name="usb_tethering_storage_active_subtext">Дељење везе није могуће ако се употребљава USB меморија</string>
   <string name="usb_tethering_unavailable_subtext">USB није прикључен</string>
   <string name="usb_title">USB</string>
-  <string name="use_default_tts_settings_summary">Доње задате потставке блокирају aplikacije</string>
+  <string name="use_default_tts_settings_summary">Доње задата подешавања блокирају апликације</string>
   <string name="use_default_tts_settings_title">Увек користи моје подешавање</string>
   <string name="use_location_summary">Допусти да Google употребљава вашу локацију за побољшање резултата претраживања и других услуга</string>
   <string name="use_location_title">Локација &amp; Google претраживање</string>
@@ -2513,8 +2513,8 @@ Google-ов приступ синхронизацији података за м
   <string name="user_setup_dialog_message">Проверите може ли особа узети уређај и поставити свој простор</string>
   <string name="user_setup_dialog_title">Поставите корисника сада?</string>
   <string name="user_setup_profile_dialog_message">Желите ли сада поставити профил?</string>
-  <string name="user_summary_not_set_up">Није постављен</string>
-  <string name="user_summary_restricted_not_set_up">Није постављен – ограничени профил</string>
+  <string name="user_summary_not_set_up">Није подешен</string>
+  <string name="user_summary_restricted_not_set_up">Није подешен – ограничени профил</string>
   <string name="user_summary_restricted_profile">Ограничени профил</string>
   <string name="user_you">Ви (%s)</string>
   <string name="verify_applications">Потврди апликације</string>
@@ -2774,21 +2774,21 @@ Google-ов приступ синхронизацији података за м
   <string name="wifi_p2p_persist_network">Запамти ту везу</string>
   <string name="wifi_p2p_remembered_groups">Запамћене групе</string>
   <string name="wifi_p2p_settings_title">Директни WLAN</string>
-  <string name="wifi_p2p_wps_setup">WPS постављање</string>
+  <string name="wifi_p2p_wps_setup">WPS подешавање</string>
   <string name="wifi_password">Лозинка</string>
   <string name="wifi_poor_network_detection">Избегавај слабе везе</string>
   <string name="wifi_poor_network_detection_summary">Не употребљавај WLAN ако интернет веза није задовољавајућа</string>
   <string name="wifi_priority_changed" formatted="false">Стара вредност %s | Нова вредност %s</string>
   <string name="wifi_priority_label">Предност</string>
   <string name="wifi_priority_settings_label">Подешавање предности</string>
-  <string name="wifi_priority_settings_summary">Постављање вредности за сваку приступну тачку</string>
+  <string name="wifi_priority_settings_summary">Подешавање вредности за сваку приступну тачку</string>
   <string name="wifi_priority_settings_title">Подешавање предности приступних тачака</string>
-  <string name="wifi_priority_type_summary">Ручно постави предност за сваку приступну тачку</string>
-  <string name="wifi_priority_type_title">Ручно постави предност приступних тачака</string>
+  <string name="wifi_priority_type_summary">Ручно подеси предност за сваку приступну тачку</string>
+  <string name="wifi_priority_type_title">Ручно подеси предност приступних тачака</string>
   <string name="wifi_quick_toggle_summary">Укључи WLAN</string>
   <string name="wifi_quick_toggle_title">WLAN</string>
   <string name="wifi_remembered">Сачувано</string>
-  <string name="wifi_required_info_text">Да би се постављање завршило, ваш уређај треба приступити WLAN мрежи. Након постављања можете мобилни везу са подацима и WLAN.</string>
+  <string name="wifi_required_info_text">Да би се подешавање завршило, ваш уређај треба приступити WLAN мрежи. Након подешавања можете мобилни везу са подацима и WLAN.</string>
   <string name="wifi_save">"Сачувај"</string>
   <string name="wifi_scan_always_available">Скенирање је увек доступно</string>
   <string name="wifi_scan_always_available_summary">Допустити да Google-ова услуга локације и друге апикације траже мреже, чак и када је WLAN искључен</string>
@@ -2839,13 +2839,13 @@ Google-ов приступ синхронизацији података за м
   <string name="wifi_setup_status_scanning">Скенирање мрежа…</string>
   <string name="wifi_setup_status_select_network">Додирните мрежу да би сте се повезали са њом</string>
   <string name="wifi_setup_status_unsecured_network">Повежите се на несигурну мрежу</string>
-  <string name="wifi_setup_title">Постављање WLAN мреже</string>
+  <string name="wifi_setup_title">Подешавање WLAN мреже</string>
   <string name="wifi_setup_title_add_network">Додај мрежу</string>
   <string name="wifi_setup_title_connected_network">Повезао на WLAN мрежу %s</string>
   <string name="wifi_setup_title_connecting_network">Повезивање на WLAN мрежу %s…</string>
   <string name="wifi_setup_title_editing_network">Повежи се на %s</string>
   <string name="wifi_setup_wizard_title">Одаберите WLAN мрежу</string>
-  <string name="wifi_setup_wps">Аутом. постављање (WPS)</string>
+  <string name="wifi_setup_wps">Ауто. подешавање (WPS)</string>
   <string name="wifi_share">Подели WLAN</string>
   <string name="wifi_share_action_turn_off">Престани делити мреже</string>
   <string name="wifi_share_action_turn_on">Подели WLAN</string>
@@ -2883,7 +2883,7 @@ Google-ов приступ синхронизацији података за м
   <string name="wifi_skip_anyway">Свеједно прескочи</string>
   <string name="wifi_skipped_message">"УПОЗОРЕЊЕ: Могући су додатни трошкови за промет података. 
 
-Постављање уређаја може захтевати знатну мрежну активност."</string>
+Подешавање уређаја може захтевати знатну мрежну активност."</string>
   <string name="wifi_speed">Брзина везе</string>
   <string name="wifi_ssid">Мрежни SSID</string>
   <string name="wifi_ssid_hint">Унесите SSID</string>
@@ -2901,7 +2901,7 @@ Google-ов приступ синхронизацији података за м
   <string name="wifi_suspend_optimizations">Оптимизација WLAN-a</string>
   <string name="wifi_suspend_optimizations_summary">Минимизуј потрошњу батерије када је WLAN укључен</string>
   <string name="wifi_tether_checkbox_text">Преносни хотспот</string>
-  <string name="wifi_tether_configure_ap_text">Постављање хотспота</string>
+  <string name="wifi_tether_configure_ap_text">Подешавање хотспота</string>
   <string name="wifi_tether_configure_ssid_default">АндроидAP</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s преносни хотспот</string>
   <string name="wifi_tether_enabled_subtext">Активан је преносни хотспот %1$s</string>
@@ -2944,11 +2944,11 @@ Google-ов приступ синхронизацији података за м
   <string name="wifi_wps_failed_tkip">Сигурносна поставка бежичног усмеривача (TKIP) није подржана</string>
   <string name="wifi_wps_failed_wep">Сигурносна поставка (WEP) бежичног усмеривача није подржана</string>
   <string name="wifi_wps_in_progress">WPS је већ у току, а до заврешетка може протећи око 2 минута</string>
-  <string name="wifi_wps_onstart_pbc">Притисните тастер за заштићено постављање WLAN мреже на свом усмеривачу. Може се звати \"WPS\" или садржати овај симбол:</string>
-  <string name="wifi_wps_onstart_pin">Унесите PIN %1$s са вашег WLAN усмеривача. Постављање може трајати до два минута.</string>
+  <string name="wifi_wps_onstart_pbc">Притисните тастер за заштићено подешавање WLAN мреже на свом усмеривачу. Може се звати \"WPS\" или садржати овај симбол:</string>
+  <string name="wifi_wps_onstart_pin">Унесите PIN %1$s са вашег WLAN усмеривача. Подешавање може трајати до два минута.</string>
   <string name="wifi_wps_overlap_error">Откривена је још једна WLAN сесија. Покушајте поново за неколико минута.</string>
   <string name="wifi_wps_setup_msg">Покретање WPS-a…</string>
-  <string name="wifi_wps_setup_title">Заштићено постављање WLAN мреже</string>
+  <string name="wifi_wps_setup_title">Заштићено подешавање WLAN мреже</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Размер анимације прозора</string>
   <string name="wireless_networks_settings_title">Бежично &amp; мреже</string>

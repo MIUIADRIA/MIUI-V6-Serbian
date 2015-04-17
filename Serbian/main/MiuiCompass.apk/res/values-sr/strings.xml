@@ -27,7 +27,7 @@
   <string name="location_east">И</string>
   <string name="location_enable">Допусти</string>
   <string name="location_enable_later">Касније</string>
-  <string name="location_enabled">Можете искључити услуге локације у било ком тренутку у менију поставке.</string>
+  <string name="location_enabled">Можете искључити услуге локације у било ком тренутку у менију подешавања.</string>
   <string name="location_north">С</string>
   <string name="location_not_enabled_summary">Директоријуму треба приступ ваше локације да би радио нормално.</string>
   <string name="location_not_enabled_title">Услуге лоцирања</string>
@@ -37,7 +37,7 @@
   <string name="menu_calibrate">Калибрација компаса</string>
   <string name="mobiledata_alert_dialog_message">Повезати се са интернетом за калибрацију надморске висине?</string>
   <string name="mobiledata_alert_dialog_title">Упозорење употребе података</string>
-  <string name="pressure_title">Tlak</string>
+  <string name="pressure_title">Притисак</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Протресите за калибрацију</string>
   <string name="using_camera_confirm_cancel">Затори</string>

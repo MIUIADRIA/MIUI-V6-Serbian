@@ -170,7 +170,7 @@
   <string name="mipay_set_password_modify_summary">Унесите нову лозинку за плаћање</string>
   <string name="mipay_setting_forget_password">Заборављена лозинка за плаћање</string>
   <string name="mipay_setting_modify_password">промена лозинке за плаћање</string>
-  <string name="mipay_setting_title">Сигурносне поставке</string>
+  <string name="mipay_setting_title">Сигурноснa подешавања</string>
   <string name="mipay_setting_title_password">Лозинка за плаћање</string>
   <string name="mipay_sms_captcha_error">Молимо проверите код за проверу</string>
   <string name="mipay_trade_type_consume">Куповина</string>

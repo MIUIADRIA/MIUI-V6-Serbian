@@ -53,7 +53,7 @@
   <string name="scan_result">Скенирани QR код</string>
   <string name="secure_access_web_url">Настави на web страницу</string>
   <string name="see_app_details">Прикажи детаље апликације</string>
-  <string name="settings">Поставке</string>
+  <string name="settings">Подешавања</string>
   <string name="success_message_import_from_account">Увезено</string>
   <string name="tips_message">"Повежите се са интернетом како би проверили да ли је web страница коју желите посетити сигурна."</string>
   <string name="tips_title">Повежи се са интернетом</string>

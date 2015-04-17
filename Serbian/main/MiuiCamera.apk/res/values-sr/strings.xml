@@ -3,13 +3,13 @@
   <string name="access_sd_fail">"Не могу приступити USB меморији."</string>
   <string name="accessibility_camera_picker">Склопка предње/задње камере</string>
   <string name="accessibility_flash_mode_button">Блиц</string>
-  <string name="accessibility_hdr">HDR типка</string>
+  <string name="accessibility_hdr">HDR тастер</string>
   <string name="accessibility_more_ptions_closed">Више опција онемогућене</string>
   <string name="accessibility_panorama_review_cancel">Одустани</string>
   <string name="accessibility_review_thumbnail">Најновије фотографије</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
-  <string name="accessibility_setting_button">Типка додат. поставки</string>
-  <string name="accessibility_shutter_button">Типка окидача</string>
+  <string name="accessibility_setting_button">Тастер додат. подешавања</string>
+  <string name="accessibility_shutter_button">Тастер окидача</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
@@ -63,7 +63,7 @@
   <string name="pano_how_to_use_prompt_to_move">Почните полако померати</string>
   <string name="pano_review_saving_indication_str">Чување…</string>
   <string name="pano_too_fast_prompt">Пребрзо</string>
-  <string name="pref_advance_settings">Додатне поставке</string>
+  <string name="pref_advance_settings">Додатна подешавања</string>
   <string name="pref_audio_focus_entry_front">Предњи</string>
   <string name="pref_audio_focus_entry_general">Нормално</string>
   <string name="pref_audio_focus_entry_rear">Задњи</string>
@@ -72,7 +72,7 @@
   <string name="pref_audio_indicator_entry_on">Звук укључен.</string>
   <string name="pref_burst_shoot_title">Брзо снимање</string>
   <string name="pref_camcorder_settings">Видео</string>
-  <string name="pref_camcorder_settings_category">Поставке</string>
+  <string name="pref_camcorder_settings_category">Подешавања</string>
   <string name="pref_camera_antibanding_entry_0">Искључено</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -86,7 +86,7 @@
   <string name="pref_camera_autoexposure_entry_centerweighted">Средиште пондерисања</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Просечан оквир</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Мерење места</string>
-  <string name="pref_camera_autoexposure_title">Поставке аутом. експозиције</string>
+  <string name="pref_camera_autoexposure_title">Подешавања аутом. експозиције</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Зора</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Јесен</string>
@@ -230,8 +230,8 @@
   <string name="pref_camera_scenemode_entry_sunset">Залазак сунца</string>
   <string name="pref_camera_scenemode_title">Начин сцене</string>
   <string name="pref_camera_settings">Уређај</string>
-  <string name="pref_camera_settings_category">Поставке Фотоапарата</string>
-  <string name="pref_camera_settings_title">Поставке</string>
+  <string name="pref_camera_settings_category">Подешавање Фотоапарата</string>
+  <string name="pref_camera_settings_title">Подешавања</string>
   <string name="pref_camera_sharpness_title">Оштрина</string>
   <string name="pref_camera_show_gender_age_entry_alias">Прикажи године</string>
   <string name="pref_camera_show_gender_age_entry_off">Искључено</string>
@@ -274,7 +274,7 @@
   <string name="pref_priority_storage_title">Сачувај на SD картицу</string>
   <string name="pref_qc_focus_position_title">Изоштравање</string>
   <string name="pref_scan_qrcode_title">Скенирај QR код</string>
-  <string name="pref_setting_title">Поставке</string>
+  <string name="pref_setting_title">Подешавања</string>
   <string name="pref_simple_hdr_entry_off">Искључено</string>
   <string name="pref_simple_hdr_entry_on">Укључено</string>
   <string name="pref_video_captrue_ability_title">Снимање фотографија током снимања</string>

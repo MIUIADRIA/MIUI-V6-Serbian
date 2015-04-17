@@ -3,7 +3,7 @@
   <string name="access_denied">Приступ одбијен</string>
   <string name="account">Рачун</string>
   <string name="activate">Активирај</string>
-<string name="activate_number_change_dialog_message">Odaberite veliki broj koji je potrebno aktivirati, prilikom VOIP poziva, nazvana stranka će vidjeti ovaj broj</string>  <string name="activating">Активирање</string>
+  <string name="activating">Активирање</string>
   <string name="alert_notif_title_dspt">Није синхронизовано</string>
   <string name="antispam_sync">Подеси "Не ометај ме"</string>
   <string name="app_name">Mi Cloud</string>
@@ -112,7 +112,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Око RMB 143 годишње</string>
   <string name="header_data_and_synchronization">Подаци &amp; синхро.</string>
-  <string name="header_other_settings">Додате поставке</string>
+  <string name="header_other_settings">Додата подешавања</string>
   <string name="i_know">У реду</string>
   <string name="license_host_unreachable">"Не могу се повезати на мрежу. Да би сте видели ове податке сада, идите на %s."</string>
   <string name="loading">Учитавање…</string>
@@ -183,7 +183,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_setting_gallery_summary">Фотографије и видео записи</string>
   <string name="micloud_setting_music_summary">Пописи за репродукцију и фаворити</string>
   <string name="micloud_setting_sms_summary">SMS и MMS поруке</string>
-  <string name="micloud_setting_wifi_summary">WLAN поставке</string>
+  <string name="micloud_setting_wifi_summary">WLAN подешавања</string>
   <string name="micloud_single_dspt">Користите Mi Cloud за синхронизацију података, да пронађете свој уређај, и поделите ствари са пријатељима.</string>
   <string name="micloud_space_duokan_detail">Управљајте вашим Duokan садржајем путем Доукан апликације.</string>
   <string name="micloud_space_duokan_title">Доукан</string>
@@ -214,8 +214,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">око 80 RMB годишње</string>
   <string name="more_activity_in_upgrade_space">Сазнајте више на &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
-  <string name="mx_dspt_provision_with_voip">Nazovite druge MIUI korisnike besplatno koristeći internetsku vezu. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama.</string>  <string name="mx_dspt">Mi поруке</string>
-  <string name="mx_sub_dspt_provision_with_voip">Internetski pozivi</string>
+  <string name="mx_dspt">Mi поруке</string>
   <string name="mx_dspt_provision">"Mi поруке омогућавају вам слање порука другим MIUI корисницима без додатних SMS трошкова.
   
   
@@ -229,7 +228,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="noRemind">"Не подсећај ме"</string>
   <string name="no_sim">"Нема SIM картице"</string>
   <string name="only_in_wlan">Искључено</string>
-  <string name="other_settings">Остале поставке</string>
+  <string name="other_settings">Остала подешавања</string>
   <string name="password">Унесите лозинку</string>
   <string name="phone_number_may_required_dspt_provision">"Ова услуга може захтевати ваш број телефона. "</string>
   <string name="phone_number_required_dspt_provision">"Ова услуга захтева ваш број телефона. "</string>
@@ -241,7 +240,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="privacy_policy">Правила о приватности</string>
   <string name="remind_later">Касније</string>
   <string name="restoreSync">Синхронизуј сада</string>
-  <string name="setting">Поставке</string>
+  <string name="setting">Подешавања</string>
   <string name="share_cancel">Дељење отказано</string>
   <string name="share_failed">"Не могу поделити"</string>
   <string name="share_miliao_not_installed">MiTalk није инсталиран.</string>
@@ -316,8 +315,6 @@ Korištenjem ove usluge, slažete se s  "</string>
   <string name="vcode">Провера кода</string>
   <string name="verify">Потврди</string>
   <string name="view_storage_title">Простор за складиштење</string>
-  <string name="voip_choose_sim">Odaberite broj telefona za aktiviranje Mi Voice</string>
-  <string name="voip_dspt">Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

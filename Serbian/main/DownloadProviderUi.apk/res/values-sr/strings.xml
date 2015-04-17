@@ -90,10 +90,10 @@
   <string name="menu_all_task_pause">Паузирај све</string>
   <string name="menu_all_task_start">Покрени све</string>
   <string name="menu_enter_edit_mode">Уредник</string>
-  <string name="menu_preferences">Поставке преузимања</string>
+  <string name="menu_preferences">Подешавања преузимања</string>
   <string name="menu_title_pause_all">Паузирај све</string>
   <string name="menu_title_resume_all">Покрени све</string>
-  <string name="menu_title_settings">Поставке</string>
+  <string name="menu_title_settings">Подешавања</string>
   <string name="mi_money">Mi Кредита</string>
   <string name="mi_money_">Mi Кредита</string>
   <string name="missing_title">&lt;Непознатo&gt;</string>
@@ -108,7 +108,7 @@
   <string name="paused_by_app">Паузирано</string>
   <string name="paused_insufficient_space">Чекање</string>
   <string name="paused_queued_for_wifi">Паузирано, чека се WLAN</string>
-  <string name="paused_unknown">Непознара грешка</string>
+  <string name="paused_unknown">Непозната грешка</string>
   <string name="paused_waiting_for_network">Чекање на мобилну мрежу</string>
   <string name="paused_waiting_to_retry">Чекам понови покушај</string>
   <string name="period_of_validity">"Ваљаност: "</string>
@@ -118,25 +118,25 @@
   <string name="pref_summary_max_bytes_limit_format">Причекај WLAN, ако величина датотеке премаши за %s</string>
   <string name="pref_summary_no_limit_popup">Неограничено</string>
   <string name="pref_title_enable_max_bytes_popup">Прикажи упозорење употребе података</string>
-  <string name="preferences_title">Поставке</string>
+  <string name="preferences_title">Подешавања</string>
   <string name="privacy_tip_cancel">Одустани</string>
-  <string name="privacy_tip_content">"Користити Кsunlei Acelerator за убрзање преузимања?URL домаћина преузимања ће бити учитан на ksuneli сервере. Детаљи вашег Mi Рачуна ће бити учитани ради провере да ли је имате активне претплате на ову услугу."</string>
+  <string name="privacy_tip_content">"Користити Кsunlei Ацелератор за убрзање преузимања? URL домаћина преузимања ће бити учитан на ksuneli сервере. Детаљи вашег Mi Рачуна ће бити учитани ради провере да ли је имате активне претплате на ову услугу."</string>
   <string name="privacy_tip_ok">У реду</string>
-  <string name="privacy_tip_title">Користи Xunlei Accelerator?</string>
+  <string name="privacy_tip_title">Користи Xunlei Ацелератор?</string>
   <string name="remove_download">Уклони</string>
   <string name="restart_download">Поново покрени</string>
   <string name="resume_download">Настави</string>
   <string name="retry_after_network_available">"Не могу се спојити на мрезу. Проверите пренос података и покушајте поново."</string>
   <string name="retry_download">Покушај поново</string>
   <string name="select_all">Одабери све</string>
-  <string name="select_operation_items">Одабеите ставке</string>
+  <string name="select_operation_items">Одаберите ставке</string>
   <string name="selected_count">Одабрано %1$d od %2$d</string>
   <string name="toast_xunlei_engine_open">"Xunlei убрзање преузимања укључено.
-Ов функција се не препоручује изван кине"</string>
+Ова функција се не препоручује изван кине"</string>
   <string name="turn_off_xunlei_message">Можете искључити спорију брзину преузимања.</string>
   <string name="turn_off_xunlei_tips">Xunlei убрзање преузимања је искључено</string>
   <string name="turn_off_xunlei_title">Онемогући Xunlei алат преузимања</string>
-  <string name="unbind_xunlei_2_success">Xunlei Рачун додан</string>
+  <string name="unbind_xunlei_2_success">Xunlei Рачун додат</string>
   <string name="unbind_xunlei_success">Одјављен из Xunlei рачуна</string>
   <string name="valid_in_this_month">Вреди само у овом месецу</string>
   <string name="vip_auto_speedup">Xunlei убрзање преузимања укључено</string>
@@ -144,7 +144,7 @@
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Убрзати преузимање</string>
   <string name="xunlei_close_tips_content">Само за Кину</string>
-  <string name="xunlei_close_tips_title">ова функција се не препоручује за кориснике изван кине</string>
+  <string name="xunlei_close_tips_title">Ова функција се не препоручује за кориснике изван Кине</string>
   <string name="xunlei_gaosu">Xunlei убрзање преузимања</string>
   <string name="xunlei_member_annual_fee">Годишње</string>
   <string name="xunlei_member_one_month">Месечно</string>

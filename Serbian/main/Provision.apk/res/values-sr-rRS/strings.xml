@@ -11,11 +11,11 @@
   <string name="locale_picker_title">Одаберите ваше место</string>
   <string name="miui_privacy_policy_no_network">"Немате мрежну везу. Погледајте правила о приватности на %s"</string>
   <string name="miui_terms_no_network">"Немате мрежну везу. Погледајте услове пружања услуге на %s"</string>
-  <string name="multisim_settings_category">Поставке пожењне SIM картице</string>
+  <string name="multisim_settings_category">Подешавања пожењне SIM картице</string>
   <string name="multisim_settings_title">Откривене 2 SIM картице</string>
   <string name="network_access_warning">Морате се повезати са интернетом како би активирали Mi Услуге.</string>
   <string name="next">Даље</string>
-  <string name="other_settings">Додатне поставке</string>
+  <string name="other_settings">Додатна подешавања</string>
   <string name="other_settings_location">Локације</string>
   <string name="other_settings_location_summary">Допустите апликацијама приступ вашој лоацији</string>
   <string name="other_settings_user_experience">Програм искуства корисника</string>
@@ -38,7 +38,7 @@
   <string name="sim_card_detection_info">За убацивање SIM картице, прочитајте упутства која сте добили са уређајем</string>
   <string name="sim_dectection_next">Настави</string>
   <string name="sim_redetection">Провери поново</string>
-  <string name="summary_not_set">Није постављено</string>
+  <string name="summary_not_set">Није подешено</string>
   <string name="summary_sim_card">Картица %1$d%2$s</string>
   <string name="summary_sim_card_with_operator">Картица %1$d: %2$s</string>
   <string name="terms_of_use">Услови и Одредбе</string>

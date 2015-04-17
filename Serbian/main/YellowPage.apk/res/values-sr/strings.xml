@@ -36,7 +36,7 @@
   <string name="callrecordview_item_op_time_rejected">Одбијено</string>
   <string name="callrecordview_item_op_time_short_incoming">"Долазно: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Одлазно: "</string>
-  <string name="check_network">Прикажи мрежне поставке</string>
+  <string name="check_network">Прикажи мрежнa подешавања</string>
   <string name="choose_upload">Одаберите датотеку за учитавање</string>
   <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">Потврдити брисање свих позива из пописа?</string>
@@ -69,7 +69,7 @@
   <string name="download_failed_cannot_resume">Преузимање неуспешно, покушајте поново касније</string>
   <string name="download_failed_file_exists">Датотека већ постоји</string>
   <string name="download_failed_gone">"Преузимање неуспешно, датотека не постоји"</string>
-  <string name="download_failed_network">Преузимање неуспешно, проверите мрежне поставке</string>
+  <string name="download_failed_network">Преузимање неуспешно, проверите мрежна подешавања</string>
   <string name="download_failed_server">Преузимање неуспешно, покушајте поново касније</string>
   <string name="download_failed_space">Преузимање неуспешно, недовољно простора</string>
   <string name="download_failed_storage">Преузимање неуспешно, проверите вашу SD картицу</string>
@@ -460,8 +460,8 @@
   <string name="resource_trial_end_restore">Крај пробног периода</string>
   <string name="resource_trial_end_title">Пробни период истекао</string>
   <string name="resource_trial_fail_cancel">У реду</string>
-  <string name="resource_trial_fail_go_settings">Поставке</string>
-  <string name="resource_trial_fail_message">Проверите да ли је ваш сат система постављен на тачно време.</string>
+  <string name="resource_trial_fail_go_settings">Подешавања</string>
+  <string name="resource_trial_fail_message">Проверите да ли је ваш сат система подешен на тачно време.</string>
   <string name="resource_trial_fail_title">"Није било могуће поставити пробни период"</string>
   <string name="resource_trial_time">（пробни период: %1$d мин.）</string>
   <string name="resource_unable_to_access">"Нажалост, 

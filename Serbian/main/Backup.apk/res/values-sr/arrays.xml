@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
         <item>WLAN подаци</item>
@@ -17,10 +18,10 @@
         <item>Попис позива</item>
         <item>SMS поруке</item>
         <item>MMS поруке</item>
-        <item>Поставке система</item>
-        <item>Поставке WLAN-a</item>
+        <item>Подешавања система</item>
+        <item>Подешавања WLAN-a</item>
         <item>Изглед радне површине</item>
-        <item>поставке аларма</item>
+        <item>Подешавања аларма</item>
         <item>Белешке</item>
         <item>Не сметај</item>
         <item>Рачун</item>
@@ -34,12 +35,12 @@
         <item>Контакти</item>
         <item>Попис позива</item>
         <item>SMS поруке</item>
-        <item>Поставке WLAN-a</item>
+        <item>Подешавања WLAN-a</item>
         <item>Белешке</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Контакти</item>
-        <item>Поставке WLAN-a</item>
+        <item>Подешавања WLAN-a</item>
         <item>Белешке</item>
     </string-array>
     <string-array name="cloud_sim_data">

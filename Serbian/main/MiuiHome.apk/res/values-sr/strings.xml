@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"Апликација није инсталирана на вашем уређају"</string>
-  <string name="app_being_backup_message">Изводи се сиг. копија апликације</string>
+  <string name="app_being_backup_message">Извози се сиг. копија апликације</string>
   <string name="app_category_books">Књиге</string>
   <string name="app_category_education">Образовање</string>
   <string name="app_category_entertainment">Забава</string>
@@ -134,15 +134,15 @@
   <string name="lock_screen_success_message">Подешено за позадину закључаног екрана</string>
   <string name="menu_add">Додај</string>
   <string name="menu_back_desktop">Назад на Почетни екран</string>
-  <string name="menu_customize">Поставке</string>
+  <string name="menu_customize">Подешавања</string>
   <string name="menu_edit">Уреди Почетни екран</string>
   <string name="menu_exit_scene">Излаз из MiSpacea</string>
   <string name="menu_item_add_item">Додај на Почетни екран</string>
-  <string name="menu_launcher_setting">Посатвке покретача</string>
+  <string name="menu_launcher_setting">Подешавања покретача</string>
   <string name="menu_picktheme">Одаберите тему</string>
-  <string name="menu_reset_scene">Враћање на задате поставке</string>
+  <string name="menu_reset_scene">Враћање на задата подешавања</string>
   <string name="menu_search">Претражи</string>
-  <string name="menu_settings">Поставке</string>
+  <string name="menu_settings">Подешавања</string>
   <string name="menu_sort">Поређај апликације</string>
   <string name="menu_wallpaper">Слика позадине</string>
   <string name="menu_workspace_preview">Преглед Почетних екрана</string>
@@ -158,9 +158,9 @@
   <string name="permdesc_write_settings">Допушта апликацији промену пречица на почетном екрану.</string>
   <string name="permlab_install_shortcut">Инсталирај пречице</string>
   <string name="permlab_install_widget">Инсталирај widgete</string>
-  <string name="permlab_read_settings">Прочитај поставке почетног екрана и Пречица</string>
+  <string name="permlab_read_settings">Прочитај подешавања почетног екрана и Пречица</string>
   <string name="permlab_uninstall_shortcut">Деинсталирај пречице</string>
-  <string name="permlab_write_settings">Уреди поставке Почетног екрана и пречице</string>
+  <string name="permlab_write_settings">Уреди подешавања Почетног екрана и пречице</string>
   <string name="photo_adjust">Преглед</string>
   <string name="photo_confirm">Примени</string>
   <string name="photo_load_failed">"Не могу учитати фотографију"</string>
@@ -177,15 +177,15 @@
   <string name="pref_render_in_truecolor_title">Висок квалитет графике</string>
   <string name="pref_screen_transformation_type_title">Ефекат прелаза екрана</string>
   <string name="pref_wallpaper_scroll_type_title">Поравнање слике позадине</string>
-  <string name="preferences_general_title">Додатне поставке</string>
-  <string name="preferences_title">Поставке Покретача</string>
+  <string name="preferences_general_title">Додатна подешавања</string>
+  <string name="preferences_title">Подешавање Покретача</string>
   <string name="process"/>
-  <string name="reset_scene_prompt">Екран ће се вратити на задате поставке.</string>
+  <string name="reset_scene_prompt">Екран ће се вратити на задата подешавања.</string>
   <string name="scroll_tip_format_when_announce_accessibility">на страници %1$d, %2$d апликација</string>
   <string name="select_frame">Оквир</string>
   <string name="select_photo">Фотографија</string>
   <string name="setting_wallpaper_tip">Помакни или увећај за прилагођавање</string>
-  <string name="settings_shortcut">Поставке</string>
+  <string name="settings_shortcut">Подешавања</string>
   <string name="sharedUserId"/>
   <string name="show_all">Прикажи све</string>
   <string name="sort_by_abc">Поређај по називу</string>

@@ -21,12 +21,12 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Новије</item>
         <item>Старије</item>
-        <item>Dolazna pošta</item>
+        <item>Долазна пошта</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
         <item>Приказ новијег разговора након брисања</item>
         <item>Приказ старијег разговора након брисања</item>
-        <item>Приказ dolazne pošte након брисања</item>
+        <item>Приказ долазне поште након брисања</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Прикажи само архивирање</item>
@@ -49,23 +49,23 @@
         <item>Недавно</item>
         <item>Формат</item>
         <item>Име</item>
-        <item>Пошаљиоц</item>
+        <item>Пошиљаоц</item>
         <item>Датум</item>
      </string-array>
      <string-array name="signature_normal_string_array">
          <item>Blog:</item>
          <item>Страница:</item>
-         <item>E-pošta:</item>
+         <item>E-пошта:</item>
          <item>Мобилни:</item>
          <item>телефон:</item>
          <item>Т:</item>
          <item>www.</item>
          <item>F:</item>
          <item>E:</item>
-         <item>E-pošta:</item>
+         <item>E-пошта:</item>
          <item>Тел:</item>
          <item>Фах:</item>
-         <item>E-pošta:</item>
+         <item>E-пошта:</item>
          <item>QQ:</item>
          <item>MSN:</item>
      </string-array>
@@ -73,7 +73,7 @@
          <item>Адреса:</item>
          <item>Тел:</item>
          <item>Име:</item>
-         <item>E-pošta:</item>
+         <item>E-пошта:</item>
          <item>Мобилни:</item>
          <item>WeChat:</item>
          <item>Фх:</item>
@@ -81,20 +81,20 @@
      </string-array>
      <string-array name="signature_special_string_array">
          <item>Одрицање:</item>
-         <item>E-pošta Одрицање</item>
+         <item>E-пошта Одрицање</item>
          <item>Пошаљи via WPSMail</item>
-         <item>Послано са</item>
-         <item>Послано с</item>
+         <item>Послато са</item>
+         <item>Послато са</item>
          <item>Хвала,</item>
          <item>Срдачан поздрав</item>
      </string-array>
      <string-array name="signature_special_string_array_next">
          <item>Хвала,</item>
          <item>Срдачан поздрав</item>
-         <item>Послано сa мог</item>
-         <item>Oргинална порука</item>
-         <item>Послано сa мог</item>
-         <item>Послано са</item>
+         <item>Послато сa мог</item>
+         <item>Oригинална порука</item>
+         <item>Послато сa мог</item>
+         <item>Послато са</item>
          <item>са</item>
          <item>Ова порука</item>
          <item>Одрицање</item>
