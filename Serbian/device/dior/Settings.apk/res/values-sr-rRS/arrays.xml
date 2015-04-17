@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="tts_rate_entries">
-        <item>Jako sporo</item>
-        <item>Sporo</item>
-        <item>Normalno</item>
-        <item>Brzo</item>
-        <item>Brže</item>
-        <item>Vrlo brzo</item>
-        <item>Ubrzano</item>
-        <item>Vrlo ubrzano</item>
-        <item>Najbrže</item>
+        <item>Јако споро</item>
+        <item>Споро</item>
+        <item>Нормално</item>
+        <item>Брзо</item>
+        <item>Брже</item>
+        <item>Врло брзо</item>
+        <item>Убрзано</item>
+        <item>Врло убрзано</item>
+        <item>Најбрже</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Nijedan</item>
+        <item>Ниједан</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>Nijedan</item>
+        <item>Ниједан</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>

@@ -19,14 +19,14 @@
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>EvDo samo</item>
         <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo auto</item>
-        <item>GSM/WCDMA auto</item>
-        <item>WCDMA samo</item>
-        <item>GSM samo</item>
-        <item>GSM/WCDMA poželjno</item>
+        <item>CDMA/EvDo ауто</item>
+        <item>GSM/WCDMA ауто</item>
+        <item>WCDMA само</item>
+        <item>GSM само</item>
+        <item>GSM/WCDMA пожељно</item>
     </string-array>
     <string-array name="ims_call_types">
-        <item>Glas</item>
-        <item>Video</item>
+        <item>Глас</item>
+        <item>Видео</item>
     </string-array>
 </resources>
