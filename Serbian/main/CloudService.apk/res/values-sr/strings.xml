@@ -4,7 +4,7 @@
   <string name="account">Рачун</string>
   <string name="activate">Активирај</string>
   <string name="activating">Активирање</string>
-  <string name="activate_number_change_dialog_message">Odaberite veliki broj koji je potrebno aktivirati, prilikom VOIP poziva, nazvana stranka će vidjeti ovaj broj</string>
+  <string name="activate_number_change_dialog_message">Одаберите велики број који је потребно активирати, приликом VOIP позива, позвана странка ће видети овај број</string>
   <string name="alert_notif_title_dspt">Није синхронизовано</string>
   <string name="antispam_sync">Подеси "Не ометај ме"</string>
   <string name="app_name">Mi Cloud</string>
@@ -216,8 +216,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="microsoft_cloud_price">око 80 RMB годишње</string>
   <string name="more_activity_in_upgrade_space">Сазнајте више на &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi поруке</string>
-  <string name="mx_dspt_provision_with_voip">Nazovite druge MIUI korisnike besplatno koristeći internetsku vezu. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama.</string>
-  <string name="mx_sub_dspt_provision_with_voip">Internetski pozivi</string>
+  <string name="mx_dspt_provision_with_voip">Назовите друге MIUI кориснике бесплатно користећи интернет везу. Можете укључити/искључити ову функцију у било ком тренутку у подешавањима.</string>
+  <string name="mx_sub_dspt_provision_with_voip">Интернет позиви</string>
   <string name="mx_dspt_provision">"Mi поруке омогућавају вам слање порука другим MIUI корисницима без додатних SMS трошкова.
   
   
@@ -318,7 +318,7 @@ Korištenjem ove usluge, slažete se s  "</string>
   <string name="vcode">Провера кода</string>
   <string name="verify">Потврди</string>
   <string name="view_storage_title">Простор за складиштење</string>
-  <string name="voip_choose_sim">Odaberite broj telefona za aktiviranje Mi Voice</string>
+  <string name="voip_choose_sim">Одаберите број телефона за активирање Mi Voice</string>
   <string name="voip_dspt">Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>

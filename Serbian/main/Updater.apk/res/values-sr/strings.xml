@@ -78,7 +78,7 @@
   <string name="menu_title_download_current_rom">Преузимање ажурирања</string>
   <string name="menu_title_pick_rom_file">Одаберите пакет ажурирања</string>
   <string name="menu_title_recovery">Поново покренуте у Recovery mode</string>
-  <string name="miui_BBS">" "&lt;a href="http://www.miui.website"&gt;Idi na MIUI Adria forum&lt;/a&gt;" "</string>
+  <string name="miui_BBS">" "&lt;a href="http://www.miui.website"&gt;Иди на MIUI Adria форум&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">Доступно је ажурирање</string>
   <string name="miui_summary_no_new_version">Нема доступних ажурирања</string>
   <string name="miui_summary_now_version">"Тренутна верзија "</string>
@@ -193,23 +193,23 @@ http://zhushou.xiaomi.com"</string>
   <string name="validate_pkg_failed_msg">"Не могу проверити извор овог ажурирања. Покушајте преузети поново."</string>
   <string name="validate_pkg_failed_title">"Не могу проверити ажурирање"</string>
   <string name="view_upgrade_tutorial">"Прикажи"</string>
-  <string name="vote_beta">Beta Program Povr. informacija</string>
-  <string name="vote_error1">"Izgleda da vi niste član
-Beta Programa Povr. informacija"</string>
-  <string name="vote_error2">"Ne mogu poslati Povr. informacije.
-Ažurirajte svoj uređaj i pokušajte ponovo"</string>
-  <string name="vote_error3">"Ne mogu se prijaviti.
-Pokušajte se prijaviti na vaš Mi Račun ponovno."</string>
-  <string name="vote_error4">Već ste poslali Povratnu informaciju</string>
-  <string name="vote_error5">"Nešto nije u redu
-Ne mogu poslati Povratnu informaciju"</string>
-  <string name="vote_error_nonetwork">"Ne mogu se povezati na mrežu"</string>
-  <string name="vote_experience">Forumsko iskustvo</string>
-  <string name="vote_hint">Dobijte 20 bodova iskustva na MIUI forumu nakon glasovanja</string>
-  <string name="vote_join">Glasano</string>
-  <string name="vote_not_recommend">"Ne preporučujem"</string>
-  <string name="vote_recommend">Preporučujem ovo ažuriranje</string>
-  <string name="vote_submit">Pošalji</string>
+  <string name="vote_beta">Бета програм повр. информација</string>
+  <string name="vote_error1">"Изгледа да ви нисте члан
+Бета програма повр. информација"</string>
+  <string name="vote_error2">"Не могу послати повр. информације.
+Ажурирајте свој уређај и покушајте поново"</string>
+  <string name="vote_error3">"Не могу се пријавити.
+Покушајте да се пријавите на ваш Mi Рачун поново."</string>
+  <string name="vote_error4">Већ сте послали повратну информацију</string>
+  <string name="vote_error5">"Нешто није у реду
+Не могу послати повратну информацију"</string>
+  <string name="vote_error_nonetwork">"Не могу се повезати на мрежу"</string>
+  <string name="vote_experience">Форум искуство</string>
+  <string name="vote_hint">Добијте 20 бодова искуства на MIUI форуму након гласања</string>
+  <string name="vote_join">Гласано</string>
+  <string name="vote_not_recommend">"Не препоручујем"</string>
+  <string name="vote_recommend">Препоручујем ово ажурирање</string>
+  <string name="vote_submit">Пошаљи</string>
   <string name="weekly_build">Недељно издање</string>
   <string name="worst_update">Најгоре ажурирање до сада</string>
 </resources>
