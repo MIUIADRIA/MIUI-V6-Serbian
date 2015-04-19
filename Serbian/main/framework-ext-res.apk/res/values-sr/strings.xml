@@ -13,7 +13,7 @@
   <string name="status_bar_toggle_flight_mode">Авионски мод</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Закљ.</string>
-  <string name="status_bar_toggle_mute">Bešumno</string>
+  <string name="status_bar_toggle_mute">Бешумно</string>
   <string name="status_bar_toggle_network_type">Мрежа</string>
   <string name="status_bar_toggle_paper_mode">Начин читања</string>
   <string name="status_bar_toggle_power_mode">Перформансе</string>
