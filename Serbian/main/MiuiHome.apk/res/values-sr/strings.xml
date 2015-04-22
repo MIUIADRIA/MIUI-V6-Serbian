@@ -212,7 +212,7 @@
   <string name="transformation_type_stack">Каскадно</string>
   <string name="uninstall">Деинсталирај</string>
   <string name="uninstall_dialog_message">Деинсталација ће уклонити све податке апликације.</string>
-  <string name="uninstall_dialog_title_format">Деинсталират %s?</string>
+  <string name="uninstall_dialog_title_format">Деинсталирати %s?</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Деинсталирати %s i %d осталих апликација?</string>
   <string name="uninstall_result_failed">"Не могу деинсталирати %s"</string>
   <string name="uninstall_result_multi_succeeded">Денсталирано аплик.: %1$d</string>

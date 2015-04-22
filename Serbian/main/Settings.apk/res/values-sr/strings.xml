@@ -2800,7 +2800,7 @@ Google-ов приступ синхронизацији података за м
   <string name="wifi_scan_notify_remember_choice">Не приказуј поново</string>
   <string name="wifi_scan_notify_text_location_off">Апликације могу скенирати мрежу у близини, чак и када је WLAN искључен. Ако не желите да се то догађа,идите на Опције напредно &gt; Скенирање је увек доступно.</string>
   <string name="wifi_scan_notify_text_location_on">Ради побољшања прецизности и у неке друге сврхе Google и остале апликације могу тражити мреже у близини, чак и када је WLAN искључен. Ако не желите да се то догађа, идите на опције напредно &gt; Скенирање је увек доступно.</string>
-  <string name="wifi_secured_first_item">Осиграно функцијом %1$s</string>
+  <string name="wifi_secured_first_item">Осигурано функцијом %1$s</string>
   <string name="wifi_secured_second_item">, осигурано функцијом %1$s</string>
   <string name="wifi_security">Сигурност</string>
   <string name="wifi_security_none">Ништа</string>

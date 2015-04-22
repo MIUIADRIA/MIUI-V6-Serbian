@@ -405,7 +405,7 @@
   <string name="permission_preload_label">Предучитај резултате</string>
   <string name="popup_window_attempt">Дозволите овој страници отварање искачућих прозора?</string>
   <string name="pref_accessibility_title">Приступачност</string>
-  <string name="pref_accessibility_url_shortcut_enter_summary">Код уноса из адресне траке, заједничке комбинације слова могу се унети једним притиском на типку</string>
+  <string name="pref_accessibility_url_shortcut_enter_summary">Код уноса из адресне траке, заједничке комбинације слова могу се унети једним притиском на тастер</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Брзи унос URL-a</string>
   <string name="pref_adblock_counts">Блокирано %d</string>
   <string name="pref_adblock_title">Блокирање реклама</string>
@@ -553,9 +553,9 @@
   <string name="pref_video_preload_dialogtitle">Предучитавање видео записа</string>
   <string name="pref_video_preload_summary">: Предучитај видео записе када сервер то допусти</string>
   <string name="pref_video_preload_title">Предучитавање видео записа</string>
-  <string name="pref_volume_key_action">Помичите помоћу типки за гласноћу</string>
+  <string name="pref_volume_key_action">Помичите помоћу тастера за гласноћу</string>
   <string name="pref_volume_key_enabled">Тастер за гласноћу</string>
-  <string name="pref_volume_key_operation">Функција типки за гласноћу</string>
+  <string name="pref_volume_key_operation">Функција тастера за гласноћу</string>
   <string name="pref_webapp_settings_fontsize">Величина фонта</string>
   <string name="pref_webapp_settings_hidebottombar">Сакри доњу траку</string>
   <string name="pref_webapp_settings_savewidth">"Немој користити 2G/3G мобилну мрежу за преузимање слика"</string>

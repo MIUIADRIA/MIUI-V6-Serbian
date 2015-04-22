@@ -233,7 +233,7 @@
   <string name="passport_completed">Завршено</string>
   <string name="passport_confirm">У реду</string>
   <string name="passport_delete_account">Одјава</string>
-  <string name="passport_dspt_provision">"Користите свој Mi Рачун за пријаву на Mi Cloud, MIUI рговину тема, и друге Mi Услуге, са било ког места. "</string>
+  <string name="passport_dspt_provision">"Користите свој Mi Рачун за пријаву на Mi Cloud, MIUI продавницу тема, и друге Mi Услуге, са било ког места. "</string>
   <string name="passport_dspt_provision2">Сазнајте више</string>
   <string name="passport_email">Адреса E-поште</string>
   <string name="passport_email_or_id_hint_text">Адреса E-поште или ID Mi Рачуна</string>

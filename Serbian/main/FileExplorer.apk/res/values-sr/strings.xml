@@ -201,7 +201,7 @@
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Не могу се повезати на мрежу"</string>
   <string name="network_connect_confirm_des">Апликација Датотеке се треба повезати са интернетом за нормалан рад</string>
-  <string name="never_notify_network_connect">Запамти поставке</string>
+  <string name="never_notify_network_connect">Запамти подешавања</string>
   <string name="new_folder_name">Мапа без имена</string>
   <string name="no">Не</string>
   <string name="no_display_file">"Не могу приказати %1$s"</string>
@@ -256,7 +256,7 @@
   <string name="operation_send">Пошаљи</string>
   <string name="operation_show_sys">Покажи све скривене датотеке</string>
   <string name="operation_unfavorite">Нефаворити</string>
-  <string name="pan_settting">KuaiPan поставке</string>
+  <string name="pan_settting">KuaiPan подешавања</string>
   <string name="paused">Паузирано</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Телефон</string>
@@ -271,9 +271,9 @@
   <string name="search_title">Тражи</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Ова врста датотеке није позната.</string>
-  <string name="server_control_advanced_settings">FTP поставке</string>
+  <string name="server_control_advanced_settings">FTP подешавања</string>
   <string name="server_control_charset">Кодирање преноса</string>
-  <string name="server_control_settings">Поставке</string>
+  <string name="server_control_settings">Подешавања</string>
   <string name="share_box">Подељено</string>
   <string name="share_box_receive">Примљено</string>
   <string name="share_box_send">Послато</string>

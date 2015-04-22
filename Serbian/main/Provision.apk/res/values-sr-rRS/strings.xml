@@ -17,7 +17,7 @@
   <string name="next">Даље</string>
   <string name="other_settings">Додатна подешавања</string>
   <string name="other_settings_location">Локације</string>
-  <string name="other_settings_location_summary">Допустите апликацијама приступ вашој лоацији</string>
+  <string name="other_settings_location_summary">Допустите апликацијама приступ вашој локацији</string>
   <string name="other_settings_user_experience">Програм искуства корисника</string>
   <string name="other_settings_user_experience_summary">Помозите нам да побољшамо MIUI слањем анонимних података о коришћењу (%s)</string>
   <string name="other_settings_user_experience_summary1">прикажи Правила о Приватности</string>

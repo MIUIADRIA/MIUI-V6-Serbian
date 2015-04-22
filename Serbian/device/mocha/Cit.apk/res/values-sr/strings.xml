@@ -290,7 +290,7 @@
   <string name="cit_touch_calib_fail">Калибрација успела</string>
   <string name="cit_touch_calib_instruction">Калибрација</string>
   <string name="cit_touch_calib_pass">Калибрација је упешно завршена</string>
-  <string name="cit_touch_calib_summary">Следећи корак потпуне калибрације на додир, притисните типку OK, не додирујте екран док се калибрација не заврши</string>
+  <string name="cit_touch_calib_summary">Следећи корак потпуне калибрације на додир, притисните тастер OK, не додирујте екран док се калибрација не заврши</string>
   <string name="cit_touch_calib_title">Калибрација на додир</string>
   <string name="cit_usb_OTG_in"> USB_OTG уреај прикачен </string>
   <string name="cit_usb_OTG_out"> USB_OTG опрема није прикључена.</string>
