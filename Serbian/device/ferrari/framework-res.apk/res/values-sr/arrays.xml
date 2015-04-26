@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Početna</item>
-        <item>Posao</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Почетна</item>
+        <item>Посао</item>
+        <item>Остало</item>
+        <item>Прилагођено</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,92 +17,92 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Posao</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Посао</item>
+        <item>Остало</item>
+        <item>Прилагођено</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Početna</item>
-        <item>Mobilni</item>
-        <item>Posao</item>
-        <item>Službeni faks</item>
-        <item>Faks kod kuće</item>
-        <item>Dojavljivač</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Почетна</item>
+        <item>Мобилни</item>
+        <item>Посао</item>
+        <item>Службени факс</item>
+        <item>Факс код куће</item>
+        <item>Дојављивач</item>
+        <item>Остало</item>
+        <item>Прилагођено</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Početna</item>
-        <item>Posao</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Почетна</item>
+        <item>Посао</item>
+        <item>Остало</item>
+        <item>Прилагођено</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Početna</item>
-        <item>Posao</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Почетна</item>
+        <item>Посао</item>
+        <item>Остало</item>
+        <item>Прилагођено</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Lokacija</item>
-        <item>Lokacija</item>
-        <item>Lokacija</item>
-        <item>Vibriranje</item>
-        <item>Čitanje kontakata</item>
-        <item>Pisanje kontakata</item>
-        <item>Čitanje zapisnika poziva</item>
-        <item>Pisanje zapisnika poziva</item>
-        <item>Čitanje kalendara</item>
-        <item>Izmjena kalendara</item>
-        <item>Lokacija</item>
-        <item>Objavljivanje obavijesti</item>
-        <item>Lokacija</item>
-        <item>Poziv na telefon</item>
-        <item>Čitanje SMS-a</item>
-        <item>Pisanje SMS-a</item>
-        <item>Primanje SMS-a</item>
-        <item>Primanje hitnog SMS-a</item>
-        <item>Primanje MMS-a</item>
-        <item>Primanjee WAP pusha</item>
-        <item>Primanje SMS-a</item>
-        <item>Čitanje ICC SMS-a</item>
-        <item>Pisanje ICC SMS-a</item>
-        <item>Izmjena postavki</item>
-        <item>Povlačenje na vrh</item>
-        <item>Pristup obavijestima</item>
-        <item>Kamera</item>
-        <item>Snimanje zvuka</item>
-        <item>Reprodukcija audiozapisa</item>
-        <item>Čitaj međuspremnik</item>
-        <item>Izmjena međuspremnika</item>
-        <item>Medijski gumbi</item>
-        <item>Audiofokus</item>
-        <item>Glavna glasnoća</item>
-        <item>Glasnoća glasa</item>
-        <item>Glasnoća zvona</item>
-        <item>Glasnoća medija</item>
-        <item>Glasnoća alarma</item>
-        <item>Glasnoća obavijesti</item>
-        <item>Glasnoća Bluetootha</item>
-        <item>Zadrži u aktivnom stanju</item>
-        <item>Lokacija</item>
-        <item>Lokacija</item>
-        <item>Dobivanje statistike uporabe</item>
-        <item>Dohvati statistike o upotrebi</item>
-        <item>Isključi/uključi mikrofon</item>
-        <item>Toast prozor</item>
-        <item>Aktiviraj VPN-</item>
-        <item>Uklj./isklj WLAN</item>
-        <item>Uklj./isklj Bluetooth</item>
-        <item>Slanje MMS-a</item>
-        <item>Čitanje MMS-a</item>
-        <item>Pisanje MMS-a</item>
-        <item>Pokreni kod pokretanja</item>
-        <item>Uklj./isklj. NFC</item>
-        <item>Brisanje SMS-a</item>
-        <item>Brisanje MMS</item>
-        <item>Brisanje kontakta</item>
-        <item>Brisanje zapisnika poziva</item>
-        <item>Uklj./isklj. podataka</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Вибрирање</item>
+        <item>Читање контаката</item>
+        <item>Писање контаката</item>
+        <item>Читање листе позива</item>
+        <item>Писање листе позива</item>
+        <item>Читање календара</item>
+        <item>Измена календара</item>
+        <item>Локација</item>
+        <item>Објављивање обавештења</item>
+        <item>Локација</item>
+        <item>Позив на телефон</item>
+        <item>Читање SMS-a</item>
+        <item>Писање SMS-a</item>
+        <item>Примање SMS-a</item>
+        <item>Примање хитног SMS-a</item>
+        <item>Примање MMS-a</item>
+        <item>Примање WAP pusha</item>
+        <item>Примање SMS-a</item>
+        <item>Читање ICC SMS-a</item>
+        <item>Писање ICC SMS-a</item>
+        <item>Измена подешавања</item>
+        <item>Повлачење на врх</item>
+        <item>Приступ обавештењима</item>
+        <item>Камера</item>
+        <item>Снимање звука</item>
+        <item>Репродукција аудиозаписа</item>
+        <item>Читај бафер</item>
+        <item>Измена бафера</item>
+        <item>Медиски тастери</item>
+        <item>Аудиофокус</item>
+        <item>Главна јачина</item>
+        <item>Јачина гласа</item>
+        <item>Јачина звона</item>
+        <item>Јачина медија</item>
+        <item>Јачина аларма</item>
+        <item>Јачина обавештења</item>
+        <item>Јачина Bluetootha</item>
+        <item>Задржи у активном стању</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Добијање статистике употребе</item>
+        <item>Дохвати статистике о употреби</item>
+        <item>Искључи/укључи микрофон</item>
+        <item>Тоаст прозор</item>
+        <item>Активирај VPN-</item>
+        <item>Укљ./искљ WLAN</item>
+        <item>Укљ./искљ Bluetooth</item>
+        <item>Слање MMS-a</item>
+        <item>Читање MMS-a</item>
+        <item>Писање MMS-a</item>
+        <item>Покрени код покретања</item>
+        <item>Укљ./искљ. NFC</item>
+        <item>Брисање SMS-a</item>
+        <item>Брисање MMS</item>
+        <item>Брисање контакта</item>
+        <item>Брисање записника позива</item>
+        <item>Укљ./искљ. података</item>
     </string-array>
 </resources>
