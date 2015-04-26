@@ -213,6 +213,6 @@
 	<string-array name="debug_hw_overdraw_entries">
         <item>Искључено</item>
         <item>Покажи подручије словних исцртавања</item>
-        <item>Пппппппппприкажи подручиа за деутераномалију</item>
+        <item>Прикажи подручија за деутераномалију</item>
     </string-array>
 </resources>
