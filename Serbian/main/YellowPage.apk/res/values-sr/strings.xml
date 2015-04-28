@@ -204,6 +204,7 @@
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Нема предмета)</string>
   <string name="hms_notification">Поруке</string>
+  <string name="info_divider">|</string>
   <string name="loading">Учитавање</string>
   <string name="loading_resource_detail_fail">"Не могу учитати ресурсе"</string>
   <string name="loading_resource_detail_info">Учитавање</string>

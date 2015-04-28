@@ -211,5 +211,8 @@ http://zhushou.xiaomi.com"</string>
   <string name="vote_recommend">Препоручујем ово ажурирање</string>
   <string name="vote_submit">Пошаљи</string>
   <string name="weekly_build">Недељно издање</string>
+  <string name="welcom_button">У реду</string>
+  <string name="welcom_message">"Спремни сте да растурите"</string>
+  <string name="welcom_title">Добродошли у MIUI 6</string>
   <string name="worst_update">Најгоре ажурирање до сада</string>
 </resources>

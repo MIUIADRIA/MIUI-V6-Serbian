@@ -29,16 +29,6 @@
   <string name="buy_space_sulotion_title">Купите простор за меморију</string>
   <string name="calendar_sync">Календар</string>
   <string name="click_to_enabled">Додирни за синхронизацију.</string>
-  <string name="close_cloud_app_backup_cancel">Одустани/затвори</string>
-  <string name="close_cloud_app_backup_close">Завори</string>
-  <string name="close_cloud_app_backup_local_backup">Направи сигурносну копију</string>
-  <string name="close_cloud_app_backup_message">Cloud App Backup Услуга ће бити заутсављена и подаци ће бити избрисани 1.маја 2015, молимо вас, копирајте ваше податке у најкраћем могућем року.</string>
-  <string name="close_cloud_app_backup_notification_message">Додирните за детаље</string>
-  <string name="close_cloud_app_backup_notification_title">Прилагоди обавештења Mi Cloud Услуге</string>
-  <string name="close_cloud_app_backup_title">Затвори обавештења</string>
-  <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud App Backup Услуга ће бити обустављена за не-MIUI апликације. Сродни подаци других апликација ће бити избрисани  1. маја 2015. Да избегнете губитак важних информација, направите сада локалну сиг. копију ваших података апликација."</string>
-  <string name="cloud_app_back_up_quit_notification_content2">То неће утицати на контакте, Поруке, Гелерију и друге апликације система MIUI.</string>
-  <string name="cloud_app_back_up_quit_notification_content3">Напрви сиг. копију података апликација</string>
   <string name="cloud_back_up_button_ok">Насилно заустави</string>
   <string name="cloud_back_up_close_info">Додирни за израду Сиг.копије</string>
   <string name="cloud_back_up_dialog_content">"Зауставите израду сиг. копије у току? Ако зауставите сада, нећете бити у могућности користити ову Сиг. копију за враћање апликација."</string>

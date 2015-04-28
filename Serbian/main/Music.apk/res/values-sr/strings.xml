@@ -146,6 +146,7 @@
   <string name="higher_quality_music">Висок квалитет звука</string>
   <string name="higher_quality_music_summary">Stream и преузимање датотека веће брзине преноса</string>
   <string name="i_know">У реду</string>
+  <string name="i_know_it">У реду</string>
   <string name="impunity_declaration">Online садржај потиче из Baidu Online Music Service.Коришћењем ове услуге, пристајете на Baidu http://music.baidu.com/doc/agreement" Услове пружања услуге</string>
   <string name="impunity_declaration_ignore">"Не приказуј поново"</string>
   <string name="impunity_declaration_negative_text">Затвори</string>
@@ -252,6 +253,7 @@
   <string name="send_to_title">Пошаљи (%1$s)</string>
   <string name="set_album_successful">Албум је постављен</string>
   <string name="server_error">Грешка сервера. Покушајте поново касније</string>
+  <string name="service_stop">Service discontinued</string>
   <string name="set_as_ring">Постави за звук звона</string>
   <string name="set_id3_failed">"Не могу сачувати информације"</string>
   <string name="set_id3_successful">Информације песме су сачуване</string>
@@ -292,6 +294,12 @@
   <string name="trigger_to_scan_media_library_start">Освежавање…</string>
   <string name="ultra_high_quality">Највиша</string>
   <string name="unknown_album_name">Непознати албум</string>
+  <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_immediate">Update now</string>
+  <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
+  <string name="upgrade_remind">Update available</string>
+  <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
   <string name="unknown_artist_name">Непознати извођач</string>
   <string name="valid_period">"Вреди то: "</string>
   <string name="vip_recommend_title">Набавите виши квалитет музике</string>

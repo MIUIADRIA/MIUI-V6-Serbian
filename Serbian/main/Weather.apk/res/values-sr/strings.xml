@@ -18,6 +18,7 @@
   <string name="activity_find_city_dialog_message">Нека Време види вашу локацију</string>
   <string name="activity_find_city_dialog_set">Подешавања</string>
   <string name="activity_find_city_dialog_title">Приступ локацији</string>
+  <string name="activity_main_refresh_fail">"Не могу се повезати на мрежу"</string>
   <string name="activity_main_refresh_time">Задње ажурирање %1$s</string>
   <string name="activity_main_refresh_timeout">Ажурирање није успело</string>
   <string name="activity_main_time_format">dd/MM</string>

@@ -2161,6 +2161,7 @@
   <string name="status_bar_settings_advanced">"Додатна подешавања"</string>
   <string name="status_bar_settings_all_app_display_loading">Учитавање…</string>
   <string name="status_bar_settings_basic_settings">Основна подешавања</string>
+  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
   <string name="status_bar_settings_custom_carrier">Уреди назив провајдера услуга</string>
   <string name="status_bar_settings_custom_notification">Управљај обавештењима</string>
   <string name="status_bar_settings_custom_wifi_name">Уреди назив WLAN-a</string>

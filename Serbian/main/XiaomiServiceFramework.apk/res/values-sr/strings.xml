@@ -46,6 +46,7 @@
   <string name="activate_popup_title_new_sim_card">Активирај поново %s</string>
   <string name="activate_popup_title_register_account">Изради Mi рачуном</string>
   <string name="activate_popup_title_upload_diagnosis_info">"Не могу активирати SIM картицу"</string>
+  <string name="activate_sms_postfix">[Овај СМС се користи за активирање вашег Ми уређајa.]</string>
   <string name="activate_status_desc_acquire_phone_number">Добијање броја телефона са сервера</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Дошло је до грешке на серверу при добијању броја телефона</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Не могу добити број телефона"</string>
@@ -53,8 +54,6 @@
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Дошло је до грешке на серверу при провери Mi рачуна</string>
   <string name="activate_status_desc_failed_getting_gateway">Неуспешно добијање SMS-a са приступника</string>
   <string name="activate_status_desc_getting_gateway">Добивање SMS-a са приступника</string>
-  <string name="activate_status_desc_getting_sim_info">Добијање информација SIM картице</string>
-  <string name="activate_status_desc_getting_sim_info_fail">"Не могу добити информације SIM картице"</string>
   <string name="activate_status_desc_prepare_sending_sms">Припрема слања активационог SMS-a приступника</string>
   <string name="activate_status_desc_query_activation_info">Упит о активацији на серверу</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Сервер није успео послати SMS активације на ваш телефон</string>
@@ -64,15 +63,11 @@
   <string name="activate_status_desc_registering_sim_account_server_error">Дошло је до грешке на серверу приликом регистрације SIM картице</string>
   <string name="activate_status_desc_registering_xiaomi_account">Регистрација Mi Рачуна на серверу</string>
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Дошло је до грешке на серверу приликом регистрације Mi рачуна</string>
-  <string name="activate_status_desc_registration">Регистрација SIM картице</string>
-  <string name="activate_status_desc_registration_server_error">Дошло је до грешке на серверу приликом регистрације SIM картице</string>
   <string name="activate_status_desc_request_activation_sms">Потребан SMS активације са сервером на ваш телефон</string>
-  <string name="activate_status_desc_request_activation_sms_phone_error">Број телефона који сте унели није исправан</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Дошло је до грешке на серверу приликом слања SMS-a активације са сервера на ваш телефон</string>
   <string name="activate_status_desc_sending_sms">Слање SMS-a активације</string>
   <string name="activate_status_desc_sending_sms_fail">"Не могу послати SMS активације сервера"</string>
   <string name="activate_status_desc_sms_sent">SMS активације послат</string>
-  <string name="activate_status_desc_wait_for_phone_service">Чека се услуга</string>
   <string name="activate_status_desc_wait_for_sms">Чека се SMS акативације са сервера</string>
   <string name="activate_status_desc_wait_for_sms_fail">"Није било могуће примити SMS активације са сервера"</string>
   <string name="activate_status_desc_wait_for_sms_success">SMS активација са сервером успешно примљена</string>
