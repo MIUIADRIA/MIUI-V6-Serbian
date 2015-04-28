@@ -245,7 +245,7 @@
   <string name="menu_text_networkassistants_remain">Преостало: %s</string>
   <string name="menu_text_power_manager">Потрошња батерије</string>
   <string name="menu_text_power_percent">Батерија: %s</string>
-  <string name="name_antivirus">Прикажи Правила о Приватностi</string>
+  <string name="name_antivirus">Прикажи Правила о Приватности</string>
   <string name="never">Једанпут</string>
   <string name="notification_button_text_of_low_memory">Очисти</string>
   <string name="notification_summary_after_auto_cleanup">Очишћено %s.</string>
@@ -304,7 +304,7 @@
   <string name="power_chooser_sleep_summary">Онемогући све функције (телефон, SMS, WLAN и податковне услуге), осим аларма</string>
   <string name="power_chooser_sleep_title">Мировање</string>
   <string name="power_chooser_smart_summary">Избриши процесе који се изводе у позадини закључаног екрана</string>
-  <string name="power_chooser_smart_title">Задано</string>
+  <string name="power_chooser_smart_title">Задато</string>
   <string name="power_chooser_standby_summary">Онемогући WLAN и податковне услуге</string>
   <string name="power_chooser_standby_title">Маратон</string>
   <string name="power_chooser_title">Профили батерије</string>

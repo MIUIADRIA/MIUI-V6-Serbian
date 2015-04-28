@@ -10,8 +10,8 @@
   <string name="calibrate_failed_timeout">"Не могу се повезати на сервер"</string>
   <string name="calibrate_rotate_again">Покушајте поново</string>
   <string name="calibrate_success">Калибрисано</string>
-  <string name="calibrate_tip">Tilt your device to roll the ball around the circle</string>
-  <string name="calibrate_title">Calibrate compass</string>
+  <string name="calibrate_tip">Нагиб уређаја ће котрљати лопту</string>
+  <string name="calibrate_title">Калибриши компас</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Калибрисање…</string>
   <string name="dialog_title_no_network">"Не могу се повезати на мрежу"</string>

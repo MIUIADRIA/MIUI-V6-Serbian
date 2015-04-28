@@ -253,7 +253,7 @@
   <string name="send_to_title">Пошаљи (%1$s)</string>
   <string name="set_album_successful">Албум је постављен</string>
   <string name="server_error">Грешка сервера. Покушајте поново касније</string>
-  <string name="service_stop">Service discontinued</string>
+  <string name="service_stop">Сервис обустављен</string>
   <string name="set_as_ring">Постави за звук звона</string>
   <string name="set_id3_failed">"Не могу сачувати информације"</string>
   <string name="set_id3_successful">Информације песме су сачуване</string>
@@ -294,12 +294,12 @@
   <string name="trigger_to_scan_media_library_start">Освежавање…</string>
   <string name="ultra_high_quality">Највиша</string>
   <string name="unknown_album_name">Непознати албум</string>
-  <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
-  <string name="upgrade_immediate">Update now</string>
-  <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
-  <string name="upgrade_remind">Update available</string>
-  <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
-  <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
+  <string name="upgrade_force">"Ми смо прекинули ваш тренутни сервис за стримовање због ауторских права. Ажурирајте на најновију верзију апликације Музика за слушање музике високог квалитета."</string>
+  <string name="upgrade_immediate">Ажурирај сада</string>
+  <string name="upgrade_nobeta">"Ми смо прекинули ваш тренутни сервис за стримовање због ауторских права. Извините на неугодности :("</string>
+  <string name="upgrade_remind">Ажурирање доступно</string>
+  <string name="upgrade_suggest">" Ми смо прекинули ваш тренутни сервис за стримовање због ауторских права. Ажурирајте на најновију верзију апликације Музика за слушање музике високог квалитета."</string>
+  <string name="upgrade_waringing">"Бићете у могућности да слушате само музику сачувану у офлајн режиму."</string>
   <string name="unknown_artist_name">Непознати извођач</string>
   <string name="valid_period">"Вреди то: "</string>
   <string name="vip_recommend_title">Набавите виши квалитет музике</string>
