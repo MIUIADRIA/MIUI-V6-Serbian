@@ -76,6 +76,8 @@
   <string name="hints_garbage_cleanup_result_danger">Очистите нагомилани отпад</string>
   <string name="hints_garbage_cleanup_result_risk">Очистите нагомилани отпад</string>
   <string name="hints_garbage_cleanup_result_safe">Све изгледа уредно</string>
+  <string name="hints_garbage_handle_item_content">Ставке: %1$d, %2$s</string>
+  <string name="hints_garbage_handle_item_empty_content">Празно</string>
   <string name="hints_install_apps_interval">коришћено пре %d дана</string>
   <string name="hints_install_apps_new">некоришћено</string>
   <string name="hints_install_apps_risk">ризично</string>
@@ -97,6 +99,7 @@
   <string name="hints_title_garbage">смеће</string>
   <string name="item_title_process_mode">Одаберите радњу</string>
   <string name="last_check_canceled">Претходно скенирање је отказано</string>
+  <string name="msg_cleanup_db_update_checking">Провера ажурирања...</string>
   <string name="msg_cleanup_db_update_time_unknown">Задње ажурирање непознато</string>
   <string name="msg_update_error_code_already_running">Ажурирање</string>
   <string name="msg_update_error_code_network_error">"Не могу се повезати на мрежу"</string>
