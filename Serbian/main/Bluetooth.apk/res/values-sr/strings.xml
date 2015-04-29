@@ -12,6 +12,10 @@
   <string name="ble_device_profile_header_title">Профили</string>
   <string name="ble_device_profile_title">Повезан BLE Уређај</string>
   <string name="ble_device_unbind">Избриши подешавања</string>
+  <string name="bluetooth_connected">Povezano</string>
+  <string name="bluetooth_connecting">Povezivanje…</string>
+  <string name="bluetooth_disconnected">Veza prekinuta</string>
+  <string name="bluetooth_disconnecting">Prekid veze…</string>
   <string name="bluetooth_preference_connected_devices">Повезани уређаји</string>
   <string name="bluetooth_preference_found_devices">Доступни уређаји</string>
   <string name="bluetooth_preference_scan_title">Скенирај за уређаје</string>

@@ -959,6 +959,12 @@
   <string name="firmware_version">Андроид верзија</string>
   <string name="floating_window_switch_label">Прикажи искачуће прозоре </string>
   <string name="floating_window_switch_label_disable">Сакри искачуће прозоре</string>
+  <string name="fluency_mode">Optimiziranje performansi sustava</string>
+  <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Potrebno je ponvono pokretanje uređaja za primjenu ovih postavki.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Uključivanje animacije i korištenje dodatne memorije može uzrokovati sporije performanse na nekim uređajima.</string>
+  <string name="fluency_mode_enabled_name">Optimiziranje performansi sustava</string>
+  <string name="fluency_mode_summary">Isključite animacije sustava i smanjite potrošnju memorije</string>
   <string name="font_size_huge">Огроман</string>
   <string name="font_size_large">Велик</string>
   <string name="font_size_medium">Средњи</string>
@@ -1024,6 +1030,7 @@
   <string name="gadget_toggle_wifi">Ажурирање Wi-Fi подешавања</string>
   <string name="gadget_wifi">Wi‑Fi</string>
   <string name="game_controller_settings_category">Контролер за игре</string>
+  <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
   <string name="global_change_warning">Ово подешавање утиче на све кориснике овог телефона.</string>
   <string name="global_font_change_title">Промена величине фонта</string>
   <string name="global_locale_change_title">Промена језика</string>
@@ -1977,6 +1984,7 @@
   <string name="search_date_time">датум време</string>
   <string name="search_description">"Подешавање претраживања"</string>
   <string name="search_display">екран</string>
+  <string name="search_fluency_mode">tečnost</string>
   <string name="search_font">фонт</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">управ. једном руком</string>
@@ -2161,7 +2169,7 @@
   <string name="status_bar_settings_advanced">"Додатна подешавања"</string>
   <string name="status_bar_settings_all_app_display_loading">Учитавање…</string>
   <string name="status_bar_settings_basic_settings">Основна подешавања</string>
-  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Уреди назив провајдера услуга</string>
   <string name="status_bar_settings_custom_notification">Управљај обавештењима</string>
   <string name="status_bar_settings_custom_wifi_name">Уреди назив WLAN-a</string>
