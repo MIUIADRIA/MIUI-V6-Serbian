@@ -61,9 +61,9 @@
   <string name="HIPS_Action_Accept_Once">Допусти једном</string>
   <string name="HIPS_Action_Prompt">Питај</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Питај&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject">Одби</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Одби&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject_Once">Одби једном</string>
+  <string name="HIPS_Action_Reject">Одбиj</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Одбиj&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Once">Одбиj једном</string>
   <string name="HIPS_Group_DataPrivacy">Приватност</string>
   <string name="HIPS_Group_Expense">Сигурност</string>
   <string name="HIPS_Group_Internet">Приступ Интернету</string>
@@ -173,7 +173,7 @@
   <string name="HIPS_Perm_Recorder_Camera">приступ фотоапарату за фотографисање</string>
   <string name="HIPS_Perm_Recorder_Video">снимање звука и видеа</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">снимање ваших позива</string>
-  <string name="HIPS_Perm_RejectAll">Одби све</string>
+  <string name="HIPS_Perm_RejectAll">Одбиj све</string>
   <string name="HIPS_Perm_SMS">Писање SMS poruka</string>
   <string name="HIPS_Perm_SMS_Access">читање ваших SMS порука</string>
   <string name="HIPS_Perm_SMS_Desc">писање SMS порука</string>
@@ -226,8 +226,8 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step4">"Апликације са ROOT приступом могу такође оштетити хардвер вашег уређаја."</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Одобравате ROOT приступ апликацијама на личну одговорност.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Одобрити %1$s ROOT приступ?</string>
-  <string name="HIPS_SecurityPrompt_Reject">Одби (%d)</string>
-  <string name="HIPS_SecurityPrompt_Reject_Once">Одби једном (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject">Одбиj (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Одбиj једном (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Запамти појединости.</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s покушава да %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d допуштења</string>

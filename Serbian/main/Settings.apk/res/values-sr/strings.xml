@@ -749,7 +749,7 @@
   <string name="default_input_method">Одабери задату методу уноса</string>
   <string name="default_usb_mode">USB веза</string>
   <string name="delete">Избриши</string>
-  <string name="deny">Одби</string>
+  <string name="deny">Одбиj</string>
   <string name="details_subtitle">Коришћење детаља</string>
   <string name="details_title">Коришћење детаља</string>
   <string name="dev_settings_warning_message">Ова подешавања су намењена само за програмирање. Могу да изазову престанак функционисања или неочекивано понашање уређаја и апликација на њему.</string>
@@ -2802,7 +2802,7 @@ Google-ов приступ синхронизацији података за м
   <string name="wifi_scan_always_available">Скенирање је увек доступно</string>
   <string name="wifi_scan_always_available_summary">Допустити да Google-ова услуга локације и друге апикације траже мреже, чак и када је WLAN искључен</string>
   <string name="wifi_scan_always_confirm_allow">Допусти</string>
-  <string name="wifi_scan_always_confirm_deny">Одби</string>
+  <string name="wifi_scan_always_confirm_deny">Одбиj</string>
   <string name="wifi_scan_always_turnon_message">"Ради побољшања прецизности локације као и у друге сврхе апликација %1$s жели укључити скенирање мрежа, чак и када је WLAN искључен. 
 
 Допустити ово за све апликације које желите скенирати?</string>

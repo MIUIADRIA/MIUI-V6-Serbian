@@ -100,7 +100,7 @@
   <string name="default_notification_description">Задати звук (%1$s)</string>
   <string name="description_search_button">Претражи</string>
   <string name="description_target_answer">Прихвати</string>
-  <string name="description_target_decline">Одби</string>
+  <string name="description_target_decline">Одбиj</string>
   <string name="description_target_send_sms">Пошаљи SMS</string>
   <string name="dialerKeyboardHintText">Користите тастатуру за унос броја</string>
   <string name="dialog_network_priority_title">Приоритет</string>
@@ -295,7 +295,7 @@
   <string name="oldman_answer_call_button_text">Одговор</string>
   <string name="oldman_dialpad_button_text">Бројчаник</string>
   <string name="oldman_end_call_button_text">Затвори</string>
-  <string name="oldman_reject_call_button_text">Одби</string>
+  <string name="oldman_reject_call_button_text">Одбиj</string>
   <string name="oldman_speaker_button_text"/>
   <string name="onHold">Позив на чекању</string>
   <string name="one_retry_left">Остао 1 покушај</string>

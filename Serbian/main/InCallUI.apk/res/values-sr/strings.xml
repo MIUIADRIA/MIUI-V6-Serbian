@@ -217,7 +217,7 @@
   <string name="fdn_enabled">Бројеви за фиксно бирање су онемогућени</string>
   <string name="fdn_invalid_number">FDN није ажуриран: број несме прелазити 20 цифара.</string>
   <string name="fraud_call_answer">Одговори</string>
-  <string name="fraud_call_decline">Одби</string>
+  <string name="fraud_call_decline">Одбиj</string>
   <string name="fraud_call_waring">Будите опрезни: увек би требало да проверите индентитет пре него што било ком контакту одговорите на питања о вашим личним подацима.</string>
   <string name="fw_change_failed">"Дохватање и чување тренутних подешавања прослеђивање броја неуспешо.
 Желите ли се ипак пребацити на другог пружаоца услуге?"</string>
@@ -266,7 +266,7 @@
   <string name="jeejen_card_title_incoming_call">Долазни позив</string>
   <string name="jeejen_card_title_on_hold"/>
   <string name="jeejen_end_call_text">Заврши позив</string>
-  <string name="jeejen_reject_call_text">Одби позив</string>
+  <string name="jeejen_reject_call_text">Одбиj позив</string>
   <string name="jeejen_toggle_dialpad_text">Тастатура</string>
   <string name="labelCDMAMore">CDMA подешавања позива</string>
   <string name="labelCF">Прослеђивање позива</string>

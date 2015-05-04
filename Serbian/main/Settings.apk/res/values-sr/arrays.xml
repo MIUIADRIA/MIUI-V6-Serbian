@@ -571,11 +571,11 @@
     <string-array name="perm_hips_action">
         <item>Допусти</item>
         <item>Питај</item>
-        <item>Одби</item>
+        <item>Одбиj</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Допусти</item>
-        <item>Одби</item>
+        <item>Одбиj</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Смањење буке са једним микрофоном</item>

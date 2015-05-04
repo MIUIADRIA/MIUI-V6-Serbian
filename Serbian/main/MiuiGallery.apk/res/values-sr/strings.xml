@@ -175,7 +175,7 @@
   <string name="delete_smb_file_fail">"Не могу обрисати SMB датотеку"</string>
   <string name="deleting_files">Брисање датотека…</string>
   <string name="demo_video_folder_display_name">Demo видео запис</string>
-  <string name="deny">Одби</string>
+  <string name="deny">Одбиj</string>
   <string name="description">Опис</string>
   <string name="deselect_all">Поништи одабрано</string>
   <string name="details">Појединости</string>

@@ -206,7 +206,7 @@
   <string name="delete_bookmark_warning">Избрисати ознаку \"%s\"?</string>
   <string name="delete_folder">Избриши мапу</string>
   <string name="delete_multi_bookmarks_alert_title">Потврди брисање %1$s пројекта?</string>
-  <string name="dialog_geolocation_reject">Одби</string>
+  <string name="dialog_geolocation_reject">Одбиj</string>
   <string name="dialog_geolocation_share">Допусти</string>
   <string name="disable_autofill">Онемогући аутомацко попуњавање</string>
   <string name="dont_remind_again">Не приказуј поново</string>
@@ -271,7 +271,7 @@
   <string name="general_set_default_browser_dialog_ok_txt">У реду</string>
   <string name="general_set_default_browser_dialog_summary">Употреби MIUI-уграђене апликације за брже и једноставније перформансе</string>
   <string name="general_set_default_browser_title">Подеси као изабрани Претраживач</string>
-  <string name="geolocation_permissions_prompt_dont_share">Одби</string>
+  <string name="geolocation_permissions_prompt_dont_share">Одбиj</string>
   <string name="geolocation_permissions_prompt_message">%s жели знати вашу локацију</string>
   <string name="geolocation_permissions_prompt_remember">запамти предности</string>
   <string name="geolocation_permissions_prompt_share">Дели локацију</string>

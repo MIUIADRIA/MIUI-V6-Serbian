@@ -48,7 +48,7 @@
   <string name="out_of_space_dlg_title">Нема довољно простора</string>
   <string name="perm_action_accept">Допусти</string>
   <string name="perm_action_prompt">Питај</string>
-  <string name="perm_action_reject">Одби</string>
+  <string name="perm_action_reject">Одбиj</string>
   <string name="perm_notice">Пажња</string>
   <string name="perm_privacy_app_finish">У реду</string>
   <string name="perm_privacy_app_installed">Апликација је инсталирана</string>
@@ -59,7 +59,7 @@
   <string name="perm_sysopt_boost_auto_start_summary">Ова апликација може се покренути аутоматски</string>
   <string name="permission_action_accept">Допусти</string>
   <string name="permission_action_prompt">Питај</string>
-  <string name="permission_action_reject">Одби</string>
+  <string name="permission_action_reject">Одбиj</string>
   <string name="permission_group_title_charges_related">Телефон</string>
   <string name="permission_group_title_media_related">Медији</string>
   <string name="permission_group_title_others">Остало</string>
