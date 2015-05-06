@@ -724,6 +724,7 @@
   <string name="preference_contacts_display">Прикажи жељена подешавања</string>
   <string name="preference_contacts_filter">Конфигуриши попис контаката</string>
   <string name="preference_contacts_more">Организуј контакте</string>
+  <string name="preference_contacts_recovery_introduction">Oбнови контакте</string>
   <string name="preference_dial_pad_touch_tone_default">Задато</string>
   <string name="preference_dial_pad_touch_tone_human">Глас</string>
   <string name="preference_dial_pad_touch_tone_piano">Клавир</string>

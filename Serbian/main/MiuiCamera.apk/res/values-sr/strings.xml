@@ -233,9 +233,9 @@
   <string name="pref_camera_settings_category">Подешавање Фотоапарата</string>
   <string name="pref_camera_settings_title">Подешавања</string>
   <string name="pref_camera_sharpness_title">Оштрина</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Прикажи године</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Прикажи године с укљ. уљепсавањем</string>
   <string name="pref_camera_show_gender_age_entry_off">Искључено</string>
-  <string name="pref_camera_show_gender_age_entry_on">Прикажи године и пол</string>
+  <string name="pref_camera_show_gender_age_entry_on">Прикажи године и пол с укљ. уљепсавањем</string>
   <string name="pref_camera_show_gender_age_title">Препознавање лица</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Ауто побољшање</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Онемогући</string>

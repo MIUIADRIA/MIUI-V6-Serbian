@@ -241,6 +241,7 @@
   <string name="nearby_no_yellow_page">Нема резултата у близини</string>
   <string name="nearby_yellow_page_title">У близини</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
+  <string name="network_access_denied">Мрежни приступ одбијен</string>
   <string name="network_unavaliable">"Не могу се повезати на мрежу"</string>
   <string name="no_brief">Нема увођења</string>
   <string name="no_evaluation">Нема прегледа</string>
