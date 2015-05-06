@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ApplicationIconMore99">99+</string>
-  <string name="Folders">Мапе</string>
   <string name="abc_action_bar_home_description">Навигација кући</string>
   <string name="abc_action_bar_up_description">Навигација горе</string>
   <string name="abc_action_menu_overflow_description">	Више опција</string>
@@ -78,6 +77,7 @@
   <string name="account_settings_sync_email_summary">синхро. е-поште за овај рачун</string>
   <string name="account_settings_unsupported_label">Неподржана правила</string>
   <string name="account_settings_unsupported_summary">Ништа</string>
+  <string name="account_settings_using_ringtone">Melodija zvona</string>
   <string name="account_settings_vibrate_when_label">Вибрација</string>
   <string name="account_setup_account_type_headline">Врста рачуна</string>
   <string name="account_setup_account_type_instructions">Која је ово врста рачуна?</string>
@@ -453,6 +453,8 @@
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_en0">Смеће</string>
   <string name="folder_junk_name_en1">Нежељена пошта</string>
+  <string name="folder_list_display_all">Prikaži sve mape</string>
+  <string name="folder_list_display_only_import">Prikaži samo važne mape</string>
   <string name="folder_picker_title">Одабир мапа</string>
   <string name="folder_removed">Уклоњено из мапе %1$s</string>
   <string name="folder_sent_name_cn0">已发送</string>
@@ -516,6 +518,7 @@
   <string name="hint_quick_reply_all">Одговори свима</string>
   <string name="ignore_spam_warning">Занемари, порука је поуздана</string>
   <string name="imap_name">IMAP</string>
+  <string name="imap_password_error">Pogrešna zaporka dolaznog poslužitelja</string>
   <string name="inbox_folders_heading">Пристигла пошта</string>
   <string name="info">Информације</string>
   <string name="inline_picture_deleted">"Не могу пронаћи ту слику, преузимање…"</string>
@@ -688,9 +691,11 @@
   <string name="outbox_alert_button_resend">Пошаљи поново</string>
   <string name="outbox_alert_certificate_error">Одступање E-маил сертификата, ажурирајте га</string>
   <string name="outbox_alert_description_auth_error">Грешка провере аутентичности са сервера током излазне синхронизације</string>
+  <string name="outbox_alert_description_cannot_authenticate">%s pogreška sistema E-pošte</string>
   <string name="outbox_alert_description_http_error">HTTP Грешка током излазне синхронизације</string>
   <string name="outbox_alert_description_insufficient_storage_error">Недовољно простора меморије на серверу e-поште</string>
   <string name="outbox_alert_description_provision_error">Грешка Одредаба с сервера током излазне синхронизације</string>
+  <string name="outbox_alert_description_reject_by_server">Odbijeno od %s</string>
   <string name="outbox_alert_description_sent_failed">"Величина прилога прелази ограниченје приматеља."</string>
   <string name="outbox_alert_duplicate_click">"Још синхронизујем…"</string>
   <string name="outbox_alert_edit_resend">Уреди и поново пошаљи</string>
@@ -699,6 +704,7 @@
   <string name="outbox_alert_rw_io_error">Одступање читање-писање изузетка поште, покушајте написати и послати га опет</string>
   <string name="outbox_alert_select_operation">Одаберите радњу</string>
   <string name="outbox_alert_title_sent_failed">"Не могу послати e-пошту"</string>
+  <string name="outbox_alert_description_time_out">Pogreška mrežnog povezivanja</string>
   <string name="outbox_no_mails">Празно</string>
   <string name="parase_setup_data">Добивање података…</string>
   <string name="password_changed_prompt">"Не могу се пријавити."</string>
@@ -921,6 +927,7 @@
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sort_attachment">Поређај по</string>
+  <string name="smtp_password_error">Pogrešna zaporka odlaznog poslužitelja</string>
   <string name="spaceChar">" "</string>
   <string name="special_text_1">写道:</string>
   <string name="special_text_2">写道：</string>

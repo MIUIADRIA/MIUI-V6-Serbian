@@ -300,7 +300,7 @@
   <string name="roaming_not_start_title">Међународни роминг</string>
   <string name="roaming_start_body">Апликација се повезује на везу са подацима.</string>
   <string name="roaming_start_title">Међународни роминг</string>
-  <string name="root">Root</string>
+  <string name="root">Root приступ</string>
   <string name="sc_allow_network_dialog_message">Морате допустити апликацији повезивање на интернет да би функционисала нормално.</string>
   <string name="sc_allow_network_dialog_tiltle">"Не могу користити услугу уштеде података"</string>
   <string name="see_detail">Детаљи</string>

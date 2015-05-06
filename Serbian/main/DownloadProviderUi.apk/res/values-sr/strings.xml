@@ -70,7 +70,7 @@
   <string name="download_title">Преузимања</string>
   <string name="download_title_sorted_by_date">Преузимања - поређано по датуму</string>
   <string name="download_title_sorted_by_size">Преузимања - поређано по величини</string>
-  <string name="download_wait_connect">Преузимање Чека на повезивање</string>
+  <string name="download_wait_connect">Чекањe на повезивање</string>
   <string name="download_when_network_connected">Преузми користећи мобилну мрезу</string>
   <string name="downloads_operating">Радим</string>
   <string name="dredge_xunlei_account">Израдите Xunlei Рачун</string>
@@ -138,7 +138,7 @@
   <string name="turn_off_xunlei_title">Онемогући Xunlei алат преузимања</string>
   <string name="unbind_xunlei_2_success">Xunlei Рачун додат</string>
   <string name="unbind_xunlei_success">Одјављен из Xunlei рачуна</string>
-  <string name="valid_in_this_month">Вреди само у овом месецу</string>
+  <string name="valid_in_this_month">Вреди овaj месецу</string>
   <string name="vip_auto_speedup">Xunlei убрзање преузимања укључено</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
