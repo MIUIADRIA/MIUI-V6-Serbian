@@ -10,9 +10,9 @@
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Тастер додат. подешавања</string>
   <string name="accessibility_shutter_button">Тастер окидача</string>
-  <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
-  <string name="accessibility_video_capture_button">VideoCaptureButton</string>
-  <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_skin_beautify_button">Улепшавање коже дугме</string>
+  <string name="accessibility_video_capture_button">Видео снимање дугме</string>
+  <string name="accessibility_video_pause_button">Видео пауза дугме</string>
   <string name="audio_focus_exit_button_text">Искључи Аудио фокус</string>
   <string name="burst_shoot_exit_button_text">Искључи Брзо окидање</string>
   <string name="camera_disabled">Фотоапарат је онемогућен</string>
@@ -233,9 +233,9 @@
   <string name="pref_camera_settings_category">Подешавање Фотоапарата</string>
   <string name="pref_camera_settings_title">Подешавања</string>
   <string name="pref_camera_sharpness_title">Оштрина</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Прикажи године с укљ. уљепсавањем</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Прикажи године са укљ. улепшавањем</string>
   <string name="pref_camera_show_gender_age_entry_off">Искључено</string>
-  <string name="pref_camera_show_gender_age_entry_on">Прикажи године и пол с укљ. уљепсавањем</string>
+  <string name="pref_camera_show_gender_age_entry_on">Прикажи године и пол са укљ. улепшавањем</string>
   <string name="pref_camera_show_gender_age_title">Препознавање лица</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Ауто побољшање</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Онемогући</string>
@@ -243,7 +243,7 @@
   <string name="pref_camera_sound_title">Звукови фотоапарата</string>
   <string name="pref_camera_touchafaec_entry_off">Искључено</string>
   <string name="pref_camera_touchafaec_entry_on">Укључено</string>
-  <string name="pref_camera_ubifocus_title">Refocus</string>
+  <string name="pref_camera_ubifocus_title">Ре-фокус</string>
   <string name="pref_camera_video_duration_entry_10">10 минута</string>
   <string name="pref_camera_video_duration_entry_120">Без ограничења</string>
   <string name="pref_camera_video_duration_entry_30">30 минута</string>

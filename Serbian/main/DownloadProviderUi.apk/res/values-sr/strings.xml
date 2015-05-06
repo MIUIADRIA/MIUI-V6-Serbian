@@ -24,7 +24,7 @@
   <string name="delete_the_downloaded_file">Преузете датотеке ће бити избрисане.</string>
   <string name="deselect_all">Означи све</string>
   <string name="determine">У реду</string>
-  <string name="dialog_cannot_resume">Преузимања је прекинуто и не мозе да се настави.</string>
+  <string name="dialog_cannot_resume">Преузимања је прекинуто и не може да се настави.</string>
   <string name="dialog_confirm_delete_checkbox_message">Избриши локалне датотеке такође</string>
   <string name="dialog_confirm_delete_downloads_message">Избрисати задатак: %d?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Избриши ове задатке</string>
@@ -138,7 +138,7 @@
   <string name="turn_off_xunlei_title">Онемогући Xunlei алат преузимања</string>
   <string name="unbind_xunlei_2_success">Xunlei Рачун додат</string>
   <string name="unbind_xunlei_success">Одјављен из Xunlei рачуна</string>
-  <string name="valid_in_this_month">Вреди овaj месецу</string>
+  <string name="valid_in_this_month">Вреди овaj месец</string>
   <string name="vip_auto_speedup">Xunlei убрзање преузимања укључено</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>

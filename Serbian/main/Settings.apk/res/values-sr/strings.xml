@@ -1984,7 +1984,7 @@
   <string name="search_date_time">датум време</string>
   <string name="search_description">"Подешавање претраживања"</string>
   <string name="search_display">екран</string>
-  <string name="search_fluency_mode">оптимизирање перформанси система</string>
+  <string name="search_fluency_mode">оптимизовање перформанси система</string>
   <string name="search_font">фонт</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">управ. једном руком</string>
@@ -1995,7 +1995,7 @@
   <string name="search_launcher">Покретач</string>
   <string name="search_led">лед</string>
   <string name="search_network">мрежа</string>
-  <string name="search_power_mode">running mode; performance; priority performance; performance mode; normal mode; conventional mode; default mode; balanced performance; saving mode; energy-saving mode; performance; power</string>
+  <string name="search_power_mode">Начин трчања; перформансе; приоритетно перформансе; перформансе начин; нормални начин; конвенционалан начин; основни начин; балансиране перформансе; чување начин; чување-енергије начин; перформансе; снага</string>
   <string name="search_privacy">приватност</string>
   <string name="search_ring_volume">јачина звона</string>
   <string name="search_ringtone">звук звона</string>
