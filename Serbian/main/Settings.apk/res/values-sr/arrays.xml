@@ -658,4 +658,12 @@
         <item>Кућна мрежа</item>
         <item>Све мреже</item>
     </string-array>
+	<string-array name="install_non_market_app_entries">
+        <item>Traži dopuštenje za rizične aplikacije</item>
+        <item>Dopusti</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Traži dopuštenje</item>
+        <item>Dopusti</item>
+    </string-array>
 </resources>

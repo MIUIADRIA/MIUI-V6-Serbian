@@ -107,6 +107,8 @@
   <string name="firewall_fragment_sys_listempty">Празно</string>
   <string name="firewall_fragment_tab_title_nonsys">Инсталирано</string>
   <string name="firewall_fragment_tab_title_sys">Систем</string>
+  <string name="firewall_network_restrict_notify_message">Dodirni za promjenu postavki.</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s nije dopušteno povezivanje na %2$s."</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Међународни роминг</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -381,6 +383,7 @@
   <string name="traffic_correction_start_correction">"Разговор са сервером оператера услуга…"</string>
   <string name="traffic_correction_start_correction_failed">Захтев није успео, проверите подешавања мобилних услуга</string>
   <string name="traffic_correction_success">Употреба података ажурирана</string>
+  <string name="traffic_correction_success_notify_message">Dodirni za prikaz detalja.</string>
   <string name="traffic_limit_error_alert_body">"Према вашем оператеру преостало вам је још %1$s за овај месец. То је више од %2$s ограничења које сте поставили ручно."</string>
   <string name="traffic_limit_error_alert_iknow">У реду</string>
   <string name="traffic_limit_error_alert_reset">Ресетуј ограничење</string>

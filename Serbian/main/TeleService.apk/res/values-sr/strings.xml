@@ -349,6 +349,7 @@
   <string name="incall_error_no_phone_number_supplied">Позив није успостављен, није унет исправан број.</string>
   <string name="incall_error_out_of_service">Мобилна мрежа није доступна.</string>
   <string name="incall_error_power_off">За упућивање позива, искључите начин летења.</string>
+  <string name="incall_error_sim_deactive">Neaktivna SIM kartica</string>
   <string name="incall_error_turn_off_airplane_mode">Искључите начин рада у авиону</string>
   <string name="incall_status_dialed_mmi">Покретање MMI секвенца</string>
   <string name="international_disable">Међународне вести су искључене</string>

@@ -233,9 +233,9 @@
   <string name="pref_camera_settings_category">Подешавање Фотоапарата</string>
   <string name="pref_camera_settings_title">Подешавања</string>
   <string name="pref_camera_sharpness_title">Оштрина</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Прикажи године са укљ. улепшавањем</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Прикажи године са укљ. Улепшавањем</string>
   <string name="pref_camera_show_gender_age_entry_off">Искључено</string>
-  <string name="pref_camera_show_gender_age_entry_on">Прикажи године и пол са укљ. улепшавањем</string>
+  <string name="pref_camera_show_gender_age_entry_on">Прикажи године и пол са укљ. Улепшавањем</string>
   <string name="pref_camera_show_gender_age_title">Препознавање лица</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Ауто побољшање</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Онемогући</string>
@@ -332,7 +332,7 @@
   <string name="simple_mode_button_text_color_effect">Искључи филтер</string>
   <string name="simple_mode_button_text_countdown">Искључи одбројавање</string>
   <string name="simple_mode_button_text_delay_capture">Искључи одбројавање</string>
-  <string name="simple_mode_button_text_face_beauty">Искључи тонове</string>
+  <string name="simple_mode_button_text_face_beauty">Искључи Улепшавање</string>
   <string name="simple_mode_button_text_fast_video">Искључи</string>
   <string name="simple_mode_button_text_hand_night">Искључи HHT</string>
   <string name="simple_mode_button_text_hdr">Искључи HDR</string>
