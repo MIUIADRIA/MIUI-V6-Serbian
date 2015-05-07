@@ -17,7 +17,7 @@
 Сви постојећи подаци апликације ће бити сачувани."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) ће заменити тренутно инсталирану верзију (%3$s). Сви постојећи подаци апликација ће бити сачувани."</string>
   <string name="dlg_app_replacement_title">Замените постојећу апликацију?</string>
-  <string name="dlg_appstore_notice">Nabavite ovu aplikaciju iz naše službene &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="dlg_appstore_notice">Набавите ову апликацију из наше службене &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="dlg_ok">У реду</string>
   <string name="dlg_sys_app_replacement_statement">"То је апликација система. Још желите да је замените?
 
@@ -87,7 +87,7 @@
   <string name="uninstall_update_title">Деинсталирати ово ажурирање?</string>
   <string name="uninstalling">Деинсталирање…</string>
   <string name="unknown">Непознато</string>
-  <string name="unknown_apps_dlg_text">Vaš telefon i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Suglasni ste da ste isključivo sami odgovorni za gubitak podataka ili bilo kakvu štetu nastalu na vašem uređaju koja može proizaći korištenjem ove aplikacije. Možete isključiti ovu obavijest u Postavkama.</string>  <string name="unknown_apps_dlg_title">Инсталирање је блокирано</string>
+  <string name="unknown_apps_dlg_text">Ваш телефон и лични подаци изложенији су нападима апликација из непознатих извора. Сагласни сте да сте искључиво сами одговорни за губитак података или било какву штету насталу на вашем уређају која може бити изазвана коришћењем ове апликације. Можете искључити ово обавештење у подешавањима.</string>  <string name="unknown_apps_dlg_title">Инсталирање је блокирано</string>
   <string name="unknown_installer">Непознат PC алат</string>
   <string name="virus_scan_caller_unknown">Непознато</string>
   <string name="virus_scan_clear">Уклони</string>

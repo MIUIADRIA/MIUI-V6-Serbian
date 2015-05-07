@@ -1099,9 +1099,9 @@
   <string name="input_settings">Подешавање уноса</string>
   <string name="install_all_warning">Телефон и лични подаци су подложнији нападу апликација из непознатих извора. Сагласни сте да сте само ви одговорни за сву штету на телефону или губитак података до којих може да дође услед коришћења ових апликација.</string>
   <string name="install_applications">Непознати извори</string>
-  <string name="install_no_market_app_summary">Dopusti instalaciju aplikacija iz drugih izvora osim App Store</string>
+  <string name="install_no_market_app_summary">Допусти инсталацију апликација из других извора осим App Store</string>
   <string name="install_no_market_app_title">Непознати извори</string>
-  <string name="install_preinstall_app">Učitavanje aplikacija…</string>
+  <string name="install_preinstall_app">Учитавање апликација…</string>
   <string name="install_text">Инсталирај</string>
   <string name="install_unknown_applications">Дозволи инсталацију апликација из непознатих извора</string>
   <string name="install_whole_rom">Преузми ROM</string>
