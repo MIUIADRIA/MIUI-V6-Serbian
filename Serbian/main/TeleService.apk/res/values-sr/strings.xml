@@ -194,7 +194,7 @@
   <string name="corporate_unlock_failed">SIM Корпоративно откључавање није успело.</string>
   <string name="corporate_unlock_success">SIM Корпоративно отклјучавање успешно.</string>
   <string name="cursorError">Подршка показивача</string>
-  <string name="data_enable_summary">Омогући податковни приступ преко мобилне мреже</string>
+  <string name="data_enable_summary">Омогући везу са подацима преко мобилне мреже</string>
   <string name="data_enabled">Подаци су омогућени</string>
   <string name="deactivate_all">Откажи све</string>
   <string name="default_preference_summary">Није подешено</string>

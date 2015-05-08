@@ -215,7 +215,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="mx_dspt_provision_privacy">"Ова функција може затражити ваш број телефона. Ваш давалац услуга може вам наплатити СМС поруку коришћену за активирање ове функције.
   
   
-Ова функција шифрује и шаље ID вашег уређаја на ослужитеље."</string>
+Ова функција шифрује и шаље ID вашег уређаја на сервере."</string>
   <string name="mx_sub_dspt_provision">Mi порука</string>
   <string name="next">Даље</string>
   <string name="noRemind">"Не подсећај ме"</string>

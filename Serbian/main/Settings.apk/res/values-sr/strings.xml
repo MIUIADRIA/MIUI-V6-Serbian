@@ -2802,7 +2802,7 @@ Google-ов приступ синхронизацији података за м
   <string name="wifi_required_info_text">Да би се подешавање завршило, ваш уређај треба приступити WLAN мрежи. Након подешавања можете мобилни везу са подацима и WLAN.</string>
   <string name="wifi_save">"Сачувај"</string>
   <string name="wifi_scan_always_available">Скенирање је увек доступно</string>
-  <string name="wifi_scan_always_available_summary">Допустити да Google-ова услуга локације и друге апикације траже мреже, чак и када је WLAN искључен</string>
+  <string name="wifi_scan_always_available_summary">Допустити да Google-ова услуга локације и друге апликације траже мреже, чак и када је WLAN искључен</string>
   <string name="wifi_scan_always_confirm_allow">Допусти</string>
   <string name="wifi_scan_always_confirm_deny">Одбиj</string>
   <string name="wifi_scan_always_turnon_message">"Ради побољшања прецизности локације као и у друге сврхе апликација %1$s жели укључити скенирање мрежа, чак и када је WLAN искључен. 
