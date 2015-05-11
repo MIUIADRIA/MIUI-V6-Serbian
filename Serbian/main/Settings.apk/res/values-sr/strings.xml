@@ -2659,7 +2659,7 @@ Google-ов приступ синхронизацији података за м
   <string name="whetstone_level_title">Оптимизовање меморије</string>
   <string name="widget_picker_title">Одаберите widget</string>
   <string name="wifi_access_points">WLAN мреже</string>
-  <string name="wifi_add_network">Dodaj мрежу</string>
+  <string name="wifi_add_network">Додај мрежу</string>
   <string name="wifi_advanced_ip_address_title">IP адреса</string>
   <string name="wifi_advanced_mac_address_title">MAC адреса</string>
   <string name="wifi_advanced_settings_label">IP подешавања</string>
