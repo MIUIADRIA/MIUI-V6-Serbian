@@ -127,7 +127,7 @@
   <string name="mipay_nfc_warning_suport">*Нису све превозне картице трнутно подржане</string>
   <string name="mipay_nfc_warning_toast_move">"То је пребрзо"</string>
   <string name="mipay_nfc_warning_toast_support">"Ова картица није подржана"</string>
-  <string name="mipay_nfc_warning_toast_unknown">Нешто се искундачило!</string>
+  <string name="mipay_nfc_warning_toast_unknown">Нешто је кренуло наопако!</string>
   <string name="mipay_order_bank_card_info">%1$s %2$s (Картица бр. %3$s) %4$s</string>
   <string name="mipay_order_change">Замени</string>
   <string name="mipay_order_choose">Користи:</string>
