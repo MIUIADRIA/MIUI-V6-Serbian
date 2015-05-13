@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-       <item quantity="other">"Избрисати фотографије (%s) u cloud ?"</item>
-        <item quantity="one">"Избрисати фотографију (%s)u cloud ?"</item>
+       <item quantity="other">"Избрисати фотографије (%s) u Mi Cloudu ?"</item>
+        <item quantity="one">"Избрисати фотографију (%s)u Mi Cloudu ?"</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Избрисати фотографије (%s)?</item>
         <item quantity="one">Избрисати фотографију (%s)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">"Избрисати видео записе (%s) у cloud ?"</item>
-        <item quantity="one">"Избрисати видео запис (%s) у cloud ?"</item>
+        <item quantity="other">"Избрисати видео записе (%s) у Mi Cloudu ?"</item>
+        <item quantity="one">"Избрисати видео запис (%s) у Mi Cloudu ?"</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Избрисати видео записе (%s)?</item>
         <item quantity="one">Избрисати видео запис (%s)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">"Избрисати фотографије (%s) локално и у cloud ?"</item>
-        <item quantity="one">"Избрисати фотографију (%s) локално и у cloud ?"</item>
+        <item quantity="other">"Избрисати фотографије (%s) локално и у Mi Cloudu ?"</item>
+        <item quantity="one">"Избрисати фотографију (%s) локално и у Mi Cloudu ?"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-       <item quantity="other">"Избрисати видео записе (%s) локално и у cloud ?"</item>
-        <item quantity="one">"Избрисати видео запис (%s) локално и у cloud ?"</item>
+       <item quantity="other">"Избрисати видео записе (%s) на овом уређају и у Mi Cloudu ?"</item>
+        <item quantity="one">"Избрисати видео запис (%s) на овом уређају и у Mi Cloudu ?"</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Одабрано: %1$d"</item>

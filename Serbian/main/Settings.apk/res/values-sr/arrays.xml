@@ -666,4 +666,12 @@
         <item>Тражи допуштење</item>
         <item>Допусти</item>
     </string-array>
+	<string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Одмах</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>15 мин.</item>
+        <item>30 мин.</item>
+    </string-array>
 </resources>

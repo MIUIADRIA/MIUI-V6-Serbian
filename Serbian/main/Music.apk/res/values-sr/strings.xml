@@ -225,6 +225,7 @@
   <string name="playlist_renamed_message">Листа песама преименована.</string>
   <string name="please_download_first">Морате преузети ту песму пре да бисте је могли поставити као звук звона</string>
   <string name="please_search_or_select">Претражите или поставите поље</string>
+  <string name="preset_music_playlist">Листа Мi Глазбе</string>
   <string name="presonal_center">Подешавање рачуна</string>
   <string name="priority_storage">Користи спољашњу SD картицу</string>
   <string name="priority_storage_summary">Аутоматско преузимање на спољашњу SD картицу ако је доступна</string>
@@ -256,6 +257,8 @@
   <string name="service_stop">Сервис обустављен</string>
   <string name="set_as_ring">Постави за звук звона</string>
   <string name="set_id3_failed">"Не могу сачувати информације"</string>
+  <string name="set_id3_not_have_read_or_write_permission">"Немате допуштење за уређивање ове датотеке"</string>
+  <string name="set_id3_not_support_format">"Не могу уредити формат ове датотеке"</string>
   <string name="set_id3_successful">Информације песме су сачуване</string>
   <string name="set_lyric_successful">Текст је сачуван</string>
   <string name="set_ringtones_failed">Не могу поставити звук звона.</string>
@@ -266,7 +269,7 @@
   <string name="sleep_mode_summary">Заустави репродукцију након одређеног времена</string>
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Песма</string>
-  <string name="song_not_find">"Не могу се повезати на мрежу или ова песма није доступна."</string>
+  <string name="song_not_find">"Oва песма није доступна."</string>
   <string name="source_from">Извор: %1$s</string>
   <string name="start_to_play">Репродукуј</string>
   <string name="stream_quality">Квалитет стрима</string>

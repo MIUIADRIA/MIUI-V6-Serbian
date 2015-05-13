@@ -54,6 +54,7 @@
   <string name="delete_wallpapers_message">Избрисати слике позадине: %1$d?</string>
   <string name="disable">Онемогући</string>
   <string name="disable_wallpaper_scroll">Искључи померање слике</string>
+  <string name="download_action">Преузми</string>
   <string name="edit_folder_title">Уреди назив мапе</string>
   <string name="editing_add_widget_tips">Уреди widgete</string>
   <string name="editing_mode_enter_tip_text">Уштипните да уредите Почетни екран</string>
@@ -129,6 +130,7 @@
   <string name="is_setting_wallpaper_toast">Подешавање слике позадине…</string>
   <string name="is_system_wallpaper_message">"Не могу избрисати ресурсе система"</string>
   <string name="loading_desktop">Учитавање покретача...</string>
+  <string name="loading_wallpaper">Учитавање...</string>
   <string name="local_wallpaper">Преузето</string>
   <string name="lock_screen_failed_message">"Не могу подесити позадину закључаног екрана"</string>
   <string name="lock_screen_success_message">Подешено за позадину закључаног екрана</string>

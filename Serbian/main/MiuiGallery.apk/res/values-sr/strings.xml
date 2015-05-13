@@ -134,10 +134,10 @@
   <string name="confirm">У реду</string>
   <string name="confirm_delete">Избрисати (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Избрисати албуме: %s (укупно %s)?</string>
-  <string name="confirm_delete_has_cloud_image_video">"Избрисати ставке (%s) у cloudu?"</string>
-  <string name="confirm_delete_has_cloud_local_image_video">"Избрисати ставке (%s) локално и у cloudu?"</string>
+  <string name="confirm_delete_has_cloud_image_video">"Избрисати ставке (%s) на овом уређају и у Mi Cloudu?"</string>
+  <string name="confirm_delete_has_cloud_local_image_video">"Избрисати ставке (%s) на овом уређају и у Mi Cloudu?"</string>
   <string name="confirm_delete_has_local_image_video">Избрисати ставку: %s?</string>
-  <string name="confirm_delete_init_message">Слике ће бити избрисане из mi cloud и из вашег уређаја. Да бисте их обрисали само са уређаја, пређите на картицу \ "Локално\".</string>
+  <string name="confirm_delete_init_message">Слике ће бити избрисане на овом уређају и у Mi Cloudu. Да бисте их обрисали само са уређаја, пређите на картицу \ "Локално\".</string>
   <string name="confirm_delete_init_title">Избриши слике</string>
   <string name="confirm_delete_system_album">%s је албум система</string>
   <string name="confirm_download">Морате преузети %s.</string>

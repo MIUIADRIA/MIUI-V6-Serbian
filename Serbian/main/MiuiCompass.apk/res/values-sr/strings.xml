@@ -24,6 +24,8 @@
   <string name="direction_south_west">ЈЗ</string>
   <string name="direction_west">З</string>
   <string name="do_not_show_next_time">"Не показуј поново"</string>
+  <string name="first_using_dialog_message">"Компас треба користити мрежну везу, фотоапарат и услуге локације вашег уређаја за исправан рад."</string>
+  <string name="first_using_dialog_title">Дозвола приступа</string>
   <string name="getting_location">Калибрисање…</string>
   <string name="guide_toast">"Да калибрирате,помичите ваш телефон покретима испод"</string>
   <string name="latitude">ШИР</string>
@@ -44,7 +46,5 @@
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Протресите за калибрацију</string>
   <string name="using_camera_confirm_cancel">Затори</string>
-  <string name="using_camera_confirm_message">"Компас треба користити мрежну везу и фотоапарат вашег уређаја за нормалан рад."</string>
   <string name="using_camera_confirm_ok">Слажем се</string>
-  <string name="using_camera_confirm_title">Приступ фотоапарату</string>
 </resources>
