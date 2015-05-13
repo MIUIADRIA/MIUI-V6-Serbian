@@ -459,7 +459,7 @@
   <string name="msim_setting_sim_info_editor_title">Уреди подешавања SIM картице</string>
   <string name="msim_sim_lock">Закључано</string>
   <string name="msim_sim_radio_off">Искључено</string>
-  <string name="msim_switch_data_conn_toast">СИМ картице су промењене. Тип мреже се променила. Погледај додатне информације за СИМ картице и мобилне мреже у менију Поставки.</string>
+  <string name="msim_switch_data_conn_toast">СИМ картице су промењене. Тип мреже се променила. Погледај додатне информације за СИМ картице и мобилне мреже у менију Подешавања.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM слот 2 подржава само GSM мреже. Пожељна врста мрежа за овај слот је промењен на \ "Само 2G мрежа \".</string>
   <string name="multi_category_disable">Висеструке категорије су искључене</string>
   <string name="multi_category_enable">Висеструке категорије су укључене</string>

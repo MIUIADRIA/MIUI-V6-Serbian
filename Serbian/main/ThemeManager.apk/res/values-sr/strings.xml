@@ -308,8 +308,8 @@
   <string name="theme_fresh_man_notifaction">Доступне нове теме</string>
   <string name="theme_immediately_apply_tip">Применити ажурирање теме?</string>
   <string name="theme_import_from_sdcard">Увези са SD картице</string>
-  <string name="theme_is_external_priority_storage">Spremi na SD karticu</string>
-  <string name="theme_is_external_priority_storage_summary">Aplikacija Teme će se odmah ponovno pokrenuti za primjenu postavki</string>
+  <string name="theme_is_external_priority_storage">Сачувај на SD картицу</string>
+  <string name="theme_is_external_priority_storage_summary">Апликација Теме ће се одмах покренути за промену Подешавања</string>
   <string name="theme_multiple_button_title_customize">Прилагоди</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Не</string>

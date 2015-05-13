@@ -1228,9 +1228,9 @@
   <string name="lock_after_timeout">Аутоматски закључај</string>
   <string name="lock_after_timeout_summary">%1$s после стања спавања</string>
   <string name="lock_intro_message">Lock_intro_message</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Odmah potrebna zaporka</string>
-  <string name="lock_screen_secure_after_timeout_summary">Potrebna zaporka za %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Potrebna zaporka</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Одмах потребна лозинка</string>
+  <string name="lock_screen_secure_after_timeout_summary">Потребна лозинка за %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Потребна лозинка</string>
   <string name="lock_screen_unlock_show">Прескочи повлачење екрана</string>
   <string name="lock_screen_unlock_show_summary">Након буђења иди Равно на почетни екран или унос лозинке</string>
   <string name="lock_settings">Сигурност екрана</string>
@@ -2405,11 +2405,11 @@ Google-ов приступ синхронизацији података за м
   <string name="unlock_set_unlock_none_title">Ништа</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Ништа</string>
-  <string name="unlock_set_unlock_password_summary">Možete kombinirati slova i brojeve</string>
+  <string name="unlock_set_unlock_password_summary">Можете комбиновати слова и бројеве</string>
   <string name="unlock_set_unlock_password_title">Лозинка</string>
-  <string name="unlock_set_unlock_pattern_summary">Potrebno je povezati najmanje 4 točke</string>
+  <string name="unlock_set_unlock_pattern_summary">Потребно је повезати најмање 4 тачке</string>
   <string name="unlock_set_unlock_pattern_title">Узорак</string>
-  <string name="unlock_set_unlock_pin_summary">Unesite 4 znamenkasti PIN</string>
+  <string name="unlock_set_unlock_pin_summary">Унесите 4 цифрени PIN</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Молимо поставите заључавање екрана</string>
   <string name="unmount_inform_text">USB меморија ће бити искључена.</string>

@@ -32,8 +32,8 @@
   <string name="check_network_state">Провери статус мреже</string>
   <string name="checkout_traffic_saving_history">Прикажи историју</string>
   <string name="choose">Одабери</string>
-  <string name="connect_internet_by_mobiledata">Mobilna podatkovna veza</string>
-  <string name="connect_internet_by_usbshare">Internet putem USB-a</string>
+  <string name="connect_internet_by_mobiledata">Мобилна веза са подацима</string>
+  <string name="connect_internet_by_usbshare">Интернет путем USB-a</string>
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="current_network_state_not_need_diagnose">Нормално</string>
   <string name="daily_limit_network_available_body">Додирни за преглед статистике употребе података.</string>
@@ -169,8 +169,8 @@
   <string name="main_secondary_message_traffic_used_noleisure">%s макс.података искоришћено | нема искљ. макс. података преостало</string>
   <string name="main_secondary_message_traffic_used_normal">%s макс.података искориштено</string>
   <string name="main_toolbar_firewall">Ограничи употребу података апликација</string>
-  <string name="main_toolbar_internet_by_mobiledata">Mobilna podatkovna veza</string>
-  <string name="main_toolbar_internet_by_pc_brige">Internet putem USB-a</string>
+  <string name="main_toolbar_internet_by_mobiledata">Мобилна веза са подацима</string>
+  <string name="main_toolbar_internet_by_pc_brige">Интернет путем USB-a</string>
   <string name="main_toolbar_internet_by_wifi">WLAN</string>
   <string name="main_toolbar_purchase">Доплата</string>
   <string name="main_toolbar_saving">Уштеда</string>
@@ -225,7 +225,7 @@
   <string name="pref_automatic_adjust">Аутоматски синх. статистику употребе података</string>
   <string name="pref_avaible_traffic">Мобилни подаци</string>
   <string name="pref_category_title_other">Додатна подешавања</string>
-  <string name="pref_check_network_diagnostics">"Test internetske veze uređaja"</string>
+  <string name="pref_check_network_diagnostics">"Тест интернет везе уређаја"</string>
   <string name="pref_connect_settings_enable_background">Допустити позадинске податке</string>
   <string name="pref_connect_settings_enable_background_hint">"Допустити Апликацијама коришћење мобилних података када их користите"</string>
   <string name="pref_connect_settings_exceed_limit">Ограничите употребу података</string>
@@ -463,8 +463,8 @@
   <string name="usage_sorted_activity_lable">Употреба података</string>
   <string name="usage_sorted_empty_text">Празно</string>
   <string name="usage_sorted_loading_text">Учитавање…</string>
-  <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
-  <string name="usbsharenet_exception_title">Тест povezivanja putem USB-a</string>
+  <string name="usbsharenet_exception_summary">"Не могу се повезати на интернет путем USB везе. Проверите USB прикључак вашег уређаја и поново покрените Mi PC Suite."</string>
+  <string name="usbsharenet_exception_title">Тест повезивања путем USB-a</string>
   <string name="wifi_exception_summary">Тест повезивања доступне WLAN мреже</string>
   <string name="wifi_exception_title">Тест WLAN мреже</string>
 </resources>
