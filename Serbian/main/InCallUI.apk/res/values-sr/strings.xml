@@ -287,7 +287,7 @@
   <string name="list_language_dtitle">Језици</string>
   <string name="list_language_summary">Одаберите језик вести</string>
   <string name="list_language_title">Језик</string>
-  <string name="livetalk_left_minute">%s min. preostalo</string>
+  <string name="livetalk_left_minute">%s мин. преостало</string>
   <string name="livetalk_provider_info">Пружа вам %s</string>
   <string name="livetalk_waiting">На чекању…</string>
   <string name="load_networks_progress">Претраживање…</string>
