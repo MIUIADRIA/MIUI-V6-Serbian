@@ -15,6 +15,9 @@
   <string name="bugreport_dump_complete_notification_title">Извештај грешака направљен</string>
   <string name="bugreport_dump_start_notification_summary">Траје око 1 минут.</string>
   <string name="bugreport_dump_start_notification_title">Стварање извештаја грешака</string>
+  <string name="bugreport_tool_log">Stvaranje izvješća grešaka</string>
+  <string name="bugreport_tool_log_toast">Izvješće spremljeno u %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Stvaranje izvješća grešaka (traje oko 1 min.)</string>
   <string name="button_feedback">Остало</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Лош квалитет фотографије</string>
@@ -57,6 +60,11 @@
   <string name="loading_hot_problem">Учитавање…</string>
   <string name="loading_problem_list">Учитавање пописа…</string>
   <string name="menu_copy">Копирај</string>
+  <string name="modem_tool_log">Snimanje izvješća modema</string>
+  <string name="modem_tool_log_start">Start</string>
+  <string name="modem_tool_log_start_toast">"Početak zapisivanja izvješća modema u %s"</string>
+  <string name="modem_tool_log_stop">Stop</string>
+  <string name="modem_tool_log_stop_toast">"Zaustavi zapisivanje izvješće modema iz %s"</string>
   <string name="network_err">"Не могу се повезати на мрежу."</string>
   <string name="network_disconnected">"Не могу се повезати на мрежу."</string>
   <string name="network_unavailable_dialog_button_ok">У реду</string>
