@@ -125,7 +125,7 @@
   <string name="free_traffic_settings">Подешавање употребе података</string>
   <string name="gateway_exception_summary">Проверите свој рутер и покушајте поново.</string>
   <string name="gateway_exception_title">Тест рутера</string>
-  <string name="input_aviable_traffic">Постави ограничење употребе података</string>
+  <string name="hints_input_roaming_daily_limit">Постави ограничење употребе података</string>
   <string name="hints_install_apps_new">Није коришћено</string>
   <string name="hints_install_apps_today">Коришћено данас</string>
   <string name="input_aviable_traffic">Постави ограничење употребе података</string>
