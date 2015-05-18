@@ -343,7 +343,7 @@
   <string name="ims_menu_save">Спреми</string>
   <string name="ims_service_capability">Могућности услуге</string>
   <string name="ims_service_capability_title">Могућности IMS услуге</string>
-  <string name="incall_error_call_failed">"Не могу upuTITI позив."</string>
+  <string name="incall_error_call_failed">"Не могу упутити позив."</string>
   <string name="incall_error_emergency_only">Није регистровано на мрежи.</string>
   <string name="incall_error_no_active_sim">"SIM картица није активирана."</string>
   <string name="incall_error_no_phone_number_supplied">Позив није успостављен, није унет исправан број.</string>
