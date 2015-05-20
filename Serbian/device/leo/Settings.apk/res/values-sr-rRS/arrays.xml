@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_proxy_settings">
+        <item>Ништа</item>
+        <item>Ручно</item>
+	    <item>Ауто. подешавања</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Локација</item>
+        <item>Лично</item>
+        <item>Слање порука</item>
+        <item>Медији</item>
+        <item>Уређај</item>
+        <item>Покретање</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>приближна локација</item>
+        <item>прецизна локација</item>
+        <item>GPS</item>
+        <item>вибрирање</item>
+        <item>читање контаката</item>
+        <item>писање контаката</item>
+        <item>читање записника позива</item>
+        <item>писање записника позива</item>
+        <item>читање календара</item>
+        <item>измена календара</item>
+        <item>скенирање Wi-Fi-ја</item>
+        <item>обавештење</item>
+        <item>скенирање ћелије</item>
+        <item>позив на телефон</item>
+        <item>читање SMS-a</item>
+        <item>писање SMS-a</item>
+        <item>примање SMS-a</item>
+        <item>примање SMS-a у нужди</item>
+        <item>примање MMS-a</item>
+        <item>примање WAP обавештења</item>
+        <item>слање SMS-a</item>
+        <item>читање ICC SMS-a</item>
+        <item>писање ICC SMS-a</item>
+        <item>измена подешавања</item>
+        <item>повлачење на врх</item>
+        <item>приступ обавештењима</item>
+        <item>камера</item>
+        <item>снимање звука</item>
+        <item>репродукција аудиозаписа</item>
+        <item>читај бафер</item>
+        <item>измени бафер</item>
+        <item>медиски дугмићи</item>
+        <item>аудиофокус</item>
+        <item>главна јачина</item>
+        <item>јачина гласа</item>
+        <item>јачина звона</item>
+        <item>јачина медија</item>
+        <item>јачина аларма</item>
+        <item>гласовна обавештења</item>
+        <item>јачина Bluetootha</item>
+        <item>задржи у активном стању</item>
+        <item>праћење локације</item>
+        <item>праћење локације са високом потрошњом енергије</item>
+        <item>Дохватање статистике о употреби</item>
+        <item>искључивање/укључивање микрофона</item>
+        <item>тоаст прозора</item>
+        <item>пројекција медија</item>
+        <item>активирај VPN</item>
+        <item>измена wlana</item>
+        <item>измена bluetooth</item>
+        <item>слање MMS-a</item>
+        <item>читање MMS-a</item>
+        <item>писање MMS-a</item>
+        <item>ауто. покретање</item>
+        <item>измена nfc-a</item>
+        <item>брисање SMS-a</item>
+        <item>брисање MMS-a</item>
+        <item>брисање контаката</item>
+        <item>брисање записника позива</item>
+        <item>измена података</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Вибрирање</item>
+        <item>Читање контаката</item>
+        <item>Измена контаката</item>
+        <item>Читање листе позива</item>
+        <item>Измена листе позива</item>
+        <item>Читање календара</item>
+        <item>Измена календара</item>
+        <item>Локација</item>
+        <item>Објављивање обавештења</item>
+        <item>Локација</item>
+        <item>Позив на телефон</item>
+        <item>Читање SMS-a/MMS-a</item>
+        <item>Писање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Примање SMS-a/MMS-a</item>
+        <item>Слање SMS-a/MMS-a</item>
+        <item>Читање SMS-a/MMS-a</item>
+        <item>Писање SMS-a/MMS-a</item>
+        <item>Измена подешавања</item>
+        <item>Повлачење на врх</item>
+        <item>Приступ обавештењима</item>
+        <item>Камера</item>
+        <item>Снимање звука</item>
+        <item>Репродукција аудиозаписа</item>
+        <item>Читај бафер</item>
+        <item>Измени бафер</item>
+        <item>Медиски дугмићи</item>
+        <item>Аудиофокус</item>
+        <item>Главна јачина</item>
+        <item>Јачина гласа</item>
+        <item>Јачина звона</item>
+        <item>Јачина медија</item>
+        <item>Јачина аларма</item>
+        <item>Јачина обавештења</item>
+        <item>Јачина Bluetootha</item>
+        <item>Задржи у активном стању</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Дохвати статистике о употреби</item>
+        <item>Искључи/укључи микрофон</item>
+        <item>Тоаст прозор</item>
+        <item>Пројектуј медији</item>
+        <item>Активирај VPN</item>
+        <item>Измени WLAN</item>
+        <item>Измени Bluetooth</item>
+        <item>Пошаљи MMS</item>
+        <item>Читај MMS</item>
+        <item>Пиши MMS</item>
+        <item>Ауто. пократање</item>
+        <item>Измени Nfc</item>
+        <item>Избриши SMS</item>
+        <item>Избриши MMS</item>
+        <item>Избриши контакте</item>
+        <item>Избриши записник позива</item>
+        <item>Измени податке</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Задато</item>
+        <item>Ништа</item>
+        <item>Обрис</item>
+        <item>Сенка</item>
+        <item>Издигнуто</item>
+        <item>Утиснуто</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Употреба задатих подешавања апликације</item>
+        <item>Бело на црном</item>
+        <item>Црно на белом</item>
+        <item>Жуто на црном</item>
+        <item>Жуто на плавом</item>
+        <item>Прилагођено</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Задње 4 цифре</item>
+        <item>Прве 4 цифре</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Уобичајена</item>
+        <item>Умерена</item>
+        <item>Ниска</item>
+        <item>Критична</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Постојећа</item>
+        <item>Главна активност</item>
+        <item>Важна (у првом плану)</item>
+        <item>Важна (у позадини)</item>
+        <item>Резервна</item>
+        <item>Тешка</item>
+        <item>Услуга (изводи се)</item>
+        <item>Услуга (поново покретање)</item>
+        <item>Пријемник</item>
+        <item>Кућа</item>
+        <item>Последња активност</item>
+        <item>Кеш (активност)</item>
+        <item>Кеш (клијент активности)</item>
+        <item>Кеш (празан)</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Последњих 30 дана</item>
+        <item>Подеси циклус употребе...</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Искључено</item>
+        <item>Ограничени прекиди</item>
+        <item>Без прекида</item>
+    </string-array>
+	 <string-array name="app_ops_permissions">
+        <item>Допусти</item>
+        <item>Игнориши</item>
+        <item>Увек питај</item>
+     </string-array>
+	<string-array name="usage_stats_display_order_types">
+        <item>Време употребе</item>
+        <item>Последња употреба</item>
+        <item>Назив апликације</item>
+    </string-array>
+	<string-array name="select_logd_size_summaries">
+        <item>64 KB по баферу.</item>
+        <item>256 KB по баферу.</item>
+        <item>1 MB по баферу.</item>
+        <item>4 MB по баферу.</item>
+        <item>16 MB по баферу.</item>
+    </string-array>
+	<string-array name="track_frame_time_entries">
+        <item>Искључено</item>
+        <item>На екрану у облику трака</item>
+        <item>У наредби adb shell dumpsys gfxinfo</item>
+    </string-array>
+	<string-array name="debug_hw_overdraw_entries">
+        <item>Искључено</item>
+        <item>Покажи подручије словних исцртавања</item>
+        <item>Прикажи подручија за деутераномалију</item>
+    </string-array>
+</resources>
