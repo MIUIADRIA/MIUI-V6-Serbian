@@ -95,7 +95,7 @@
   <string name="cannot_remove_creator">"Не могу уклонити аутора"</string>
   <string name="cannot_send_message">"Не могу послати поруку"</string>
   <string name="cannot_send_message_reason">Порука нема исправног примиоца.</string>
-  <string name="cant_delete_cloud_album">Не могу избрисати %s јер је то албум система."</string>
+  <string name="cant_delete_system_album">Не могу избрисати %s јер је то албум система."</string>
   <string name="choose_cloud_album">Одабери албум</string>
   <string name="cleaning_cache">Чишћење меморије…</string>
   <string name="clear_thumbnail_cache">Очисти меморију минијатура</string>
@@ -417,6 +417,9 @@
   <string name="paint_crop_cancel_context">Сачувати исечену слику?</string>
   <string name="paint_crop_cancel_title">Одбацити промене</string>
   <string name="paint_crop_tips">Да добијете бољу слику, покушајте ставити његове интересне делове на мрежне тачке променом величине и померањем.</string>
+  <string name="paint_highlight">Istaknuto</string>
+  <string name="paint_highlight_cancel_context">Spremiti istaknutu sliku?</string>
+  <string name="paint_highlight_cancel_title">Odbaci promjene</string>
   <string name="path">Путовања</string>
   <string name="people">Особе</string>
   <string name="photo_page_always_rotate">Аутоматско окретање слика</string>
@@ -542,7 +545,7 @@
   <string name="size_above">%1$s или више</string>
   <string name="size_below">%1$s или мање</string>
   <string name="size_between">%1$s do %2$s</string>
-  <string name="skip_hide_special_album">"Не могу сакрити албуме система (нпр. Камера, Снимци екрана)"</string>
+  <string name="skip_hide_special_album">"Не могу сакрити албуме система (нпр. Камера, Снимци екрана, Sve videozapise)"</string>
   <string name="slideshow">Дијапројекција</string>
   <string name="slideshow_category">Дијапројекција</string>
   <string name="slideshow_dream_name">Дијапројекција</string>

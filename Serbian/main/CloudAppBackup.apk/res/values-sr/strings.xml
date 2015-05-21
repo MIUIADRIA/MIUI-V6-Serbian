@@ -5,7 +5,7 @@
   <string name="already_disable_backup">Изради Сиг. копију ове апликације</string>
   <string name="already_enable_backup">Изради Сиг. копију ове апликације</string>
   <string name="app_installed">Инсталирано</string>
-  <string name="app_name">CloudAppBackup</string>
+  <string name="app_name">Sig. kopija Apk</string>
   <string name="app_not_installed">Деинсталирано</string>
   <string name="backing_up_to_micloud">Стварање Сиг. копије</string>
   <string name="backup_immediately">Сада направи Сиг. копију</string>
@@ -50,7 +50,7 @@
   <string name="cloud_app_remove_prompt">"%1$s Сиг. копија ће бити обрисано."</string>
   <string name="cloud_app_remove_success">Апликације избрисане</string>
   <string name="cloud_app_restore_action_bar_title">%1$s детаљи Сиг. копије</string>
-  <string name="cloud_app_restore_app_and_data">Обнављање апликација и корисничких података</string>
+  <string name="cloud_app_restore_app_and_data">Обнављање из MiCloud-a</string>
   <string name="cloud_app_restore_cancel">Отказивање…</string>
   <string name="cloud_app_restore_cancel_prompt_message">"Обнављање није завршено, 
 свеједно зауставити?"</string>
@@ -61,7 +61,7 @@
   <string name="cloud_app_restore_progress">Обнављање…</string>
   <string name="cloud_app_restore_prompt">Пребрисати тренутне корисничке податке и податке апликација с подацима које сте претходно раније сачували?</string>
   <string name="cloud_app_restore_success">Апликације обновљене!</string>
-  <string name="cloud_app_restore_wifi_prompt">Да обновите ваше корисничке податке и апликације, повежите се на WLAN мрежу.</string>
+  <string name="cloud_app_restore_wifi_prompt">Да обновите ваше корисничке податке, апликације и аларма, повежите се на WLAN мрежу.</string>
   <string name="cloud_app_total_size">Величина: %1$s</string>
   <string name="cloud_app_version_size">Верзија %1$s, %2$s</string>
   <string name="cloud_app_wait_wifi">Чекам WLAN повезивање</string>
@@ -101,8 +101,8 @@
   <string name="open_wifi_setting">WLAN Подешавања</string>
   <string name="process_whole_recovery">Обнављање \"%s\"</string>
   <string name="recover_from_micloud">Обнови користећи MiCloud</string>
-  <string name="recover_settings">Обнови подешавања Почетног екрана</string>
-  <string name="recover_settings_description">Држите уређај укљученим</string>
+  <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
+  <string name="recover_miui_settings">Vrati postavke MIUI sustava</string>
   <string name="recovering">Обнављам %s</string>
   <string name="restore_from_cloud">Обнови из MiClouda</string>
   <string name="restoreing_file_tile">Обнављање датотека: %d</string>

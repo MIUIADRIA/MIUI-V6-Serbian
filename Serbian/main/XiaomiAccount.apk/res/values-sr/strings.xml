@@ -14,7 +14,7 @@
   <string name="account_error_longer_user_name">"Име не може бити дуже од 20 знакова"</string>
   <string name="account_error_shorter_user_name">Име мора бити дуже од 2 знака</string>
   <string name="account_error_user_birthday">Рођендан који сте унели није важећи</string>
-  <string name="account_learn_more_title">Направите Mi Рачун</string>
+  <string name="account_learn_more_title">Направите Mi Рачун besplatno</string>
   <string name="account_name">Рачун: %1$s</string>
   <string name="account_no_set">Ништа</string>
   <string name="account_none">Ништа</string>
@@ -353,7 +353,7 @@
   <string name="quick_login_dialog_title">Провери лозинку</string>
   <string name="quick_login_step2_title">Провера у 2 корака</string>
   <string name="quick_login_title">Унесите вашу лозинку</string>
-  <string name="re_register">Направи Mi Рачун</string>
+  <string name="re_register">Направи Mi Рачун besplatno</string>
   <string name="reg_failed">"Не могу поставити рачун"</string>
   <string name="reging">Израда рачуна…</string>
   <string name="register">Изради Mi Рачун</string>
@@ -368,7 +368,7 @@
   <string name="scan_barcode_title">Да се пријавите у свој Mi Рачун, скенирајте QR код</string>
   <string name="service_error">Грешка услуге</string>
   <string name="sina_weibo">Sina Weibo</string>
-  <string name="skip_register">Прескочи</string>
+  <string name="skip_register">Прескочи  ovaj korak</string>
   <string name="sns_access_token_expired_warning">Истекла је пријава за рачун. Пријавите се поново за додавање овог рачуна.</string>
   <string name="theme_store">MIUI Продавница тема</string>
   <string name="theme_store_dspt">Одаберите свој изглед. Стотине слободних прилагодљивих тема како би ваш телефон изгледао јединствено.</string>

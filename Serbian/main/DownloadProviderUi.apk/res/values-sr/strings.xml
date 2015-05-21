@@ -123,7 +123,7 @@
   <string name="privacy_tip_content">"Користити Кsunlei Ацелератор за убрзање преузимања? URL домаћина преузимања ће бити учитан на ksuneli сервере. Детаљи вашег Mi Рачуна ће бити учитани ради провере да ли је имате активне претплате на ову услугу."</string>
   <string name="privacy_tip_ok">У реду</string>
   <string name="privacy_tip_title">Користи Xunlei Ацелератор?</string>
-  <string name="recommend_downloading">Преузимање</string>
+  <string name="recommend_downloading">Преузимање...</string>
   <string name="recommend_failed">Није успело</string>
   <string name="recommend_install">Инсталиај</string>
   <string name="recommend_installing">Инсталирање...</string>
@@ -131,7 +131,7 @@
   <string name="recommend_open">Отвори</string>
   <string name="recommend_other_downloads">Популарно</string>
   <string name="recommend_paused">Паузирано</string>
-  <string name="recommend_prepare">Чекај</string>
+  <string name="recommend_prepare">Чекање...</string>
   <string name="recommend_show_other_downloads">Прикажи популарно</string>
   <string name="remove_download">Уклони</string>
   <string name="restart_download">Поново покрени</string>
