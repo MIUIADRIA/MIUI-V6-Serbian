@@ -39,8 +39,7 @@
   <string name="device_delete_prompt">Избрисати Сиг. копију за %s?</string>
   <string name="device_xiaomi">Mi Телефон</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="download_settings">Preuzimanje postavki Početnog zaslona: %s%%</string>
-  <string name="download_settings">Преузимање поставки Почетног екрана</string>
+  <string name="download_settings">Преузимање поставки Почетног екрана: %s%%</string>
   <string name="error_unknown">Нешто није у реду</string>
   <string name="latest_backup_time_loading">Учитавање…</string>
   <string name="managespace_delete_backup">Избриши Сиг. копију</string>
