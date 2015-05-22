@@ -675,15 +675,15 @@
         <item>30 мин.</item>
     </string-array>
 	<string-array name="fluency_mode_entries">
-        <item>Sakrij animacije sustava</item>
-        <item>Prikaži animacije sustava</item>
+        <item>Сакри анимације система</item>
+        <item>Прикажи анимације система</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Da ubrzate performanse uređaja, sakrijte animacije sustava"</item>
-        <item>"Prikaz animacija sustava može usporiti performanse uređaja"</item>
+        <item>"Да убрзате перформансе уређаја, сакријте анимације система"</item>
+        <item>"Приказ анимација система може успорити перформансе уређаја"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-        <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
-        <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
+        <item>Поново покрените уређај за промену ових подешавања?</item>
+        <item>Поново покрените уређај за промену ових подешавања?</item>
     </string-array>
 </resources>

@@ -47,7 +47,7 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">За три дана има %3$s (%4$s)!</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">Kupite cvijeće ili tortu za TA</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">Купите цвеће или торту за ТАЈ</string>
   <string name="birthday_notification_text_today">Не заборавите честитати!</string>
   <string name="birthday_notification_title_three_days_later">"Приближава се %2$s od %1$s."</string>
   <string name="birthday_notification_title_today">"%1$s има %3$s"</string>
@@ -270,7 +270,7 @@
   <string name="search">Тражи</string>
   <string name="search_history_cleared">Историја претраживања очишћена.</string>
   <string name="search_title">Претражи мој календар</string>
-  <string name="select_date">Odaberi datum</string>
+  <string name="select_date">Одабери датум</string>
   <string name="select_synced_calendars_button">Календари за синхронизацију</string>
   <string name="select_synced_calendars_title">Календари за синхронизацију</string>
   <string name="select_visible_calendars_title">Календари за приказ</string>

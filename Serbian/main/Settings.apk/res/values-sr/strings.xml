@@ -2,16 +2,16 @@
 <resources>
   <string name="about_settings">О телефону</string>
   <string name="about_settings_summary">Преглед правних информација, статуса, верзије софтвера</string>
-  <string name="ac_enable_title">Zaključaj pojedine aplikacije</string>
+  <string name="ac_enable_title">Закључај поједине апликације</string>
   <string name="ac_privacy_mode_sum">Затражи лозинку за онемогућавање Гост начина</string>
   <string name="ac_privacy_mode_title">Лозинка</string>
-  <string name="ac_set_apps_title">Odaberite aplikacije za zaključavanje</string>
+  <string name="ac_set_apps_title">Одаберите апликације за закључавање</string>
   <string name="accelerometer_summary_off">Аутоматска промена положаја приликом ротације телефона</string>
   <string name="accelerometer_summary_on">Аутоматска промена положаја приликом ротације телефона</string>
   <string name="accelerometer_title">Аутоматско ротирање екрана</string>
   <string name="access_control_app_entry_multiple">Отвори %s</string>
   <string name="access_control_app_entry_single">Отвори апликацију</string>
-  <string name="access_control_need_password">"%s је zaključan 
+  <string name="access_control_need_password">"%s је закључан 
    "</string>
   <string name="access_control_need_to_unlock">Потребна је лозинка</string>
   <string name="access_control_no_back_footer">Додирни [икону] за излаз</string>
@@ -543,7 +543,7 @@
   <string name="carrier_enabled_summaryOn">Назив приступне тачке је омогућен</string>
   <string name="cdma_security_settings_summary">Подешавање Моје локације, откључавања екрана, закључавања складишта акредитива</string>
   <string name="cell_broadcast_settings">Поруке инфо сервиса</string>
-  <string name="cell_broadcast_settings_summary">Odaberite vrstu hitnih emitiranja za prikaz</string>
+  <string name="cell_broadcast_settings_summary">Одаберите врсту хитних емитовања за приказ</string>
   <string name="change_password">Промени лозинку</string>
   <string name="change_security_lock">Пробај остале начине откључавања</string>
   <string name="check_update">Провери ажурирања</string>
@@ -961,7 +961,7 @@
   <string name="floating_window_switch_label">Прикажи искачуће прозоре </string>
   <string name="floating_window_switch_label_disable">Сакри искачуће прозоре</string>
   <string name="fluency_mode">Оптимизуј перформансе система</string>
-  <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
+  <string name="fluency_mode_confirm_and_reboot">Поново покрени</string>
   <string name="font_size_huge">Огроман</string>
   <string name="font_size_large">Велик</string>
   <string name="font_size_medium">Средњи</string>
@@ -1601,8 +1601,8 @@
   <string name="passwordIncorrect">Лозинка коју сте унели није тачна</string>
   <string name="password_guard">Лозинка</string>
   <string name="percentage">%d%%</string>
-  <string name="performance_category">Performanse</string>
-  <string name="permission_detail_info">Detalji</string>
+  <string name="performance_category">Перформансе</string>
+  <string name="permission_detail_info">Детаљи</string>
   <string name="permission_detail_info_summary">%1$d сигурност | %2$d приватност | %3$d остало</string>
   <string name="permission_manage">Управљач допуштењима</string>
   <string name="permission_manage_summary">Питај за диопуштење пре него што се допусти апликацијама читање ваших контаката, приказ ваше историје позива, промени подешавања система, или приступу камери и осталим ресурсима уређаја</string>
@@ -1699,12 +1699,12 @@
   <string name="priority_storage_settings_summary">Ако није уметнута SD картица, ваши подаци ће бити сачувани на унутрашњу меморију ваших уређаја аутоматски</string>
   <string name="priority_storage_summary">Одаберите где ће се сачувати ваши подаци</string>
   <string name="priority_storage_title">Подешавања меморије</string>
-  <string name="privacy_mode_dialog_message">Sakrij dolazne pozive i poruke, bilješke, fotografije i postavke Pokretača</string>
+  <string name="privacy_mode_dialog_message">Сакриј долазне позиве поруке, белешке, фотграфије и подешавања Покретача</string>
   <string name="privacy_mode_dialog_title">Гост начин рада</string>
   <string name="privacy_mode_enable_sum">Сакри поруке, белешке,слике и долазне позиве од корисника</string>
   <string name="privacy_mode_enable_title">Гост начин</string>
-  <string name="privacy_mode_summary">Zaključaj pojedine aplikacije ili sakrij osobne informacije</string>
-  <string name="privacy_mode_title">Postavke privatnosti</string> 
+  <string name="privacy_mode_summary">Закључај поједине апликације или сакри личне информације</string>
+  <string name="privacy_mode_title">Подешавања приватности</string> 
   <string name="privacy_protect_title">Заштита приватности</string>
   <string name="privacy_relative">Приватност</string>
   <string name="privacy_settings">Створи Сиг. копију &amp; поништи</string>

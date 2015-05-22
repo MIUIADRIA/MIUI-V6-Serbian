@@ -5,7 +5,7 @@
   <string name="already_disable_backup">Изради Сиг. копију ове апликације</string>
   <string name="already_enable_backup">Изради Сиг. копију ове апликације</string>
   <string name="app_installed">Инсталирано</string>
-  <string name="app_name">Sig. kopija Apk</string>
+  <string name="app_name">Сиг. копија Apk</string>
   <string name="app_not_installed">Деинсталирано</string>
   <string name="backing_up_to_micloud">Стварање Сиг. копије</string>
   <string name="backup_immediately">Сада направи Сиг. копију</string>
@@ -101,8 +101,8 @@
   <string name="open_wifi_setting">WLAN Подешавања</string>
   <string name="process_whole_recovery">Обнављање \"%s\"</string>
   <string name="recover_from_micloud">Обнови користећи MiCloud</string>
-  <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
-  <string name="recover_miui_settings">Vrati postavke MIUI sustava</string>
+  <string name="recover_home_settings">Врати подешавања почетног екрана</string>
+  <string name="recover_miui_settings">Врати подешавања MIUI система</string>
   <string name="recovering">Обнављам %s</string>
   <string name="restore_from_cloud">Обнови из MiClouda</string>
   <string name="restoreing_file_tile">Обнављање датотека: %d</string>

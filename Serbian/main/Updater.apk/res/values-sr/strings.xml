@@ -47,7 +47,7 @@
   <string name="download_diff">Преузимање разлике</string>
   <string name="download_error">Нешто није у реду. Причекајте минут или два и покушајте поново.</string>
   <string name="download_full">Преузимање завршено</string>
-  <string name="download_success_reboot_immediately">Ponovno pokreni za primjenu ažuriranja</string>
+  <string name="download_success_reboot_immediately">Поново покрени за примену ажурирања</string>
   <string name="download_title">Преузимање (%s)</string>
   <string name="download_title_first">Добијање информација…</string>
   <string name="download_title_full_download">Добијање информација…</string>
@@ -97,7 +97,7 @@
   Ако премашите своје ограничење података, ваш оператер вам може наплатити додатне трошкове."</string>
   <string name="no_wifi_title">Упозорење употребе података</string>
   <string name="not_open">Не сада</string>
-  <string name="notification_auto_reboot_seccess_title">Uređaj je automatski ažuriran</string>
+  <string name="notification_auto_reboot_seccess_title">Уређај је аутоматски ажуриран</string>
   <string name="notification_downloading">Преузимање ажурирања…</string>
   <string name="notification_load_body_alpha">Набавите најновија ажурирања за ваш уређај.</string>
   <string name="notification_load_body_dev">Набавите најновија ажурирања за ваш уређај</string>
@@ -181,13 +181,13 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_sad">Хмм (није добро)</string>
   <string name="update_success">Уређај је ажуриран</string>
   <string name="update_success_body">Верзија: %s</string>
-  <string name="update_success_reboot_immediately">Uređaj je ažuriran</string>
+  <string name="update_success_reboot_immediately">Уређај је ажуриран</string>
   <string name="update_success_title">Уређај је ажуриран</string>
   <string name="updater_nolog">Нема извода ажурирања</string>
   <string name="updater_nonetwork">"Не могу се повезати на мрежу"</string>
   <string name="updater_nonetwork_clause">"Не могу се повезати на мрежу"</string>
   <string name="upgrade_close">Затвори</string>
-  <string name="updater_wait_for_unzip">Raspakiravanje ažuriranja…</string>
+  <string name="updater_wait_for_unzip">Распакивање ажурирања…</string>
   <string name="upgrade_kernel">Kernel система захтева ажурирање</string>
   <string name="upgrade_kernel_msg">"Верзија kernela коју користите не одговара MIUI ROM-u. Морате надоградити kernel ручно. Погледајте Xiaomi поступак надоградње: 
 "</string>

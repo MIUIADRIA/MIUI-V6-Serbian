@@ -343,7 +343,7 @@
   <string name="eventTypeCustom">Прилагођено</string>
   <string name="event_edit_field_hint_text">Датум</string>
   <string name="export_sim_contact_finish">Извоз је завршен</string>
-  <string name="export_sim_contact_finish_msg">Премештено: %1$d| Preskočeno: %2$d| Преостало: %2$d</string>
+  <string name="export_sim_contact_finish_msg">Премештено: %1$d| Прескочено: %2$d| Преостало: %2$d</string>
   <string name="export_to_sdcard">Извези у меморију</string>
   <string name="export_to_sim">Извоз на SIM картицу</string>
   <string name="export_to_sim1">Извоз на SIM картицу 1</string>
@@ -388,7 +388,7 @@
   <string name="ghostData_title">Назив</string>
   <string name="groupSavedErrorToast">Није могуће сачувати измене група.</string>
   <string name="groupSavedToast">Група је сачувана.</string>
-  <string name="group_add_fail_toast">"Ne mogu dodati primatelje"</string>
+  <string name="group_add_fail_toast">"Не могу додати примаоце"</string>
   <string name="group_create_fail_toast">Креирање групе није успело</string>
   <string name="group_create_success_toast">Група је креирана</string>
   <string name="group_delete_success_toast">Група је избрисана</string>
@@ -400,7 +400,7 @@
   <string name="group_rename_dialog_title">"Преименуј групу"</string>
   <string name="group_rename_fail_toast">Преименовање групе није успело</string>
   <string name="group_rename_success_toast">Група је преименована</string>
-  <string name="group_sms_error_message">"SMS ne može imati više od %s primatelja."</string>
+  <string name="group_sms_error_message">"SMS не може имати више од %s примаоца."</string>
   <string name="group_sms_progress_msg">Групирање…</string>
   <string name="groupsLabel">Групе</string>
   <string name="groups_list_empty">Нема групе</string>

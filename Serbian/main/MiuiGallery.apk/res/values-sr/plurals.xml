@@ -29,8 +29,8 @@
         <item quantity="one">"Избрисати видео запис (%s) на овом уређају и у Mi Cloudu ?"</item>
     </plurals>
 	<plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" "&lt;Data> Избрисати &amp;lt;xliff:g id=ITEM>%1$d видео записе&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Избрисати &amp;lt;xliff:g id=ITEM>%1$d видео запис&amp;lt;/xliff:g> iz %2$d albuma?&lt;/Data>" "</item>
+        <item quantity="other">" "&lt;Data> Избрисати &amp;lt;xliff:g id=ITEM>%1$d видео записе&amp;lt;/xliff:g> iz %2$d албума?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Избрисати &amp;lt;xliff:g id=ITEM>%1$d видео запис&amp;lt;/xliff:g> iz %2$d албума?&lt;/Data>" "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">"Одабрано: %1$d"</item>
