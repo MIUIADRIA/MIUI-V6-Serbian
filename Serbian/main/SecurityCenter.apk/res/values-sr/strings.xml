@@ -32,6 +32,7 @@
   <string name="activity_title_virus_settings">Подешавања</string>
   <string name="antivirus_sec_support">Powered by Tencent</string>
   <string name="app_name_securitycenter">Сигурност</string>
+  <string name="app_not_installed_toast">"Апликација није инсталирана на вашем уређајu."</string>
   <string name="auto_handle_title">УОПШТЕНО</string>
   <string name="back">Назад</string>
   <string name="battery_desc_apps">Батерија истрошена употребом података</string>
