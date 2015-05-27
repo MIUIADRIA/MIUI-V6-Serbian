@@ -3,17 +3,17 @@
   <string name="alwaysUsePrompt">"Запамти овај избор"</string>
   <string name="auto_start_warning_allow">Допусти</string>
   <string name="auto_start_warning_deny">Одбиј</string>
-  <string name="auto_start_warning_title">Dopustiti %s autom. pokretanje?</string>
+  <string name="auto_start_warning_title">Допустити %s ауто. покретање?</string>
   <string name="call_record_or">" Или "</string>
   <string name="call_record_sample_prefix_miui">Позив</string>
   <string name="caller_info_name_delimiter">" Или "</string>
   <string name="copy">Копирај</string>
   <string name="cut">Изрежи</string>
-  <string name="first_back_long_press_message">"Притисните &amp; држите дирку Назад за искљушивање тренутног процеса и његових позадинских услуга. 
+  <string name="first_back_long_press_message">"Притисните &amp; држите дирку Назад за искључивање тренутног процеса и његових позадинских услуга. 
 За укључивање ове функције, идите на Подешавања &gt; Додатна подешавања &gt; Дирке</string>
   <string name="fm_record_smaple_prefix_miui">FM Снимање</string>
   <string name="force_exit_message">Успешно затворена апликација: \"%1$s\"</string>
-  <string name="force_exit_skip_message">"Не могу искључити %1$s зато сто је потребно систему."</string>
+  <string name="force_exit_skip_message">"Не могу искључити %1$s зато што је потребно систему."</string>
   <string name="global_actions_airplane_mode">"Начин рада у авиону"</string>
   <string name="global_actions_reboot">"Поново покрени"</string>
   <string name="global_actions_shutdown">"Искључи"</string>
@@ -44,9 +44,9 @@
   <string name="shutdown_confirm_title">"Ваш телефон ће се искључити."</string>
   <string name="shutdown_progress">"Искључивање…"</string>
   <string name="sim_added_reboot_confirm">Поново покрени</string>
-  <string name="sim_added_reboot_title">SIM картица ће бити акривирана након поновног покретања уређаја.</string>
+  <string name="sim_added_reboot_title">SIM картица ће бити активирана након поновног покретања уређаја.</string>
   <string name="softap_notifif_summary">Повезано: %d</string>
-  <string name="softap_notifif_title">Hot-spot \"%s\" укључен</string>
+  <string name="softap_notifif_title">Хот-спот \"%s\" укључен</string>
   <string name="status_bar_toggle_ac">Приступ</string>
   <string name="status_bar_toggle_auto_brightness">Светлина</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>

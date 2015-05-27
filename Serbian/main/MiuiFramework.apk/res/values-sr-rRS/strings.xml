@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alwaysUsePrompt">"Запамти овај избор"</string>
-  <string name="android_ringtone_default_with_actual">Zadani zvuk zvona (%1$s)</string>
-  <string name="android_ringtone_silent">Ništa</string>
-  <string name="android_ringtone_unknown">Nepoznati zvuk zvona</string>
+  <string name="android_ringtone_default_with_actual">Задати звук звона (%1$s)</string>
+  <string name="android_ringtone_silent">Ништа</string>
+  <string name="android_ringtone_unknown">Непознати звук звона</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
   <string name="app_no_notification">Ништа</string>
