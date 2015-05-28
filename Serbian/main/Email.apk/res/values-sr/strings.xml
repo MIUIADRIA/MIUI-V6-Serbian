@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ApplicationIconMore99">99+</string>
-  <string name="SMTP_independent_verification_text">SMTP neovisna provjera</string>
-  <string name="SMTP_password_text">Zaporka</string>
-  <string name="SMTP_username_text">Korisničko ime</string>
+  <string name="SMTP_independent_verification_text">SMTP независна провера</string>
+  <string name="SMTP_password_text">Лозинка</string>
+  <string name="SMTP_username_text">Корисничко име</string>
   <string name="abc_action_bar_home_description">Навигација кући</string>
   <string name="abc_action_bar_up_description">Навигација горе</string>
   <string name="abc_action_menu_overflow_description">	Више опција</string>
@@ -58,7 +58,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Не могу се пријавити у %s; Ово је порука сервера: %s"</string>
   <string name="account_settings_login_dialog_title">Неуспела пријава</string>
   <string name="account_settings_mail_check_frequency_label">Фреквенција синхронизације</string>
-  <string name="account_settings_mibill_resolve_label">Upravljaj automatski računima</string>
+  <string name="account_settings_mibill_resolve_label">Управљај аутоматски рачунима</string>
   <string name="account_settings_name_label">Ваше име</string>
   <string name="account_settings_notifications">Подешавање обавештења</string>
   <string name="account_settings_notify_label">Обавештења e-поште</string>
@@ -387,9 +387,9 @@
   <string name="device_admin_label">E-пошта</string>
   <string name="device_not_activiey_lint1">Управљач уређаја није укључен</string>
   <string name="device_not_activiey_lint2">Услуга Е-поште не ради са Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Sinkronizacija pošte isključena, ne mogu primati nove poruke."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Синхронизација поште искључена, не могу примати нове поруке."</string>
   <string name="dialog_auto_download_failed">"Не могу завршити аутом.. преузимање, покушајте ручно преузимање."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Sinkronizacija pošte isključena, ne mogu primati nove poruke."</string>
+  <string name="dialog_auto_sync_setting_no_open">"Синхронизација поште искључена, не могу примати нове поруке."</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Недовољно простора за %s.</string>
   <string name="dialog_insufficient_space_on_external">"Не могу завршити аутом. преузимање. Нема довољно простора на спољној меморији."</string>
   <string name="dialog_insufficient_space_on_internal">"Нема довољно простора на спољној меморији."</string>
@@ -695,9 +695,9 @@
   <string name="notification_action_undo_delete">Избрисано</string>
   <string name="notification_action_undo_remove_label">Ознака је уклоњена</string>
   <string name="notification_exchange_calendar_added">Додан Exchange календар</string>
-  <string name="oauth_error_description">Nije moguće provjeriti autentičnost</string>
-  <string name="oauth_gmail_login_notify">"Prema Googleovim zahtjevima, trebate upisati svoju zaporku na stranici Google autorizacije"</string>
-  <string name="oauth_login_continue">Nastavi</string>
+  <string name="oauth_error_description">Није могуће проверити аутентичност</string>
+  <string name="oauth_gmail_login_notify">"Према Google захтевима, требате уписати своју лозинку на страници Google ауторизације"</string>
+  <string name="oauth_login_continue">Настави</string>
   <string name="ok">У реду</string>
   <string name="okay_action">У реду</string>
   <string name="open_proxy_in_settings">"Gmail nije dostupan na vašoj trenutnoj lokaciji. Još uvijek možete slati i primati poruke iz vašeg Gmail računa pomoću proxy poslužitelja Pošte.  Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>

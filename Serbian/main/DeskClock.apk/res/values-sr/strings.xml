@@ -39,7 +39,7 @@
   <string name="default_alarm_alert">Подеси задати звук аларма</string>
   <string name="default_alarm_title">Задати звук аларма</string>
   <string name="default_label">Аларм</string>
-  <string name="delelte_selected_timezone">Izbrisati odabranu vremensku zonu?</string>
+  <string name="delelte_selected_timezone">Избрисати одабрану временску зону?</string>
   <string name="delete">Избриши</string>
   <string name="delete_alarm">Избриши аларм</string>
   <string name="delete_alarm_confirm">Избрисати овај аларм?</string>

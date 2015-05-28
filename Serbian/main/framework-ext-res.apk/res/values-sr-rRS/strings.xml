@@ -9,7 +9,7 @@
   <string name="caller_info_name_delimiter">" Или "</string>
   <string name="copy">Копирај</string>
   <string name="cut">Изрежи</string>
-  <string name="first_back_long_press_message">"Dugi pritisak na tipku "Natrag" će zaustaviti trenutni proces i njegove pozadinske usluge. Za omogućavanje ove funkcije, idite na Postavke &gt; Sustav &gt; Tipke</string>
+  <string name="first_back_long_press_message">"Дуги притисак на тастер "Назад" ће зауставити тренутни просец и његове позадинске услуге. За омогућавање ове функције, идите на Подешавања &gt; Систем &gt; Тастери/Дугмад</string>
   <string name="fm_record_smaple_prefix_miui">FM Снимање</string>
   <string name="force_exit_message">Успешно затворена апликација: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Не могу искључити %1$s зато што је потребно систему."</string>
@@ -17,8 +17,8 @@
   <string name="global_actions_reboot">"Поново покрени"</string>
   <string name="global_actions_shutdown">"Искључи"</string>
   <string name="global_actions_silent_mode">"Бешумни начин"</string>
-  <string name="handy_mode_summary">Da zatvorite, pritisnite prazan prostor na isklj. zaslonu</string>
-  <string name="handy_mode_title">Upravljanje jednom rukom</string>
+  <string name="handy_mode_summary">Да затворите притисните празан простор на искљ. екрану</string>
+  <string name="handy_mode_title">Управљање једном руком</string>
   <string name="key_btn_ok">У реду</string>
   <string name="key_btn_space">Размак</string>
   <string name="lockscreen_access_pattern_cell_added">Додат је мобилни</string>
