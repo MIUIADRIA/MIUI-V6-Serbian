@@ -2,12 +2,12 @@
 <resources>
     <string-array name="boot_msg_text">
         <item>-==MIUI Adria==-</item>
-	<item>-==MIUI Adria==-</item>
-	<item>-==MIUI Adria==-</item>
-        <item>Instaliranje u tijeku.</item>
-        <item>Instaliranje u tijeku..</item>
-        <item>Instaliranje u tijeku...</item>
-        <item>Optimiziranje aplikacija...</item>
-        <item>Napišite svoje primjedbe na miui.website</item>
+	    <item>-==MIUI Adria==-</item>
+	    <item>-==MIUI Adria==-</item>
+        <item>Инсталација у току.</item>
+        <item>Инсталација у току..</item>
+        <item>Инсталација у току...</item>
+        <item>Оптимизација апликација...</item>
+        <item>Напишите своје примедбе на miui.website</item>
     </string-array>
 </resources>
