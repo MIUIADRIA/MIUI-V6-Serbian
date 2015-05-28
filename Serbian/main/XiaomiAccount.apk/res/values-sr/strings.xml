@@ -138,9 +138,15 @@
   <string name="cloud_service_dspt">Синхронизација ваше фотографије, контакте, белешке, апликације и више између свих ваших уређаја.</string>
   <string name="completed">Завршено</string>
   <string name="confirm">У реду</string>
+  <string name="confirm_email_address_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
+  <string name="confirm_email_address_dialog_title">Potvrdi adresu e-pošte</string>
+  <string name="confirm_phone_number_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
+  <string name="confirm_phone_number_dialog_title">Potvrdi broj telefona</string>
   <string name="confirm_unbind">Прекините везу са овим рачуном?</string>
+  <string name="continue_action">Nastavi</string>
   <string name="data_keep_in_device">Задржи податке на овом уређају</string>
   <string name="data_wipe_from_device">Избриши из овог уређаја</string>
+  <string name="delete_action">Izbriši</string>
   <string name="delete_device_btn">Уклони</string>
   <string name="delete_device_failed">"Не могу уклонити уређај"</string>
   <string name="delete_device_notice">"Након што је уређај уклоњен, исти ће бити одјављен из Mi Рачуна аутоматски. Нећете бити у могућности користити овај уређај за приступ фотографијама, порукама, или другом садржају сачуваном на вашем рачунару."</string>
@@ -151,8 +157,12 @@
   <string name="device_list_title">Моји уређаји</string>
   <string name="device_trust_info">Поуздани уређаји</string>
   <string name="email_or_id_hint_text">Адреса E-поште или ID Mi Рачуна</string>
+  <string name="email_send_verify_code_prompt">"E-pošta poslana na %s
+Unesite kôd za provjeru u e-pošti"</string>
   <string name="empty_device_list_notice">Нема уређаја</string>
   <string name="error_device_id">"Не могу додати IMEI"</string>
+  <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
+  <string name="error_invalid_bind_address">Adresa e-pošte koju ste unijeli nije važeća.</string>
   <string name="error_invalid_dev_id">Неважећи ID уређаја</string>
   <string name="error_network">"Не могу се повезати са мрежом"</string>
   <string name="error_no_sms_service">"Не могу послати SMS поруке. Мобилна мрежа није доступна."</string>
@@ -161,15 +171,19 @@
   <string name="error_unknown">"Не могу се пријавити"</string>
   <string name="error_user_name">Неважеће корисничко име</string>
   <string name="facebook">Facebook</string>
+  <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Mi Računom</string>
   <string name="failed_get_mibi_info">"Не могу добити стање"</string>
   <string name="find_password_on_web_msg">Молимо вас да посетите account.xiaomi.com за ресетовање своје лозинке</string>
   <string name="forget_password">Заборављена лозинка</string>
   <string name="get_back_pwd">Хватање лозинке рачуна</string>
   <string name="get_device_list_failed">"Не могу добити уређаје"</string>
+  <string name="get_email_verifycode_exceed_limit">Previše poslanih kodova za provjeru na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovo.</string>
+  <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za provjeru na ovu adresu. Pričekajte 24 sata i pokušajte ponovo.</string>
   <string name="hide_mibi_info">Подаци Mi Кредита су сакривени</string>
   <string name="input_captcha_hint">Унесите код</string>
   <string name="input_password_hint">Унесите лозинку</string>
   <string name="input_vcode_hint">Унесите код за проверу</string>
+  <string name="just_a_second">Samo tren…</string>
   <string name="license_host_unreachable">"Не могу се повезати на мрежу. Можете видети ову страницу на %s."</string>
   <string name="loading">Учитавање…</string>
   <string name="loading_micloud_sync_data">Учитавање…</string>
@@ -183,6 +197,7 @@
   <string name="logout_failed">"Не могу се одјавити"</string>
   <string name="mi_account_dspt_provision">"Пријавите се на Mi Cloud, MIUI Продавницу тема и Друге Mi Услуге, од било где да се налазите."</string>
   <string name="mi_support_service">Подршка</string>
+  <string name="mi_account_identity_title">Potvrdite svoj identitet</string>
   <string name="mibi_balance">Mi Кредита %s</string>
   <string name="micloud_account_name">Mi Рачун</string>
   <string name="micloud_area_code_title">Код земље</string>
@@ -343,6 +358,7 @@
   <string name="passport_xiaomi_account_sec_dspt2"/>
   <string name="password">Унесите вашу лозинку</string>
   <string name="phone_activated">%s активиран</string>
+  <string name="phone_send_verify_code_prompt">Pošalji kod za provjeru %s</string>
   <string name="phone_unactivated">Није активирано</string>
   <string name="phone_unknown">Непознато</string>
   <string name="photoPickerNotFoundText">Нема доступних слика.</string>
@@ -365,6 +381,12 @@
   <string name="remove_trust_notice">Уклони из поузданих уређаја и одјави се</string>
   <string name="removing_account">Одјава…</string>
   <string name="rename_current_device">"Промена назива уређаја"</string>
+  <string name="replace_binded_phone">Zamjeni telefon</string>
+  <string name="restart_action">Ponovno pokreni</string>
+  <string name="restart_email_bind_message">Potrebno je neko vrijeme za primanje e-pošte, pobrinite se da promjenite e-poštu za oporavak？</string>
+  <string name="restart_email_bind_title">Promjeni e-poštu za oporavak</string>
+  <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS-a, pobrinite se da promjenite telefon za oporavak？</string>
+  <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
   <string name="scan_barcode_title">Да се пријавите у свој Mi Рачун, скенирајте QR код</string>
   <string name="service_error">Грешка услуге</string>
   <string name="sina_weibo">Sina Weibo</string>

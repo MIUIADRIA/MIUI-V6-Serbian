@@ -141,7 +141,7 @@
   <string name="fragment_title_channel">FM</string>
   <string name="fragment_title_personal">ЛИЧНО</string>
   <string name="fragment_title_recommend">ИСТАКНУТО</string>
-  <string name="headset_settings">Слушалице и ефекти звука</string>
+  <string name="headset_settings">Slušalice &amp; efekti zvuka</string>
   <string name="high_quality">Виша</string>
   <string name="higher_quality_music">Висок квалитет звука</string>
   <string name="higher_quality_music_summary">Stream и преузимање датотека веће брзине преноса</string>
@@ -216,6 +216,7 @@
   <string name="ok">"У реду"</string>
   <string name="online_music">Online Музика</string>
   <string name="online_playlist_is_empty">Листа песама је празна</string>
+  <string name="only_online_can_select_quality">Možete odabrati kvalitetu samo za glazbu koju stremate.</string>
   <string name="order_process_fail">"Није било могуће ауторизовати ваш рачун. Сачекајте неколико минута и покушајте поново."</string>
   <string name="payment_fail">Плаћање није успело</string>
   <string name="payment_success">Плаћање завршено</string>
@@ -233,6 +234,7 @@
   <string name="project_device_mobile">Мобилни уређај</string>
   <string name="quit_warining">Репродукција ће престати за %d мин.</string>
   <string name="recommend_fragment_title">Истакнуто</string>
+  <string name="remove">Ukloni</string>
   <string name="retry">Покушај поново</string>
   <string name="ringtone_not_support">"Формат ове песме није подржан."</string>
   <string name="search_album">Потражите албум на интернету</string>
@@ -252,9 +254,9 @@
   <string name="select_lyric">Одабери текст</string>
   <string name="send_to">Дели</string>
   <string name="send_to_title">Пошаљи (%1$s)</string>
+  <string name="server_error">Pogreška poslužitelja. Pokušajte ponovo kasnije</string>
+  <string name="service_stop">Usluga je obustavljena</string>
   <string name="set_album_successful">Албум је постављен</string>
-  <string name="server_error">Грешка сервера. Покушајте поново касније</string>
-  <string name="service_stop">Сервис обустављен</string>
   <string name="set_as_ring">Постави за звук звона</string>
   <string name="set_id3_failed">"Не могу сачувати информације"</string>
   <string name="set_id3_not_have_read_or_write_permission">"Немате допуштење за уређивање ове датотеке"</string>
@@ -270,6 +272,9 @@
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Песма</string>
   <string name="song_not_find">"Oва песма није доступна."</string>
+  <string name="sort_by_language">Jezik</string>
+  <string name="sort_by_name">Naziv</string>
+  <string name="sort_by_time">Datum</string>
   <string name="source_from">Извор: %1$s</string>
   <string name="start_to_play">Репродукуј</string>
   <string name="stream_quality">Квалитет стрима</string>
