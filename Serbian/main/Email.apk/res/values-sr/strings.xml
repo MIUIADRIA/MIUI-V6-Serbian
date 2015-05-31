@@ -700,7 +700,7 @@
   <string name="oauth_login_continue">Настави</string>
   <string name="ok">У реду</string>
   <string name="okay_action">У реду</string>
-  <string name="open_proxy_in_settings">"Gmail nije dostupan na vašoj trenutnoj lokaciji. Još uvijek možete slati i primati poruke iz vašeg Gmail računa pomoću proxy poslužitelja Pošte.  Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
+  <string name="open_proxy_in_settings">"Gmail није доступан на вашој тренутној локацији. Још увек можете слати и примате поруке из вашег Gmail рачуна помоћу proxy сервера Поште.  Можете укључити/искључити ту функцију било када у Подешавањима."</string>
   <string name="other_mail">Остала e-пошта</string>
   <string name="outbox_alert_button_confirm">Уреди</string>
   <string name="outbox_alert_button_no_resend">"Немој послати"</string>
