@@ -164,7 +164,6 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="apn_settings">Називи приступних тачака</string>
   <string name="apn_type">Тип назива приступне тачке</string>
   <string name="apn_user">Корисничко име</string>
-  <string name="apn_user">Korisničko ime</string>
   <string name="app_backup">Сиг. копија</string>
   <string name="app_disable_dlg_text">Ако онемогућите уграђену апликацију, друге апликације ће се можда неочекивано понашати.</string>
   <string name="app_disable_dlg_title">Желите да онемогућите уграђену апл.?</string>
@@ -1110,7 +1109,7 @@ Za daljnju upotrebu telefona morate ga vratiti na tvorničke postavke. Nakon št
   <string name="encrypt_talkback_dialog_require_pin">Zahtijevanje PIN-a?</string>
   <string name="encryption_continue_button">Nastavi</string>
   <string name="encryption_interstitial_header">Enkripcija</string>
-  <string name="encryption_interstitial_message_password">"Ovaj uređaj možete dodatno zaštititi zahtijevanjem zaporke kako bi se pokrenuo. Dok se uređaj ne pokrene, ne može primati pozive, poruke ni obavijesti, uključujući alarme. 
+  <string name="encryption_interstitial_message_password">"Ovaj uređaj možete dodatno zaštititi zahtijevanjem zaporke kako bi se pokrenuo. Dok se uređaj ne pokrene, ne može primati pozive, poruke ni obavijesti, uključujući alarme. </string>
   <string name="enforce_read_external_confirm_message">"Када је SD картица заштићена, апликације морају да захтевају дозволу за читање података из спољне меморије.
 
 Неке апликације можда неће функционисати док их програмери не буду ажурирали."</string>
@@ -1516,7 +1515,6 @@ Za daljnju upotrebu telefona morate ga vratiti na tvorničke postavke. Nakon št
   <string name="lockpassword_pin_contains_non_digits">PIN мора да садржи само цифре 0–9.</string>
   <string name="lockpassword_pin_fixed_length">PIN мора садржати %d знакова</string>
   <string name="lockpassword_pin_recently_used">Администратор уређаја не допуста употребу недавног PIN-a.</string>
-  <string name="lockpassword_pin_recently_used">Administrator uređaja ne dopušta upotrebu nedavnog PIN-a.</string>
   <string name="lockpassword_pin_set_toast">PIN је подешен</string>
   <string name="lockpassword_pin_too_long">PIN мора да има мање од %d цифре(ара).</string>
   <string name="lockpassword_pin_too_short">Минимални број цифара у PIN-у је %d</string>
@@ -1784,7 +1782,6 @@ Za daljnju upotrebu telefona morate ga vratiti na tvorničke postavke. Nakon št
   <string name="music_headset_no_contected">Слушалице нису прикључене</string>
   <string name="music_headset_settings">Слушалице и звучни ефекти</string>
   <string name="music_hifi_summary">Смањите буку и изобличење и повећајте квалитет звука.</string>
-  <string name="music_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka.</string>
   <string name="music_hifi_title">Hi-Fi звук</string>
   <string name="music_hifi_volume">Hi-Fi гласноћа</string>
   <string name="music_mi_effect_summary">Увек користи MiSound појачивач приликом коришћења звука</string>
@@ -2759,7 +2756,6 @@ Google-ов приступ синхронизацији података за м
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Фонт</string>
   <string name="title_font_current">Одаберите фонт система</string>
-  <string name="title_font_current">Odaberite font sustava</string>
   <string name="title_font_current2">Odaberite font sustava</string>
   <string name="title_font_size">Величина фонта</string>
   <string name="title_hdmi_color_calibration">Сачувана подешавања корекције боја</string>
