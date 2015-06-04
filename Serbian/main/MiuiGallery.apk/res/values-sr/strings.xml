@@ -148,9 +148,9 @@
   <string name="confirm_download_video_message">Морате завршити са преузимањем овог видео записа пре него што га можете погледати. Преузимање ће се наставити када је WLAN доступан.</string>
   <string name="confirm_download_video_title">Преузми видео запис</string>
   <string name="confirm_face">Подударање</string>
-  <string name="confirm_left_photo_will_move_out">"Na fotografiji nema ove osobe?"</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Spojiti ovaj album s %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiti ove albume s %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_left_photo_will_move_out">"На фотографији нема ове особе?"</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Повежите овај албум са %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Повежите ове албуме са %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Није ова особа</string>
   <string name="contact_photo">Подеси за фотографију контакта</string>
   <string name="context_menu_add_contact">Додај у контакте</string>
@@ -294,8 +294,8 @@
   <string name="home_page_tab_face">Лице</string>
   <string name="home_page_tab_local">Локално</string>
   <string name="home_page_tab_photo">Фотографија</string>
-  <string name="ignore_album">"Ne prikazuj ponovo"</string>
-  <string name="ignore_alert_title">"Ne prikazati ovaj album?"</string>
+  <string name="ignore_album">"Не приказуј поново"</string>
+  <string name="ignore_alert_title">"Не приказуј овај албум?"</string>
   <string name="ignore_face">Игнориши ово лице</string>
   <string name="image_download_item_title">Преузимање слике (%s)</string>
   <string name="image_quota_fulfiled">Превише слика. Избришите неке слике и покушајте поново.</string>
