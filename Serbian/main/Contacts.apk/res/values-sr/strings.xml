@@ -222,7 +222,7 @@
   <string name="delete_unknown_contact_calllog_title">Избрисати исторорију позива?</string>
   <string name="deleting">Brisanje…</string>
   <string name="deleting_sim_entry_miui">Брисање контаката са SIM картице…</string>
-  <string name="deleting_sim_entry_miui_prepare">Припреми за брисање…</string>
+  <string name="deleting_sim_entry_miui_prepare">Priprema kontakata…</string>
   <string name="description_add_contact">Додавање контакта</string>
   <string name="description_author">Аутор</string>
   <string name="description_call">Позови корисника %1$s</string>
@@ -450,7 +450,7 @@
   <string name="import_weibo_progress_name">Усклађивање \"%1$s\"…</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Увоз контаката са SIM картице…"</string>
-  <string name="importing_sim_contacts_miui_prepare">Припреми за увоз…</string>
+  <string name="importing_sim_contacts_miui_prepare">Priprema kontakata…</string>
   <string name="importing_vcard_canceled_title">"Увоз датотеке %s је  отказан"</string>
   <string name="importing_vcard_description">Увоз %s</string>
   <string name="importing_vcard_finished_title">Увоз датотеке %s је завршен</string>
@@ -480,7 +480,7 @@
   <string name="list_filter_phones">Сви контакти са бројевима телефона</string>
   <string name="list_filter_single">Контакт</string>
   <string name="loading">Учитавање…</string>
-  <string name="loading_accounts">Учитавање детаља SIM-a…</string>
+  <string name="loading_accounts">Samo tren…</string>
   <string name="loading_group_members">Учитавање чланова групе…</string>
   <string name="loading_groups">Учитавање група…</string>
   <string name="loading_recent">Учитавање недавних контаката</string>
@@ -582,63 +582,61 @@
   <string name="noContactHelpTextAccountsInfo">Синхронизација Xiaomi, Google, i Exchange контаката</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Обнова података контаката коришћењем Xiaomi рачуна</string>
   <string name="noContacts">Нема контаката.</string>
-  <string name="noContactsHelpText">"Немате контаката за приказ.
+  <string name="noContactsHelpText">"Nemate kontakata za prikaz.
+  
+Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
 
-Да бисте додали контакте, додирните "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&amp;#1052;&amp;#1077;&amp;#1085;&amp;#1080;&lt;/font&gt;&lt;/b&gt;", &amp;#1079;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1084; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1088;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077;:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1053;&amp;#1072;&amp;#1083;&amp;#1086;&amp;#1079;&amp;#1080; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1083;&amp;#1080; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1077;&amp;#1089;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1085;&amp;#1072;&amp;#1083;&amp;#1086;&amp;#1075; &amp;#1089;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1084;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1112;&amp;#1077; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1080;&amp;#1085;&amp;#1093;&amp;#1088;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1079;&amp;#1091;&amp;#1112;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1084;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1053;&amp;#1086;&amp;#1074;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1072;&amp;#1087;&amp;#1088;&amp;#1072;&amp;#1074;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1090;&amp;#1087;&amp;#1091;&amp;#1085;&amp;#1086; &amp;#1085;&amp;#1086;&amp;#1074; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1059;&amp;#1074;&amp;#1086;&amp;#1079;/&amp;#1080;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1079; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1091;&amp;#1074;&amp;#1077;&amp;#1079;&amp;#1083;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072; SIM &amp;#1080;&amp;#1083;&amp;#1080; SD &amp;#1082;&amp;#1072;&amp;#1088;&amp;#1090;&amp;#1080;&amp;#1094;&amp;#1077;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;</string>
-  <string name="noContactsHelpTextForCreateShortcut">Није могуће приказати контакте зато што их немате.</string>
-  <string name="noContactsHelpTextWithSync">"Немате контаката за приказ. (Ако сте управо додали налог, синхронизација контаката може да потраје неколико минута.)
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
 
-Да бисте додали контакте, додирните "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&amp;#1052;&amp;#1077;&amp;#1085;&amp;#1080;&lt;/font&gt;&lt;/b&gt;", &amp;#1079;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1084; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1088;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077;:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1053;&amp;#1072;&amp;#1083;&amp;#1086;&amp;#1079;&amp;#1080; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1083;&amp;#1080; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1092;&amp;#1080;&amp;#1075;&amp;#1091;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1072;&amp;#1083;&amp;#1080; &amp;#1085;&amp;#1072;&amp;#1083;&amp;#1086;&amp;#1075; &amp;#1089;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1084;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1112;&amp;#1077; &amp;#1078;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1080;&amp;#1085;&amp;#1093;&amp;#1088;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1079;&amp;#1091;&amp;#1112;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1084;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1054;&amp;#1087;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1074;&amp;#1080;&amp;#1076;&amp;#1113;&amp;#1080;&amp;#1074;&amp;#1077; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1077;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1053;&amp;#1086;&amp;#1074;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1072;&amp;#1087;&amp;#1088;&amp;#1072;&amp;#1074;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1090;&amp;#1087;&amp;#1091;&amp;#1085;&amp;#1086; &amp;#1085;&amp;#1086;&amp;#1074; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1059;&amp;#1074;&amp;#1086;&amp;#1079;/&amp;#1080;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1079; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1091;&amp;#1074;&amp;#1077;&amp;#1079;&amp;#1083;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072; SIM &amp;#1080;&amp;#1083;&amp;#1080; SD &amp;#1082;&amp;#1072;&amp;#1088;&amp;#1090;&amp;#1080;&amp;#1094;&amp;#1077;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">Није могуће приказати контакте зато што их немате. (Ако сте управо додали налог, поступак синхронизације контаката може да потраје неколико минута.)</string>
-  <string name="noContactsNoSimHelpText">"Немате контаката за приказ.
+"Novi kontakt za izradu novog kontakta iz nule" 
 
-Да бисте додали контакте, додирните "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&amp;#1052;&amp;#1077;&amp;#1085;&amp;#1080;&lt;/font&gt;&lt;/b&gt;", &amp;#1079;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1084; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1088;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077;:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1053;&amp;#1072;&amp;#1083;&amp;#1086;&amp;#1079;&amp;#1080; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1083;&amp;#1080; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1077;&amp;#1089;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1085;&amp;#1072;&amp;#1083;&amp;#1086;&amp;#1075; &amp;#1089;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1084;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1112;&amp;#1077; &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1080;&amp;#1085;&amp;#1093;&amp;#1088;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1079;&amp;#1091;&amp;#1112;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1084;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1053;&amp;#1086;&amp;#1074;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1072;&amp;#1087;&amp;#1088;&amp;#1072;&amp;#1074;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1090;&amp;#1087;&amp;#1091;&amp;#1085;&amp;#1086; &amp;#1085;&amp;#1086;&amp;#1074; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1059;&amp;#1074;&amp;#1086;&amp;#1079;/&amp;#1080;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1079; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1091;&amp;#1074;&amp;#1077;&amp;#1079;&amp;#1083;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072; SD &amp;#1082;&amp;#1072;&amp;#1088;&amp;#1090;&amp;#1080;&amp;#1094;&amp;#1077;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Немате контаката за приказ. (Ако сте управо додали налог, синхронизација контаката може да потраје неколико минута.)
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"</string>
+  <string name="noContactsHelpTextForCreateShortcut">"Nema kontakata za prikaz."</string>
+  <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
+  
+Za dodavanje kontakata, dodirnite ""Izbornik", onda dodirnite:
 
-Да бисте додали контакте, додирните "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&amp;#1052;&amp;#1077;&amp;#1085;&amp;#1080;&lt;/font&gt;&lt;/b&gt;", &amp;#1079;&amp;#1072;&amp;#1090;&amp;#1080;&amp;#1084; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1088;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077;:
- 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1053;&amp;#1072;&amp;#1083;&amp;#1086;&amp;#1079;&amp;#1080; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1083;&amp;#1080; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1092;&amp;#1080;&amp;#1075;&amp;#1091;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1072;&amp;#1083;&amp;#1080; &amp;#1085;&amp;#1072;&amp;#1083;&amp;#1086;&amp;#1075; &amp;#1089;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&amp;#1084;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1112;&amp;#1077; &amp;#1078;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1080;&amp;#1085;&amp;#1093;&amp;#1088;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1079;&amp;#1091;&amp;#1112;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1084;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1054;&amp;#1087;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1074;&amp;#1080;&amp;#1076;&amp;#1113;&amp;#1080;&amp;#1074;&amp;#1077; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1077;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1053;&amp;#1086;&amp;#1074;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1072;&amp;#1087;&amp;#1088;&amp;#1072;&amp;#1074;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1090;&amp;#1087;&amp;#1091;&amp;#1085;&amp;#1086; &amp;#1085;&amp;#1086;&amp;#1074; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1059;&amp;#1074;&amp;#1086;&amp;#1079;/&amp;#1080;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1079; &amp;#1076;&amp;#1072; &amp;#1073;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077; &amp;#1091;&amp;#1074;&amp;#1077;&amp;#1079;&amp;#1083;&amp;#1080; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1072; SD &amp;#1082;&amp;#1072;&amp;#1088;&amp;#1090;&amp;#1080;&amp;#1094;&amp;#1077;
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;</string>
-  <string name="noContactsWithPhoneNumbers">Нема контаката за које су унети бројеви телефона.</string>
-  <string name="noFavoritesHelpText">"Немате ниједан омиљени контакт.
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
 
-Да бисте додали контакт на листу омиљених контаката:
+"Opcije prikaza za promjenu koji će kontakti biti vidljivi" 
 
-        "&lt;li&gt;&amp;#1044;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1088;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1082;&amp;#1072;&amp;#1088;&amp;#1090;&amp;#1080;&amp;#1094;&amp;#1091; &lt;b&gt;&amp;#1050;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;&lt;/b&gt;"
-"&lt;/li&gt;" 
-"&lt;li&gt;"&amp;#1044;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1088;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090; &amp;#1082;&amp;#1086;&amp;#1112;&amp;#1080; &amp;#1078;&amp;#1077;&amp;#1083;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1076;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1091; &amp;#1086;&amp;#1084;&amp;#1080;&amp;#1113;&amp;#1077;&amp;#1085;&amp;#1077; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1077;
-"&lt;/li&gt;" 
-"&lt;li&gt;"&amp;#1044;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1088;&amp;#1085;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1079;&amp;#1074;&amp;#1077;&amp;#1079;&amp;#1076;&amp;#1080;&amp;#1094;&amp;#1091; &amp;#1087;&amp;#1086;&amp;#1088;&amp;#1077;&amp;#1076; &amp;#1080;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1072;
-"&lt;/li&gt;</string>
+"Novi kontakt za izradu novog kontakta iz nule" 
+
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
+"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)"</string>
+  <string name="noContactsNoSimHelpText">"Nemate kontakata za prikaz.
+  
+Za dodavanje kontakata, dodirnite "&gt;Izbornik", onda dodirnite:
+
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom" 
+
+"Novi kontakt za izradu novog kontakta iz nule" 
+
+"Uvoz/izvoz kontakata sa SD kartice"
+"</string>
+  <string name="noContactsNoSimHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste tek dodali račun, može potrajati nekoliko minuta za sinkronizaciju kontakata.)
+Za dodavanje kontakata, dodirnite "Izbornik", onda dodirnite:
+
+"Računi za dodati ili postaviti račun s kontaktima  možete sinkronizirati s telefonom"
+
+"Opcije prikaza za promjenu koji će kontakti biti vidljivi" 
+
+"Novi kontakt za izradu novog kontakta iz nule"
+
+"Uvoz/izvoz kontakata sa SIM kartice ili SD kartice"
+</string>
+  <string name="noContactsWithPhoneNumbers">Nema kontakata s telefonskim brojevima.</string>
+  <string name="noFavoritesHelpText">"Nemate nijedan favorit.
+  
+Za dodavanje kontakta na listu favorita :
+
+"Dodirnite karticu Kontakti " 
+
+"Dodirnite kontakt koji želite dodati u Favorite" 
+
+"Klik na zvijezdu uz ime kontakta"
+</string>
   <string name="noGroups">Нема група.</string>
   <string name="noMatchingContacts">Није пронађен ниједан одговарајући контакт.</string>
   <string name="noRecentContacts">"Нема недавних контаката"</string>
