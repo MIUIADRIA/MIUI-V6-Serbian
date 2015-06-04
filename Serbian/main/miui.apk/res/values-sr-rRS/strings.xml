@@ -254,8 +254,8 @@
   <string name="tuesday_shortest">У</string>
   <string name="user_agreement">Услови пружања услуге</string>
   <string name="user_manual">Упутства</string>
-  <string name="web_sso_login_fail">Morate se prijaviti ponovo</string>
-  <string name="web_sso_login_message">Prijava…</string>
+  <string name="web_sso_login_fail">Морате се пријавити поново</string>
+  <string name="web_sso_login_message">Пријава...</string>
   <string name="website">Web страница</string>
   <string name="wednesday">Среда</string>
   <string name="wednesday_short">Сре</string>

@@ -193,8 +193,8 @@
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Оквирни детаљи</string>
   <string name="mian_page_primary_txt">Међународни роаминг</string>
-  <string name="miuishare_title_more">Više</string>
-  <string name="miuishare_title_share">Podijeli</string>
+  <string name="miuishare_title_more">Више</string>
+  <string name="miuishare_title_share">Подели</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Додирните за приказ детаља.</string>
@@ -202,7 +202,7 @@
   <string name="network_blocked_connected_open_wifi">Повезивање са јавном мрежом</string>
   <string name="network_blocked_notification_summary">Додирни за приказ</string>
   <string name="network_blocked_switch_wifi">Промени мреже</string>
-  <string name="network_connected_exception_title">Test mreže</string>
+  <string name="network_connected_exception_title">Тест мреже</string>
   <string name="network_control">Приказ подешавања апликације</string>
   <string name="network_diagnostics">Тест мреже</string>
   <string name="network_mobile_exception_detail">"Ваш уређај се не може повезати са интернетом:
@@ -212,7 +212,7 @@
  2. Ако сте само управо обновили свој бон, поново покрените уређај и покушајте поново.
 
  3. Сигнал мреже оператера може бити слаб на вашој тренутној локацији."</string>
-  <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
+  <string name="network_not_available">"Не могу се повезати на мрежу"</string>
   <string name="network_operator_exception_summary">"Не могу активирати SIM картицу. Проверите је ли SIM картица исправно убачена и да је ваша тарифа активирана."</string>
   <string name="network_permission_exception_tips">"Не могу користити мобилне податке за повезивање на мрежу"</string>
   <string name="network_roaming_exception_tips">"Не могу користити мобилне податке у ромингу за повезивање на мрежу."</string>
@@ -241,9 +241,9 @@
   2. Ако користите две SIM картице, покушајте да се пребаците на другу картицу и проверите ако сте у могућности да се повежете нормално.
 
   3. Проверите да SIM картица и слот SIM картице нису оштећени. Потврдите да је SIM картица коју користите исправно убачена у SIM слот вашег уређаја."</string>
-  <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovo.</string>
-  <string name="networkchanged_exception_title">Način povezivanja se promijenio</string>
-  <string name="no_network_btn">Pokušajte ponovo</string>
+  <string name="networkchanged_exception_summary">Мрежно повезивање се променило. Тестирајте поново.</string>
+  <string name="networkchanged_exception_title">Начин повезивања се променио</string>
+  <string name="no_network_btn">Покушајте поново</string>
   <string name="none_mi_service_app_detail">Празно</string>
   <string name="notify_daily_data_usage_body">Искоришћено данас: %s. Додирните да поставите ограничење.</string>
   <string name="notify_daily_limit_body">Искоришћено овај дан: %s. Додирните да поставите ограничење.</string>
@@ -262,8 +262,8 @@
   <string name="other_exception_title">Провера других проблема</string>
   <string name="pay_charge">Доплата</string>
   <string name="per_month_pkg_traffic_settings">Подеси ограничење података</string>
-  <string name="permission_exception_summary">"Neke aplikacije nemaju dopuštenje za povezivanje na internet"</string>
-  <string name="permission_exception_title">Prikaži mrežna dopuštenja</string>
+  <string name="permission_exception_summary">"Неке апликације немају допуштење за повезивање на интернет"</string>
+  <string name="permission_exception_title">Прикажи мрежна допуштења</string>
   <string name="permit_running_network">Допусти позадинске податке</string>
   <string name="person_hotpot">Мобилни хотспот</string>
   <string name="pkg_traffic">Постави ограничења употребе података</string>

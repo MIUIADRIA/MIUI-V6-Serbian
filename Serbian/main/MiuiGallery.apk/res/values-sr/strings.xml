@@ -6,8 +6,8 @@
   <string name="accept_or_deny">%1$s је поделило албум %2$s са тобом.</string>
   <string name="activity_not_found">Нема пронађених апликација извршење ове радње].</string>
   <string name="add_account">Додај рачун</string>
-  <string name="add_event">Dodaj događaj</string>
-  <string name="add_event_hint">Unesite naziv</string>
+  <string name="add_event">Додај догађај</string>
+  <string name="add_event_hint">Унесите назив</string>
   <string name="add_sharer">Додај члана</string>
   <string name="add_to_cloud_album">Додај у албум</string>
   <string name="add_to_cloud_exceeded_the_size_message">Датотека ја превелика</string>
@@ -145,11 +145,11 @@
   <string name="confirm_download">Морате преузети %s.</string>
   <string name="confirm_download_video_message">Морате завршити са преузимањем овог видео записа пре него што га можете погледати. Преузимање ће се наставити када је WLAN доступан.</string>
   <string name="confirm_download_video_title">Преузми видео запис</string>
-  <string name="confirm_face">Podudaranje</string>
-  <string name="confirm_left_photo_will_move_out">Fotografije na lijevoj strani nisu on (ona)?</string>
+  <string name="confirm_face">Подударање</string>
+  <string name="confirm_left_photo_will_move_out">Фотографије на левој страни нису он (она)?</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Споји овај албум са албумом &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiti ove albume s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">Nije ova osoba</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Спојити ове албуме са &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_not_face">Није ова особа</string>
   <string name="contact_photo">Подеси за фотографију контакта</string>
   <string name="context_menu_add_contact">Додај у контакте</string>
   <string name="context_menu_copy">Копирај</string>
@@ -222,7 +222,7 @@
   <string name="error_title">"Не могу синхро."</string>
   <string name="error_unauthorized">Синхро. онемогућена због превише покушаја пријављивања</string>
   <string name="error_unknown_host">"Не могу се спојити на мрежу. Проверите вашу везу за пренос података и покушајте поново."</string>
-  <string name="event_manage_photos">Upravljanje fotografijama</string>
+  <string name="event_manage_photos">Управљање фотографијама</string>
   <string name="exit">Излаз</string>
   <string name="exit_share">Напусти албум</string>
   <string name="exit_share_failed">"Не могу изаћи из %1$s"</string>
@@ -234,13 +234,13 @@
   <string name="external_usb_device">USB меморија</string>
   <string name="external_usb_device_hm">Спољно USB складиштење</string>
   <string name="face_album">Лице албума</string>
-  <string name="face_album_long_tap_tip">Za odabir više osoba ili promjenu postavki grupe, pritisnite &amp; zadržite sliku profila</string>
+  <string name="face_album_long_tap_tip">За одабир више особа или промену подешавања групе, притисните &amp; задржите слику профила</string>
   <string name="face_album_not_named">Без назива</string>
   <string name="face_album_rename_hint">Унесите назив</string>
   <string name="face_albumset_detecting_tip">"Откривање лица…</string>
   <string name="face_albumset_empty">Празно.</string>
-  <string name="face_albumset_loading_data">Učitavanje podataka…</string>
-  <string name="face_albumset_pending_enable_tip">Sortiraj fotografije kada je uređaj spojen na WLAN</string>
+  <string name="face_albumset_loading_data">Учитавање података...</string>
+  <string name="face_albumset_pending_enable_tip">Сортирај фотографије када је уређај повезан на WLAN</string>
   <string name="face_albumset_use_tip">"Помозите пронаћи она лепа лица,
 Чинећи га једноставнијим за приказ и управљањем слика"</string>
   <string name="face_move_dialog_title">Одаберите лице албума</string> 
@@ -291,8 +291,8 @@
   <string name="home_page_tab_face">Лице</string>
   <string name="home_page_tab_local">Локално</string>
   <string name="home_page_tab_photo">Фотографија</string>
-  <string name="ignore_album">Ignoriraj</string>
-  <string name="ignore_alert_title">"Kad je ignoriran, neće se više prikazivati, nastaviti?"</string>
+  <string name="ignore_album">Игнориши</string>
+  <string name="ignore_alert_title">"Кад је игнорисан, неће се више приказивати, наставити?"</string>
   <string name="ignore_face">Игнориши ово лице</string>
   <string name="image_download_item_title">Преузимање слике (%s)</string>
   <string name="image_quota_fulfiled">Превише слика. Избришите неке слике и покушајте поново.</string>

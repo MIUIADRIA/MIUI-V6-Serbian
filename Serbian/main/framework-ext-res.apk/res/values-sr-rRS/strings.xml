@@ -28,8 +28,8 @@
   <string name="memory_clear_nothing_result">Употреба меморије је већ оптимизована.</string>
   <string name="memory_clear_result">"Избрисано: %1$sB Доступно: %2$sB"</string>
   <string name="paste">Залепи</string>
-  <string name="perm_send_push_dspt">Dopusti Mi push poruke</string>
-  <string name="perm_send_push_lab">Pošalji push poruku</string>
+  <string name="perm_send_push_dspt">Допусти Mi push поруке</string>
+  <string name="perm_send_push_lab">Пошаљи push поруку</string>
   <string name="reboot_confirm_title">Ваш уређај ће се поново покренути</string>
   <string name="reboot_progress">Поновно покретање…</string>
   <string name="replace">Замени</string>
