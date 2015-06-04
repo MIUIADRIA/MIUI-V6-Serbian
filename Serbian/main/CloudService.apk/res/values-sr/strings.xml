@@ -106,6 +106,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="header_data_and_synchronization">Подаци &amp; синхро.</string>
   <string name="header_other_settings">Додата подешавања</string>
   <string name="i_know">У реду</string>
+  <string name="internet_access_dspt">Ovoj je aplikaciji potrebno povezivanje s internetom da radi normalno.</string>
   <string name="license_host_unreachable">"Не могу се повезати на мрежу. Да би сте видели ове податке сада, идите на %s."</string>
   <string name="loading">Учитавање…</string>
   <string name="loading_hint">Учитавање</string>

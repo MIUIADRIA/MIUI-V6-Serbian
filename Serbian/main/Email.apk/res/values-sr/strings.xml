@@ -146,7 +146,7 @@
   <string name="account_setup_incoming_server_label">Сервер</string>
   <string name="account_setup_incoming_title">Подешавање рачуна</string>
   <string name="account_setup_incoming_username_label">Корисничко име</string>
-  <string name="account_setup_incoming_username_label_default_hint">Sadrži domenu</string>
+  <string name="account_setup_incoming_username_label_default_hint">Možete uključiti domenu</string>
   <string name="account_setup_names_account_name_label">Доделите овом рачуну назив (опционо)</string>
   <string name="account_setup_names_headline">Ваш је рачун подешен, а e-пошта стиже!</string>
   <string name="account_setup_names_title">Подешавање рачуна</string>
@@ -654,9 +654,9 @@
   <string name="message_view_attachment_background_load">Један или више прилога у прослеђеној поруци преузеће се пре слања.</string>
   <string name="mibill_privacy_policy_button1">Не сада</string>
   <string name="mibill_privacy_policy_button2">Слажем се</string>
-  <string name="mibill_privacy_policy_description">Mi Wallet ће анализирати све изјаве e-поште примљене у вашој Маил апликацији, и управљати свим вашим рачунима кредитним картицама за вас. Ова услуга је задата за компаниске поште.</string>
-  <string name="mibill_privacy_policy_link">Слаем се са &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Credit Card Bill Service User Agreement&lt;/a&gt;</string>
-  <string name="mibill_privacy_policy_title">Mi Wallet анализира изјаве e-поште</string>
+  <string name="mibill_privacy_policy_description">Dopustiti Mi Wallet analiziranje i upravljanje vašim računima automatski. Ova značajka je isključena po defaultu za rad s povezanim adresama e-pošte.</string>
+  <string name="mibill_privacy_policy_link">"Korištenjem ove značajke, slažete se s našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Uvjeti pružanja usluge&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_title">Upravljaj računima automatski</string>
   <string name="more_atts_remaining">%1$d још преостало</string>
   <string name="more_atts_total">%1$d прилога</string>
   <string name="more_context">Више</string>
@@ -695,8 +695,8 @@
   <string name="notification_action_undo_delete">Избрисано</string>
   <string name="notification_action_undo_remove_label">Ознака је уклоњена</string>
   <string name="notification_exchange_calendar_added">Додан Exchange календар</string>
-  <string name="oauth_error_description">Није могуће проверити аутентичност</string>
-  <string name="oauth_gmail_login_notify">"Према Google захтевима, требате уписати своју лозинку на страници Google ауторизације"</string>
+  <string name="oauth_error_description">"Ne mogu provjeriti autentičnost"</string>
+  <string name="oauth_gmail_login_notify">"Unesite svoje korisničko ime i zaporku Google računa na sljedećoj stranicu za prijavu"</string>
   <string name="oauth_login_continue">Настави</string>
   <string name="ok">У реду</string>
   <string name="okay_action">У реду</string>
@@ -1012,7 +1012,6 @@
   <string name="upload_log_no">Одустани</string>
   <string name="upload_log_success">Дневници успешно послати</string>
   <string name="upload_log_title">Послати дневнике дијагностике?</string>
-  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
   <string name="upload_log_yes">Пошаљи</string>
   <string name="uploading_logs">Слање дневника</string>
   <string name="validation_failed_prompt">Провера исправности није успела. Проверите подешавања сервера %s</string>
@@ -1038,6 +1037,6 @@
   <string name="widget_other_views">остало</string>
   <string name="wrong_password">Лозинка коју сте унели није тачна</string>
   <string name="yes">Да</string>
-  <string name="you_are_in_mobile_network">Тренутно користите мобилну мрежу са подацима!</string>
+  <string name="you_are_in_mobile_network">Poslati dnevnik korištenjem mobilne podatkovne veze? Ako prekoračite preko vaše ograničenje podataka, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
   <string name="zip_viewer_no_file">Нема датотека</string>
 </resources>

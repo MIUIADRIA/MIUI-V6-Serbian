@@ -3,9 +3,11 @@
   <string name="Import">Увези</string>
   <string name="abandon">Одбаци</string>
   <string name="accept">Прихвати</string>
-  <string name="accept_or_deny">%1$s дељених албума %2$s са тобом.</string>
+  <string name="accept_or_deny">%1$s је поделило албум %2$s са тобом.</string>
   <string name="activity_not_found">Нема пронађених апликација извршење ове радње].</string>
   <string name="add_account">Додај рачун</string>
+  <string name="add_event">Dodaj događaj</string>
+  <string name="add_event_hint">Unesite naziv</string>
   <string name="add_sharer">Додај члана</string>
   <string name="add_to_cloud_album">Додај у албум</string>
   <string name="add_to_cloud_exceeded_the_size_message">Датотека ја превелика</string>
@@ -143,7 +145,11 @@
   <string name="confirm_download">Морате преузети %s.</string>
   <string name="confirm_download_video_message">Морате завршити са преузимањем овог видео записа пре него што га можете погледати. Преузимање ће се наставити када је WLAN доступан.</string>
   <string name="confirm_download_video_title">Преузми видео запис</string>
+  <string name="confirm_face">Podudaranje</string>
+  <string name="confirm_left_photo_will_move_out">Fotografije na lijevoj strani nisu on (ona)?</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Споји овај албум са албумом &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiti ove albume s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_not_face">Nije ova osoba</string>
   <string name="contact_photo">Подеси за фотографију контакта</string>
   <string name="context_menu_add_contact">Додај у контакте</string>
   <string name="context_menu_copy">Копирај</string>
@@ -216,6 +222,7 @@
   <string name="error_title">"Не могу синхро."</string>
   <string name="error_unauthorized">Синхро. онемогућена због превише покушаја пријављивања</string>
   <string name="error_unknown_host">"Не могу се спојити на мрежу. Проверите вашу везу за пренос података и покушајте поново."</string>
+  <string name="event_manage_photos">Upravljanje fotografijama</string>
   <string name="exit">Излаз</string>
   <string name="exit_share">Напусти албум</string>
   <string name="exit_share_failed">"Не могу изаћи из %1$s"</string>
@@ -227,10 +234,13 @@
   <string name="external_usb_device">USB меморија</string>
   <string name="external_usb_device_hm">Спољно USB складиштење</string>
   <string name="face_album">Лице албума</string>
+  <string name="face_album_long_tap_tip">Za odabir više osoba ili promjenu postavki grupe, pritisnite &amp; zadržite sliku profila</string>
   <string name="face_album_not_named">Без назива</string>
   <string name="face_album_rename_hint">Унесите назив</string>
   <string name="face_albumset_detecting_tip">"Откривање лица…</string>
   <string name="face_albumset_empty">Празно.</string>
+  <string name="face_albumset_loading_data">Učitavanje podataka…</string>
+  <string name="face_albumset_pending_enable_tip">Sortiraj fotografije kada je uređaj spojen na WLAN</string>
   <string name="face_albumset_use_tip">"Помозите пронаћи она лепа лица,
 Чинећи га једноставнијим за приказ и управљањем слика"</string>
   <string name="face_move_dialog_title">Одаберите лице албума</string> 
@@ -281,6 +291,8 @@
   <string name="home_page_tab_face">Лице</string>
   <string name="home_page_tab_local">Локално</string>
   <string name="home_page_tab_photo">Фотографија</string>
+  <string name="ignore_album">Ignoriraj</string>
+  <string name="ignore_alert_title">"Kad je ignoriran, neće se više prikazivati, nastaviti?"</string>
   <string name="ignore_face">Игнориши ово лице</string>
   <string name="image_download_item_title">Преузимање слике (%s)</string>
   <string name="image_quota_fulfiled">Превише слика. Избришите неке слике и покушајте поново.</string>
@@ -301,7 +313,7 @@
   <string name="internal_miui_capture_screen_folder_display_name">Унутрашње слике екрана</string>
   <string name="internal_sd_card">Унутрашње складиштење</string>
   <string name="internal_sd_card_hm">Складиште телефона</string>
-  <string name="internal_sdcard_root">Роот директоријум Унутрашње SD картице</string>
+  <string name="internal_sdcard_root">Роот директоријум SD картице</string>
   <string name="invalid_invition_url">Неисправан URL позивнице.</string>
   <string name="invalid_recipient_message">Имена пријатеља које сте унели су неважећа</string>
   <string name="iso">ISO</string>
@@ -341,7 +353,9 @@
   <string name="menu_item_sort_size_asc">Величини (растуће)</string>
   <string name="menu_item_sort_size_desc">Величини (опадајуће)</string>
   <string name="menu_view_contact">Прикажи контакт</string>
+  <string name="merge_album">Spoji</string>
   <string name="merge_album_positive_button_text">Споји</string>
+  <string name="merge_album_title">Споји албуме за</string>
   <string name="message_no_delete_access">"Немате допуштење за брисање %s"</string>
   <string name="messagelist_sender_self">Ја</string>
   <string name="miliao">Mi Talk</string>
@@ -413,9 +427,9 @@
   <string name="other_category">Додатна подешавања</string>
   <string name="owner_album_subtitle">Подељено са %1$s чланова</string>
   <string name="paint_cancel_context">"Одбацити промене урађене на овој слици?"</string>
-  <string name="paint_cancel_title">Одбацити промене</string>
+  <string name="paint_cancel_title">Одбаци промене</string>
   <string name="paint_crop_cancel_context">Сачувати исечену слику?</string>
-  <string name="paint_crop_cancel_title">Одбацити промене</string>
+  <string name="paint_crop_cancel_title">Одбаци промене</string>
   <string name="paint_crop_tips">Да добијете бољу слику, покушајте ставити његове интересне делове на мрежне тачке променом величине и померањем.</string>
   <string name="paint_highlight">Истакнуто</string>
   <string name="paint_highlight_cancel_context">Сачувајте истакнуту слику?</string>
@@ -432,7 +446,8 @@
   <string name="photo_save_succeed">Успешно сачувано</string>
   <string name="photo_size">Величина</string>
   <string name="photoeditor_name">Mi фото студио</string>
-  <string name="photos">Фотографије</string>
+  <string name="photos">"Фотографија"</string>
+  <string name="pick_from_contact">Odaberi iz kontakata</string>
   <string name="pick_too_many_recipients">Превише примаоца</string>
   <string name="pick_too_much_tips">"Не могу покупити толико много ставки (макс. %d ставки)."</string>
   <string name="picker_no_album_selected">Нема одабраних албума</string>
@@ -560,7 +575,7 @@
   <string name="storage_all_volumes">Сви уређаји за складиште</string>
   <string name="storage_no_space">"Нема довољно простора за складиштење."</string>
   <string name="straighten">Прилагоди</string>
-  <string name="straighten_tooltip">Повуците фотографију да би сте је изравнали</string>
+  <string name="straighten_tooltip">Повуците фотографију да је изравнате</string>
   <string name="sync_album">Синхро. албуме</string>
   <string name="sync_album_error">"Nе могу синхронизовати фотографије у овом албуму. Проверите своју везу за пренос података и покушајте поново."</string>
   <string name="sync_album_in_proecess">Синхронизација албума…</string>
@@ -617,7 +632,7 @@
   <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
-  <string name="where_is_barcode">Где је QR код?</string>
+  <string name="where_is_barcode">"Где је QR код?"</string>
   <string name="white_balance">Баланс беле</string>
   <string name="who_is_this">Ко је ово?</string>
   <string name="widget_type">Одабери слике</string>
