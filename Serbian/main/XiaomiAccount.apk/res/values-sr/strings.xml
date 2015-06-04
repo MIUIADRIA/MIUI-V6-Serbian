@@ -383,9 +383,9 @@
   <string name="rename_current_device">"Промена назива уређаја"</string>
   <string name="replace_binded_phone">Замени телефон</string>
   <string name="restart_action">Поново покрени</string>
-  <string name="restart_email_bind_message">Потребно је неко време за примање e-поште, побрините се да промените e-пошту за опоравак？</string>
+  <string name="restart_email_bind_message">E-pošta s kodom za potvrdu će biti poslana na ovu adresu</string>
   <string name="restart_email_bind_title">Промени e-пошту за опоравак</string>
-  <string name="restart_phone_bind_message">Потребно је неко време за примање SMS-a, побрините се да промените телефон за опоравак？</string>
+  <string name="restart_phone_bind_message">SMS s kodom za potvrdu će biti poslan na ovаj broj</string>
   <string name="restart_phone_bind_title">Промени телефон за опоравак</string>
   <string name="scan_barcode_title">Да се пријавите у свој Mi Рачун, скенирајте QR код</string>
   <string name="service_error">Грешка услуге</string>

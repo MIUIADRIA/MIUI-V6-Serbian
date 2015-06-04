@@ -1780,7 +1780,7 @@
   <string name="music_headset_mode_settings">Управљачки тастери слушалица</string>
   <string name="music_headset_mode_volume">Контрола нивоа гласноће</string>
   <string name="music_headset_no_contected">Слушалице нису прикључене</string>
-  <string name="music_headset_settings">Слушалице и звучни ефекти</string>
+  <string name="music_headset_settings">Слушалице &amp; звучни ефекти</string>
   <string name="music_hifi_summary">Смањите буку и изобличење и повећајте квалитет звука.</string>
   <string name="music_hifi_title">Hi-Fi звук</string>
   <string name="music_hifi_volume">Hi-Fi гласноћа</string>
