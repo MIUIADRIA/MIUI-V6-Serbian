@@ -311,7 +311,7 @@
   <string name="directory_search_label">Каталог</string>
   <string name="display_all_contacts">Сви контакти</string>
   <string name="display_more_groups">Још група…</string>
-  <string name="display_only_phones">Сакри непотпуне бројеве</string>
+  <string name="display_only_phones">Сакриј непотпуне бројеве</string>
   <string name="display_options_sort_by_family_name">Презиме</string>
   <string name="display_options_sort_by_given_name">Име</string>
   <string name="display_options_sort_list_by">Сортирај према</string>
@@ -743,7 +743,7 @@
   <string name="preference_phone">"Телефон"</string>
   <string name="preference_phone_more_title">Подешавање позива</string>
   <string name="preference_remove_duplicate">Споји двоструке контакте</string>
-  <string name="preference_simple_mode_description">Сакри слике и остале податке контактима у пописном прегледу</string>
+  <string name="preference_simple_mode_description">Сакриј слике и остале податке контактима у пописном прегледу</string>
   <string name="preference_simple_mode_title">Поједностави</string>
   <string name="preference_smart_group_company_summary">"Групиши према компанији"</string>
   <string name="preference_smart_group_company_title">Компанија</string>

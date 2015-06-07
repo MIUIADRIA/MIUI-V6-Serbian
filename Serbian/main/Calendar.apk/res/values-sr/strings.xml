@@ -214,7 +214,7 @@
   <string name="preferences_default_reminder_dialog">Предефинисано време подсетника</string>
   <string name="preferences_default_reminder_title">Предефинисано време подсетника</string>
   <string name="preferences_general_title">Подешавање изгледа календара</string>
-  <string name="preferences_hide_declined_title">Сакри одбачене догађаје</string>
+  <string name="preferences_hide_declined_title">Сакриј одбачене догађаје</string>
   <string name="preferences_home_tz_default">Europe/Београд</string>
   <string name="preferences_home_tz_title">Домаћа временска зона</string>
   <string name="preferences_reminder_title">Обавештења &amp; подсетници</string>

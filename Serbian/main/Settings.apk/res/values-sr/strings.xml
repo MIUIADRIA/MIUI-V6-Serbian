@@ -1160,7 +1160,7 @@
   <string name="finish_button_label">Заврши</string>
   <string name="firmware_version">Андроид верзија</string>
   <string name="floating_window_switch_label">Прикажи искачуће прозоре </string>
-  <string name="floating_window_switch_label_disable">Сакри искачуће прозоре</string>
+  <string name="floating_window_switch_label_disable">Сакриј искачуће прозоре</string>
   <string name="fluency_mode">Оптимизуј перформансе система</string>
   <string name="fluency_mode_confirm_and_reboot">Поново покрени</string>
   <string name="font_size_huge">Огроман</string>
@@ -2040,7 +2040,7 @@
   <string name="priority_storage_title">Подешавања меморије</string>
   <string name="privacy_mode_dialog_message">Сакриј долазне позиве поруке, белешке, фотграфије и подешавања Покретача</string>
   <string name="privacy_mode_dialog_title">Гост начин рада</string>
-  <string name="privacy_mode_enable_sum">Сакри поруке, белешке,слике и долазне позиве од корисника</string>
+  <string name="privacy_mode_enable_sum">Сакриј поруке, белешке,слике и долазне позиве од корисника</string>
   <string name="privacy_mode_enable_title">Гост начин</string>
   <string name="privacy_mode_summary">Закључај поједине апликације или сакри личне информације</string>
   <string name="privacy_mode_title">Подешавања приватности</string> 

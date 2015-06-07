@@ -38,7 +38,7 @@
   <string name="Generic_Disable">Искључи</string>
   <string name="Generic_Enable">Укључи</string>
   <string name="Generic_Good">Добро</string>
-  <string name="Generic_HideSystemApp">Сакри системске апликације</string>
+  <string name="Generic_HideSystemApp">Сакриј системске апликације</string>
   <string name="Generic_InvalidInput">Унос није важећи</string>
   <string name="Generic_Loading">Учитавање……</string>
   <string name="Generic_MonitoredApp">Надзор (%1$d)</string>

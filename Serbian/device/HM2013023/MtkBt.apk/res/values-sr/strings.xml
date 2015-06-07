@@ -124,7 +124,7 @@
   <string name="bt_bip_toast_storage_unmounted">Проверите да ли је SD картица спремна</string>
   <string name="bt_bip_transmitting">Слање слике, %1$s</string>
   <string name="bt_bip_transmitting_dialog_cancel">Откажи</string>
-  <string name="bt_bip_transmitting_dialog_hide">Сакри</string>
+  <string name="bt_bip_transmitting_dialog_hide">Сакриј</string>
   <string name="bt_bip_transmitting_dialog_no">Не</string>
   <string name="bt_bip_transmitting_dialog_ok">У реду</string>
   <string name="bt_bip_transmitting_dialog_yes">Да</string>
@@ -209,7 +209,7 @@
   <string name="bt_share_openfile_title">Отвори датотеку</string>
   <string name="dialog_bt_not_ready_confirm">Потврди</string>
   <string name="dialog_printing_cancel">Откажи</string>
-  <string name="dialog_printing_hide">Сакри</string>
+  <string name="dialog_printing_hide">Сакриј</string>
   <string name="dialog_printing_ok">У реду</string>
   <string name="dialog_title_bpp_not_ready">Услуга је недоступна</string>
   <string name="get_default_value">Дохвати задату вредност</string>

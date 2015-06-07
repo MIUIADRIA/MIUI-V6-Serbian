@@ -522,9 +522,9 @@
   <string name="header_category_other">Додатна подешавања</string>
   <string name="header_label_general_preferences">Општа подешавања</string>
   <string name="help_and_info">Помоћ</string>
-  <string name="hide_atts_remaining">Сакри %1$d прилога</string>
-  <string name="hide_elided">▼ Сакри цитирани текст</string>
-  <string name="hide_folders">Сакри мапе</string>
+  <string name="hide_atts_remaining">Сакриј %1$d прилога</string>
+  <string name="hide_elided">▼ Сакриј цитирани текст</string>
+  <string name="hide_folders">Сакриј мапе</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>

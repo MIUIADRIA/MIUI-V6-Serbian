@@ -77,7 +77,7 @@
   <string name="autofill_setup_dialog_message">Претраживач аутоматски може сачувати web-обрасце као што је овај један. Желите ли поставити аутомацко уписивање текста?</string>
   <string name="autofill_setup_dialog_negative_toast">Увек можете поставити текст са аутомацко уписивање са екрана у Претраживач &gt; Подешавања &gt; Уопштено.</string>
   <string name="autologin_bar_error">"Неуспела пријава."</string>
-  <string name="autologin_bar_hide_text">Сакри</string>
+  <string name="autologin_bar_hide_text">Сакриј</string>
   <string name="autologin_bar_login_text">Пријава</string>
   <string name="autologin_bar_text">Пријавите се као</string>
   <string name="back">Назад</string>
@@ -557,7 +557,7 @@
   <string name="pref_volume_key_enabled">Тастер за гласноћу</string>
   <string name="pref_volume_key_operation">Функција тастера за гласноћу</string>
   <string name="pref_webapp_settings_fontsize">Величина фонта</string>
-  <string name="pref_webapp_settings_hidebottombar">Сакри доњу траку</string>
+  <string name="pref_webapp_settings_hidebottombar">Сакриј доњу траку</string>
   <string name="pref_webapp_settings_savewidth">"Немој користити 2G/3G мобилну мрежу за преузимање слика"</string>
   <string name="pref_zoom_on_double_tap">Двапут дотакните за зумирање</string>
   <string name="preview">Приказ</string>

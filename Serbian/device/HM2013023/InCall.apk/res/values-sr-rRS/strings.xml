@@ -361,7 +361,7 @@
   <string name="vt_local_video_zoom">Локални видео zoom</string>
   <string name="vt_media_occupied">Будући да камера није доступна, видеопозив не може бити повезан. Проверите да ли било која друга апликација користи камеру.</string>
   <string name="vt_media_video_fail">Видео се не може исправно проказати. Видеопозив се прекида</string>
-  <string name="vt_menu_hide_me">Сакри локални видео</string>
+  <string name="vt_menu_hide_me">Сакриј локални видео</string>
   <string name="vt_menu_show_me">Прикажи локални видео</string>
   <string name="vt_menu_snapshot">Peer снимка</string>
   <string name="vt_menu_switch">Промени камеру</string>

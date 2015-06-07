@@ -332,7 +332,7 @@
   <string name="vp_full_screen">Репродукуј у пуном екрану</string>
   <string name="vp_function">Подешавања</string>
   <string name="vp_get_url_error">"Не могу проћи URL за овај видо запис."</string>
-  <string name="vp_hide_media_info">Сакри детаље видеозаписа</string>
+  <string name="vp_hide_media_info">Сакриј детаље видеозаписа</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Савет</string>
   <string name="vp_install">Инсталирати апликацију HD компоненти?</string>
