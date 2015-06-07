@@ -710,7 +710,7 @@
   <string name="postal_region">Држава</string>
   <string name="postal_street">Улица</string>
   <string name="pref_key_photo">"Фотографија"</string>
-  <string name="pref_key_photo_word_summary">Аутомацки додели слику контактима који га немају</string>
+  <string name="pref_key_photo_word_summary">Аутоматски додели слику контактима који га немају</string>
   <string name="pref_key_photo_word_title">Фотографија за све</string>
   <string name="pref_key_rebuild_t9_index_message">Поново направи индекс да се уклоне проблеми претраге</string>
   <string name="pref_key_rebuild_t9_index_title">Поново направити податке индекса</string>
@@ -752,8 +752,8 @@
   <string name="preference_smart_group_location_summary">Групиши према позивном броју</string>
   <string name="preference_smart_group_location_title">Локације</string>
   <string name="preference_smart_group_title">Паметне групе</string>
-  <string name="preference_telocation_summary_countrycode_off">Немој аутомацки бирати позивни број државе</string>
-  <string name="preference_telocation_summary_countrycode_on">Аутомацки бирај позивни број државе</string>
+  <string name="preference_telocation_summary_countrycode_off">Немој аутоматски бирати позивни број државе</string>
+  <string name="preference_telocation_summary_countrycode_on">Аутоматски бирај позивни број државе</string>
   <string name="preference_telocation_summary_teloc_off">Сакриј локацију контакта</string>
   <string name="preference_telocation_summary_teloc_on">Покажи локацију контакта</string>
   <string name="preference_telocation_title">Локација</string>

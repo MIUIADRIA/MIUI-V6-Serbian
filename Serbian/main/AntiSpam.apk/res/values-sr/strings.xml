@@ -43,7 +43,7 @@
   <string name="ad_update_setting">Ажурирај подешавања блокатора реклама</string>
   <string name="ad_update_time">Задње ажурирање: %s</string>
   <string name="ad_update_time_unKnown">Задње ажурирање: непознато</string>
-  <string name="ad_update_title">Аутомацки ажурирај</string>
+  <string name="ad_update_title">Аутоматски ажурирај</string>
   <string name="address_choose_hint">%1$s, %2$s i %3$d остале локације</string>
   <string name="addwhitelist">Додај у изузетке</string>
   <string name="all_address_choose_hint">Сви бројеви у овој покрајини</string>
@@ -195,7 +195,7 @@
   <string name="sim_not_ready">SIM картица није спремна</string>
   <string name="sms_delete_hint">Избрисати све блокиране поруке са овог броја?</string>
   <string name="sms_delete_title">Уклони SMS</string>
-  <string name="sms_smart_engine_update">Аутомацки ажурирај филтер SMS-a</string>
+  <string name="sms_smart_engine_update">Аутоматски ажурирај филтер SMS-a</string>
   <string name="special_number_group">Блокирај пријављене бројеве</string>
   <string name="st_advanced_setting_group">Напредно</string>
   <string name="st_antispam_black_adress_add">Додај локације</string>
