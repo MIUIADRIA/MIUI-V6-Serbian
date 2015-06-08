@@ -1,8 +1,9 @@
 <resources>
-    <string name="label_airplane_mode">Режим</string>
+    <string name="label_airplane_mode">Авионски Режим</string>
     <string name="label_silent_mode">Бешумно</string>
     <string name="label_reboot">Рестарт</string>
     <string name="label_shutdown">Искључи</string>
     <string name="label_alert_reboot">Рестарт</string>
     <string name="label_alert_shutdown">Искључи</string>
+	<string name="label_blank">Натраг</string>
 </resources>
