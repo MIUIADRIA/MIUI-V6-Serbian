@@ -119,7 +119,7 @@
   <string name="caller_id_title">ID Позиватеља</string>
   <string name="callind_multi_sim">SUBS postavke</string>
   <string name="callwait_open_hint">\"Позив на чекању\" је функција коју пружа ваш даваоц услуга. Ако добијете обавештење о грешци, обратите се свом добављачу услуга како би били сигурни да је ова функција је подржана.</string>
-  <string name="can_not_use_for_not_data_sim">"(Ne mogu koristiti: Mora biti postavljeno kao zadana SIM kartica za podatke)"</string>
+  <string name="can_not_use_for_not_data_sim">"(Не могу користити: Мора бити подешено као задата SIM картица за податке)"</string>
   <string name="cancel">Одустани</string>
   <string name="cancel_call">Одустани</string>
   <string name="card_title_MOcall_forwarding">Одлазни позив је прослеђен</string>
@@ -175,7 +175,7 @@
   <string name="close_profile">Затвори</string>
   <string name="cloud_antispam_title">Индетификуј непознате бројеве</string>
   <string name="command_error_fdn_failure">Морате прво искључити FDN</string>
-  <string name="config_default_data_sim">Postavke</string>
+  <string name="config_default_data_sim">Подешавања</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirm_password_label">Потврди нову лозинку</string>
   <string name="confirm_pin2_label">Потврди нови PIN2</string>
@@ -327,7 +327,7 @@
   <string name="get_pin2">Упишите PIN2</string>
   <string name="get_smsc_address_error">"Не могу се спојити на мрежу."</string>
   <string name="get_smsc_address_timeout">Истекло је време везе</string>
-  <string name="got_it">U redu</string>
+  <string name="got_it">У реду</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Подешавања мреже</string>
   <string name="gsm_umts_network_preferences_title">Подешавања мреже</string>
   <string name="gsm_umts_options">Опције за GSM/UMTS</string>
