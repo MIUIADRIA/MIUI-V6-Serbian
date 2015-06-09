@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==MIUI Adria==-</item>
+	    <item>-==MIUI Adria==-</item>
+  	    <item>-==Roaming Electronics==-</item>
+        <item>Инсталирање у току.</item>
+        <item>Инсталирање у току..</item>
+        <item>Roaming Electronics</item>
+        <item>Оптимизовање апликација...</item>
+        <item>Напишите своје примедбе на miui.website</item>
+    </string-array>
+</resources>
