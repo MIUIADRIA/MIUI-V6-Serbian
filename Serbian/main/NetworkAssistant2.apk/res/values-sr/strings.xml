@@ -124,6 +124,7 @@
   <string name="free_time_traffic_title">Унесите ограничење употребе података</string>
   <string name="free_traffic_settings">Подешавање употребе података</string>
   <string name="gateway_exception_summary">Проверите свој рутер и покушајте поново.</string>
+  <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Тест рутера</string>
   <string name="hints_input_roaming_daily_limit">Постави ограничење употребе података</string>
   <string name="hints_install_apps_new">Није коришћено</string>
@@ -319,6 +320,7 @@
   <string name="pref_specified_adjust">Постављање прилагођене употребе података</string>
   <string name="pref_specified_traffic_settings">Подешавања ограничења података</string>
   <string name="pref_title_declaration">Одрицање одговорности</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Prikaži obavijesti u panelu obavijesti</string>
   <string name="pref_title_mobile_traffic">Прикажи податке коришћења док је уређај био закључан</string>
   <string name="pref_title_network_diagnostics">Тест мреже</string>
   <string name="pref_title_over_traffic_limit_warning">Када је премашено</string>
