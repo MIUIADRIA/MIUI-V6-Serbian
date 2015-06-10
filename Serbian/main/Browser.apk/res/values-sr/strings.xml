@@ -22,7 +22,7 @@
   <string name="action_menu_text_bandwidth_on">Bandwidth/Укљ.</string>
   <string name="action_menu_text_bookmark">Додај ознаку</string>
   <string name="action_menu_text_exit">Излаз</string>
-  <string name="action_menu_text_history">Ознаке/Историја</string>
+  <string name="action_menu_text_history">Ознаке &amp; Историја</string>
   <string name="action_menu_text_nightmode">Ноћни мод</string>
   <string name="action_menu_text_nightmode_off">Ноћни мод искљ.</string>
   <string name="action_menu_text_nightmode_on">Ноћни мод укљ.</string>
@@ -370,7 +370,7 @@
   <string name="miui_search_notification_message">Додирните за отварање траке претраге</string>
   <string name="miui_search_notification_title">Брзо претраживање</string>
   <string name="miuichromium_error_page_mobile">Мобилна мрежа</string>
-  <string name="miuichromium_error_page_reason_network">Прикажи URL</string>
+  <string name="miuichromium_error_page_reason_network">"Не могу повезати на мрежу"</string>
   <string name="miuichromium_error_page_reason_server">Није могуће учитати ову страницу</string>
   <string name="miuichromium_error_page_reload">Учитај поново</string>
   <string name="miuichromium_error_page_title">Није могуће учитати ову страницу</string>
@@ -780,7 +780,7 @@
   <string name="webapp_webapp_favortes_title">Фаворити</string>
   <string name="webpage_bookmark_title">Ознака</string>
   <string name="webpage_history_title">Историја</string>
-  <string name="webpage_title">Ознаке и историја</string>
+  <string name="webpage_title">Ознаке &amp; историја</string>
   <string name="website_settings_clear_all">Избриши све</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Одустани</string>
   <string name="website_settings_clear_all_dialog_message">Избрисати све податке web-локације и допуштења локација?</string>
