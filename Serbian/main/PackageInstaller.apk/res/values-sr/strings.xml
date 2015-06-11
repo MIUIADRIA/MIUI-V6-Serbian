@@ -2,6 +2,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Дошло је до проблема при анализирању пакета.</string>
   <string name="Parse_error_dlg_title">Грешка анализе</string>
+  <string name="activity_package_delete_confirm_title">Важно упозорење</string>
   <string name="allow_source_dlg_text">"Апликација %1$s жели инсталирати друге апликације.
 
 Дозволити сада и убудуће?"</string>
@@ -10,8 +11,13 @@
   <string name="app_not_found_dlg_text">Апликација није пронађена на попису инсталираних апликација.</string>
   <string name="app_not_found_dlg_title">Апликација није пронађена</string>
   <string name="auto_startup_dialog_msg">Ова апликација се не може покренути без вашег допуштења.</string>
+  <string name="button_text_cancel">Одустани</string>
+  <string name="button_text_delete">Избриши</string>
+  <string name="button_text_delete_timer">Избриши (%d)</string>
+  <string name="button_text_next_step">Даље</string>
+  <string name="button_text_next_step_timer">Даље (%d)</string>
   <string name="caller_app">Захтев допуштења од %1$s</string>
-  <string name="cancel">Odustani</string>
+  <string name="cancel">Одустани</string>
   <string name="dlg_app_replacement_statement">"Апликација коју инсталирате замениће другу апликацију.
 
 Сви постојећи подаци апликације ће бити сачувани."</string>
@@ -48,6 +54,9 @@
   <string name="other_relative">Остала допуштења</string>
   <string name="out_of_space_dlg_text">"Нема довољно простора за чување на уређају за инсталирање %1$s."</string>
   <string name="out_of_space_dlg_title">Нема довољно простора</string>
+  <string name="package_delete_confirm_step_1">Избрисати %s?</string>
+  <string name="package_delete_confirm_step_2">Брисање ове апликације може довести до нестабилности система уређаја.</string>
+  <string name="package_delete_confirm_step_3">"Нећете моћи отворити ову апликацију након што је избришете."</string>
   <string name="perm_action_accept">Допусти</string>
   <string name="perm_action_prompt">Питај</string>
   <string name="perm_action_reject">Одбиj</string>
