@@ -129,7 +129,7 @@
   <string name="descx_start_scan_memory">Покрени скенирање меморије</string>
   <string name="descx_start_scan_system">Покрени скенирање заштите система</string>
   <string name="details_subtitle">Детаљи скенирања</string>
-  <string name="dialog_msg_auto_start_declare">Поједине сигурносне апликације могу повремено упућивати на то да је MIUI пречио њихово покретање. Проверите допуштења која су дозвољена за поједине апликације у Подешавања &gt; Апликације.</string>
+  <string name="dialog_msg_auto_start_declare">Поједине сигурносне апликације могу повремено упућивати на то да је MIUI спречио њихово покретање. Проверите допуштења која су дозвољена за поједине апликације у Подешавања &gt; Апликације.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Потврдити Сиг.копију и деинсталирати одабране апликације?</string>
   <string name="dialog_title_auto_start_declare">О ауто покретању</string>
   <string name="dialog_title_stop_virus_scan">Заустави скенирање</string>
