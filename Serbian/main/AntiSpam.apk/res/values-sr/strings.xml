@@ -34,7 +34,7 @@
   <string name="SMS_SERVICE">Услуга листе блокираних</string>
   <string name="SMSpass">Допусти SMS</string>
   <string name="STRANGER_BLOCK">Листа блокираних неп. бројева</string>
-  <string name="action_source_sms_title">Blokirani SMS</string>
+  <string name="action_source_sms_title">Блокирани SMS</string>
   <string name="ad_block_hint">Блокирано: %d</string>
   <string name="ad_install_monitor">Преглед апликација за реклама</string>
   <string name="ad_install_monitor_hint">Провера реклама код инсталирања апликација</string>

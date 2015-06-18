@@ -19,7 +19,7 @@
   <string name="artist_name">Извођач</string>
   <string name="artist_search_title">"Извођач"</string>
   <string name="artist_view">"Извођач"</string>
-  <string name="atmd_music">Ultimativno</string>
+  <string name="atmd_music">Ултимативно</string>
   <string name="audio_picker_title">Одабери песму</string>
   <string name="auto_download_in_wifi">Аутоматски преузми омиљене песме преко WLAN-a</string>
   <string name="available_playlist_name_format">Нова листа песама %d</string>
@@ -148,7 +148,7 @@
   <string name="higher_quality_music_summary">Stream и преузимање датотека веће брзине преноса</string>
   <string name="i_know">У реду</string>
   <string name="i_know_it">У реду</string>
-  <string name="impunity_declaration">Ova aplikacija treba povezivanje s internetom za prikaz i stream online glazbe.</string>
+  <string name="impunity_declaration">Овој апликацији треба повезивање са интернетом за приказ и стреам online музике.</string>
   <string name="impunity_declaration_ignore">"Не приказуј поново"</string>
   <string name="impunity_declaration_negative_text">Затвори</string>
   <string name="impunity_declaration_positive_text">У реду и настави</string>

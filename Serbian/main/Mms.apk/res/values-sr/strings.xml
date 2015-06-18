@@ -171,9 +171,9 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Укупно: %1$s Ова функција треба повезивање с интернетом да функционише нормално: %2$s?</string>
   <string name="found_old_messages_title">Пошаљи поруке</string>
-  <string name="found_wild_messages_guide_cloud_desc">Da sinkronizirate poruke s Mi Clouda, prijavite se na svoj Mi Račun i uključite sinkronizaciju SMS-a.</string>
-  <string name="found_wild_messages_guide_settings_desc">Sinkronizacija SMS poruka s Mi Clouda u postavkama Poruka.</string>
-  <string name="found_wild_messages_title">Sinkronizacija SMS poruka s Mi Clouda</string>
+  <string name="found_wild_messages_guide_cloud_desc">Да синхронизујете поруке са Mi Clouda, пријавите се на ваш Mi Рачун и укључите синхронизацију SMS-a.</string>
+  <string name="found_wild_messages_guide_settings_desc">Синхронизација SMS порука са Mi Clouda у Подешавањима порука.</string>
+  <string name="found_wild_messages_title">Синхронизација SMS порука са Mi Clouda</string>
   <string name="from_label">"Шаље: "</string>
   <string name="group_message">Групне поруке</string>
   <string name="group_message_failed_title">"Не могу послати %d контактима"</string>
@@ -327,7 +327,7 @@
   <string name="pref_mms_settings_title">Подешавања MMS-a</string>
   <string name="pref_notification_settings_title">Подешавања обавештења</string>
   <string name="pref_other_title">Додатна подешавања</string>
-  <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u listi razgovora</string>
+  <string name="pref_show_blocked_messages_summary">Прикажи блокиране SMS поруке у листи разговора</string>
   <string name="pref_show_sms_template_summary">Аутоматски копирај и испуни кодове за проверу</string>
   <string name="pref_sms_theme_title">Подешавање теме</string>
   <string name="pref_summary_allow_si_sl_push">Допусти примање обавештења WAP push порука (SI/SL)</string>
@@ -409,7 +409,7 @@
   <string name="remove_video">Уклони видео запис</string>
   <string name="replace">Замени</string>
   <string name="replace_image">Замени слику</string>
-  <string name="reply_button_msg">Odgovori</string>
+  <string name="reply_button_msg">Одговори</string>
   <string name="resent_message">Поново пошаљи</string>
   <string name="resize_image_error_information">Ова слика превелика је за слање чак и ако се промени њена величина.</string>
   <string name="resource_price_free">Бесплатно</string>
@@ -525,7 +525,7 @@
   <string name="timed_message_to">прима</string>
   <string name="title_collapse_sp_messages">Комбинујте поруке даватеља услуга</string>
   <string name="title_date_type">Ознака времена поруке</string>
-  <string name="title_show_blocked_messages">Prikaži blokirane SMS poruke</string>
+  <string name="title_show_blocked_messages">Прикажи блокиране SMS поруке</string>
   <string name="title_show_sms_template">Провер SMS за кодове провере</string>
   <string name="title_timed_message_dialog">Конфигуриши временску поруку</string>
   <string name="to_address_label">"Прима: "</string>

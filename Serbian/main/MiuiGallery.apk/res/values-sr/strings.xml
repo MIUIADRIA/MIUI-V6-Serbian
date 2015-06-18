@@ -134,8 +134,8 @@
   <string name="comfirm_delete_current_album">Избрисати овај албум?</string>
   <string name="comma">, </string>
   <string name="confirm">У реду</string>
-  <string name="confirm_all_photo_are_this_people_face">Povezati sve fotografije s %s?</string>
-  <string name="confirm_all_photo_not_this_people_face">Nema podudaranja za %s?</string>
+  <string name="confirm_all_photo_are_this_people_face">Повезати све фотографије са %s?</string>
+  <string name="confirm_all_photo_not_this_people_face">Нема подударања за %s?</string>
   <string name="confirm_delete">Избрисати (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Избрисати албуме: %s (укупно %s)?</string>
   <string name="confirm_delete_has_cloud_image_video">"Избрисати ставке (%s) на овом уређају и у Mi Cloudu?"</string>
@@ -148,8 +148,8 @@
   <string name="confirm_download_video_message">Морате завршити са преузимањем овог видео записа пре него што га можете погледати. Преузимање ће се наставити када је WLAN доступан.</string>
   <string name="confirm_download_video_title">Преузми видео запис</string>
   <string name="confirm_face">Подударање</string>
-  <string name="confirm_left_photo_will_move_in">%s je na svim ostalim fotografijama?</string>
-  <string name="confirm_left_photo_will_move_out">""%s nije na nijednoj od preostalih fotografija?"</string>
+  <string name="confirm_left_photo_will_move_in">%s је на свим осталим фотографијама?</string>
+  <string name="confirm_left_photo_will_move_out">""%s није ни на једној од преосталих фотографија?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Повежите овај албум са %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Повежите ове албуме са %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Није ова особа</string>
@@ -226,7 +226,7 @@
   <string name="error_title">"Не могу синхро."</string>
   <string name="error_unauthorized">Синхро. онемогућена због превише покушаја пријављивања</string>
   <string name="error_unknown_host">"Не могу се спојити на мрежу. Проверите вашу везу за пренос података и покушајте поново."</string>
-  <string name="event_create_long_photo">Izrada fotografije…</string>
+  <string name="event_create_long_photo">Израда фотографије…</string>
   <string name="event_manage_photos">Управљање фотографијама</string>
   <string name="exit">Излаз</string>
   <string name="exit_share">Напусти албум</string>
@@ -323,9 +323,9 @@
   <string name="invalid_recipient_message">Имена пријатеља које сте унели су неважећа</string>
   <string name="is">Je li ovo %s?</string>
   <string name="iso">ISO</string>
-  <string name="item_not_sync_for_origin_image">"Ne mogu preuzeti fotografije koje nisu sinkronizirane s Mi Cloudom."</string>
-  <string name="item_not_sync_for_origin_video">"Ne mogu preuzeti videozapise koji nisu sinkronizirani s Mi Cloudom."</string>
-  <string name="item_not_sync_for_refocus_data">"Ne mogu fokusirati podatke za fotografije koje nisu sinkronizirane s Mi Cloudom."</string>
+  <string name="item_not_sync_for_origin_image">"Не могу преузети фотографије које нису синхронизоване са Mi Cloudom."</string>
+  <string name="item_not_sync_for_origin_video">"Не могу преузети фотографије које нису синхронизоване са Mi Cloudom."</string>
+  <string name="item_not_sync_for_refocus_data">Не могу фокусирати податке за фотографије које нису синхронизоване са Mi Cloudom."</string>
   <string name="kick_owner_user_positive_button_text">Уклони</string>
   <string name="kick_owner_user_title">Уклоните овог члана?</string>
   <string name="kick_sharer">Уклони пошиљаоца</string>
@@ -388,7 +388,7 @@
   <string name="name_wrong">Није %s</string>
   <string name="negative">Негативан</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
+  <string name="network_connected_rescan">"Не могу се повезати на мрежу"</string>
   <string name="new_device_tips">"Додирните за приказ уређаја"</string>
   <string name="no">Не</string>
   <string name="no_albums_alert">Нема доступних албума.</string>
@@ -397,14 +397,14 @@
   <string name="no_map_app">Није пронађена апликација за обраду ове радње</string>
   <string name="no_network_connected">Нема доступних мрежних веза</string>
   <string name="no_picture_or_video">Празно</string>
-  <string name="no_secret_photo">Nema sakrivenih fotografija</string>
+  <string name="no_secret_photo">Нема сакривених фотографија</string>
   <string name="no_storage_disable_cloud_albums">Mi Cloud је недоступан.</string>
   <string name="no_such_album">Албум није пронађен</string>
   <string name="no_such_item">"Не могу пронаћи ставку."</string>
   <string name="no_thumbnail">Нема минијатура</string>
   <string name="none_picture">Нема слика</string>
   <string name="not_auto_create_recent_album">Немој аутоматски стварати нови албум</string>
-  <string name="not_is">Ovo nije %s?</string>
+  <string name="not_is">Ово није %s?</string>
   <string name="not_now">Не сада</string>
   <string name="not_show_hidden_albums">Не приказуј скривени албум</string>
   <string name="old">Старо</string>
@@ -493,7 +493,7 @@
   <string name="remove_from_secret_unfinished_message_with_count">"%1$s није уклоњено из сакривеног албума"</string>
   <string name="remove_hidden_album">Прикажи</string>
   <string name="remove_recent_album">Уклони из омиљенх албума</string>
-  <string name="rename_event">Preimenuj događaj</string>
+  <string name="rename_event">Преименуј догађај</string>
   <string name="rename_face_album">Промени назив</string>
   <string name="rename_fail_msg">"Не могу преименовати"</string>
   <string name="rename_failed">"Не могу преименовати"</string>
@@ -559,7 +559,7 @@
   <string name="share_by_email_successfully">Подељено %1$s</string>
   <string name="share_current_album">Поделите тренутни албум</string>
   <string name="share_public_url_text">Поделио сам %1$s албум са собом. Погледај га на %2$s</string>
-  <string name="share_title_more">Više</string>
+  <string name="share_title_more">Више</string>
   <string name="sharer_quota_fulfiled">"Већ сте поделили овај албум са максималним бројем корисника."</string>
   <string name="sharpen">Изоштри</string>
   <string name="show_all">Слике и видео записи</string>
@@ -642,7 +642,7 @@
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Упозорење</string>
   <string name="wechat">WeChat</string>
-  <string name="wechat_timeline_title">WeChat timeline</string>
+  <string name="wechat_timeline_title">WeChat временска линија</string>
   <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
