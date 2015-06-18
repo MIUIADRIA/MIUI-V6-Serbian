@@ -35,11 +35,11 @@
   <string name="cloud_back_up_interval_long">7 дана</string>
   <string name="cloud_back_up_interval_short">1 дан</string>
   <string name="cloud_back_up_network_unavailable">"Не могу се уклонити. Повежите се на WLAN и покушајте поново."</string>
-  <string name="cloud_back_up_open_info">"Направи сиг. копију почетног Екрана и апликација сваких %1$s када је повезано на WLAN
+  <string name="cloud_back_up_open_info">"Направи сиг. копију апликација сваких %1$s када је повезано на WLAN
 Задња Сиг. копија: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Направи сиг. копију Почетног екрана и апликација сваких %1$s када је повезано на WLAN</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Направи сиг. копију апликација сваких %1$s када је повезано на WLAN</string>
   <string name="cloud_back_up_remove_success">Сиг. копија је избрисана</string>
-  <string name="cloud_back_up_title">Сиг. копија Почетног екрана</string>
+  <string name="cloud_back_up_title">Сиг. копија апликација</string>
   <string name="cloud_backup_dialog_title">Направи Сиг. копију са Mi Cloudom</string>
   <string name="cloud_find_device">Пронађи Уређај</string>
   <string name="cloud_space_upgrade_message">Додирните за додавање %sGB на ваш cloud.</string>
@@ -113,7 +113,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="master_alert_notif_dspt_add">Ставка чека на синхро.: %s</string>
   <string name="master_alert_notif_dspt_no">Синхронизовано</string>
   <string name="master_alert_notif_title">Задња синхро. пре дана %s</string>
-  <string name="micloud_buy_member">Nadogradnja članstva</string>
+  <string name="micloud_buy_member">Рачун</string>
   <string name="micloud_check_sim_notify_text">"Изгледа да сте променили SIM картице. пријавите се
 на ваш Mi Рачун за активирање Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Поново активирај Mi Cloud</string>
@@ -192,18 +192,22 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_other_product_price">Поређење цена</string>
   <string name="micloud_proceed">Настави</string>
   <string name="micloud_sec_dspt">и подели ствари са својим пријатељима.</string>
-  <string name="micloud_setting_antispam_summary">Изузеци за "Не ометај ме"и блокираних бројева телефона.</string>
+  <string name="micloud_setting_antispam_summary">Изузеци и блокирани бројеви телефона.</string>
   <string name="micloud_setting_browser_summary">Ознаке,историја и картице</string>
   <string name="micloud_setting_contact_summary">Подаци о контактима, и фотографије профила</string>
-  <string name="micloud_setting_deskclock_summary">Подешавања сатова</string>
+  <string name="micloud_setting_deskclock_summary">Временска зона и подешавање аларма</string>
   <string name="micloud_setting_gallery_summary">Фотографије и видео записи</string>
   <string name="micloud_setting_music_summary">Пописи за репродукцију и фаворити</string>
   <string name="micloud_setting_sms_summary">SMS и MMS поруке</string>
   <string name="micloud_setting_wifi_summary">WLAN подешавања</string>
   <string name="micloud_single_dspt">Користите Mi Cloud за синхронизацију података, да пронађете свој уређај, и поделите ствари са пријатељима.</string>
-  <string name="micloud_space_duokan_detail">Управљајте вашим Duokan садржајем путем Доукан апликације.</string>
+  <string name="micloud_space_applist_detail">Upravljajte aplikacijama vašeg početnog zaslona</string>
+  <string name="micloud_space_applist_title">Upravljajte aplikacijama</string>
+  <string name="micloud_space_duokan_detail">Upravljajte vašim Duokan sadržajem pomoću Duokan aplikacije.</string>
   <string name="micloud_space_duokan_title">Доукан</string>
   <string name="micloud_space_full_influence">Шта ће се догодити ако понестане простора?</string>
+  <string name="micloud_space_soundrecorder_detail">Upravljajte snimaka pohranjenim na vašem uređaju</string>
+  <string name="micloud_space_soundrecorder_title">Snimke</string>
   <string name="micloud_storage">Простор за меморију</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Осигурајте довољно Mi Кредита за аутоматску обнову.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">"Неке cloud услуге могу бити обустављене.Препорука је да се омогући ауто. обноваa."</string>
@@ -261,7 +265,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="pref_title_sync_display_photo_on_wifi_only">Користи само WLAN за синхро. фотографија.</string>
   <string name="pref_title_sync_my_profile_title">Синхронизуј профил</string>
   <string name="privacy_policy">Правила о приватности</string>
-  <string name="remind_later">Касније</string>
+  <string name="remind_later">Не сада</string>
   <string name="restoreSync">Синхронизуј сада</string>
   <string name="setting">Подешавања</string>
   <string name="settings_backup_title">Подешавања сиг. копије система</string>

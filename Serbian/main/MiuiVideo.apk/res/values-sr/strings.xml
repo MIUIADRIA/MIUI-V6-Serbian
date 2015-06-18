@@ -37,6 +37,8 @@
   <string name="baodian">Показивач</string>
   <string name="back">Назад</string>
   <string name="bestv">Bestv</string>
+  <string name="bmp_quality_mode">Način kvalitete slike</string>
+  <string name="bmp_quality_mode_desc">Označeno, prikaži način visoke kvalitete.</string>
   <string name="buffering">Међумеморија…</string>
   <string name="buffering_video_netplay_label_v5">Међумеморија...</string>
   <string name="cancel">Одустани</string>
@@ -120,7 +122,9 @@
   <string name="edit">Уреди</string>
   <string name="edit_comment">Додај коментар</string>
   <string name="elipsis">…</string>
-  <string name="episode">Епизода</string>
+  <string name="empty_keyword_hint">Polje ne može biti prazno</string>
+  <string name="empty_tv_exiting">Izlaz ...</string>
+  <string name="episode_name_format">第%1$s集</string>
   <string name="episode_suffix">"Еп. %d "</string>
   <string name="favorite">*</string>
   <string name="feature">Истакнуто</string>

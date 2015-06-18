@@ -23,8 +23,8 @@
   <string name="boot_recovery">Поново покренути у Recovery mode?</string>
   <string name="button_text_check">Провери за ажурирања</string>
   <string name="button_text_later_reboot">Касније</string>
-  <string name="button_text_reboot">Поново покрените уређај</string>
-  <string name="button_text_reboot_hm">Поново покрените уређај</string>
+  <string name="button_text_reboot">Поново покрени</string>
+  <string name="button_text_reboot_hm">Поново покрени</string>
   <string name="button_text_update">Ажурирај</string>
   <string name="cancel_download">Зауставити преузимање ажурирања?</string>
   <string name="cancel_download_buton_text">Одустани</string>
@@ -175,7 +175,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_feedback_need_network">Прво се повежите на мрежу</string>
   <string name="update_feedback_need_update">Морате прво ажурирати свој систем на најновију развојну верзију.</string>
   <string name="update_feel">Шта ви мислите?</string>
-  <string name="update_general">Онако</string>
+  <string name="update_general">Равнодушан</string>
   <string name="update_happy">Супер!</string>
   <string name="update_monthly_build_only">Само ажурирај за месечне верзије</string>
   <string name="update_sad">Хмм (није добро)</string>

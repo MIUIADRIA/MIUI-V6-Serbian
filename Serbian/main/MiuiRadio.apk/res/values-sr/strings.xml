@@ -64,6 +64,8 @@
   <string name="metered_play_toast">Коришћење мобилне мреже са подацима за стримовање</string>
   <string name="min_sleep_time">1</string>
   <string name="more">Више</string>
+  <string name="multi_subscriptions_subtitle_title">Dodirnite za slušanje %1$s/%2$s.</string>
+  <string name="multi_subscriptions_title">%1$d pretplata je ažurirano</string>
   <string name="my_favorite">Моји Фаворити</string>
   <string name="my_program">Локално</string>
   <string name="no_display_history_text">Нема историје</string>
@@ -76,6 +78,7 @@
   <string name="not_login">Нисте пријављени</string>
   <string name="notification_description_from_radio">Од MiuiRadio</string>
   <string name="ok">У реду</string>
+  <string name="one_subscription_title">%1$s ажурирано</string>
   <string name="play_local_sound">Радио свира локални звук: %1$s</string>
   <string name="play_quality_toast">Одаберите квалитет репродукције</string>
   <string name="presonal_center">Подешавања Рачуна</string>

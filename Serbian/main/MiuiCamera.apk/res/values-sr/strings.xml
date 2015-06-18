@@ -236,7 +236,7 @@
   <string name="pref_camera_show_gender_age_entry_alias">Прикажи године са укљ. Улепшавањем</string>
   <string name="pref_camera_show_gender_age_entry_off">Искључено</string>
   <string name="pref_camera_show_gender_age_entry_on">Прикажи године и пол са укљ. Улепшавањем</string>
-  <string name="pref_camera_show_gender_age_title">Препознавање лица</string>
+  <string name="pref_camera_show_gender_age_title">Године &amp; пол</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Ауто побољшање</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Онемогући</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Омогући</string>
@@ -266,7 +266,7 @@
   <string name="pref_camera_zsl_entry_on">Укључено</string>
   <string name="pref_capture_settings">Фотоапарат</string>
   <string name="pref_face_beauty_title">Улепшање</string>
-  <string name="pref_front_mirror_entry_auto">Ауто</string>
+  <string name="pref_front_mirror_entry_auto">Када је откривено лице</string>
   <string name="pref_front_mirror_entry_off">Искључи.</string>
   <string name="pref_front_mirror_entry_on">Укључи</string>
   <string name="pref_front_mirror_title">Огледало предња камера</string>
