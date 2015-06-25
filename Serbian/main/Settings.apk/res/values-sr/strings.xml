@@ -642,7 +642,7 @@
   <string name="check_update">Провери ажурирања</string>
   <string name="checkbox_notification_same_as_incoming_call">Користи јачину звука долазног позива за обавештења</string>
   <string name="checking_for_updates">Провера ажурирања…</string>
-  <string name="choose_smartcover_type">Odaberite vrstu futrole</string>
+  <string name="choose_smartcover_type">Одаберите врсту футроле</string>
   <string name="choose_timezone">Избор временске зоне</string>
   <string name="cleaner">Чистач</string>
   <string name="clear_activities">Обриши подразумевано</string>
@@ -982,7 +982,7 @@
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"USB меморија не може се искључити. Покушајте поново касније."</string>
   <string name="dlg_ok">Потврди</string>
-  <string name="dndm_auto_button_title">Ponovi \"Ne ometaj me"\ Vrijeme</string>
+  <string name="dndm_auto_button_title">Понови \"Не ометај ме"\ Време</string>
   <string name="dndm_auto_setting_group">Заказано</string>
   <string name="dndm_auto_time_setting">Подешавање времена</string>
   <string name="dndm_auto_time_setting_summary">Од %1$s до %2$s</string>
@@ -1838,7 +1838,7 @@
   <string name="no_updates_warning2">"Опустите се, обавестићемо вас ако буде ажурирања."</string>
   <string name="noise_suppression">Утишавање околне буке</string>
   <string name="normal_date_format">Регионално (%s)</string>
-  <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
+  <string name="normal_smartcover_title">Непрозирни предњи поклопац</string>
   <string name="not_installed">Није инсталирано</string>
   <string name="notification_app_settings_button">Подешавања обавештења</string>
   <string name="notification_breathing_light_color_title">Боја LED-a код обавештења</string>
@@ -2558,7 +2558,7 @@
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI подаци</string>
   <string name="small_font">Малено</string>
-  <string name="smallwindow_smartcover_title">Prozirni prednji pokrov</string>
+  <string name="smallwindow_smartcover_title">Прозирни предњи поклопац</string>
   <string name="smartcover_sensitive_title">Smartcover начин</string>
   <string name="sms_application_title">Задата апликација за SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Користити апликацију %s уместо апликације %s као своју апликацију за SMS?</string>
