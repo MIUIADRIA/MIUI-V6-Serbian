@@ -1548,7 +1548,7 @@
   <string name="web_user_agent_target_content">"Мобилни "</string>
   <string name="webviewchromium_accessibility_time_picker_second">Секунда</string>
   <string name="webviewchromium_actionbar_share">Дели</string>
-  <string name="webviewchromium_actionbar_web_search">Претаживање weba</string>
+  <string name="webviewchromium_actionbar_web_search">Претраживање weba</string>
   <string name="webviewchromium_color_picker_button_black">Црн</string>
   <string name="webviewchromium_color_picker_button_blue">Плав</string>
   <string name="webviewchromium_color_picker_button_cyan">Циан</string>
