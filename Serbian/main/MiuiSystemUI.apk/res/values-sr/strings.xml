@@ -78,12 +78,15 @@
   <string name="description_direction_left">"Клизните лево за %s."</string>
   <string name="description_direction_up">"Клизните горе за %s."</string>
   <string name="description_target_search">"Претражи"</string>
+  <string name="disable_notification_summary">Nikad ne prikazuj obavijesti ove aplikacije.</string>
+  <string name="disable_notification_title">Blokiraj obavijesti</string>
   <string name="dismount_storage">"Не"</string>
   <string name="dlg_confirm_kill_storage_users_text">"Ако укључите USB меморију, неке апликације које употребљавате зауставиће се и можда неће бити доступне док не искључите USB меморију."</string>
   <string name="dlg_confirm_kill_storage_users_title">"Укључи USB меморију"</string>
   <string name="dlg_error_title">"Радња USB-a није успела"</string>
   <string name="dlg_ok">"У реду"</string>
   <string name="drive_mode_tip">"Ви сте у аутомобилском начину"</string>
+  <string name="expanded_notification_manager">Upravljaj obavijestima</string>
   <string name="ext_media_badremoval_notification_message">"USB меморију искључите на сигуран начин пре затварања како би сте избегли губитак података."</string>
   <string name="ext_media_badremoval_notification_title">"USB меморија је неочекивано уклоњена"</string>
   <string name="ext_media_checking_notification_message">"Тражење грешака."</string>
@@ -137,6 +140,7 @@
   <string name="notification_otg_trackball_out">Мишији трбух није повезан</string>
   <string name="notification_otg_unknow_in">OTG уређај је повезан</string>
   <string name="notification_otg_unknow_out">OTG уређај није повезан</string>
+  <string name="notification_template_text">"  ima obavijest. Dodirnite za prikaz."</string>
   <string name="oldman_airplane_mode_text">Авион</string>
   <string name="oldman_incall_text">Позив</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>

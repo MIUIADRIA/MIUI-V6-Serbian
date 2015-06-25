@@ -476,6 +476,7 @@
   <string name="lockscreen_access_pattern_cleared">Образац је обрисан</string>
   <string name="lockscreen_access_pattern_detected">Образац је довршен</string>
   <string name="lockscreen_access_pattern_start">Образац је започет</string>
+  <string name="lockscreen_airplane_mode_on">Zrakoplovni način</string>
   <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_carrier_default">Нема услуге.</string>
   <string name="lockscreen_charged">Напуњено</string>
@@ -1004,6 +1005,8 @@
   <string name="permgrouplab_voicemail">Говорна пошта</string>
   <string name="permgrouplab_wallpaper">Позадина</string>
   <string name="permgrouplab_writeDictionary">Уписивање у речник корисника</string>
+  <string name="permission">Dopuštenje</string>
+  <string name="permission_remember_choice">Zapamti</string>
   <string name="permission_request_notification_title">Затражена је дозвола</string>
   <string name="permission_request_notification_with_subtitle">"Затражена је дозвола
 за налог %s"</string>
@@ -1543,6 +1546,9 @@
   <string name="wait">Сачекај</string>
   <string name="wallpaper_binding_label">Позадина</string>
   <string name="web_user_agent_target_content">"Мобилни "</string>
+  <string name="webviewchromium_accessibility_time_picker_second">Sekunda</string>
+  <string name="webviewchromium_actionbar_share">Dijeli</string>
+  <string name="webviewchromium_actionbar_web_search">Pretraživanje weba</string>
   <string name="webviewchromium_color_picker_button_black">Црн</string>
   <string name="webviewchromium_color_picker_button_blue">Плав</string>
   <string name="webviewchromium_color_picker_button_cyan">Циан</string>
@@ -1551,8 +1557,21 @@
   <string name="webviewchromium_color_picker_button_red">Црвен</string>
   <string name="webviewchromium_color_picker_button_white">Бели</string>
   <string name="webviewchromium_color_picker_button_yellow">Жут</string>
+  <string name="webviewchromium_color_picker_button_cancel">Odustani</string>
+  <string name="webviewchromium_color_picker_button_more">Više</string>
+  <string name="webviewchromium_color_picker_button_set">Postavi</string>
+  <string name="webviewchromium_color_picker_hue">Ton</string>
+  <string name="webviewchromium_color_picker_saturation">Zasićenost</string>
+  <string name="webviewchromium_color_picker_value">Vrijednost</string>
   <string name="webviewchromium_copy_to_clipboard_failure_message">Грешка копирања у остави</string>
   <string name="webviewchromium_date_picker_dialog_other_button_label">Други</string>
+  <string name="webviewchromium_date_picker_dialog_clear">Izbriši</string>
+  <string name="webviewchromium_date_picker_dialog_set">Postavi</string>
+  <string name="webviewchromium_date_picker_dialog_title">Postavljanje datuma</string>
+  <string name="webviewchromium_media_player_loading_video">Učitavanje videozapisa</string>
+  <string name="webviewchromium_month_picker_dialog_title">Postavljanje mjeseca</string>
+  <string name="webviewchromium_opening_file_error">Odabrana datoteka nije otvorena</string>
+  <string name="webviewchromium_private_browsing_warning">Ta funkcija nije podržana na ovoj verziji Androida.</string>
   <string name="webviewchromium_profiler_error_toast">Грешка при покретању профилера </string>
   <string name="webviewchromium_profiler_no_storage_toast">"Не могу да покренем профилер зато што спољна меморија није спремна"</string>
   <string name="webviewchromium_profiler_started_toast">Профилер покренут</string>
@@ -1563,9 +1582,11 @@
   <string name="webviewchromium_time_picker_dialog_pm">PM</string>
   <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="webviewchromium_time_picker_dialog_title">Подеси време</string>
+  <string name="webviewchromium_week_picker_dialog_title">Postavljanje tjedna</string>
   <string name="webpage_unresponsive">"Страница је престала да се одазива.
 
  Да ли желите да је затворите?"</string>
+  <string name="web_user_agent_target_content">"Mobilno "</string>
   <string name="websearch">Веб-претрага</string>
   <string name="week">недеља</string>
   <string name="weeks">недеље(а)</string>

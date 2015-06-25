@@ -454,6 +454,10 @@
   <string name="msim_apn_not_set">Није подешено</string>
   <string name="msim_default_setting">Задата подешавања</string>
   <string name="msim_enable_sim">Укључи</string>
+  <string name="msim_disable_sim_card_btn_text">U redu</string>
+  <string name="msim_disable_sim_card_summary_default_card">"Ova kartica je trenutno postavljena kao zadana SIM kartica. Ako je prestanete koristiti, nećete moći upućivati pozive ili koristiti mobilnu podatkovnu vezu. Možete zaustaviti ovu SIM karticu nakon postavljanja druge SIM kartice kao zadane."</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">Nećete moći upućivati pozive ili koristiti mobilnu podatkovnu vezu. Prestati koristiti %s SIM karticu?</string>
+  <string name="msim_disable_sim_card_title">Prestani s korištenjem SIM kartice</string>
   <string name="msim_general_setting">Подешавања</string>
   <string name="msim_has_been_disabled">(Онемогућено)</string>
   <string name="msim_info_editor_name">Уреди назив SIM картице</string>

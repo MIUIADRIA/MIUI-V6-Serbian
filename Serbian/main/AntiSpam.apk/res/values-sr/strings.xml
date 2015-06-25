@@ -48,10 +48,10 @@
   <string name="address_choose_hint">%1$s, %2$s i %3$d остале локације</string>
   <string name="addwhitelist">Додај у изузетке</string>
   <string name="all_address_choose_hint">Сви бројеви у овој покрајини</string>
-  <string name="antispam_notification_setting_title">Обавештења листе блокираних</string>
   <string name="antispam_notificaiton_type_show_all">Сви бројеви</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Неблокирани бројеви</string>
   <string name="antispam_notificaiton_type_show_none">Никад</string>
+  <string name="antispam_notification_setting_title">Обавештења листе блокираних</string>
   <string name="app_name">Листа забрањених</string>
   <string name="backsound_set_hint">Поставите своју поруку \"Одсутан сам\" за %s?</string>
   <string name="baidu_thanks">Powered By Baidu</string>
@@ -131,27 +131,22 @@
   <string name="loding">Учитавање података</string>
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Посредник</string>
+  <string name="mark_agent_block">Пријављен као посредник</string>
+  <string name="mark_fraud">Преварант</string>
+  <string name="mark_fraud_block">Пријављен као преварант</string>
+  <string name="mark_harass">Uznemiravatelj</string>
+  <string name="mark_harass_block">Prijavljen kao uznemiravatelj</string>
   <string name="mark_number_agent">Агент</string>
-  <string name="mark_number_banking">Продаја осигурања</string>
   <string name="mark_number_fraud">Превара</string>
+  <string name="mark_number_info">"
+Имајте на уму да су по некад ови позиви можда и корисни (нпр. када сте у потрази за станом). Блокирајте само оне бројеве од којих не желите да никада примате позиве."</string>
   <string name="mark_number_sell">Продавац</string>
   <string name="mark_number_setting_guide_content1">Блокирај позиве са пријављених бројева?</string>
   <string name="mark_number_setting_guide_content2">Аутоматски блокирај позиве од бројева који су пријављени од стране других корисника</string>
   <string name="mark_number_setting_guide_content3">Пријавили сте број као %1$s. Да ли желите да блокирате позиве од бројева који су пријављени као %2$s?</string>
   <string name="mark_number_setting_guide_forward">Подешавања листе блокираних</string>
   <string name="mark_number_setting_guide_title">Блокирај пријављене бројеве</string>
-  <string name="mark_agent_block">Пријављен као посредник</string>
-  <string name="mark_banking_insurance">Продаја осигурања</string>
-  <string name="mark_banking_insurance_block">Улагања &amp; Осигурање</string>
-  <string name="mark_express">Достављач</string>
-  <string name="mark_express_block">Пријављен као достављач</string>
-  <string name="mark_fraud">Преварант</string>
-  <string name="mark_fraud_block">Пријављен као преварант</string>
-  <string name="mark_meal">Достава хране</string>
-  <string name="mark_meal_block">Пријављен као достава хране</string>
-  <string name="mark_number_info">"
-Имајте на уму да су по некад ови позиви можда и корисни (нпр. када сте у потрази за станом). Блокирајте само оне бројеве од којих не желите да никада примате позиве."</string>
-  <string name="mark_sell">Трговац</string>
+  <string name="mark_sell">Trgovac</string>
   <string name="mark_sell_block">Пријављен као трговац</string>
   <string name="marked_by_others">"%d Остали корисници су је означили као "</string>
   <string name="marked_by_user">" означили сте је као "</string>

@@ -21,6 +21,7 @@
   <string name="default_folder_name">"Мапа без назива"</string>
   <string name="dlg_desc_confirm_alarm_silent">Активни аларми неце звонити када је тон звона утишан.</string>
   <string name="dlg_title_confirm_alarm_silent">Утишај аларме</string>
+  <string name="dlg_info_creating_message">Izrada poruke…</string>
   <string name="enable_sync">Синхронизуј</string>
   <string name="enable_sync_desc">Синхронизовати ваше белешке са вашим Mi Рачуном (%1$s)?</string>
   <string name="error_contact_not_exist">Контакт не постоји</string>
@@ -96,6 +97,7 @@
   <string name="sns_title_send">Пошаљи поруку</string>
   <string name="sns_toast_empty">"Не могу послати празну поруку"</string>
   <string name="sns_toast_over_limit">Пошаљи као слику (преко ограничења текста)</string>
+  <string name="sync_tips">Dodirnite za sinkr. bilješki s Mi Cloudom.</string>
   <string name="toast_folder_privacy_mode">"Не могу уредити мапу у Gost начину рада"</string>
   <string name="toast_message_add_image_fail">"Не могу додати слику"</string>
   <string name="toast_message_add_text_warn">"Ова врста датотека није подржана"</string>

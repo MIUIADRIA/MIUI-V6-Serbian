@@ -65,7 +65,7 @@
   <string name="status_bar_toggle_paper_mode">Начин читања</string>
   <string name="status_bar_toggle_power_mode">Перформансе</string>
   <string name="status_bar_toggle_privacy_mode">Гост</string>
-  <string name="status_bar_toggle_quiet_mode">Не сметај</string>
+  <string name="status_bar_toggle_quiet_mode">Не ометај</string>
   <string name="status_bar_toggle_reboot">Поновно покретање</string>
   <string name="status_bar_toggle_rotate">Ротација</string>
   <string name="status_bar_toggle_screen_button">Дугмићи</string>

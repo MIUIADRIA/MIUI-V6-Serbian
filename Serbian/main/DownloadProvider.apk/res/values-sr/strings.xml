@@ -7,7 +7,7 @@
   <string name="button_start_now">Започни сад</string>
   <string name="dialog_insufficient_space_on_cache">Нема довољно простора на унутрашњој меморији</string>
   <string name="dialog_insufficient_space_on_external">Нема довољно простора на спољашњој меморији</string>
-  <string name="dialog_not_show_again">Ne prikazuj ponovo</string>
+  <string name="dialog_not_show_again">"Не приказуј поново"</string>
   <string name="download_error">Неуспешно</string>
   <string name="download_no_application_title">"Није могуће отварање датотеке"</string>
   <string name="download_percent">%d%%</string>
