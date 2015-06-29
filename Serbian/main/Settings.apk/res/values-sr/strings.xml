@@ -2922,8 +2922,6 @@ Google-ов приступ синхронизацији података за м
   <string name="usb_charging_title">Ubrzaj punjenje</string>
   <string name="usb_audio_disable_routing">Онемогући USB аудио.</string>
   <string name="usb_audio_disable_routing_summary">Онемогући ауто. усмеравање на USB аудиопериферију</string>
-  <string name="usb_charging_summary">Омогућује вам прекид повезивања и пренос података и датотека са рачунаром и стављања уређаја само у начин пуњења.</string>
-  <string name="usb_charging_title">Пуњење</string>
   <string name="usb_connection_category">Повежи као</string>
   <string name="usb_eject">Искључи USB меморију</string>
   <string name="usb_eject_summary">Искључите USB меморију, тако да је можете уклонити на сигуран начин</string>
