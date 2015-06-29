@@ -44,6 +44,8 @@
   <string name="accessibility_wimax_signal_full">WiMAX пуни сигнал.</string>
   <string name="accessibility_wimax_three_bars">WiMAX три линије.</string>
   <string name="accessibility_wimax_two_bars">WiMAX две линије.</string>
+  <string name="activate_usb_message">Umetnite SIM karticu za aktiviranje USB funkcije</string>
+  <string name="activate_usb_title">Aktivirajte USB</string>
   <string name="always_use_accessory">"Користи се као задата подешавања за овај USB додатак"</string>
   <string name="always_use_device">"Користи се као задата подешавања за овај USB уређај"</string>
   <string name="app_label">"UI Система"</string>
@@ -197,6 +199,7 @@
   <string name="usb_device_confirm_prompt">Отворити %1$s када је укључен овај USB уређај?</string>
   <string name="usb_device_permission_prompt">Допустити апликацији %1$s приступ USB уређају?</string>
   <string name="usb_mode_dont_ask">"Запамти овај одабир"</string>
+  <string name="usb_function_charging_text">Povezano u načinu punjenja</string>
   <string name="usb_mode_mount_storage_title">Отворити USB меморију?</string>
   <string name="usb_mode_notification">USB меморија</string>
   <string name="usb_mtp_text">Датотеке</string>

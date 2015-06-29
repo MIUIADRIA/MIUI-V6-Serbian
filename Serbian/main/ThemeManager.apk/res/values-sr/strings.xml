@@ -49,7 +49,7 @@
   <string name="gift_present_dlg_anonymous">Анониман поклон</string>
   <string name="gift_present_dlg_input_hint">ID Mi Рачуна/Телефон</string>
   <string name="gift_present_dlg_no_fee">"Неће вам бити наплаћено од стране вашег пружаоца услуга за слање поклона"</string>
-  <string name="gift_present_dlg_present_max_limit">"Тема не може бити поклоњена више од оволико пута: %$1s."</string>
+  <string name="gift_present_dlg_present_max_limit">"Тема не може бити поклоњена више од оволико пута: %1$s."</string>
   <string name="gift_present_dlg_share">Направите код и поделите поклон</string>
   <string name="gift_present_fail_dlg_content">"Не могу послати овај поклон. "</string>
   <string name="gift_present_fail_dlg_title">"Не могу послати поклон"</string>

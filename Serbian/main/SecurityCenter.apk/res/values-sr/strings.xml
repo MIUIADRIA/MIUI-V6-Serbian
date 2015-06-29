@@ -488,7 +488,7 @@
   <string name="summary_miui_update">Ажурирање доступно за %s.</string>
   <string name="summary_mms">Филтрирај нежењене поруке (продаја, огласи, итд.)</string>
   <string name="summary_network_switch">Допусти апликацији Сигурност повезивање на интернет</string>
-  <string name="summary_never_flow_verify">"Ова бројка није потврђена са вашим давачем услуга"</string>
+  <string name="summary_never_flow_verify">"Оваj број није потврђен са вашим давачем услуга"</string>
   <string name="summary_permission">Заштити моју приватност од других апликација</string>
   <string name="summary_permission_root">Ваш уређај и лични подаци су рањиви на напад од апликација које имају ROOT приступ.</string>
   <string name="summary_power_optimizer">"Смањите перформансе вашег уређаја када је батерија на ниском проценту"</string>

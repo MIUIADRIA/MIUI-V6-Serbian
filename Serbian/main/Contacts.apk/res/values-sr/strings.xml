@@ -176,7 +176,7 @@
   <string name="contact_edit_title_insert">"Додај %s контакт"</string>
   <string name="contact_edit_title_readonly">Kontakt samo za čitanje</string>
   <string name="contact_editor_prompt_multiple_accounts">Одабери рачун за контакте на који саувати</string>
-  <string name="contact_editor_prompt_one_account">Ваш контакт ће бити синхронизован са %1$s.</string>
+  <string name="contact_editor_prompt_one_account">Hoви контакт ће бити синхронизован са %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Сачувај на уређају или новом мрежном рачуну</string>
   <string name="contact_is_readOnly">Није могуће уређивати контакте само за читање.</string>
   <string name="contact_list_loading">Учитавање…</string>
@@ -457,7 +457,7 @@
   <string name="insertContactDescription">Направи контакт</string>
   <string name="insertGroupDescription">Направи групу</string>
   <string name="invalidContactMessage">Контакт не постоји.</string>
-  <string name="keep_local">Задржи локално</string>
+  <string name="keep_local">"Nemoj sinkr."</string>
   <string name="keep_local_btn">Употреби локалну меморију телефона.</string>
   <string name="label_custom_type">"Прилагођено"</string>
   <string name="label_duplicate_count">(%1$d)</string>
@@ -487,7 +487,7 @@
   <string name="loading_resource_detail_fail">"Не могу учитати"</string>
   <string name="loading_resource_detail_info">Учитавање…</string>
   <string name="local_invisible_directory">Друго</string>
-  <string name="local_profile_title">Мој локални профил</string>
+  <string name="local_profile_title">Мој профил</string>
   <string name="local_search_label">Сви контакти</string>
   <string name="locale_change_in_progress">Контакт листа се ажурира у складу са променом језика.</string>
   <string name="login_ok">Prijava</string>
@@ -1119,6 +1119,8 @@
   <string name="type_outgoing">Одлазни позив</string>
   <string name="type_voicemail">"Говорна пошта"</string>
   <string name="unknown">Непознато</string>
+  <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznat broj"</string>
+  <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznat broj"</string>
   <string name="unknown_contact_name">Непознати контакт</string>
   <string name="upgrade_in_progress">Контакт листа се ажурира.</string>
   <string name="upgrade_out_of_memory">"У току је надоградња контаката. 
