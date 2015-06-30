@@ -20,16 +20,16 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">Особа: %1$s</item>
-		<item quantity="one">1 osoba</item>
+		<item quantity="one">1 особа</item>
     </plurals>
     <plurals name="cloud_sms_count">
-        <item quantity="other">Poruka: %d</item>
-        <item quantity="zero">0 Poruka</item>
-        <item quantity="one">1 Poruka</item>
+        <item quantity="other">Порука: %d</item>
+        <item quantity="zero">0 Порука</item>
+        <item quantity="one">1 Порука</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"Poruka (%d) nije sinkronizirano"</item>
-        <item quantity="one">"1 poruka nije sinkronizirana"</item>
+        <item quantity="other">"Порука (%d) није синхронизовано"</item>
+        <item quantity="one">"1 порука није синхронизована"</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">Порука: %1$s</item>

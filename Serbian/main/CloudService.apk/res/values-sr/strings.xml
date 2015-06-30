@@ -56,9 +56,9 @@
   <string name="enable_cloud_service_notification">Морате активирати Mi Cloud</string>
   <string name="enable_find_device_error">"Не могу искључити "Пронађи уређај". %1$s"</string>
   <string name="enable_micloud">Користи Mi Cloud</string>
-  <string name="enable_sync">Sinkr.</string>
-  <string name="enable_sync_dspt">"Nemoj sinkr."</string>
-  <string name="error_data_in_transfer">Sinkronizacija će završiti za %s sati.</string>
+  <string name="enable_sync">Синхр.</string>
+  <string name="enable_sync_dspt">"Немој синхр."</string>
+  <string name="error_data_in_transfer">Синхронизација ће се завршити за %s сати.</string>
   <string name="error_data_in_transfer_title">Mi Cloud је недоступан.</string>
   <string name="error_forbidden">Синхронизација је онемогућена због проблема са вашим Mi Рачуном</string>
   <string name="error_network">"Не могу се повезати на мрежу"</string>

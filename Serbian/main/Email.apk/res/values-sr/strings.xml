@@ -116,7 +116,7 @@
   <string name="account_setup_failed_dlg_certificate_message">Сигурно повезивање са сервером није могуће.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Сигурно повезивање са сервером није могуће.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">Vaša adresa je blokirana zaključavanjem uređaja</string>
+  <string name="account_setup_failed_dlg_device_locked">Ваша адреса је блокирана закључавањем уређаја</string>
   <string name="account_setup_failed_dlg_edit_details_action">Уреди појединости</string>
   <string name="account_setup_failed_dlg_server_message"> повезивање са сервером није могуће.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"повезивање са сервером није могуће.
@@ -134,7 +134,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Изборно</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Префикс IMAP путање</string>
   <string name="account_setup_incoming_mail_adress_label">Адреса e-поште</string>
-  <string name="account_setup_incoming_mail_domain_hint">Opcija</string>
+  <string name="account_setup_incoming_mail_domain_hint">Опција</string>
   <string name="account_setup_incoming_mail_domain_label">домена</string>
   <string name="account_setup_incoming_password_label">Лозинка</string>
   <string name="account_setup_incoming_port_label">Порт</string>
@@ -251,8 +251,8 @@
   <string name="attachment_mgr_name">Привићи</string>
   <string name="attachment_not_exists">Прилог није доступан!</string>
   <string name="attachment_not_found">"Не могу преузети прилог."</string>
-  <string name="attachment_open_SecurityException_hint">Provjera dopuštenja, oštećenja i sl.</string>
-  <string name="attachment_open_SecurityException_title">Neuspjelo otvaranje datoteke</string>
+  <string name="attachment_open_SecurityException_hint">Провера допуштења, оштећења и сл.</string>
+  <string name="attachment_open_SecurityException_title">Неуспело отварање датотеке</string>
   <string name="attachment_stop_all">Заустави</string>
   <string name="attachment_text">Текст</string>
   <string name="attachment_type_blocked">Нажалост, не можете сачувати нити отворити ту врсту прилога.</string>
@@ -390,13 +390,13 @@
   <string name="device_admin_label">E-пошта</string>
   <string name="device_not_activiey_lint1">Управљач уређаја није укључен</string>
   <string name="device_not_activiey_lint2">Услуга Е-поште не ради са Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Ne mogu primati nove poruke. Sinkronizacija je isključena."</string>
-  <string name="dialog_auto_download_failed">"Ne mogu preuzeti automatski."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Ne mogu primati nove poruke. Sinkronizacija je isključena."</string>
-  <string name="dialog_gmail_proxy_server_is_error">Pogreška Gmail proxy poslužitelja.</string>
-  <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za preuzimanje privitaka za %s.</string>
-  <string name="dialog_insufficient_space_on_external">"Ne mogu preuzeti privitak. Nema dovoljno prostora na vanjskoj pohrani."</string>
-  <string name="dialog_insufficient_space_on_internal">Nema dovoljno prostora na vanjskoj pohrani</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Не могу примати нове поруке. Синхронизација је искључена."</string>
+  <string name="dialog_auto_download_failed">"Не могу преузети аутоматски."</string>
+  <string name="dialog_auto_sync_setting_no_open">"Не могу примати нове поруке. Синхронизација је искључена."</string>
+  <string name="dialog_gmail_proxy_server_is_error">Грешка Gmail proxy сервера.</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">Недовољно простора за преузимање прилога за %s.</string>
+  <string name="dialog_insufficient_space_on_external">"Не могу преузети прилог. Нема довољно простора на спољној меморији."</string>
+  <string name="dialog_insufficient_space_on_internal">Нема довољно простора на спољној меморији</string>
   <string name="disable_admin_warning">УПОЗОРЕЊЕ: Деактивацијом овлашћења апликације E-пошта за управљање уређајем избрисаће се сви рачуни e-поште који траже то овлашћење, као и e-пошта, контакти, догађаји календара и други подаци.</string>
   <string name="discard">Занемари</string>
   <string name="discard_drafts">Одбаци скице</string>
@@ -709,7 +709,7 @@
   <string name="outbox_alert_button_confirm">Уреди</string>
   <string name="outbox_alert_button_no_resend">"Немој послати"</string>
   <string name="outbox_alert_button_resend">Пошаљи поново</string>
-  <string name="outbox_alert_certificate_error">"Obratite se administratoru sustava e-pošte i ažurirajte svoj certifikat."</string>
+  <string name="outbox_alert_certificate_error">"Обратите се администратору система e-поште и ажурирајте свој сертификат."</string>
   <string name="outbox_alert_description_auth_error">Грешка провере аутентичности са сервера током излазне синхронизације</string>
   <string name="outbox_alert_description_cannot_authenticate">%s грешка система E-поште</string>
   <string name="outbox_alert_description_http_error">HTTP Грешка током излазне синхронизације</string>
@@ -721,7 +721,7 @@
   <string name="outbox_alert_edit_resend">Уреди и поново пошаљи</string>
   <string name="outbox_alert_failed_edit_resend">"Немогу послати. уреди и пошаљи поново."</string>
   <string name="outbox_alert_mailbox_not_found">Адреса E-поште није пронађена</string>
-  <string name="outbox_alert_rw_io_error">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="outbox_alert_rw_io_error">Догодила се грешка. Сачекајте минут или два и покушајте поново.</string>
   <string name="outbox_alert_select_operation">Одаберите радњу</string>
   <string name="outbox_alert_title_sent_failed">"Не могу послати e-пошту"</string>
   <string name="outbox_alert_description_time_out">Грешка мрежног повезивања</string>
@@ -930,7 +930,7 @@
   <string name="ser_resp_err_map_or">или</string>
   <string name="ser_resp_err_map_pserr">Нетачно корисничко име или лозинка</string>
   <string name="ser_resp_err_map_serclosed">Сервер је затворен</string>
-  <string name="ser_resp_err_map_serclosed_url_tag">Kako to riješiti?</string>
+  <string name="ser_resp_err_map_serclosed_url_tag">Како то решити?</string>
   <string name="ser_resp_err_map_ssl">"Одаберите 'SSL/TLS (Прихвати све сертификате)' у 'Врсту сигурности'"</string>
   <string name="set_network">Подешавање мреже</string>
   <string name="settings_activity_title">E-пошта</string>
@@ -1010,7 +1010,7 @@
   <string name="unread_from_someone">Непрочитана пошта од %s</string>
   <string name="unread_string">Разговор није прочитан</string>
   <string name="unsent_messages_in_outbox">Број непосланих порука у мапи %2$s: %1$s</string>
-  <string name="unzip_file_failed">Raspakiravanje nije uspjelo!</string>
+  <string name="unzip_file_failed">Распакивање није успело!</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Освежено у: %1$s</string>
   <string name="updated_just_now">Освежено управо сада</string>

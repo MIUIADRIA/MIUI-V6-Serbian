@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_recover">O vraćanju</string>
+  <string name="about_to_recover">О враћању</string>
   <string name="app_name">Сиг. копија Apk​</string>
   <string name="back_up_task_in_process">Израда у току</string>
   <string name="back_up_task_unfinished">Сиг. копија није завршена</string>

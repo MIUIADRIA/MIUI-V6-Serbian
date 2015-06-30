@@ -238,7 +238,7 @@
   <string name="menu_item_virus_lib_auto_update_summary">Ажурирано на %s</string>
   <string name="menu_item_virus_lib_auto_update_title">Ажурирај аутоматски</string>
   <string name="menu_text_antispam">Антиспам</string>
-  <string name="menu_text_antivirus">Анти Вирус</string>
+  <string name="menu_text_antivirus">Антивирус</string>
   <string name="menu_text_garbage_cleanup">Чистач</string>
   <string name="menu_text_license_manager">Допуштења</string>
   <string name="menu_text_networkassistants">Потрошња података</string>
@@ -482,13 +482,13 @@
   <string name="summary_flow_notification">Прикажи месечну статистику употребе података у вашем панелу обавештења.</string>
   <string name="summary_flow_purchase_beyond">"Премашили сте ограничену употребу података за овај месец за %sMB."</string>
   <string name="summary_flow_purchase_left">Преостало вам је свега %sMB мобилних података за овај месец.</string>
-  <string name="summary_flow_verify">"Ваша статистика употребе података није синхронизована са вашим давачем услуга %d дана."</string>
+  <string name="summary_flow_verify">"Ваша статистика употребе података није синхронизована са вашим пружаоцем услуга %d дана."</string>
   <string name="summary_garbage_lib">Користите најновије дефиниције ѕа спречавање spyware, adware и другог нежењеног смећа.</string>
   <string name="summary_install_virus">Проверите апликације за вирусе пре инсталације</string>
   <string name="summary_miui_update">Ажурирање доступно за %s.</string>
   <string name="summary_mms">Филтрирај нежењене поруке (продаја, огласи, итд.)</string>
   <string name="summary_network_switch">Допусти апликацији Сигурност повезивање на интернет</string>
-  <string name="summary_never_flow_verify">"Оваj број није потврђен са вашим давачем услуга"</string>
+  <string name="summary_never_flow_verify">"Оваj број није потврђен са вашим пружаоцем услуга"</string>
   <string name="summary_permission">Заштити моју приватност од других апликација</string>
   <string name="summary_permission_root">Ваш уређај и лични подаци су рањиви на напад од апликација које имају ROOT приступ.</string>
   <string name="summary_power_optimizer">"Смањите перформансе вашег уређаја када је батерија на ниском проценту"</string>

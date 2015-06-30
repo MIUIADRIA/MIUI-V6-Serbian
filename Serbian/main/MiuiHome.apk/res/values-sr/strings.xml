@@ -2,7 +2,7 @@
 <resources>
   <string name="activity_not_found">"Апликација није инсталирана на вашем уређају"</string>
   <string name="app_being_backup_message">Извози се сиг. копија апликације</string>
-  <string name="app_being_restored_message">Izvodi se vraćanje aplikacije</string>
+  <string name="app_being_restored_message">Изводи се враћање апликације</string>
   <string name="app_category_books">Књиге</string>
   <string name="app_category_education">Образовање</string>
   <string name="app_category_entertainment">Забава</string>

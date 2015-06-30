@@ -457,7 +457,7 @@
   <string name="insertContactDescription">Направи контакт</string>
   <string name="insertGroupDescription">Направи групу</string>
   <string name="invalidContactMessage">Контакт не постоји.</string>
-  <string name="keep_local">"Nemoj sinkr."</string>
+  <string name="keep_local">"Немој Синхр."</string>
   <string name="keep_local_btn">Употреби локалну меморију телефона.</string>
   <string name="label_custom_type">"Прилагођено"</string>
   <string name="label_duplicate_count">(%1$d)</string>
@@ -1119,8 +1119,8 @@
   <string name="type_outgoing">Одлазни позив</string>
   <string name="type_voicemail">"Говорна пошта"</string>
   <string name="unknown">Непознато</string>
-  <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznat broj"</string>
-  <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznat broj"</string>
+  <string name="unknow_phone_number_call_failed">"Не могу назвати непознати број"</string>
+  <string name="unknow_phone_number_mms_failed">"Не могу послати SMS на непознати број"</string>
   <string name="unknown_contact_name">Непознати контакт</string>
   <string name="upgrade_in_progress">Контакт листа се ажурира.</string>
   <string name="upgrade_out_of_memory">"У току је надоградња контаката. 

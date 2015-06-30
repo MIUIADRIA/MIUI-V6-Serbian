@@ -59,12 +59,12 @@
   <string name="chenghu_disable_mms">Није могуће користити надимке у MMS-u</string>
   <string name="class_0_message_activity">Порука класе 0</string>
   <string name="close">Затвори</string>
-  <string name="cloud_recommend_msg">Dodirnite za sinkr. poruka s Mi Cloudom.</string>
-  <string name="cloud_state_disabled">Sinkr. s Mi Cloud je isključena</string>
-  <string name="cloud_state_sync_finished">Sinkr. s Mi Cloudom</string>
-  <string name="cloud_state_syncing">Sinkr. s Mi Cloud…</string>
+  <string name="cloud_recommend_msg">Додирните за синхро. порука са Mi Cloudom.</string>
+  <string name="cloud_state_disabled">Синхр. са Mi Cloud је искључена</string>
+  <string name="cloud_state_sync_finished">Синхр. са Mi Cloudom</string>
+  <string name="cloud_state_syncing">Синхр. са Mi Cloud…</string>
   <string name="compressing">Слика је превелика. Компресија…</string>
-  <string name="confirm">у рду</string>
+  <string name="confirm">у реду</string>
   <string name="confirm_add_blacklist_dialog_dspt">Додати број на листу забрањених?</string>
   <string name="confirm_delete_SIM_message">Ова порука на SIM картици ће бити избрисана.</string>
   <string name="confirm_delete_all_SIM_messages">све поруке на SIM картици ће бити избрисане.</string>
