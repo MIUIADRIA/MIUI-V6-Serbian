@@ -314,6 +314,8 @@
   <string name="terabyteShort">TB</string>		  
   <string name="title_more_source">Još aplikacija</string>
   <string name="title_recent">Nedavno</string>
+  <string name="title_more_source">Još aplikacija</string>
+  <string name="title_recent">Nedavno</string>
   <string name="toast_file_not_can_read">Нису пронађене апликације за извршење ове радње.</string>
   <string name="tools">ALATI</string>
   <string name="trans_task">Мрежни пренос</string>

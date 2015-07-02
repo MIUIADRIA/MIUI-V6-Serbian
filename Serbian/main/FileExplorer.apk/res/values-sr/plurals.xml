@@ -64,4 +64,5 @@
         <item quantity="few"> (%1$d slika)</item>
         <item quantity="many"> (%1$d slika)</item>
     </plurals>
+    </plurals>
 </resources> 
