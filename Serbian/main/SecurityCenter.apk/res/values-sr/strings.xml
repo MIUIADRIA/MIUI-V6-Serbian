@@ -256,7 +256,7 @@
   <string name="packages_subtitle">Укључени пакети</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Допусти</string>
-  <string name="permission_action_prompt">Питај</string>
+  <string name="permission_action_prompt">Obavijesti</string>
   <string name="permission_action_reject">Одбиј</string>
   <string name="permission_close_permission_control_dialog_msg">"Када је Управљач допуштења искључен, апликација неће питати за допуштење приступа вашим контактима, историји позива, подешавањима промене система или камере и осталим ресурсима уређаја."</string>
   <string name="permission_close_permission_control_dialog_title">Искључити Управљач допуштења?</string>

@@ -134,8 +134,6 @@
   <string name="comfirm_delete_current_album">Избрисати овај албум?</string>
   <string name="comma">, </string>
   <string name="confirm">У реду</string>
-  <string name="confirm_all_photo_are_this_people_face">Повезати све фотографије са %s?</string>
-  <string name="confirm_all_photo_not_this_people_face">Нема подударања за %s?</string>
   <string name="confirm_delete">Избрисати (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Избрисати албуме: %s (укупно %s)?</string>
   <string name="confirm_delete_has_cloud_image_video">"Избрисати ставке (%s) на овом уређају и у Mi Cloudu?"</string>
@@ -148,8 +146,6 @@
   <string name="confirm_download_video_message">Морате завршити са преузимањем овог видео записа пре него што га можете погледати. Преузимање ће се наставити када је WLAN доступан.</string>
   <string name="confirm_download_video_title">Преузми видео запис</string>
   <string name="confirm_face">Подударање</string>
-  <string name="confirm_left_photo_will_move_in">%s је на свим осталим фотографијама?</string>
-  <string name="confirm_left_photo_will_move_out">""%s није ни на једној од преосталих фотографија?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Повежите овај албум са %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Повежите ове албуме са %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Није ова особа</string>
@@ -486,6 +482,8 @@
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Препознавање слике…</string>
   <string name="redeye">Црвене очи</string>
+  <string name="recommanded_face_abandon_tip">Uklonjeno iz preporuka</string>
+  <string name="recommanded_face_added_tip">Dodano u \"%s\"</string>
   <string name="redeye_tooltip">Дотакните за уклањање црвених очију</string>
   <string name="refocus_data_downloading">Преузимање преусмерених података…</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s ставка не може бити уклоњена из сакривеног албума: %1$s."</string>
