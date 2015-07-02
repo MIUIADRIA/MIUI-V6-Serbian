@@ -8,7 +8,7 @@
   <string name="adding_upload_tasks">Учитавам задатке…</string>
   <string name="already_signin_description">"Већ сте се пријавили данас."</string>
   <string name="app_name">Датотеке</string>
-  <string name="archive_send_to">Pošalji…</string>
+  <string name="archive_send_to">Пошаљи...</string>
   <string name="background">У позадини</string>
   <string name="big5_summary">Задати формат за Windowse са традиционалним кинеским</string>
   <string name="big5_title">BIG5</string>
@@ -25,7 +25,7 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Документи</string>
-  <string name="category_file">Datoteke</string>
+  <string name="category_file">Датотеке</string>
   <string name="category_log">Записи</string>
   <string name="category_music">Музика</string>
   <string name="category_other">Остало</string>
@@ -60,7 +60,7 @@
   <string name="data_capacity">Подаци %1$s</string>
   <string name="decompress_cancel">Откажи</string>
   <string name="decompress_confirm">Распакуј</string>
-  <string name="decompress_destination_error">"Raspakiranje nije uspjelo: ne mogu ovdje raspakirati datoteke."</string>
+  <string name="decompress_destination_error">"Распакивање није успело: не моу овде распаковати датотеке."</string>
   <string name="decompress_fail">Распакивање неуспешно: архива оштећена или датотека истог назива већ постоји.</string>
   <string name="decompress_success">Распакивање завршено</string>
   <string name="decompress_to">Распакуј у…</string>
@@ -90,7 +90,7 @@
   <string name="error_filename_too_long">Назив је предугачак.</string>
   <string name="error_info_cant_send_folder">"Не могу послати ову врсту датотеке."</string>
   <string name="error_open_file_failed_no_app_found">Нема нађених апликација да изврше ову радњу.</string>
-  <string name="expand_all">Sve</string>
+  <string name="expand_all">Све</string>
   <string name="fail_to_create_folder">Недовољно простора или мапа већ постоји.</string>
   <string name="fail_to_create_folder_unknown">"Не могу направити мапу"</string>
   <string name="fail_to_rename">Датотека са истим називом већ постоји.</string>
@@ -126,7 +126,7 @@
   <string name="gbk_title">GBK</string>
   <string name="get_cloud_space">Додај 500GB</string>
   <string name="gigabyteShort">GB</string>
-  <string name="group_title">%2$s od %1$s</string>
+  <string name="group_title">%2$s од %1$s</string>
   <string name="instruction">Унесите адресу у FTP клијент:</string>
   <string name="instruction_pre">Додирните за покретање FTP сервера</string>
   <string name="kilobyteShort">KB</string>
@@ -273,8 +273,8 @@
   <string name="sd_card_size">SD картица: %1$s</string>
   <string name="sd_full">Ваша SD картица је пуна.</string>
   <string name="sdcard">SD картица</string>
-  <string name="sdcard_available">Dostupno %1$s</string>
-  <string name="sdcard_total">Ukupno %1$s</string>
+  <string name="sdcard_available">Доступно %1$s</string>
+  <string name="sdcard_total">Укупно %1$s</string>
   <string name="search_hint">Тражи</string>
   <string name="search_title">Тражи</string>
   <string name="send_to_midrive">KuaiPan</string>
@@ -307,15 +307,15 @@
   <string name="tab_category">Категорије</string>
   <string name="tab_expand">Прошири</string>
   <string name="tab_local">Локално</string>
-  <string name="tab_more">Više</string>
+  <string name="tab_more">Више</string>
   <string name="tab_path">MAPE</string>
-  <string name="tab_source">APLIK.</string>
-  <string name="tab_storage">POHRANA</string>
+  <string name="tab_source">АПЛИК.</string>
+  <string name="tab_storage">МЕМОРИЈА</string>
   <string name="terabyteShort">TB</string>		  
-  <string name="title_more_source">Još aplikacija</string>
-  <string name="title_recent">Nedavno</string>
+  <string name="title_more_source">Још апликација</string>
+  <string name="title_recent">Недавно</string>
   <string name="toast_file_not_can_read">Нису пронађене апликације за извршење ове радње.</string>
-  <string name="tools">ALATI</string>
+  <string name="tools">АЛАТИ</string>
   <string name="trans_task">Мрежни пренос</string>
   <string name="transing">Слање…</string>
   <string name="trash_box_capacity">Канта за смеће %1$s</string>
@@ -353,7 +353,7 @@
   <string name="wait_wifi">Чекам WLAN…</string>
   <string name="waiting">Čekanje…</string>
   <string name="wangpan_root_path">Мој Drive</string>
-  <string name="wechat_video">Video na %s</string>
+  <string name="wechat_video">Видео на %s</string>
   <string name="wifi_state">WLAN мрежа</string>
   <string name="xiaomi_account">Mi Рачун</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>

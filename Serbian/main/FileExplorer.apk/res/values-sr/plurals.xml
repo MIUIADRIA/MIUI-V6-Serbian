@@ -49,19 +49,19 @@
         <item quantity="many">Одабрано: %1$d</item>
 	</plurals>
     <plurals name="items_file">
-        <item quantity="other"> (%1$d datoteka)</item>
-        <item quantity="zero"> (%1$d datoteka)</item>
-        <item quantity="one"> (%1$d datoteka)</item>
-        <item quantity="two"> (%1$d datoteke)</item>
-        <item quantity="few"> (%1$d datoteka)</item>
-        <item quantity="many"> (%1$d datoteka)</item>
+        <item quantity="other"> (%1$d датотека)</item>
+        <item quantity="zero"> (%1$d датотека)</item>
+        <item quantity="one"> (%1$d датотека)</item>
+        <item quantity="two"> (%1$d датотека)</item>
+        <item quantity="few"> (%1$d датотека)</item>
+        <item quantity="many"> (%1$d датотека)</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (%1$d slika)</item>
-        <item quantity="zero"> (%1$d slika)</item>
-        <item quantity="one"> (%1$d slika)</item>
-        <item quantity="two"> (%1$d slike)</item>
-        <item quantity="few"> (%1$d slika)</item>
-        <item quantity="many"> (%1$d slika)</item>
+        <item quantity="other"> (%1$d слика)</item>
+        <item quantity="zero"> (%1$d слика)</item>
+        <item quantity="one"> (%1$d слика)</item>
+        <item quantity="two"> (%1$d слика)</item>
+        <item quantity="few"> (%1$d слика)</item>
+        <item quantity="many"> (%1$d слика)</item>
     </plurals>
 </resources> 

@@ -55,7 +55,7 @@
   <string name="delete_wallpapers_message">Избрисати слике позадине: %1$d?</string>
   <string name="disable">Онемогући</string>
   <string name="disable_wallpaper_scroll">Искључи померање слике</string>
-  <string name="deselect_all">Poništi odabir</string>
+  <string name="deselect_all">Поништи одабир</string>
   <string name="download_action">Преузми</string>
   <string name="edit_folder_title">Уреди назив мапе</string>
   <string name="editing_add_widget_tips">Уреди widgete</string>
@@ -186,7 +186,7 @@
   <string name="reset_scene_prompt">Екран ће се вратити на задата подешавања.</string>
   <string name="scroll_tip_format_when_announce_accessibility">на страници %1$d, %2$d апликација</string>
   <string name="select_frame">Оквир</string>
-  <string name="select_all">Odaberi sve</string>
+  <string name="select_all">Одабери све</string>
   <string name="select_photo">Фотографија</string>
   <string name="setting_wallpaper_tip">Помакни или увећај за прилагођавање</string>
   <string name="settings_shortcut">Подешавања</string>
