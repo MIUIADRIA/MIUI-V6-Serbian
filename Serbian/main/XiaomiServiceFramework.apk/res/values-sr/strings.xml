@@ -8,14 +8,19 @@
   <string name="activate_feature_mx">Mi поруке</string>
   <string name="activate_phone_failed_notif_title">"Не могу активирати SIM картицу"</string>
   <string name="activate_phone_failed_notif_title_msim">"Не могу активирати SIM картицу %s"</string>
+  <string name="activate_popup_confirm_all_gateway_failed_query_info">Покушавам понов</string>
+  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Покушавам поновo</string>
   <string name="activate_popup_confirm_failed_phone_error">Покушавам поново</string>
   <string name="activate_popup_confirm_failed_query_info">Пошаљи поново</string>
   <string name="activate_popup_confirm_failed_receive_sms">Покушавам поново</string>
   <string name="activate_popup_confirm_failed_send_sms">Пошаљи поново</string>
   <string name="activate_popup_confirm_failed_server">Покушавам поново</string>
-  <string name="activate_popup_confirm_upload_diagnosis_info">Пошаљи</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Ваш даваоц услуга може вам наплатити 2 међународне SMS поруке кориштене за активирање %s.</string>
   <string name="activate_popup_desc_2_sim_cards">Ваш даваоц услуга може вам наплатити 2 SMS поруке кориштене за активирање %s.</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"Ne mogu pronaći vaš broj telefona. Provjerite je li vaša SIM kartica aktivirana.
+Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate %s"</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Ne mogu poslati SMS aktivacije. Provjerite je li vaša SIM kartica aktivirana.
+Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate %s"</string>
   <string name="activate_popup_desc_failed_phone_error">Број телефона који сте унели је неисправан.</string>
   <string name="activate_popup_desc_failed_query_info">"Не могу пронаћи ваш број телефона. Проверите је ли ваша SIM картица активирана."</string>
   <string name="activate_popup_desc_failed_receive_sms">Проверите да ли је број телефона који сте унели исправан и да је локална SIM картица активирана.</string>
@@ -34,10 +39,8 @@
   <string name="activate_popup_desc_register_account_intl">Ваш даваоц услуга може вам наплатити међународну SMS поруку коришћену за израду Mi рачуна.</string>
   <string name="activate_popup_desc_sim_card">Ваш даваоц услуга може вам наплатити SMS поруку коришћену за активирање %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Да омогућите %s, унесите ваш број телефона</string>
-  <string name="activate_popup_desc_upload_diagnosis_info">"Пријавити Mi-u овај проблем?  (Report ID : %s)"</string>
-  <string name="activate_popup_link_diagnosis_detail">Које информације ће бити укључене?</string>
-  <string name="activate_popup_title_diagnosis_detail">Детаљи дијагностике</string>
-  <string name="activate_popup_title_failed_phone_error">Број телефона није исправан</string>
+  <string name="activate_popup_title_all_gateway_failed_query_info">"Ne mogu pronaći broj telefona"</string>
+  <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne mogu poslati SMS aktivacije"</string>
   <string name="activate_popup_title_failed_query_info">"Не могу пронаћи број"</string>
   <string name="activate_popup_title_failed_receive_sms">Нема одговора</string>
   <string name="activate_popup_title_failed_send_sms">"Не могу послати SMS"</string>
@@ -45,7 +48,6 @@
   <string name="activate_popup_title_manual">Активирај %s</string>
   <string name="activate_popup_title_new_sim_card">Активирај поново %s</string>
   <string name="activate_popup_title_register_account">Изради Mi рачуном</string>
-  <string name="activate_popup_title_upload_diagnosis_info">"Не могу активирати SIM картицу"</string>
   <string name="activate_sms_postfix">Овај SMS се користи за активирање вашег Mi уређаја.</string>
   <string name="activate_status_desc_acquire_phone_number">Добијање броја телефона са сервера</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Дошло је до грешке на серверу при добијању броја телефона</string>

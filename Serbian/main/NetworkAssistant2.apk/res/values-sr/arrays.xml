@@ -58,4 +58,10 @@
         <item>Често коришћено</item>
         <item>Назив</item>
     </string-array>
+		<string-array name="traffic_saving_compress_level_string_array">
+        <item>Ništa</item>
+        <item>Niska</item>
+        <item>Srednja</item>
+        <item>Visoka</item>
+    </string-array>
 </resources>

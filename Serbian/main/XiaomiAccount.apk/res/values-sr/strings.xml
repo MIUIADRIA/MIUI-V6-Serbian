@@ -37,6 +37,8 @@
   <string name="account_user_using_qq_avatar">Употреби QQ слику профила</string>
   <string name="account_user_using_weibo_avatar">Употреби Sina Weibo слику профила</string>
   <string name="account_xiaomi_service">Услуге</string>
+  <string name="account_vip_level">Vip razina</string>
+  <string name="account_vip_task">Zadatak</string>
   <string name="activate_desc_2_intl_sim_cards">2 међунарона SMS-a ће бити послата за активирање SIM картице</string>
   <string name="activate_desc_2_sim_cards">2 SMS-a ће бити послата за активирање SIM kartice</string>
   <string name="activate_desc_intl_sim_card">Међународни SMS ће бити послат за активирање SIM kartice</string>
@@ -170,6 +172,7 @@
   <string name="error_ssl_hand_shake">Грешка са сервером. Покушајте да поставите датум/време вашег система на време локације на којој се тренутно налазите.</string>
   <string name="error_unknown">"Не могу се пријавити"</string>
   <string name="error_user_name">Неважеће корисничко име</string>
+  <string name="exceed_binded_phone_times_notice">Овај број телефона већ је повезан са другим Mi рачуном.</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Овај број телефона већ је повезан са другим Mi рачуном</string>
   <string name="failed_get_mibi_info">"Не могу добити стање"</string>
@@ -415,6 +418,7 @@
   <string name="vcode_prompt_long">Унесите код за проверу</string>
   <string name="verification_failed">Аутентификација није успела</string>
   <string name="verify">Провери</string>
+  <string name="vip_level_value">LV%d</string>
   <string name="wipe_data_dialog_msg">%s ће бити избрисано ако наставите.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Неке ставке нису биле синхронизоване."</string>
