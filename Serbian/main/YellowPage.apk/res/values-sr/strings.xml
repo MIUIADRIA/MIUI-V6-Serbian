@@ -183,8 +183,8 @@
   <string name="express_view_status">Прати</string>
   <string name="expresss_inquiry_all_logistics">Све</string>
   <string name="expresss_inquiry_frequently_used_logistics">Често коришћено</string>
-  <string name="follow_express">Prati %1$s</string>
-  <string name="follow_express_success">Ne pratim %1$s.</string>
+  <string name="follow_express">Прати %1$s</string>
+  <string name="follow_express_success">Не пратим %1$s.</string>
   <string name="fail_to_add_account">"Није могуће додати рачун"</string>
   <string name="fraud_number_online_identification">Блокирај телефонске рекламе </string>
   <string name="gallery">Галерија</string>
@@ -520,9 +520,9 @@
   <string name="uploads_disabled">Учитавање датотека је онемогућено</string>
   <string name="user_agreement2">" Кориснички споразум"</string>
   <string name="user_agreement4">Правила о приватности</string>
-  <string name="user_notice_identify_summary_format">"Ваш телефон ће користити MIUI базу података за блокирање нежељених позива када је спојен на WLAN. Додиривањем \ "Слажем се \" прихватате Ксиаоми %1$s и %2$s."</string>
-  <string name="user_notice_identify_summary_format_cta">"Ваш телефон ће користити MIUI базу података за блокирање нежељених позива када је спојен на WLAN. Додиривањем \ "Слажем се \" прихватате Ксиаоми %1$s и %2$s."</string>
-  <string name="user_notice_yp_detail_summary_format">"Неке од ваших информација ознака директоријума су застареле. Желите ли их ажурирати? Додиривањем \ "Слажем се \" прихватате Ксиаоми %1$s и %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Ваш телефон ће користити MIUI базу података за блокирање нежељених позива када је спојен на WLAN. Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
+  <string name="user_notice_identify_summary_format_cta">"Ваш телефон ће користити MIUI базу података за блокирање нежељених позива када је спојен на WLAN. Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
+  <string name="user_notice_yp_detail_summary_format">"Неке од ваших информација ознака директоријума су застареле. Желите ли их ажурирати? Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Неке од ваших информација ознака директоријума су застареле. Желите ли их ажурирати? Додиривањем \ "Слажем се \" прихватате Xiaomi %1$s и %2$s."</string>
   <string name="voicemail">Говорна пошта</string>
   <string name="web_permission_message">%1$s Треба погледати ваш %2$s да правилно функционише.</string>

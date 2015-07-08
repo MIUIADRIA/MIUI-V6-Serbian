@@ -36,7 +36,7 @@
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="current_network_state_not_need_diagnose">Нормално</string>
   <string name="daily_limit_network_available_body">Додирни за преглед статистике употребе података.</string>
-  <string name="daily_limit_network_available_body_open_traffic_saving">Dodirnite za uključivanje mobilnih podataka.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Додирните за укључивање мобилнох података.</string>
   <string name="daily_limit_over_message">"Премашили сте своје дневно ограничење употребе података."</string>
   <string name="daily_pkg_traffic">Постави ограничење макс. употребе података</string>
   <string name="data_network_blocked_notification_title">Нема повезивања са интернетом</string>
@@ -251,7 +251,7 @@
   <string name="notify_daily_limit_body">Искоришћено овај дан: %s. Додирните да поставите ограничење.</string>
   <string name="notify_daily_limit_title">Поставите дневно ограничење података </string>
   <string name="notify_daily_limit_title_for_slotnum">Поставите дневно ограничење за %s</string>
-  <string name="notify_daily_traffic_saving_title">Iskorišteno %s danas</string>
+  <string name="notify_daily_traffic_saving_title">Искоришћено %s данас</string>
   <string name="notify_month_traffic_body">Искоришћено овај месец: %s. Додирните да поставите ограничење.</string>
   <string name="notify_setting_pkg_title">Поставите месечно ограничење података</string>
   <string name="notify_setting_pkg_title_for_slotnum">Postavite mjesečno ograničenje za %s</string>
@@ -329,9 +329,9 @@
   <string name="pref_title_traffic_limit_number">Величина</string>
   <string name="pref_title_traffic_speed_state">Прикажи брзину везе у траци са обавештењима</string>
   <string name="pref_title_update_notification">Прикажи обавештења о употреби података</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Smanji uporabu podataka za nove aplikacije</string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatski aktiviraj Uštedu podataka za novo instalirane aplikacije čija uporaba podataka može biti značajno smanjena</string>
-  <string name="pref_traffic_saving_compressed">Smanjeno</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Смањи употребу података за нове апликације</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Аутоматски активирај Уштеду података за инсталиране апликације чија употреба података може бити значајно смањена</string>
+  <string name="pref_traffic_saving_compressed">Смањено</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"
 &lt;b&gt;1. Хоће ли укључивање употребе података утицати на моју приватност??&lt;/b&gt;
@@ -341,11 +341,11 @@
 &lt;b&gt;2. Зашто уштеда података не ради??&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
 Уштеда података ради само када користите 2G/3G мрежу вашег мобилног оператера за слање и преузимање садржаја.</string>
-  <string name="pref_traffic_saving_no_compress">Normalno</string>
+  <string name="pref_traffic_saving_no_compress">Нормално</string>
   <string name="pref_traffic_saving_notify_switch">Прикажи у панелу обавештења</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Prikaži statistiku uporabu podataka u panelu obavijesti</string>
-  <string name="pref_traffic_saving_pic_compress_level">Slika omjera kompresije</string>
-  <string name="pref_traffic_saving_switch">Смањите уптребу података</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Прикажи статистику употребе података у панелу обавештења</string>
+  <string name="pref_traffic_saving_pic_compress_level">Слика мере компресије</string>
+  <string name="pref_traffic_saving_switch">Смањите употребу података</string>
   <string name="pref_traffic_saving_switch_hint">Користи proxy за сажимање података</string>
   <string name="pref_traffic_saving_title">Подешавања уштеде података</string>
   <string name="pref_traffic_saving_whitelist">Изузетака</string>
@@ -362,7 +362,7 @@
   <string name="protocol_exception_title">Дијагностика протокола мреже</string>
   <string name="protocol_loop_back_exception_summary">Тест локалне повратне петље није успео. Да пријавите MIUI-у овај проблем, идите у апликацијама Пријава грешака и пошаљите извештај са свог уређаја..</string>
   <string name="reach_daily_limit_value_body">Смањите свој промет са подацима.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Dodirni za uključivanje Uštede podataka.</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Додирни за укључивање Уштеде података.</string>
   <string name="reach_daily_limit_value_title">Постигнуто ограничење дневних података</string>
   <string name="read_number">86 предмета</string>
   <string name="read_unit">" предмета"</string>
@@ -481,7 +481,7 @@
   <string name="traffic_protection_use_data">Подаци онемогућени</string>
   <string name="traffic_purchase_body">Обновите бон.</string>
   <string name="traffic_purchse_suggestion">Ограничење података премашено</string>
-  <string name="traffic_saving_button_mng">Upravljaj aplikacijama Uštede podataka</string>
+  <string name="traffic_saving_button_mng">Управљај апликацијама Уштеде података</string>
   <string name="traffic_saving_button_sorted">Графикон</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Поређај по</string>
   <string name="traffic_saving_button_start">Укључи</string>
@@ -499,19 +499,19 @@
   <string name="traffic_saving_msg_month">Месечна уштеда:</string>
   <string name="traffic_saving_msg_not_started">Искључено</string>
   <string name="traffic_saving_msg_today">Уштеда данас</string>
-  <string name="traffic_saving_need_optimize">Može biti optimizirano</string>
-  <string name="traffic_saving_notification_button_start">Aktiviraj</string>
+  <string name="traffic_saving_need_optimize">Може бити оптимизовано</string>
+  <string name="traffic_saving_notification_button_start">Активирај</string>
   <string name="traffic_saving_notify_start_content">Уштеда за овај месец %s</string>
   <string name="traffic_saving_notify_start_title">Ваша употреба података је смањена</string>
-  <string name="traffic_saving_one_key_optimize">Optimiziraj za uštedu podataka</string>
-  <string name="traffic_saving_optimized">Već optimizirano</string>
-  <string name="traffic_saving_pic_compress_orig">Original</string>
-  <string name="traffic_saving_ratio">Uporaba podataka smanjena %.2f%%</string>
-  <string name="traffic_saving_ratio_low">"Ne mogu značajno smanjiti uporabu podataka"</string>
-  <string name="traffic_saving_recommanded_close">Isključite ovu stavku</string>
-  <string name="traffic_saving_recommanded_open">Uključite ovu stavku</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatski aktiviraj Uštedu podataka radi smanjenja mobilnog podatkovnog prometa aplikacija.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Ako imate mjesečno ograničenje podataka, ne zaboravite isključiti Uštedu podataka za pojedine aplikacije da izbjegnete dodatne troškove vašeg operatera.&lt;/font&gt;"</string>
-  <string name="traffic_saving_start_tip_title">Aktiviraj</string>
+  <string name="traffic_saving_one_key_optimize">Оптимизуј за уштеду података</string>
+  <string name="traffic_saving_optimized">Већ оптимизовано</string>
+  <string name="traffic_saving_pic_compress_orig">Оригинал</string>
+  <string name="traffic_saving_ratio">Употреба података смањена %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Не могу значајно смањити употребу података"</string>
+  <string name="traffic_saving_recommanded_close">Искључите ову ставку</string>
+  <string name="traffic_saving_recommanded_open">Укључите ову ставку</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Аутоматски активирај уштеду података ради смањивања промета мобилне мреже са подацима.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Ako imate mjesečno ograničenje podataka, ne zaboravite isključiti Uštedu podataka za pojedine aplikacije da izbjegnete dodatne troškove vašeg operatera.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Активирај</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>
   <string name="traffic_saving_title">Уштеда података</string>
   <string name="traffic_saving_toast_start_mobile">Уштеда података укључена</string>

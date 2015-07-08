@@ -59,9 +59,9 @@
         <item>Назив</item>
     </string-array>
 		<string-array name="traffic_saving_compress_level_string_array">
-        <item>Ništa</item>
-        <item>Niska</item>
-        <item>Srednja</item>
-        <item>Visoka</item>
+        <item>Ништа</item>
+        <item>Ниска</item>
+        <item>Средња</item>
+        <item>Висока</item>
     </string-array>
 </resources>

@@ -37,8 +37,8 @@
   <string name="account_user_using_qq_avatar">Употреби QQ слику профила</string>
   <string name="account_user_using_weibo_avatar">Употреби Sina Weibo слику профила</string>
   <string name="account_xiaomi_service">Услуге</string>
-  <string name="account_vip_level">Vip razina</string>
-  <string name="account_vip_task">Zadatak</string>
+  <string name="account_vip_level">Vip ниво</string>
+  <string name="account_vip_task">Задатак</string>
   <string name="activate_desc_2_intl_sim_cards">2 међунарона SMS-a ће бити послата за активирање SIM картице</string>
   <string name="activate_desc_2_sim_cards">2 SMS-a ће бити послата за активирање SIM kartice</string>
   <string name="activate_desc_intl_sim_card">Међународни SMS ће бити послат за активирање SIM kartice</string>

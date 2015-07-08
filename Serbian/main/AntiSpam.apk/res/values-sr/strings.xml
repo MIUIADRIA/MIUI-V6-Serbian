@@ -179,10 +179,10 @@
   <string name="note_sms_none">Нема SMS-a</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Укључено</string>
-  <string name="quiet">Tišina</string>
-  <string name="quiet_important_interruptions_mode">Tihi način rada</string>
-  <string name="quiet_mode">Tihi način rada</string>
-  <string name="quiet_off_mode">Tihi način rada isklj.</string>
+  <string name="quiet">Тишина</string>
+  <string name="quiet_important_interruptions_mode">Тихи начин рада</string>
+  <string name="quiet_mode">Тихи начин рада</string>
+  <string name="quiet_off_mode">Тихи начин рада искљ.</string>
   <string name="read_all_sms">Означи као прочитано</string>
   <string name="report">Пријави</string>
   <string name="report_error">"Не могу пријавити поруку"</string>
