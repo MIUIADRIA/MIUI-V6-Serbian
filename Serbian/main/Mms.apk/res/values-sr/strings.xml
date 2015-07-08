@@ -247,6 +247,7 @@
   <string name="message_too_big_for_video">Порука је превелика да би се приложио видео запис.</string>
   <string name="message_type_label">"Врста: "</string>
   <string name="messagelist_sender_self">ја</string>
+  <string name="mipub_messaging_entry_title">Mi порука</string>
   <string name="mms">MMS</string>
   <string name="move_down">Повуци према доле</string>
   <string name="move_up">Повуци према горе</string>

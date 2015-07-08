@@ -1008,7 +1008,7 @@
   <string name="set_default">Постави задато</string>
   <string name="set_photo_failed_msg">"Не могу доделити слику."</string>
   <string name="share_error">Овај контакт се не може делити.</string>
-  <string name="share_over_limit">"Преко ограничења, не могу делити"</string>
+  <string name="share_over_limit">"Више од 1000, не могу делити"</string>
   <string name="share_via">Дели контакт преко</string>
   <string name="share_visible_contacts">Дели видљиве контакте</string>
   <string name="shortcutActivityTitle">Одаберите пречицу за контакт</string>
