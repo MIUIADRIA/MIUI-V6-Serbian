@@ -15,8 +15,8 @@
         <item>10</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Primljeno</item>
-        <item>Poslano</item>
+        <item>Примљено</item>
+        <item>Послато</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>

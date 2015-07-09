@@ -36,7 +36,7 @@
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="current_network_state_not_need_diagnose">Нормално</string>
   <string name="daily_limit_network_available_body">Додирни за преглед статистике употребе података.</string>
-  <string name="daily_limit_network_available_body_open_traffic_saving">Додирните за укључивање мобилнох података.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Додирните за укључивање мобилних података.</string>
   <string name="daily_limit_over_message">"Премашили сте своје дневно ограничење употребе података."</string>
   <string name="daily_pkg_traffic">Постави ограничење макс. употребе података</string>
   <string name="data_network_blocked_notification_title">Нема повезивања са интернетом</string>
