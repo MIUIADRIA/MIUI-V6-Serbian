@@ -21,6 +21,8 @@
   <string name="handy_mode_title">Управљање једном руком</string>
   <string name="key_btn_ok">У реду</string>
   <string name="key_btn_space">Размак</string>
+  <string name="location_usage_restricted_body">Dodirnite za uklanjanje ograničenja.</string>
+  <string name="location_usage_restricted_title">Pozadinsko lociranje je ograničeno</string>
   <string name="lockscreen_access_pattern_cell_added">Додат је мобилни</string>
   <string name="lockscreen_access_pattern_cleared">Узорак је обрисан</string>
   <string name="lockscreen_access_pattern_detected">Узорак је довршен</string>

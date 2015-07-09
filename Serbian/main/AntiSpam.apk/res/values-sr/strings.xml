@@ -180,7 +180,8 @@
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Укључено</string>
   <string name="quiet">Тишина</string>
-  <string name="quiet_important_interruptions_mode">Тихи начин рада</string>
+  <string name="quiet_group">Тихи начин рада</string>
+  <string name="quiet_important_interruptions_mode">Доспусти само изузецима</string>
   <string name="quiet_mode">Тихи начин рада</string>
   <string name="quiet_off_mode">Тихи начин рада искљ.</string>
   <string name="read_all_sms">Означи као прочитано</string>

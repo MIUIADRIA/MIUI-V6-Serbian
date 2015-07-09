@@ -250,6 +250,12 @@
   <string name="background_data_dialog_message">Ако онемогућите позадинске податке, батерија ће трајати дуже, а коришћење података ће бити мање. Неке апликације ће можда и даље користити везу са позадинским подацима.</string>
   <string name="background_data_dialog_title">Желите да онемогућите позадинске податке?</string>
   <string name="background_data_summary">Апликације увек могу да синхронизују, шаљу и примају податке</string>
+  <string name="background_location_control_summary">"Dopusti ili spriječi aplikacije od dobivanja informacija o lokaciji vašeg uređaja u pozadini"</string>
+  <string name="background_location_control_title">Pristup pozadinskom lociranju</string>
+  <string name="background_location_deselect_apps">Poništi odabir</string>
+  <string name="background_location_requests_summary">"Dopusti Aplikacijama korištenje usluge lociranja kada ih ne koristite"</string>
+  <string name="background_location_requests_title">Dopusti pozadinsko lociranje</string>
+  <string name="background_location_select_apps">Odaberi sve</string>
   <string name="background_process_stop_description">Ово је стари процес апликације који још увек траје у случају да опет буде потребан. Обично нема разлога за његово заустављање.</string>
   <string name="backup_configure_account_default_summary">Тренутно ниједан налог не чува резервне копије података</string>
   <string name="backup_configure_account_title">Резервна копија налога</string>
