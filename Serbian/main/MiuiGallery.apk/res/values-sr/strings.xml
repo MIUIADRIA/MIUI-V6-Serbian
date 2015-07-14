@@ -197,6 +197,8 @@
   <string name="download_fail">"Не могу преузети"</string>
   <string name="download_fail_confirm_continue">"Не могу преузети %s"</string>
   <string name="download_refocus_data">Преузми рефокусирања података</string>
+  <string name="download_without_wifi_msg">"Korištenje mobilne podatkovne veze za preuzimanje fotografija će povećati uporabu podataka. Ako premašite vaše mjesečno ograničenje podataka, vaš operater može vam naplatiti dodatne naknade."</string>
+  <string name="download_without_wifi_title">Upozorenje uporabe podataka</string>
   <string name="duotone">Двобојно</string>
   <string name="duration">Трајање</string>
   <string name="early_bird">Птица</string>
@@ -242,9 +244,7 @@
   <string name="face_albumset_empty">Празно.</string>
   <string name="face_albumset_loading_data">Учитавање података...</string>
   <string name="face_albumset_pending_enable_tip">Сортирај фотографије када је уређај повезан на WLAN</string>
-  <string name="face_albumset_use_tip">"Помозите пронаћи она лепа лица,
-Чинећи га једноставнијим за приказ и управљањем слика"</string>
-  <string name="face_move_dialog_title">Одаберите лице албума</string> 
+  <string name="face_albumset_use_tip">"Automatski poredaj fotografije po osobama koje su na njima."</string> 
   <string name="facelift">Сјај лица</string>
   <string name="facetan">Преплануло лице</string>
   <string name="fail_hint">Радња није успела</string>
@@ -482,7 +482,7 @@
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Препознавање слике…</string>
   <string name="redeye">Црвене очи</string>
-  <string name="recommanded_face_abandon_tip">Уклоњено из препорука</string>
+  <string name="recommanded_face_abandon_tip">Уклоњено из prijedloga</string>
   <string name="recommanded_face_added_tip">Додато у \"%s\"</string>
   <string name="redeye_tooltip">Дотакните за уклањање црвених очију</string>
   <string name="refocus_data_downloading">Преузимање преусмерених података…</string>

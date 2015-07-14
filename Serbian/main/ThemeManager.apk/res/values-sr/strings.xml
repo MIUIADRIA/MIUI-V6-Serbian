@@ -225,7 +225,7 @@
   <string name="resource_ringtone_playing_error">Грешка</string>
   <string name="resource_ringtone_volume_mute">Звоно је утишано</string>
   <string name="resource_save_to_note">Сачувај у белешке</string>
-  <string name="resource_search_color">Одаберите боју за претраживање</string>
+  <string name="resource_search_color">Додирните боју за претраживање</string>
   <string name="resource_search_color_hint_black">Црна</string>
   <string name="resource_search_color_hint_blue">Плава</string>
   <string name="resource_search_color_hint_brown">Смеђа</string>

@@ -132,10 +132,13 @@
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Посредник</string>
   <string name="mark_agent_block">Пријављен као посредник</string>
+  <string name="mark_agent_time_setting">Blokiraj brojeve posrednika prijavljene više puta</string>
   <string name="mark_fraud">Преварант</string>
   <string name="mark_fraud_block">Пријављен као преварант</string>
+  <string name="mark_fraud_time_setting">Blokiraj brojeve prevaranta prijavljene više puta</string>
   <string name="mark_harass">Uznemiravatelj</string>
   <string name="mark_harass_block">Prijavljen kao uznemiravatelj</string>
+  <string name="mark_harass_time_setting">Blokiraj brojeve uznemiravatelja prijavljene više puta</string>
   <string name="mark_number_agent">Агент</string>
   <string name="mark_number_fraud">Превара</string>
   <string name="mark_number_info">"
@@ -148,6 +151,9 @@
   <string name="mark_number_setting_guide_title">Блокирај пријављене бројеве</string>
   <string name="mark_sell">Trgovac</string>
   <string name="mark_sell_block">Пријављен као трговац</string>
+  <string name="mark_sell_time_setting">Blokiraj brojeve trgovca prijavljene više puta</string>
+  <string name="mark_time_setting_dialog_title">Postavke broja prijave</string>
+  <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d Остали корисници су је означили као "</string>
   <string name="marked_by_user">" означили сте је као "</string>
   <string name="menu_add">Додај</string>
@@ -185,6 +191,8 @@
   <string name="quiet_mode">Тихи начин рада</string>
   <string name="quiet_off_mode">Тихи начин рада искљ.</string>
   <string name="read_all_sms">Означи као прочитано</string>
+  <string name="repeated_marked_number_summary">"Nemoj blokirati drugi poziv od iste osobe u roku od 3 minute."</string>
+  <string name="repeated_marked_number_title">"Nemoj blokirati ponovljene prijavljene pozive"</string>
   <string name="report">Пријави</string>
   <string name="report_error">"Не могу пријавити поруку"</string>
   <string name="report_error_not_net">"Не могу се пријавити на мрежу"</string>

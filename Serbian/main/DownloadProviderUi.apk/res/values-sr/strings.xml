@@ -7,7 +7,7 @@
   <string name="all_downloads">Сва преузимања</string>
   <string name="all_fileter">Све</string>
   <string name="all_the_internet">Све мрезе</string>
-  <string name="apk_filter">APK</string>
+  <string name="apk_filter">Apk</string>
   <string name="app_downloads">%s преузимања</string>
   <string name="app_label">Преузимања</string>
   <string name="auth_activity_title">Xunlei Рачун</string>
@@ -40,7 +40,8 @@
   <string name="dialog_title_queued_body">Датотека недоступна</string>
   <string name="disable">Искључено</string>
   <string name="display_expire_netiv1">Овај месец</string>
-  <string name="doc_filter">ДОКУМЕНТ</string>
+  <string name="doc_filter">Dokumenat</string>
+  <string name="download">Preuzimanja</string>
   <string name="download_complete">Завршено</string>
   <string name="download_error">Неуспешно</string>
   <string name="download_error_insufficient_space">Недовољно простора за складиштење</string>
@@ -72,6 +73,8 @@
   <string name="download_title_sorted_by_size">Преузимања - поређано по величини</string>
   <string name="download_wait_connect">Чекањe на повезивање</string>
   <string name="download_when_network_connected">Преузми користећи мобилну мрезу</string>
+  <string name="downloaded_empty">Nema preuzetih sadržaja</string>
+  <string name="downloading_empty">Nema preuzimanja sadržaja</string>
   <string name="downloads_operating">Радим</string>
   <string name="dredge_xunlei_account">Израдите Xunlei Рачун</string>
   <string name="editmode_menu_delete">Избриши</string>
@@ -96,7 +99,6 @@
   <string name="menu_title_settings">Подешавања</string>
   <string name="mi_money">Mi Кредита</string>
   <string name="mi_money_">Mi Кредита</string>
-  <string name="missing_title">&lt;Непознатo&gt;</string>
   <string name="no_downloads">Нема преузимања.</string>
   <string name="one_month">1 месец</string>
   <string name="open_download">Отвори</string>

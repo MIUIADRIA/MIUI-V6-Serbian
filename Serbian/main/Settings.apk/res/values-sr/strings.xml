@@ -1792,7 +1792,7 @@
   <string name="music_hifi_summary">Смањите буку и изобличење и повећајте квалитет звука.</string>
   <string name="music_hifi_title">Hi-Fi звук</string>
   <string name="music_hifi_volume">Hi-Fi гласноћа</string>
-  <string name="music_mi_effect_summary">Увек користи MiSound појачивач приликом коришћења звука</string>
+  <string name="music_mi_effect_summary">Kористи MiSound појачивач приликом коришћења слушалица</string>
   <string name="music_mi_effect_title">Користи MiSound појачивач</string>
   <string name="music_title_dolby_control">DOLBY</string>
   <string name="musicfx_title">Музички ефекти</string>
