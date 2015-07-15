@@ -40,8 +40,8 @@
   <string name="dialog_title_queued_body">Датотека недоступна</string>
   <string name="disable">Искључено</string>
   <string name="display_expire_netiv1">Овај месец</string>
-  <string name="doc_filter">Dokumenat</string>
-  <string name="download">Preuzimanja</string>
+  <string name="doc_filter">Докуменат</string>
+  <string name="download">Преузимања</string>
   <string name="download_complete">Завршено</string>
   <string name="download_error">Неуспешно</string>
   <string name="download_error_insufficient_space">Недовољно простора за складиштење</string>
@@ -73,8 +73,8 @@
   <string name="download_title_sorted_by_size">Преузимања - поређано по величини</string>
   <string name="download_wait_connect">Чекањe на повезивање</string>
   <string name="download_when_network_connected">Преузми користећи мобилну мрезу</string>
-  <string name="downloaded_empty">Nema preuzetih sadržaja</string>
-  <string name="downloading_empty">Nema preuzimanja sadržaja</string>
+  <string name="downloaded_empty">Нема преузетих садржаја</string>
+  <string name="downloading_empty">Нема преузимања садржаја</string>
   <string name="downloads_operating">Радим</string>
   <string name="dredge_xunlei_account">Израдите Xunlei Рачун</string>
   <string name="editmode_menu_delete">Избриши</string>

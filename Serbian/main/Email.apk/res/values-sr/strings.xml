@@ -87,7 +87,7 @@
   <string name="account_setup_account_type_title">Подешавање рачуна</string>
   <string name="account_setup_address_label">E-пошта</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Потврдите тачност корисничког имена, лозинке, и подешавања рачуна.</string>
-  <string name="account_setup_autodiscover_dlg_authfail_title">"Ne mogu postaviti račun"</string>
+  <string name="account_setup_autodiscover_dlg_authfail_title">"Не могу подесити рачун"</string>
   <string name="account_setup_basics_email_label">Адреса e-поште</string>
   <string name="account_setup_basics_headline">Рачун e-поште</string>
   <string name="account_setup_basics_manual_setup_action">Ручно подешавање</string>
@@ -111,12 +111,12 @@
   <string name="account_setup_failed_certificate_required">Потребна је клијентска потврда. Желите ли се повезати са сервером с клијентског потврдом?</string>
   <string name="account_setup_failed_check_credentials_message">Сервер је одговорио са грешком. Проверите корисничко име и лозинку и покушајте поново.</string>
   <string name="account_setup_failed_dlg_auth_message">Корисничко име или лозинка су неисправни.</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">""Ne mogu se prijaviti.
+  <string name="account_setup_failed_dlg_auth_message_fmt">""Не могу се пријавити.
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">Сигурно повезивање са сервером није могуће.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Сигурно повезивање са сервером није могуће.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">"Ne mogu se prijaviti. Ovaj je račun zaključan."</string>
+  <string name="account_setup_failed_dlg_device_locked">"Не могу се пријавити. Овај рачун је закључан."</string>
   <string name="account_setup_failed_dlg_edit_details_action">Уреди појединости</string>
   <string name="account_setup_failed_dlg_server_message"> повезивање са сервером није могуће.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"повезивање са сервером није могуће.
@@ -128,7 +128,7 @@
   <string name="account_setup_failed_security_policies_unsupported">Овај сервер захтева безбедносне функције које ваш Андроид уређај не подржава, укључујући: %s</string>
   <string name="account_setup_failed_tls_required">TLS је обавезан, али га север не подржава.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Кад избришем из смећа</string>
-  <string name="account_setup_incoming_delete_policy_label">Избриши e-poštu са сервером</string>
+  <string name="account_setup_incoming_delete_policy_label">Избриши e-пошту са сервером</string>
   <string name="account_setup_incoming_delete_policy_never_label">Никад</string>
   <string name="account_setup_incoming_headline">Подешавања долазног сервера</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Изборно</string>
@@ -329,9 +329,9 @@
   <string name="contact_info_string">Прикажи податке о контакту за %1$s</string>
   <string name="contact_info_string_default">Прикажи податке о контакту</string>
   <string name="contact_edit_set_black_list">Подеси листу блокираних</string>
-  <string name="contact_edit_set_black_list_from">Izbriši sve poruke tog pošiljatelja</string>
-  <string name="contact_edit_set_black_list_receive">Izbriši sve poruke tog primatelja (normalno kao skupinu)</string>
-  <string name="contact_edit_set_black_list_receive_summary">Za/Kopija lista sadržaja samo ovog primatelja</string>
+  <string name="contact_edit_set_black_list_from">Избриши све поруке тог пошиљаоца</string>
+  <string name="contact_edit_set_black_list_receive">Избриши све поруке тог примаоца (нормално као групу)</string>
+  <string name="contact_edit_set_black_list_receive_summary">За/Копија листа садржаја само овог примаоца</string>
   <string name="contact_edit_set_phone_contact">Уреди контакте телефона</string>
   <string name="contact_edit_set_pop_up_tips">Савети искачућег прозора</string>
   <string name="contact_edit_set_unread_top">Прикажи прво e-пошту</string>
@@ -815,16 +815,16 @@
   <string name="provider_note_live">Само неки рачуни услуге \"Plus\" укључују ПОП приступ који овом програму омогућава повезивање. Ако се не можете пријавити са својом исправном адресом е-поште и лозинке, можда немате плаћени рачун услуге \ "Плус \". Покрените веб-претраживач како бисте добили приступ тим рачунима е-поште.</string>
   <string name="provider_note_t_online">Пре постављања овог рачуна e-поште пошаљите web-локацију T-Online и створите лозинку за POP3 приступ e-пошти.</string>
   <string name="pull_to_refresh">Повуците доле да освежите</string>
-  <string name="push_wps_better_confirm_download">Preuzmi</string>
-  <string name="push_wps_better_confirm_exit">Ostale aplikacije za otvaranje</string>
-  <string name="push_wps_better_confirm_message">WPS Office može pružiti bolju podršku za ovu vrstu privitka, tako da vaš rad bude još učinkovitiji</string>
-  <string name="push_wps_better_confirm_noshow_hint">"Ne prikazuj ponovo"</string>
-  <string name="push_wps_better_confirm_title">Preporučujemo WPS Office</string>
-  <string name="push_wps_confirm_cancel">Odustani</string>
-  <string name="push_wps_confirm_download">Preuzmi</string>
-  <string name="push_wps_confirm_message">Nema aplikacija koja može otvoriti ovaj privitak, preporučujemo vam WPS Office</string>
-  <string name="push_wps_confirm_title">Preporučujemo WPS Office</string>
-  <string name="push_wps_no_response_app">Nema odgovora aplikacije</string>
+  <string name="push_wps_better_confirm_download">Преузми</string>
+  <string name="push_wps_better_confirm_exit">Остале апликације за отварање</string>
+  <string name="push_wps_better_confirm_message">WPS Office може пружити бољу подршку за ову врсту прилога, тако да ваш рад буде још ефикаснији</string>
+  <string name="push_wps_better_confirm_noshow_hint">"Не пиказуј поново"</string>
+  <string name="push_wps_better_confirm_title">Препоручујемо WPS Office</string>
+  <string name="push_wps_confirm_cancel">Одустани</string>
+  <string name="push_wps_confirm_download">Преузми</string>
+  <string name="push_wps_confirm_message">Нема апликација која може отворити овај прилог, препоручујемо вам WPS Office</string>
+  <string name="push_wps_confirm_title">Препоручујемо WPS Office</string>
+  <string name="push_wps_no_response_app">Нема одговора апликације</string>
   <string name="quick_1">Хвала!</string>
   <string name="quick_2">Изврсно!</string>
   <string name="quick_3">Прочитаћу то касније, и јављам се.</string>
@@ -834,7 +834,7 @@
   <string name="quick_reply_hint_bcc">"(U BCC)"</string>
   <string name="quick_reply_hint_cc">"(U CC)"</string>
   <string name="quick_responses_empty_view">Нема брзих одговора</string>
-  <string name="quote_begin">&lt;div class=\"citiraj\"&gt;</string>
+  <string name="quote_begin">&lt;div class=\"цитирај\"&gt;</string>
   <string name="quote_divider_1">-------- Оригинална порука --------</string>
   <string name="quote_divider_10">-----------------------------------</string>
   <string name="quote_divider_11">----- Оригинал -----</string>
@@ -1023,7 +1023,7 @@
   <string name="unread_from_someone">Непрочитана пошта од %s</string>
   <string name="unread_string">Разговор није прочитан</string>
   <string name="unsent_messages_in_outbox">Број непосланих порука у мапи %2$s: %1$s</string>
-  <string name="unzip_file_failed">"Ne mogu raspakirati!"</string>
+  <string name="unzip_file_failed">"Не могу распаковати!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Освежено у: %1$s</string>
   <string name="updated_just_now">Освежено управо сада</string>

@@ -18,7 +18,7 @@
   <string name="add_to_cloud_local_space_full_message">Складиште пуно или није спремно].</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Cloud албум је пун.</string>
-  <string name="add_to_cloud_successfully_message">Додано у Cloud албум.</string>
+  <string name="add_to_cloud_successfully_message">Додато у Cloud албум.</string>
   <string name="add_to_cloud_type_not_support_message">"Ова врста датотеке није подржана"</string>
   <string name="add_to_cloud_unfinished_message_with_count">"Ставка није додана на Mi Cloud: %1$s"</string>
   <string name="add_to_cloud_unknow_reasons">Непозната грешка</string>
@@ -197,8 +197,8 @@
   <string name="download_fail">"Не могу преузети"</string>
   <string name="download_fail_confirm_continue">"Не могу преузети %s"</string>
   <string name="download_refocus_data">Преузми рефокусирања података</string>
-  <string name="download_without_wifi_msg">"Korištenje mobilne podatkovne veze za preuzimanje fotografija će povećati uporabu podataka. Ako premašite vaše mjesečno ograničenje podataka, vaš operater može vam naplatiti dodatne naknade."</string>
-  <string name="download_without_wifi_title">Upozorenje uporabe podataka</string>
+  <string name="download_without_wifi_msg">"Коришћење мобилне везе са подацима за преузимање фотографија ће повећати употребу података. Ако премашите ваше месечно ограничење података, ваш оператер вам може наплатити додатне надокнаде."</string>
+  <string name="download_without_wifi_title">Упозорење употебе података</string>
   <string name="duotone">Двобојно</string>
   <string name="duration">Трајање</string>
   <string name="early_bird">Птица</string>
@@ -208,7 +208,7 @@
   <string name="email_picker_title">Додај подељену e-пошту</string>
   <string name="enable">Укључи</string>
   <string name="enable_cloud_for_sharing">Омогућите MiCloud албум за преглед заједничких слика.</string>
-  <string name="enabling_face_feature">Samo tren…</string>
+  <string name="enabling_face_feature">Само тренутак…</string>
   <string name="enter_email_hint">"Унесите шифру E-поште "</string>
   <string name="error_album_not_exist">"Албум не постоји."</string>
   <string name="error_cloud_not_active">Нема фотографија у cloudu.</string>
@@ -244,7 +244,7 @@
   <string name="face_albumset_empty">Празно.</string>
   <string name="face_albumset_loading_data">Учитавање података...</string>
   <string name="face_albumset_pending_enable_tip">Сортирај фотографије када је уређај повезан на WLAN</string>
-  <string name="face_albumset_use_tip">"Automatski poredaj fotografije po osobama koje su na njima."</string> 
+  <string name="face_albumset_use_tip">"Аутоматски поређај фотографије по особама које су на њима."</string> 
   <string name="facelift">Сјај лица</string>
   <string name="facetan">Преплануло лице</string>
   <string name="fail_hint">Радња није успела</string>
@@ -482,7 +482,7 @@
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Препознавање слике…</string>
   <string name="redeye">Црвене очи</string>
-  <string name="recommanded_face_abandon_tip">Уклоњено из prijedloga</string>
+  <string name="recommanded_face_abandon_tip">Уклоњено из предлога</string>
   <string name="recommanded_face_added_tip">Додато у \"%s\"</string>
   <string name="redeye_tooltip">Дотакните за уклањање црвених очију</string>
   <string name="refocus_data_downloading">Преузимање преусмерених података…</string>
