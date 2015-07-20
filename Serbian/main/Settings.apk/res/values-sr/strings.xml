@@ -1613,6 +1613,8 @@
   <string name="master_clear_progress_title">Брисање</string>
   <string name="master_clear_summary">Брише све податке у телефону</string>
   <string name="master_clear_title">Враћање фабричких података</string>
+  <string name="max_cpu6_info">"6 jezgreni "</string>
+  <string name="max_cpu8_info">"8 jezgreni "</string>	
   <string name="media_button">Медијско дугме</string>
   <string name="media_category">Медија</string>
   <string name="media_feedback_enable_title">Вибрирај уз ритам</string>
@@ -1682,6 +1684,7 @@
   <string name="miui_allow_light">допусти лампу</string>
   <string name="miui_allow_music">допусти музику</string>
   <string name="miui_allow_vibrate">допусти вибрацију</string>
+  <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_disturb_title">омогући начин Не ометај</string>
   <string name="miui_screensaver_show_time">"Трајање"</string>
   <string name="miui_screensaver_show_time_select_title">Постави трајање презентације</string>
@@ -1748,6 +1751,7 @@
   <string name="music_dirac_mode_general">Опште</string>
   <string name="music_dirac_mode_general_earbuds">Опште</string>
   <string name="music_dirac_mode_general_inear">Опште In-Ear</string>
+  <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
   <string name="music_dirac_mode_off">Дирач искључен</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -1755,7 +1759,7 @@
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Основна Едиција</string>
   <string name="music_dirac_mode_piston_standard">Стандардна Едиција</string>
-  <string name="music_dirac_mode_piston_youth">Xiaomi Piston-1</string>
+  <string name="music_dirac_mode_piston_youth">Youth Edition</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby ефекти</string>
   <string name="music_dolby_eq_enter_alert_msg">Equalizer можете користити само у Dolby музичкопм начину. Омогућити га сада?</string>
@@ -1793,7 +1797,7 @@
   <string name="music_hifi_title">Hi-Fi звук</string>
   <string name="music_hifi_volume">Hi-Fi гласноћа</string>
   <string name="music_mi_effect_summary">Kористи MiSound појачивач приликом коришћења слушалица</string>
-  <string name="music_mi_effect_title">Користи MiSound појачивач</string>
+  <string name="music_mi_effect_title">MiSound појачивач</string>
   <string name="music_title_dolby_control">DOLBY</string>
   <string name="musicfx_title">Музички ефекти</string>
   <string name="mvno_match_data">Вредност MVNO-а</string>
@@ -1963,6 +1967,8 @@
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Мобилни сигнал</string>
   <string name="power_center">Енергија</string>
+  <string name="power_hide_mode_summary">"Štedite bateriju ograničavanjem pojedinačnih pozadinskih procesa aplikacija, WLAN-a, mobilne podatkovne veze i GPS-a"</string>
+  <string name="power_hide_mode_title">Upravljanje korištenjem baterije aplikacija</string>
   <string name="power_charge_remaining">%1$s до завршетка пуњења</string>
   <string name="power_charging">%1$d%% – %2$s</string>
   <string name="power_charging_duration">%1$d%% – %2$s до напуњености</string>
@@ -3284,6 +3290,7 @@ WLAN Asistent"</string>
   <string name="wifi_eap_ca_cert">CA сертификат</string>
   <string name="wifi_eap_identity">Идентитет</string>
   <string name="wifi_eap_method">EAP метода</string>
+  <string name="wifi_eap_sim_simcard">Odaberi SIM karticu</string>
   <string name="wifi_eap_user_cert">Кориснички сертификат</string>
   <string name="wifi_empty_list_user_restricted">Немате допуштење за промену WLAN мреже.</string>
   <string name="wifi_empty_list_wifi_off">Да би сте видели доступне мреже, укључите WLAN</string>

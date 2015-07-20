@@ -39,6 +39,7 @@
   <string name="cant_remove_folder">"Није могуће уклонити мапу"</string>
   <string name="cant_remove_retained_app">Није могуће уклонити ову апликацију</string>
   <string name="cant_remove_system_app">"Није могуће уклонити апликацију система"</string>
+  <string name="choose_theme">Tema</string>
   <string name="choose_wallpaper">Одабери слику позадине</string>
   <string name="chooser_wallpaper">Одабери слику позадине</string>
   <string name="cloud_app_restore_title">На чекању</string>
@@ -51,6 +52,7 @@
   <string name="default_folder_title_recommend">Више апликација</string>
   <string name="default_folder_title_security">Систем</string>
   <string name="default_folder_title_tools">Алати</string>
+  <string name="default_theme_name">Zadano</string>
   <string name="delete">Избриши</string>
   <string name="delete_wallpaper_message">Избрисати слику позадине: %1$d?</string>
   <string name="delete_wallpapers_message">Избрисати слике позадине: %1$d?</string>
@@ -235,6 +237,7 @@
   <string name="wallpaper">Слика позадине</string>
   <string name="wallpaper_failed_message">"Не могу подесити слику позадине"</string>
   <string name="wallpaper_settings">Слика позадине</string>
+  <string name="wallpaper_settings_for_pad">Слика позадин</string>
   <string name="wallpaper_success_message">Слика позадине подешена</string>
   <string name="widget_favorite_contacts_edit">Уредник</string>
   <string name="widget_favorite_contacts_label">Контакти</string>
