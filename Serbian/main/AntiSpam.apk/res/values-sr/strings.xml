@@ -152,7 +152,7 @@
   <string name="mark_sell">Трговац</string>
   <string name="mark_sell_block">Пријављен као трговац</string>
   <string name="mark_sell_time_setting">Блокирај бројеве трговца који су пријављени одређени број пута</string>
-  <string name="mark_time_setting_dialog_title">Подешавање пријаљених бројева</string>
+  <string name="mark_time_setting_dialog_title">Подешавање пријављених бројева</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d Остали корисници су је означили као "</string>
   <string name="marked_by_user">" означили сте је као "</string>
