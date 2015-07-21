@@ -34,7 +34,7 @@
   <string name="connect_internet_by_usbshare">Интернет путем USB-a</string>
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="current_network_state_not_need_diagnose">Нормално</string>
-  <string name="daily_limit_and_lock_screen">Dnevna uporaba podataka&amp; obavijesti</string>
+  <string name="daily_limit_and_lock_screen">Дневна употреба података&amp; обавештења</string>
   <string name="daily_limit_network_available_body">Додирни за преглед статистике употребе података.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Додирните за укључивање мобилних података.</string>
   <string name="daily_limit_over_message">"Премашили сте своје дневно ограничење употребе података."</string>
@@ -147,9 +147,9 @@
   <string name="lock_screen_traffic_purchase_textview">Доплатите бон</string>
   <string name="lock_screen_traffic_warn_title">Обавештења закључаног екрана.</string>
   <string name="lock_screen_warning_category">Обавештења закључаног екрана</string>
-  <string name="lock_screen_warning_switch_summary">Prikaži upozorenje na zaklj. zaslonu kada uporaba podataka premaši određeni iznos</string>
-  <string name="lock_screen_warning_switch_title">Prikaži upozorenje na zaklj. zaslonu</string>
-  <string name="lock_screen_warning_value">Upozorenje iznosa uporabe podataka</string>
+  <string name="lock_screen_warning_switch_summary">Прикажи упозорења на закљ. екрану када употреба података премаши одређени износ</string>
+  <string name="lock_screen_warning_switch_title">Прикажи упозорење на закљ. екрану</string>
+  <string name="lock_screen_warning_value">Упозорење износа употребе података</string>
   <string name="main_alert_message_month_limit_error">Ограничење података које сте поставили је нетачно</string>
   <string name="main_alert_message_no_imsi">Нема SIM картице</string>
   <string name="main_alert_message_no_mobile_package">"Ограничење података није подешено"</string>
@@ -246,12 +246,12 @@
   2. Ако користите две SIM картице, покушајте да се пребаците на другу картицу и проверите ако сте у могућности да се повежете нормално.
 
   3. Проверите да SIM картица и слот SIM картице нису оштећени. Потврдите да је SIM картица коју користите исправно убачена у SIM слот вашег уређаја."</string>
-  <string name="network_speed_for_apps_close">Prisilno zaustavi</string>
-  <string name="network_speed_for_apps_close_app_dlg_msg">Prisilno zaustaviti ovu aplikaciju?</string>
-  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Ne mogu prisilno zaustaviti aplikacije sustava."</string>
-  <string name="network_speed_for_apps_others">Ostalo</string>
-  <string name="network_speed_for_apps_title">Detalji brzine veze</string>
-  <string name="network_speed_for_apps_total">Brzina veze</string>
+  <string name="network_speed_for_apps_close">Насилно заустави</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Насилно заустави ову апликацију?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Не могу насилно зауставити апликацију система."</string>
+  <string name="network_speed_for_apps_others">Остало</string>
+  <string name="network_speed_for_apps_title">Детаљи брзине везе</string>
+  <string name="network_speed_for_apps_total">Брзина везе</string>
   <string name="networkchanged_exception_summary">Мрежно повезивање се променило. Тестирајте поново.</string>
   <string name="networkchanged_exception_title">Начин повезивања се променио</string>
   <string name="no_network_btn">Покушајте поново</string>
@@ -270,9 +270,9 @@
   <string name="online_read">Вести</string>
   <string name="online_songs">Музика</string>
   <string name="open_now">Допусти апликацијама коришћење мобилних података</string>
-  <string name="operator_setted_error_dialog_message">"SIM kartica koju koristite je iz %1$s. To se razlikuje od lokacije koju ste postavili ručno (%2$s). Promijeniti lokaciju SIM kartice na %3$s?"</string>
-  <string name="operator_setted_error_notify_message">Dodirnite za promjenu lokacije SIM-a.</string>
-  <string name="operator_setted_error_notify_title">Pogreška SIM kartice</string>
+  <string name="operator_setted_error_dialog_message">"SIM картица коју користите је из %1$s. То се разликује од локације коју сте подесили ручно (%2$s). Промените локацију SIM картице на %3$s?"</string>
+  <string name="operator_setted_error_notify_message">Додирните за промену локације SIM-a.</string>
+  <string name="operator_setted_error_notify_title">Грешка SIM картице</string>
   <string name="other_exception_summary">"Немате повезивања са интернетом"</string>
   <string name="other_exception_title">Провера других проблема</string>
   <string name="pay_charge">Доплата</string>
@@ -497,7 +497,7 @@
   <string name="traffic_saving_button_sorted_chose_simcard">Поређај по</string>
   <string name="traffic_saving_button_start">Укључи</string>
   <string name="traffic_saving_button_stop">Искључи</string>
-  <string name="traffic_saving_can_optimized">Optimizraj</string>
+  <string name="traffic_saving_can_optimized">Оптимизуј</string>
   <string name="traffic_saving_history_title">Историја</string>
   <string name="traffic_saving_history_total_money">Укупна уштеда</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>

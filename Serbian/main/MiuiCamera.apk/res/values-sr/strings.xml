@@ -25,11 +25,11 @@
   <string name="confirm_location_alert">Запамти локације фотографија</string>
   <string name="confirm_location_message">"Означити своје фотографије и видеозаписе на локацијама где су снимљене. Остале апликације могу приступити тим информацијама заједно са вашим сачуваним сликама."</string>
   <string name="confirm_location_title">Запамти локације фотографија?</string>
-  <string name="confirm_recording_fail_calling_alert">Ne mogu pokrenuti snimanje tijekom poziva.</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">Ostale aplikacije možda snimaju zvuk, pokušajte ponovo nakon što ih zaustavite.</string>
-  <string name="confirm_recording_fail_title">Snimanje nije uspjelo</string>
-  <string name="confirm_restore_message">"Вратити на задате потставке фотоапарата?"</string>
-  <string name="confirm_restore_title">Врати на задате потставке</string>
+  <string name="confirm_recording_fail_calling_alert">Не могу покренути снимање током позива.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Остале апликације можда снимају звук, покушајте поново након што их зауставите.</string>
+  <string name="confirm_recording_fail_title">Снимање није успело</string>
+  <string name="confirm_restore_message">"Вратити на задата подешавања фотоапарата?"</string>
+  <string name="confirm_restore_title">Врати на задата подешавања</string>
   <string name="dialog_ok">У реду</string>
   <string name="effect_setting_top_text">Филтери</string>
   <string name="empty">" "</string>

@@ -3,8 +3,8 @@
   <string name="bluetooth_enter_pin_msg">Уређај</string>
   <string name="bluetooth_enter_pin_msg_hs">Уређај захтева приступни код од 16 знакова Високе сигурности</string>
   <string name="bluetooth_enter_passkey_msg">"Унесите код за упаривање па притисните Return или Enter"</string>
-  <string name="screen_resolution_confirm">U redu i ponovno pokreni</string>
-  <string name="screen_resolution_summary">Smanjivanje rezolucije će smanjiti fini stupanj zaslona, u određenoj mjeri poboljšati energiju i tečnost, i obrnuto. Promjene trebaju ponovno pokretanje sustava.</string>
-  <string name="screen_resolution_switch">Promjeni rezoluciju zaslona</string>
-  <string name="screen_resolution_title">Rezolucija zaslona</string>
+  <string name="screen_resolution_confirm">У реду и поново покрени</string>
+  <string name="screen_resolution_summary">Смањивање резолуције ће смањити фини степен екрана, у одређеној мери побољшати енергију и течност, и обрнуто. Промене захтевају поново покретање система.</string>
+  <string name="screen_resolution_switch">Промени резолуцију екрана</string>
+  <string name="screen_resolution_title">Резолуција екрана</string>
 </resources>

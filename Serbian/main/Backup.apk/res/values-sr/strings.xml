@@ -50,7 +50,7 @@
   <string name="button_ok">У реду</string>
   <string name="button_return">Назад</string>
   <string name="call_title">Историја позива</string>
-  <string name="camera_summary">Postavke kamere (ne uključujući fotografije)</string>
+  <string name="camera_summary">Подешавања камере (не укључујући фотографије)</string>
   <string name="cancel">Прекини</string>
   <string name="cancel_backup">Прекини</string>
   <string name="cancel_restore">Одустани</string>

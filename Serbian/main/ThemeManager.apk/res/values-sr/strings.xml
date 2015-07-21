@@ -20,7 +20,7 @@
   <string name="backup_theme_progress_message">Чувам тему…</string>
   <string name="backup_theme_success_message">Подешавања ваше тренутне теме су сачувана</string>
   <string name="change_wallpaper">Слика позадине</string>
-  <string name="choose_new_themes">Nove Teme</string>
+  <string name="choose_new_themes">Нове Теме</string>
   <string name="close">Затвори</string>
   <string name="component_category_finest_title">УОПШТЕНО</string>
   <string name="component_category_more_title">НАПРЕДНО</string>
@@ -87,8 +87,8 @@
   <string name="online_no_network">"Не могу се повезати на мрежу"</string>
   <string name="online_search_hint">Претраживање за онлине ресурсима</string>
   <string name="payment_info">Mi Кредити</string>
-  <string name="present_local_themes">Preuzete</string>
-  <string name="present_online_themes">Online</string>
+  <string name="present_local_themes">Преузете</string>
+  <string name="present_online_themes">На мрежи</string>
   <string name="purchased_list">Купљене</string>
   <string name="purchased_list_format">Купљено %1$s</string>
   <string name="resource_account_abnormal_state">Грешка рачуна. Причекајте минут или два и покушајте поново.</string>

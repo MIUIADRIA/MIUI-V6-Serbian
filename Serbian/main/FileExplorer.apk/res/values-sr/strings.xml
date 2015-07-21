@@ -226,7 +226,7 @@
   <string name="open_file_failed">"Не могу отворити"</string>
   <string name="operate_confirm_in_3g">Користити вашу мобилну податковну мрежу за преузимање ове велике датотеке?</string>
   <string name="operating">Обрада…</string>
-  <string name="operation_add_fav">Dodavanje u favorite…</string>
+  <string name="operation_add_fav">Додавање у фаворите…</string>
   <string name="operation_agree">Допусти</string>
   <string name="operation_cancel">Откажи</string>
   <string name="operation_compress">Сажети</string>
@@ -237,7 +237,7 @@
   <string name="operation_create_folder">Нова мапа</string>
   <string name="operation_create_folder_message">Именуј мрежу</string>
   <string name="operation_decompressing">Распакивање…</string>
-  <string name="operation_del_fav">Uklanjanje iz favorita…</string>
+  <string name="operation_del_fav">Уклањање из фаворита…</string>
   <string name="operation_delete">Избриши</string>
   <string name="operation_delete_confirm_message">Избрисати ставку?</string>
   <string name="operation_delete_confirm_message_folder">"Сав садржај мапе може бити избрисан."</string>
