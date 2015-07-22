@@ -2316,6 +2316,10 @@
 
 4. Додирните икону чиоде."</string>
   <string name="screen_pinning_title">Прикључивање екрана</string>
+  <string name="screen_resolution_confirm">У реду и поново покрени</string>
+  <string name="screen_resolution_summary">Смањивање резолуције ће смањити фини степен екрана, у одређеној мери побољшати енергију и течност, и обрнуто. Промене захтевају поново покретање система.</string>
+  <string name="screen_resolution_switch">Промени резолуцију екрана</string>
+  <string name="screen_resolution_title">Резолуција екрана</string>
   <string name="screen_saturation">Засићење</string>
   <string name="screen_timeout">Мировање</string>
   <string name="screen_timeout_summary">Након %1$s неактивности</string>

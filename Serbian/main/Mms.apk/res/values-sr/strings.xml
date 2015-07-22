@@ -272,7 +272,6 @@
   <string name="mx_activate_int_hint_malformed_info">Ваш давалац услуга вам може наплатити међународни SMS коришћен за поновно активирање MI Порука.</string>
   <string name="mx_activate_int_hint_server">Ваш давалац услуга вам може наплатити међународни SMS коришћен за поновно активирање MI Порука.</string>
   <string name="mx_activate_int_hint_sim_change">Изгледа да сте променили SIM картице. Ваш давалац услуга вам може наплатити SMS коришћен за поновно активирање MI Порука."</string>
-  <string name="mx_activate_user_agreement_p1">"Коришћењем ове услуге слажете се са Mi поруке "</string>
   <string name="mx_auto_resend_mms">Automatski ponovo pošalji MMS</string>
   <string name="mx_auto_resend_mms_summary">Пошаљи мултимедијалне поруке као MMS поруке преко мобилне везе када нисте повезани на WLAN. Сносите редовне трошкове свог провајдера услугa.</string>
   <string name="mx_auto_resend_sms">Пошаљи као  SMS поруку</string>
@@ -283,7 +282,10 @@
   <string name="mx_current_status">Подешавања употребе података</string>
   <string name="mx_dspt">Пошаљите поруке другима MIUI корисницима без настанка SMS трошкова</string>
   <string name="mx_dspt_provision">Mi Поруке омогућавају вам да шаљете поруке другим МИУИ корисницима без настанка СМС трошкова. Ваш давалац услуга вам може наплатити СМС поруку коришћену за активирање ове услуге.</string>
-  <string name="mx_enable">Mi поруке</string>
+  <string name="mx_dspt_provision_ex">"Šaljite poruke i upućivajte pozive drugim MIUI korisnicima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
+  <string name="mx_dspt_provision_ex2">Pravila o Privatnosti</string>
+  <string name="mx_enable">Mi Poruka</string>
+  <string name="mx_enable_ex">Mi Poruka &amp; Voice</string>
   <string name="mx_enable_popup_msg">Mi поруке омогућују да шаљете поруке другим MIUI корисницима без настанка SMS трошкова</string>
   <string name="mx_msg">Mi поруке</string>
   <string name="mx_offline">Без мреже</string>

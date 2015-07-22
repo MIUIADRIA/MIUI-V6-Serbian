@@ -40,36 +40,36 @@
         <item quantity="many">%d одабрано</item>
     </plurals>
     <plurals name="conversation_archived">
-       <item quantity="other">Архивирано: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Архивирано: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+       <item quantity="other">Архивирано: &amp;lt;b> %1$d &amp;lt;/b>.</item>
+        <item quantity="one">Архивирано: &amp;lt;b> %1$d &amp;lt;/b>.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">Избрисано: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Избрисано: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Избрисано: &amp;lt;b> %1$d &amp;lt;/b>.</item>
+        <item quantity="one">Избрисано: &amp;lt;b> %1$d &amp;lt;/b>.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Промењене мапе.</item>
         <item quantity="one">Промењена мапа.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">Занемарено: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Занемарено: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Занемарено: &amp;lt;b> %1$d &amp;lt;/b>.</item>
+        <item quantity="one">Занемарено: &amp;lt;b> %1$d &amp;lt;/b>.</item>
     </plurals>
     <plurals name="conversation_not_important">
-       <item quantity="other">Oзначено као неважно: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Oзначено као неважно: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+       <item quantity="other">Oзначено као неважно: &amp;lt;b> %1$d &amp;lt;/b>.</item>
+        <item quantity="one">Oзначено као неважно: &amp;lt;b> %1$d &amp;lt;/b>.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Пријављено да није нежељени садржај: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Пријављено да није нежељени садржај: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Пријављено да није нежељени садржај: &amp;lt;b> %1$d &amp;lt;/b>.</item>
+        <item quantity="one">Пријављено да није нежељени садржај: &amp;lt;b> %1$d &amp;lt;/b>.</item>
     </plurals>
     <plurals name="conversation_phished">
-         <item quantity="other">Пријављено као крађа идентитета: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Пријављено као крађа идентитета: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+         <item quantity="other">Пријављено као крађа идентитета: &amp;lt;b> %1$d &amp;lt;/b>.</item>
+        <item quantity="one">Пријављено као крађа идентитета: &amp;lt;b> %1$d &amp;lt;/b>.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">Пријављено као нежељено: &amp;lt;b>%1$d&amp;lt;/b>.</item>
-        <item quantity="one">Пријављено као нежељено: &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="other">Пријављено као нежељено: &amp;lt;b> %1$d &amp;lt;/b>.</item>
+        <item quantity="one">Пријављено као нежељено: &amp;lt;b> %1$d &amp;lt;/b>.</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">Уклањање звездица с %1$d razgovora.</item>

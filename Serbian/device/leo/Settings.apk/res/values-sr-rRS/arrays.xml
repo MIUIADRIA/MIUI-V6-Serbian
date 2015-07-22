@@ -215,8 +215,4 @@
         <item>Покажи подручије словних исцртавања</item>
         <item>Прикажи подручија за деутераномалију</item>
     </string-array>
-	<string-array name="screen_resolution_entries">
-        <item>Ultrahigh (2K)</item>
-        <item>Нормално (720P)</item>
-	</string-array>
 </resources>

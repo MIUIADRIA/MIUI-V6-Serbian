@@ -6,6 +6,7 @@
   <string name="activate_feature_find_device">Пронађи уређај</string>
   <string name="activate_feature_mms_sync">Синхро. SMS порука</string>
   <string name="activate_feature_mx">Mi поруке</string>
+  <string name="activate_feature_mx_and_voip">Mi Poruka i Glas</string>
   <string name="activate_phone_failed_notif_title">"Не могу активирати SIM картицу"</string>
   <string name="activate_phone_failed_notif_title_msim">"Не могу активирати SIM картицу %s"</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Покушавам поново</string>
@@ -39,6 +40,8 @@
   <string name="activate_popup_desc_register_account_intl">Ваш даваоц услуга може вам наплатити међународну SMS поруку коришћену за израду Mi рачуна.</string>
   <string name="activate_popup_desc_sim_card">Ваш даваоц услуга може вам наплатити SMS поруку коришћену за активирање %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Да омогућите %s, унесите ваш број телефона</string>
+  <string name="activate_popup_desc_voip_privacy">Pravila o Privatnosti</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">". VOIP je podržan od strane Weihui. Prikaži Weihui "</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Не могу пронаћи број телефона"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"Не могу послати SMS активације"</string>
   <string name="activate_popup_title_failed_query_info">"Не могу пронаћи број"</string>

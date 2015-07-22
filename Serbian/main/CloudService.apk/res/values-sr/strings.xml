@@ -240,8 +240,9 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="microsoft_cloud_price">око 80 RMB годишње</string>
   <string name="more_activity_in_upgrade_space">Сазнајте више на &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi поруке</string>
-  <string name="mx_dspt_provision_with_voip">Назовите друге MIUI кориснике бесплатно користећи интернет везу. Можете укључити/искључити ову функцију у било ком тренутку у подешавањима.</string>
+  <string name="mx_dspt_provision_with_voip">Назовите друге MIUI кориснике бесплатно користећи интернет везу. Можете укључити/искључити ову функцију у било ком тренутку у подешавањима. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti"</string>
   <string name="mx_sub_dspt_provision_with_voip">Интернет позиви</string>
+  <string name="mx_voip_dspt">Mi поруке i Glas</string>
   <string name="mx_dspt_provision">"Mi поруке омогућавају вам слање порука другим MIUI корисницима без додатних SMS трошкова.
   
   
@@ -348,7 +349,6 @@ Korištenjem ove usluge, slažete se s  "</string>
   <string name="verify">Потврди</string>
   <string name="view_storage_title">Простор за складиштење</string>
   <string name="voip_choose_sim">Одаберите број телефона за активирање Mi Voice</string>
-  <string name="voip_dspt">Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

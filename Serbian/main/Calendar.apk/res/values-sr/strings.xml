@@ -125,6 +125,8 @@
   <string name="event_info_end">Крај\у0009\у0009\у0009</string>
   <string name="event_info_organizer">Организатор:</string>
   <string name="event_info_reminders_label">Подсетник</string>
+  <string name="event_info_reminders_label_1">Подсетник</string>
+  <string name="event_info_reminders_label_more">Подсетник %d</string>
   <string name="event_info_repeat">Понови\у0009</string>
   <string name="event_info_title">Прикажи догађај</string>
   <string name="event_info_title_invite">Позивница за састанак</string>

@@ -685,5 +685,8 @@
     <string-array name="fluency_mode_confirms">
         <item>Поново покрените уређај за промену ових подешавања?</item>
         <item>Поново покрените уређај за промену ових подешавања?</item>
+		<string-array name="screen_resolution_entries">
+        <item>Ultrahigh (2K)</item>
+        <item>Нормално (720P)</item>
     </string-array>
 </resources>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">О блокирању телефонског маркета</string>
+  <string name="about_phone_event">O značajki Service Info</string>
   <string name="about_smart_antispam_summary">О тој функцији</string>
   <string name="about_telephone_fraud">О телефонској превари</string>
   <string name="account_address">Адресе</string>
@@ -82,6 +83,7 @@
   <string name="express_address_info">Детаљи адресе</string>
   <string name="express_address_name">назив</string>
   <string name="express_address_region">Регија</string>
+  <string name="express_banner_header">%1$s / Broj za praćenje</string>
   <string name="express_address_warning_no_area">Регија је потребна</string>
   <string name="express_address_warning_no_full_address">Aдреса је потребна</string>
   <string name="express_address_warning_no_name">Име је потребно</string>
@@ -138,13 +140,11 @@
   <string name="express_no_address">Празно</string>
   <string name="express_no_order">Нема поруџбина</string>
   <string name="express_order_confirmation">Потврда поруџбине</string>
-  <string name="express_order_created_time">Време поруџбине</string>
   <string name="express_order_detail">Детаљи</string>
   <string name="express_order_failed">Није успело</string>
-  <string name="express_order_info">Детаљи поруџбине</string>
-  <string name="express_order_internal_id">ID поруџбине</string>
   <string name="express_order_ongoing">Наручујем</string>
   <string name="express_order_result">Резултат</string>
+  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Прихваћено</string>
   <string name="express_order_state_allograph">Потписано</string>
   <string name="express_order_state_cancelled">Отказано</string>
@@ -183,8 +183,8 @@
   <string name="express_view_status">Прати</string>
   <string name="expresss_inquiry_all_logistics">Све</string>
   <string name="expresss_inquiry_frequently_used_logistics">Често коришћено</string>
-  <string name="follow_express">Прати %1$s</string>
-  <string name="follow_express_success">Не пратим %1$s.</string>
+  <string name="follow_label">Prati %1$s</string>
+  <string name="follow_success">Ne pratim %1$s.</string>
   <string name="fail_to_add_account">"Није могуће додати рачун"</string>
   <string name="fraud_number_online_identification">Блокирај телефонске рекламе </string>
   <string name="gallery">Галерија</string>
@@ -192,10 +192,12 @@
   <string name="general_delete_recent_ok">Недавно избрисано</string>
   <string name="general_favorite_ok">Фаворит додан</string>
   <string name="general_favorite_title">Фаворити</string>
+  <string name="general_follow_hint">Prati %1$s za primanje relevantnih ažuriranja</string>
   <string name="general_menu_delete_recent">Избриши недавне</string>
   <string name="general_menu_unfavorite">Уклони из фаворита</string>
   <string name="general_no_yellow_page">Попис је празан</string>
   <string name="general_recent_title">Недавно</string>
+  <string name="general_unfollow_hint">Prestati pratiti %1$s?</string>
   <string name="general_yellow_page_title">Уопштено</string>
   <string name="group_name_banner"/>
   <string name="group_name_basic"/>
@@ -265,15 +267,16 @@
   <string name="notify_connect_title">Oбавештење повезивања на интернет</string>
   <string name="online_no_network">"Не могу се повезати на мрежу"</string>
   <string name="online_search_hint">Претраживање на онлине ресурсима</string>
-  <string name="order_date_label">Датум поруџбине: </string>
+  <string name="order_date_label">Датум поруџбине: %1$s</string>
   <string name="order_empty_hint">Нема поруџбине</string>
-  <string name="order_id_label">ID поруџбе:</string>
+  <string name="order_id_label">"Narudžba #: %1$s"</string>
+  <string name="order_info">Detalji narudžbe</string>
   <string name="order_merchant_title">Моје поруџбине</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Нема повезаних поруџбина</string>
-  <string name="order_price_label">Цена поруџбине:</string>
-  <string name="order_product_name_label">"Нема производа: "</string>
-  <string name="order_status">%s</string>
+  <string name="order_price_label">Цена поруџбине: %1$s</string>
+  <string name="order_product_name_label">"Naziv производа: %1$s"</string>
+  <string name="order_status_label">"Status narudžbe: %1$s"</string>
   <string name="order_status_label">Статус поруџбине:</string>
   <string name="order_type_recharge">Доплата</string>
   <string name="packages_no_package">Нема препоручених пакета</string>
@@ -290,6 +293,7 @@
   <string name="payment_failed_common_problems">Дошло је до проблема приликом плаћања.</string>
   <string name="payment_unknown_status_summary">Проверите своју мрежну везу и покушајте поново.</string>
   <string name="payment_unknown_status_title">"Не могу потврдити статус плаћања"</string>
+  <string name="phone_event_setting_notice_text">"Primiti ćete informaciju nakon dolaznog ili odlaznog poziva servisne usluge. Pomoću toga, možete poslati telefonski status tih poziva."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d укупно</string>
   <string name="quick_yellow_page_tab_call_log">Запис позива</string>
@@ -297,6 +301,7 @@
   <string name="recharge_actual_price">Цена:</string>
   <string name="recharge_charge_range">Цена: ¥%1$s-%2$s</string>
   <string name="recharge_charge_value">Цена: ¥%s</string>
+  <string name="recharge_follow_name">Usluga nadoplate</string>
   <string name="recharge_history">Историја надоплате</string>
   <string name="recharge_history_empty">Нема историје</string>
   <string name="recharge_input_phone_title">Унесите телефонски број (China Mobile, China Unicom, ili China Telecom)</string>
@@ -315,6 +320,7 @@
   <string name="recharge_payment_result_ok_title">Додано RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Проверавам исход плаћања…</string>
   <string name="recharge_phone">Број за надоплату:</string>
+  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">Унети број телефона не би требао бити празан</string>
   <string name="recharge_phone_number_error">Унешени број није исправан</string>
   <string name="recharge_select_money_title">Одабери највишу вредност</string>
@@ -486,6 +492,7 @@
   <string name="resource_update">Ажурирај</string>
   <string name="resource_user_know">У реду</string>
   <string name="resource_waiting_download">Чекам</string>
+  <string name="rmb">RMB</string>
   <string name="scan">Скенирај</string>
   <string name="sdcard_not_mounted_dialog_message">"Ставите SD картицу.
 "</string>
@@ -510,6 +517,8 @@
   <string name="toast_finish_delete_call_log">Попис позива је обрисан</string>
   <string name="toast_text_copied">Текст копиран</string>
   <string name="try_again">Покушај поново</string>
+  <string name="turn_on_phone_event_summary">Pošaljite telefonski status brojeva usluga</string>
+  <string name="turn_on_phone_event_title">Primanje informacije o usluzi</string>
   <string name="turn_on_smart_antispam_hint">"Идентификуј позиве непознатих бројева помоћу Xiaomi ознаке именика"</string>
   <string name="turn_on_smart_antispam_summary_off">Претражи само бројеве спремљена на овом уређају</string>
   <string name="turn_on_smart_antispam_summary_on">Пошаљи и идентификуј непознате бројеве у записима позива и СМС порукомa</string>
@@ -532,5 +541,4 @@
   <string name="yellowpage_navigation_network_location_enabled">Приступ локацији је укључен. Можете искључити ову функцију у било ком тренутку у Подешавањима.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Побољшајте резултате претраживања допуштајући Жутим страницама приступ подацима о вашој Локацији.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Приступ локацији</string>
-  <string name="yuan">Yuan</string>
 </resources>
