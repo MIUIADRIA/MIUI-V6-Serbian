@@ -276,8 +276,7 @@
   <string name="order_not_found">Нема повезаних поруџбина</string>
   <string name="order_price_label">Цена поруџбине: %1$s</string>
   <string name="order_product_name_label">"Naziv производа: %1$s"</string>
-  <string name="order_status_label">"Status narudžbe: %1$s"</string>
-  <string name="order_status_label">Статус поруџбине:</string>
+  <string name="order_status_label">"Статус поруџбине: %1$s"</string>
   <string name="order_type_recharge">Доплата</string>
   <string name="packages_no_package">Нема препоручених пакета</string>
   <string name="packages_pay">купи</string>
