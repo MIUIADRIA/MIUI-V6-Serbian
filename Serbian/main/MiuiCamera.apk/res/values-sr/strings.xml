@@ -25,9 +25,9 @@
   <string name="confirm_location_alert">Запамти локације фотографија</string>
   <string name="confirm_location_message">"Означити своје фотографије и видеозаписе на локацијама где су снимљене. Остале апликације могу приступити тим информацијама заједно са вашим сачуваним сликама."</string>
   <string name="confirm_location_title">Запамти локације фотографија?</string>
-  <string name="confirm_recording_fail_calling_alert">"Ne mogu snimati tijekom poziva."</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">"Druga aplikacija možda već koristi mikrofon uređaja za snimanje."</string>
-  <string name="confirm_recording_fail_title">"Ne mogu snimiti"</string>
+  <string name="confirm_recording_fail_calling_alert">"Не могу снимати током позива."</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">"Друга апликација можда већ користи микрофон уређаја за снимање."</string>
+  <string name="confirm_recording_fail_title">"Не могу снимити"</string>
   <string name="confirm_restore_message">"Вратити на задата подешавања фотоапарата?"</string>
   <string name="confirm_restore_title">Врати на задата подешавања</string>
   <string name="dialog_ok">У реду</string>
@@ -82,7 +82,7 @@
   <string name="pref_camera_antibanding_entry_3">Ауто</string>
   <string name="pref_camera_antibanding_title">Смањење трака на екрану</string>
   <string name="pref_camera_asd_night_title">Ауто. побољшање код ноћног сликања</string>
-  <string name="pref_camera_asd_popup_title">Upozori ako je potrebna bljeskalica</string>
+  <string name="pref_camera_asd_popup_title">Упозори ако је потребан блиц</string>
   <string name="pref_camera_audio_capture_title">Звук</string>
   <string name="pref_camera_auto_capture_when_stable_title">Ауто. сними кад је стабилно</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>

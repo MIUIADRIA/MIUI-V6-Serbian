@@ -21,7 +21,7 @@
   <string name="bookmark_empty">Нема ознака</string>
   <string name="bookmark_list_title">Фаворити</string>
   <string name="confirm_delete_all_conversations">Све нити ће бити избрисане.</string>
-  <string name="check_network">Postavke mreže</string>
+  <string name="check_network">Подешавања мреже</string>
   <string name="confirm_delete_conversation">Цела нит ће бити избрисана.</string>
   <string name="confirm_delete_group_message">Све групне поруке ће бити избрисане.</string>
   <string name="confirm_delete_locked_message">Избрисати закључану поруку?</string>
@@ -47,7 +47,7 @@
   <string name="copy_to_sdcard">Спреми прилог</string>
   <string name="copy_to_sdcard_fail">Немогуће спремити прилог</string>
   <string name="copy_to_sdcard_success">Прилог сачуван %s</string>
-  <string name="current_service_number">Trenutan broj usluge</string>
+  <string name="current_service_number">Тренутни број услуге</string>
   <string name="delete">Избриши</string>
   <string name="delete_message">Избрисати</string>
   <string name="delete_unlocked">Избриши закључане поруке</string>
@@ -87,7 +87,7 @@
   <string name="menu_lock">означи</string>
   <string name="menu_mark">означи</string>
   <string name="menu_more">Више</string>
-  <string name="menu_more_service">Više</string>
+  <string name="menu_more_service">Више</string>
   <string name="menu_new_contact">Нови контакт</string>
   <string name="menu_unlock">Одзначи</string>
   <string name="menu_yellowpage">Прикажи %s</string>
@@ -96,9 +96,9 @@
   <string name="message_readed">Прочитано</string>
   <string name="message_saved_as_draft">Порука је спремљена као скица.</string>
   <string name="migrate_db_loading">Учитавање...</string>
-  <string name="mipub_message_block">Ne primaj poruke od%s</string>
-  <string name="mipub_message_block_already">Već ste podesili neprimanje poruka</string>
-  <string name="mipub_message_receive">Ponovo primaj poruke od %s</string>
+  <string name="mipub_message_block">Не примај поруке од%s</string>
+  <string name="mipub_message_block_already">Већ сте подесили непримање порука</string>
+  <string name="mipub_message_receive">Поново примај поруке од %s</string>
   <string name="msglist_continue_to_pull_for_more">Повуци доле да би видео више</string>
   <string name="msglist_more_refreshing">Освежавам…</string>
   <string name="msglist_no_more_to_refresh">Све је већ ажурирано</string>
@@ -213,7 +213,7 @@
   <string name="to_label">"прима "</string>
   <string name="to_send_wrapper">Послато ће бити у %s</string>
   <string name="too_many_unsent_mms">"Ову поруку тренутно није могуће послати. Постоји превише нису послате мултимедијалних порука."</string>
-  <string name="try_again">Pokušaj ponovo</string>
+  <string name="try_again">Покушај поново</string>
   <string name="type_attachment">прилог</string>
   <string name="type_audio">аудио</string>
   <string name="type_picture">слика</string>

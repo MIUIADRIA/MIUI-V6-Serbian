@@ -351,7 +351,7 @@
   <string name="contextmenu_feedback">Пошаљите повратне информације</string>
   <string name="contextmenu_help">Помоћ</string>
   <string name="contextmenu_map">Карта</string>
-  <string name="contextmenu_open">Otvori</string>
+  <string name="contextmenu_open">Отвори</string>
   <string name="contextmenu_openlink">Отвори у претраживачу</string>
   <string name="contextmenu_send_mail">Пошаљи e-пошту</string>
   <string name="contextmenu_sharelink">Дели везу</string>
@@ -363,7 +363,7 @@
   <string name="conversation_overload_toast">Ова e-пошта је превелика за учитавањe, прођите све поново на PC касније</string>
   <string name="conversation_photo_welcome_text">Додирните слику пошаљиоца да би сте обрисали тај разговор.</string>
   <string name="copy_email">Копирање e-адресе</string>
-  <string name="copied">Kopirano</string>
+  <string name="copied">Копирано</string>
   <string name="copy_number">Копирање телефонског броја</string>
   <string name="create_action">Изради нови</string>
   <string name="custom_from_account_label">Пошаљи као:</string>
@@ -426,7 +426,7 @@
   <string name="download_confirm_message">преузети %1$s прилог?</string>
   <string name="download_confirm_title">Преузимање прилога</string>
   <string name="download_failed">"Не могу преузети. додирните за поновни покушај."</string>
-  <string name="download_message_failed_for_too_large">Poruka je prevelika za preuzimanje.</string>
+  <string name="download_message_failed_for_too_large">Порука је превелика за преузимање.</string>
   <string name="download_show_image">Преузми и прикажи слику</string>
   <string name="downloading_message_body">Преузимање</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -809,7 +809,7 @@
   <string name="prefetched_got_it">У реду</string>
   <string name="preview_attachment">Преглед</string>
   <string name="previous_action">Претходно</string>
-  <string name="print">Ispiši</string>
+  <string name="print">Испиши</string>
   <string name="prompt_title">Питај</string>
   <string name="protocol">Протокол</string>
   <string name="protocol_eas">eas</string>

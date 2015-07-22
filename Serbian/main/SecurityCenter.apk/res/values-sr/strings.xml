@@ -73,7 +73,7 @@
   <string name="brightness_auto_adjust_on">Оптимизујте ниво осветљења за доступно светло</string>
   <string name="btn_text_cleanup_all">Очисти</string>
   <string name="btn_text_done">Готово</string>
-  <string name="btn_text_power_cleanup">Super Čistač</string>
+  <string name="btn_text_power_cleanup">Супер Чистач</string>
   <string name="btn_text_quick_cleanup">Очисти</string>
   <string name="btn_text_quick_optimize">Оптимизуј</string>
   <string name="btn_text_quick_scan">Скенирај</string>
@@ -200,7 +200,7 @@
   <string name="hints_virus_name_title">Вирус:</string>
   <string name="hints_virus_scan_result_descx">Ова апликација је опасна за сигурност вашег уређаја</string>
   <string name="info_and_call">Позиви и Поруке</string>
-  <string name="history_details_title">Detalji povijesti</string>
+  <string name="history_details_title">Детаљи историје</string>
   <string name="item_app_permission">Дозволе апликација</string>
   <string name="item_dev_mode">Опције Раз. програмера</string>
   <string name="item_install_monitor">Инсталирај надзор</string>

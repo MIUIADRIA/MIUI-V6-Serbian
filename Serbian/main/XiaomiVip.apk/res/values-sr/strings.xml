@@ -20,7 +20,7 @@
   <string name="experience">Стручњак</string>
   <string name="expired">Истекло</string>
   <string name="fail_reach_server">"Не могу да се повежем на сервер"</string>
-  <string name="giveup">Odustani</string>
+  <string name="giveup">Одустани</string>
   <string name="in_progress">Шањем захтев…</string>
   <string name="invalid_json">Одговор је не важећи JSON низ</string>
   <string name="level">Ниво</string>

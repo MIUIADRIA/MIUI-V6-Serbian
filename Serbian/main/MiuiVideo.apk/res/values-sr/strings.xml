@@ -28,11 +28,11 @@
   <string name="all_media">Сва медиа</string>
   <string name="app_name">"Видео"</string>
   <string name="app_recommend">Истакнуто</string>
-  <string name="app_update_background">Ažuriraj aplikaciju u pozadini</string>
-  <string name="app_upgrade_version">Nova verzija</string>
-  <string name="app_version">Verzija</string>
-  <string name="app_wifi_mode">Autom. ažuriraj preko WLAN-a</string>
-  <string name="app_wifi_mode_summary">Kada je povezano na WLAN, automatski nadogradi na posljednju verziju.</string>
+  <string name="app_update_background">Ажурирај апликацију у позадини</string>
+  <string name="app_upgrade_version">Нова верзија</string>
+  <string name="app_version">Верзија</string>
+  <string name="app_wifi_mode">Аутомат. ажурирај преко WLAN-a</string>
+  <string name="app_wifi_mode_summary">Када је повезано на WLAN, аутоматски надогради на последњу верзију.</string>
   <string name="area_colon">"Земља: "</string>
   <string name="authenticated_failed">"Пријава није успела"</string>
   <string name="authenticating">Провера</string>

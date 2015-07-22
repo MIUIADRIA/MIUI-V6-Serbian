@@ -117,8 +117,8 @@
   <string name="cloud_folder_chooser_move">Избриши слике из изворног албума</string>
   <string name="cloud_gallery_recyclebin_full">Канта за смеће је пуна. Испразните кеш на www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Нема довољно простора у cloudu</string>
-  <string name="cloud_gallery_space_full_buy_more">"Ne mogu sinkronizirati nove fotografije s vašim Mi Cloudom. Da biste sinkronizirali više fotografija, kupite dodatni prostor za pohranu."</string>
-  <string name="cloud_gallery_space_full_title">Mi Cloud je pun</string>
+  <string name="cloud_gallery_space_full_buy_more">"Не могу синхронизовати нове фотографије са вашим Mi Cloudom. Да би сте синхронизовали више фотографија, купите додатни простор за меморију."</string>
+  <string name="cloud_gallery_space_full_title">Mi Cloud је пун</string>
   <string name="cloud_media_set_set">Cloud</string>
   <string name="cloud_owner_album_share_guide">"Поделите овај албум 
   
@@ -241,15 +241,15 @@
   <string name="face_album">Лице албума</string>
   <string name="face_album_long_tap_tip">За одабир више особа или промену подешавања групе, притисните &amp; задржите слику профила</string>
   <string name="face_album_not_named">Без назива</string>
-  <string name="face_album_new_name_hint">Novi naziv</string>
+  <string name="face_album_new_name_hint">Нови назив</string>
   <string name="face_album_rename_hint">Унесите назив</string>
   <string name="face_albumset_detecting_tip">"Откривање лица…</string>
   <string name="face_albumset_empty">Празно.</string>
   <string name="face_albumset_loading_data">Учитавање података...</string>
   <string name="face_albumset_pending_enable_tip">Сортирај фотографије када је уређај повезан на WLAN</string>
   <string name="face_albumset_use_tip">"Аутоматски поређај фотографије по особама које су на њима."</string> 
-  <string name="face_choose_tip">Odaberite iz postojećeg albuma</string>
-  <string name="face_move_dialog_title">Odaberite album</string>
+  <string name="face_choose_tip">Одаберите из постојећег албума</string>
+  <string name="face_move_dialog_title">Одаберите албум</string>
   <string name="facelift">Сјај лица</string>
   <string name="facetan">Преплануло лице</string>
   <string name="fail_hint">Радња није успела</string>
@@ -634,7 +634,7 @@
   <string name="unpublish_succeeded">Албум није објављен!</string>
   <string name="unpublishing">Отказивање</string>
   <string name="untagged">Неозначено</string>
-  <string name="upgrade_micloud_space">Kupite još prostora</string>
+  <string name="upgrade_micloud_space">Купите још простора</string>
   <string name="user_alias_self">Сам</string>
   <string name="video_err">"Не могу репродуковати видео запис."</string>
   <string name="video_not_exist">Видео запис не постоји</string>
