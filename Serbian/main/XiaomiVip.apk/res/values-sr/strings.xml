@@ -22,7 +22,7 @@
   <string name="fail_reach_server">"Не могу да се повежем на сервер"</string>
   <string name="giveup">Одустани</string>
   <string name="in_progress">Шањем захтев…</string>
-  <string name="invalid_json">Одговор је не важећи JSON низ</string>
+  <string name="invalid_json">Nešto nije u redu</string>
   <string name="level">Ниво</string>
   <string name="level_detail">Дневни задатак граница: %d</string>
   <string name="level_exp_value" formatted="false">%d/%d</string>
@@ -33,8 +33,8 @@
   <string name="no_award">Нема награда</string>
   <string name="no_network">"Не могу да се повежем на мрежу"</string>
   <string name="no_task">Сви задаци су комплетирани</string>
-  <string name="passive_task">Пасивни задаци</string>
-  <string name="privilege">Привилегија</string>
+  <string name="passive_task">Pozadinski задаци</string>
+  <string name="privilege">Привилегијe</string>
   <string name="promote">Ниво горе</string>
   <string name="query_level_fail">"Не могу добити информацију"</string>
   <string name="query_user_tasks_fail">"Не могу добити информацију задатка"</string>
@@ -44,7 +44,7 @@
   <string name="task_begin">У току…</string>
   <string name="task_completed">Завршено</string>
   <string name="task_done">Готово</string>
-  <string name="task_limit">Нема задатака лево за данас, видимо се сутра!</string>
+  <string name="task_limit">Нема задатака лево за данас. Bидимо се сутра!</string>
   <string name="task_not_completed">Није завршено</string>
   <string name="task_ongoing">У току...</string>
   <string name="task_score">%d поени</string>
