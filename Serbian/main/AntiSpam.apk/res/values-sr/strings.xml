@@ -186,7 +186,7 @@
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">Укључено</string>
   <string name="quiet">Тишина</string>
-  <string name="quiet_group">Ne ometaj me</string>
+  <string name="quiet_group">Не ометај ме</string>
   <string name="quiet_important_interruptions_mode">Доспусти само изузецима</string>
   <string name="quiet_mode">Тихи начин рада</string>
   <string name="quiet_off_mode">Тихи начин рада искљ.</string>
@@ -202,7 +202,7 @@
   <string name="report_warning">"Пријавити %1$s SMS-a на Mi? Те поруке и телефонски бројеви са којих су били послати биће учитани на Mi серверу за преглед . Сви лични подаци повезани са тим порукама увек остају анонимни."</string>
   <string name="report_warning_title">Пријави SMS</string>
   <string name="sim_not_ready">SIM картица није спремна</string>
-  <string name="sim_not_ready_toast">SIM картица није спремна, postavljanje nije uspjelo</string>
+  <string name="sim_not_ready_toast">SIM картица није спремна, подешавање није успело</string>
   <string name="sms_delete_hint">Избрисати све блокиране поруке са овог броја?</string>
   <string name="sms_delete_title">Уклони SMS</string>
   <string name="sms_smart_engine_update">Аутоматски ажурирај филтер SMS-a</string>
