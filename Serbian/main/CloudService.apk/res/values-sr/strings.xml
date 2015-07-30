@@ -45,8 +45,6 @@
   <string name="cloud_space_upgrade_message">Додирните за додавање %sGB на ваш cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Не могу добити детаље простора за меморију"</string>
   <string name="cloud_space_upgrade_title">Више простора за Mi Cloud</string>
-  <string name="cloud_sync_setting_summary_standard">Синхронизација MMS-a, фотографија и видеозаписа кад је повезано на WLAN</string>
-  <string name="cloud_sync_setting_summary_wlan">Само на WLAN-u: Синх. свих података само преко WLAN-a</string>
   <string name="cloudservice_new_sync">Синхронизација. %s са Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Користите Mi Cloud за синхронизацију података, проналазак свог телефона,</string>
   <string name="contact">Контакти</string>
@@ -259,7 +257,6 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="next">Даље</string>
   <string name="noRemind">"Не подсећај ме"</string>
   <string name="no_sim">"Нема SIM картице"</string>
-  <string name="only_in_wlan">Искључено</string>
   <string name="other_settings">Остала подешавања</string>
   <string name="password">Унесите лозинку</string>
   <string name="phone_number_may_required_dspt_provision">"Ова услуга може захтевати ваш број телефона. "</string>
@@ -319,8 +316,6 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="sync_off">Искључено</string>
   <string name="sync_on">Укључено</string>
   <string name="sync_resend_sms_dspt_provision">  "Ако промените SIM картице, ваш давалац услуга може вам наплатити SMS поруку коришћену за поновно активирање ове услуге."</string>
-  <string name="sync_setting">Употреба мобилних података</string>
-  <string name="sync_standard">SMS и историја позива</string>
   <string name="sync_sub_1_intl_sms">Међународни и домаћи SMS ће бити послат за повезивање ваших SIM картица са овим налогом. Сносити ћете надокнаде вашег мобилног оператера.</string>
   <string name="sync_sub_1_sms">SMS ће бити послат за повезивање ваше SIM картице са овим налогом. Сносити ћете редовну надокнаде вашег мобилног .</string>
   <string name="sync_sub_1_sms_1_intl_sms">Међународни и домаћи SMS ће бити послат за повезивање ваших SIM картица са овим налогом. Сносити ћете надокнаде вашег мобилног оператера.</string>

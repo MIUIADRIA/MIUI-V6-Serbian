@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-         <item quantity="other">Избрисати %1$d) датотеке</item>
+         <item quantity="other">Избрисати(%1$d) датотеке</item>
          <item quantity="zero">Избрисати(%1$d) датотеке</item>
          <item quantity="one">Избрисати(%1$d) датотеку</item>
          <item quantity="two">Избрисати(%1$d) датотеке</item>
