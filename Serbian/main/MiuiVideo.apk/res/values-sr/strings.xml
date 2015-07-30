@@ -16,9 +16,9 @@
   <string name="addon_installed_empty_hint">Празно</string>
   <string name="addon_list_empty_hint">Празно</string>
   <string name="addon_update_desc">Нађена нова верзија. Ажурирати сада?</string>
-  <string name="ads_control">Kontrola Oglašavanja</string>
-  <string name="ads_control_desc">Označeno, prikaži oglašavanje kada se pokrene aplikacija</string>
-  <string name="ads_ignore">Ignoriraj</string>
+  <string name="ads_control">Контрола Оглашавања</string>
+  <string name="ads_control_desc">Означено, прикажи оглашавање када се покрене апликација</string>
+  <string name="ads_ignore">Игнориши</string>
   <string name="adjust_position_next_media_notice">Даље</string>
   <string name="adjust_position_prev_media_notice">Задње</string>
   <string name="airkan_control_device_des">Управљање вршите помоћу тастера у доњем делу екрана</string>

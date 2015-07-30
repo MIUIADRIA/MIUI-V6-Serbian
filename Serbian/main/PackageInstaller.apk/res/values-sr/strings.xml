@@ -10,10 +10,10 @@
   <string name="app_name">Алат за инсталирање пакета</string>
   <string name="app_not_found_dlg_text">Апликација није пронађена на попису инсталираних апликација.</string>
   <string name="app_not_found_dlg_title">Апликација није пронађена</string>
-  <string name="app_store_install_hint">Instaliraj sada</string>
-  <string name="app_store_installing_message">Instaliranje…</string>
-  <string name="app_store_missing_message">"Izgleda da niste instalirali našu službenu App Store. Instalirati je sada?"</string>
-  <string name="app_store_missing_title">App Store nije instalirana</string>
+  <string name="app_store_install_hint">Инсталирај сада</string>
+  <string name="app_store_installing_message">Инсталирање…</string>
+  <string name="app_store_missing_message">"Изгледа да нисте инсталирали нашу службену App Store. Инсталирајте је сада?"</string>
+  <string name="app_store_missing_title">App Store није инсталирана</string>
   <string name="auto_startup_dialog_msg">Ова апликација се не може покренути без вашег допуштења.</string>
   <string name="button_text_cancel">Одустани</string>
   <string name="button_text_delete">Избриши</string>
@@ -82,7 +82,7 @@
   <string name="permission_group_title_settings_related">Подешавања</string>
   <string name="permission_send_sms_descx">Апликација може слати SMS и MMS</string>
   <string name="privacy_relative">Приватност</string>
-  <string name="reboot_time">Priprema za ponovno pokretanje…(%1$s)</string>
+  <string name="reboot_time">Припрема за поново покретање…(%1$s)</string>
   <string name="safe_guard_support">Техничку подршку вам пружа %1$s</string>
   <string name="safe_relative">Сигурност</string>
   <string name="security_settings_desc">Допустити овој апликацији да:</string>

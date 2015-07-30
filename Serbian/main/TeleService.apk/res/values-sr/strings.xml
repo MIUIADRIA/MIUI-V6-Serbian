@@ -145,7 +145,7 @@
   <string name="carrier_settings_menu"/>
   <string name="cb_sms_settings">Подешавање SMS-a из мобилне мреже</string>
   <string name="cdma_activate_device">Активација уређаја</string>
-  <string name="cdma_alert_message">"Ako odaberete drugu karticu kao zadanu za mobilne podatke, nećete biti u mogućnosti koristiti vašu China Telecom SIM karticu (osim u roamingu)."</string>
+  <string name="cdma_alert_message">"Ако одаберете другу картицу као задату за мобилне податке, нећете бити у могућности да користите вашу China Telecom SIM картицу (осим у ромингу)."</string>
   <string name="cdma_display_precise_call_state_message">"Ако ваш давалац мобилних услуга не подржава ову функцију, статус позива може бити нетачан."</string>
   <string name="cdma_display_precise_call_state_summary">Потврдите да ваш давалац мобилних услуга подржава ову функцију</string>
   <string name="cdma_display_precise_call_state_title">Прикажи статус позива</string>

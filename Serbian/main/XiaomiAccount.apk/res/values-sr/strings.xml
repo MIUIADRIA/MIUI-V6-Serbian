@@ -358,7 +358,7 @@
   <string name="passport_wrong_vcode">Унешени код није исправан</string>
   <string name="passport_xiaomi_account_dspt">Користите свој Mi Рачун за пријаву на Mi Cloud, MIUI Продавницу Тема,и друге Mi Услуге, са било ког места.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2">Prijava na vaš Mi Račun zahtijeva internetsku vezu. Osim toga, pristup lokaciji, Mi Cloud, i Mi VIP će se uključiti automatski.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">Пријава на ваш Mi Рачун захтева интернет везу. Осим тога, приступ локацији, Mi Cloud, и Mi VIP ће се укључити аутоматски.</string>
   <string name="password">Унесите вашу лозинку</string>
   <string name="phone_activated">%s активиран</string>
   <string name="phone_send_verify_code_prompt">Пошаљи код за проверу %s</string>
