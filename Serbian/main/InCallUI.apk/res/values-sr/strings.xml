@@ -119,8 +119,8 @@
   <string name="contacts_icon_label">Контакти</string>
   <string name="custom_message_cancel">Одустани</string>
   <string name="custom_message_send">Пошаљи</string>
-  <string name="data_enable_summary">Омогућити приступ подацима преко мобилне мреже</string>
-  <string name="data_enabled">Подаци омогућени</string>
+  <string name="data_enable_summary">Приступ подацима преко мобилне мреже</string>
+  <string name="data_enabled">Mобилни подаци</string>
   <string name="default_notification_description">Задати звук звона (%1$s)</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">Није подешено</string>
