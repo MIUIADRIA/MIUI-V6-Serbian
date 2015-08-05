@@ -48,7 +48,7 @@
   <string name="open_wifi_settings">Отворите мрежну везу</string>
   <string name="phone_locked_string">Телефон је закључан</string>
   <string name="phone_locked_timeout_minutes_string">Покушајте поново за %s мин.</string>
-  <string name="phone_locked_timeout_seconds_string">Покушајте поново за %s sek.</string>
+  <string name="phone_locked_timeout_seconds_string">Покушајте поново за %s сек.</string>
   <string name="unlock_sim_string">Откључај SIM</string>
   <string name="unlock_string">Откључај</string>
   <string name="unlocking_sim_card">Откључавање SIM картице</string>

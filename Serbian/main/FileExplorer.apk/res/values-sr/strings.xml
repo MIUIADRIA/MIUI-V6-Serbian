@@ -394,7 +394,7 @@
   <string name="upload_file_toolarge_message">"Није успело учитавање %1$d : не можете учитати датотеке веће од 300MB."</string>
   <string name="uploading">Учитавање…</string>
   <string name="usb_label">USB</string>
-  <string name="used">Искориштено</string>
+  <string name="used">Искоришћено</string>
   <string name="user_guide">Сазнајте више о KuaiPan</string>
   <string name="user_guide_continue_use">U redu</string>
   <string name="user_guide_download_other_version">Учитајте датотеке са рачунара</string>

@@ -143,7 +143,7 @@
   <string name="local_ip_exception_summary">"Није било могуће добити локалну IP адресу. Да пријавите MIUI-у овај проблем, идите у апликацијама Пријава грешака и пошаљите извештај са овог уређаја."</string>
   <string name="lock_screen_traffic_guide_notification_summary">Додирни за управљање употребе података</string>
   <string name="lock_screen_traffic_guide_notification_title">Искоришћено %s моб. података</string>
-  <string name="lock_screen_traffic_notify_body">Закључено за %2$s на %1$s,  Искориштено %3$s мобилних података</string>
+  <string name="lock_screen_traffic_notify_body">Закључено за %2$s на %1$s,  Искоришћено %3$s мобилних података</string>
   <string name="lock_screen_traffic_purchase_textview">Доплатите бон</string>
   <string name="lock_screen_traffic_warn_title">Обавештења закључаног екрана.</string>
   <string name="lock_screen_warning_category">Обавештења закључаног екрана</string>
@@ -173,12 +173,12 @@
   <string name="main_secondary_message_traffic_detail_leisure">"
 Искљ.макс.: %1$s | %2$s искоришћено"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
-Макс.: %1$s%2$s | %3$s искориштено"</string>
+Макс.: %1$s%2$s | %3$s искоришћено"</string>
   <string name="main_secondary_message_traffic_over">"прекорачено "</string>
   <string name="main_secondary_message_traffic_remain">"преостало "</string>
   <string name="main_secondary_message_traffic_used_leisure">%s Искљ. макс. података искоришћено</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s макс.података искоришћено | нема искљ. макс. података преостало</string>
-  <string name="main_secondary_message_traffic_used_normal">%s макс.података искориштено</string>
+  <string name="main_secondary_message_traffic_used_normal">%s макс.података искоришћено</string>
   <string name="main_toolbar_firewall">Ограничи употребу података</string>
   <string name="main_toolbar_internet_by_mobiledata">Мобилна веза са подацима</string>
   <string name="main_toolbar_internet_by_pc_brige">Интернет путем USB-a</string>
@@ -188,9 +188,9 @@
   <string name="main_toolbar_statistic">Статистика употребе података</string>
   <string name="main_traffic_overlimit_text">прекорачено</string>
   <string name="main_traffic_remian_text">преостало</string>
-  <string name="main_traffic_used">%s искориштено</string>
+  <string name="main_traffic_used">%s искоришћено</string>
   <string name="main_traffic_used_only">Искоришћено: %s</string>
-  <string name="main_traffic_used_text">искориштено</string>
+  <string name="main_traffic_used_text">искоришћено</string>
   <string name="manual_input_free_traffic">Постави ограничење употребе података</string>
   <string name="manual_input_traffic">Постави употребу података</string>
   <string name="mi_service_app_detail">Детаљи услуге употребе података</string>

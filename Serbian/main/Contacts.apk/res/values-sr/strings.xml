@@ -1022,7 +1022,7 @@
   <string name="simContacts_title">Контакти на SIM картици</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Прикажи простор SIM картице</string>
-  <string name="sim_capacity_content" formatted="false">Укупно %d | Искориштено %d</string>
+  <string name="sim_capacity_content" formatted="false">Укупно %d | Искоришћено %d</string>
   <string name="sim_card_no_free_space_message">Нема довољно простора</string>
   <string name="sim_card_no_free_space_title">"SIM картица је пуна"</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">"Поништи одабир"</string>

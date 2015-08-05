@@ -1528,7 +1528,7 @@
   <string name="volume_icon_description_incall">Јачина звука позива</string>
   <string name="volume_icon_description_media">Јачина звука медија</string>
   <string name="volume_icon_description_notification">Јачина звука обавештења</string>
-  <string name="volume_icon_description_ringer">Јачина мелодије звона</string>
+  <string name="volume_icon_description_ringer">Јачина звона</string>
   <string name="volume_music">Јачина звука медија</string>
   <string name="volume_music_hint_playing_through_bluetooth">Играње преко Bluetooth-а</string>
   <string name="volume_music_hint_silent_ringtone_selected">Подешен је нечујни звук звона</string>
