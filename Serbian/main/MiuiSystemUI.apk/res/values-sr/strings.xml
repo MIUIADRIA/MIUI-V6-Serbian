@@ -131,7 +131,6 @@
   <string name="media_projection_dialog_text">"%s ће почети снимање свега што се налази на екрану."</string>
   <string name="media_projection_remember_text">"Не приказуј поново"</string>
   <string name="megabyte_per_second">MB/s</string>
-  <string name="mount_storage">"Da"</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Нема обавештења</string>
   <string name="notification_otg_gamestick_in">Играчи контролер је повезан</string>
