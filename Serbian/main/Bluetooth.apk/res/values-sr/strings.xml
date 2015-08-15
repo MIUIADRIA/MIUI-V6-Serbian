@@ -111,8 +111,8 @@
   <string name="notification_sent">Bluetooth дељење: послато %1$s</string>
   <string name="notification_sent_complete">Довршено је 100%</string>
   <string name="notification_sent_fail">Bluetooth дељење: датотека %1$s није послата</string>
-  <string name="notify_device_lose_connection_text">%1$s је изгубио везу за дуго времена, клините за прекид везе.</string>
-  <string name="notify_device_lose_connection_title">Уређај %1$s је изгубио везу</string>
+  <string name="notify_device_lose_connection_text">Dodirnite za prekid veze s %1$s.</string>
+  <string name="notify_device_lose_connection_title">Izgubljena je veza s %1$s</string>
   <string name="notify_server">Обавести TCP сервер</string>
   <string name="ok_button">Потврди</string>
   <string name="outbound_history_title">Одлазни преноси</string>
@@ -151,8 +151,8 @@
   <string name="transfer_menu_clear_all">Обриши листу</string>
   <string name="transfer_menu_open">Отвори</string>
   <string name="unbind_device_alert_cancel">Одустани</string>
-  <string name="unbind_device_alert_content">Уређај %1$s изгубио везу за дуго времена, прекид ће побољшати перформансе. Желите ли да прекинете везу?</string>
-  <string name="unbind_device_alert_ok">У реду</string>
+  <string name="unbind_device_alert_content">Izgubljena je veza s %1$s. Da sačuvate bateriju, prekinite vezu s tim uređajem.</string>
+  <string name="unbind_device_alert_ok">Prekini vezu</string>
   <string name="unbind_device_alert_title">Прекини везу са уређајем</string>
   <string name="unknownName">Непознато име</string>
   <string name="unknownNumber">Непознато</string>

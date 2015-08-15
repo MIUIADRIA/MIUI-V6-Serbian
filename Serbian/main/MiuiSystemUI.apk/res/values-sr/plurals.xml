@@ -4,4 +4,8 @@
         <item quantity="other">Недавних апликација: %d</item>
         <item quantity="one">1 недавна апликација</item>
     </plurals>
+	<plurals name="disable_notification_confirm_title">
+        <item quantity="other">Blokirati %d aplik.</item>
+        <item quantity="one">Blokirati %d aplik.</item>
+    </plurals>
 </resources> 

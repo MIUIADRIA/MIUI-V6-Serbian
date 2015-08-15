@@ -250,6 +250,7 @@
   <string name="cit_tool_modem">MODEM Тест</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
   <string name="cit_tool_modem_exit_ftm">Затвори FTM</string>
+  <string name="cit_tool_modem_mbn">Promjena kofig. Modema</string>
   <string name="cit_tool_modem_offline_log">Отвори/Затвори Offline Log</string>
   <string name="cit_tool_nfc">NFC Тест</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>

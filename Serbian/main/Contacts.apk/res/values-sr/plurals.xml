@@ -113,4 +113,12 @@
         <item quantity="other">Звони оволико пута (%d)</item>
         <item quantity="one">Звони оволико пута (%d)</item>
     </plurals>
+	<plurals name="contacts_count">
+        <item quantity="other">Kontakata %1$d</item>
+        <item quantity="one">%1$d kontakt</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"Ovoliko kontakata (%d) nije sinkr."</item>
+        <item quantity="one">"1 kontakt nije sinkroniziran"</item>
+    </plurals>
 </resources> 

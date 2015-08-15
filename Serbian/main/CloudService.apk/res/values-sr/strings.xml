@@ -66,7 +66,7 @@
   <string name="error_unauthorized">Превише покушаја пријављивања: Синхронизација је онемогућена.</string>
   <string name="error_unknown">"Не могу се пријавити"</string>
   <string name="find_device">"Пронађи уређај" укључено</string>
-  <string name="find_device_disabled_notice">Можете укључити / искључити функцију "Пронађи Уређај" било када у Mi Cloud &gt; Подешавања.</string>
+  <string name="find_device_disabled_notice">Можете укључити / искључити функцију "Пронађи Уређај" било када у Подешавања Mi Cloudа.</string>
   <string name="find_device_disabled_title">"Пронађи уређај" искључено</string>
   <string name="find_device_disabling">Искључивање</string>
   <string name="find_device_dspt">Лоцирајте, закљуцајте, или рестартуј те ваш уређај на даљину</string>
@@ -117,6 +117,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_check_sim_notify_title">Поново активирај Mi Cloud</string>
   <string name="micloud_check_sim_title">"Изгледа да сте променили SIM картице. пријави те се
 на ваш Mi Рачун за активирање Mi Cloud."</string>
+  <string name="micloud_detail_download_syncing">Preuzimanje %s</string> 
   <string name="micloud_detail_fail">"Не могу синхро."</string>
   <string name="micloud_detail_lastest">Синхронизовано</string>
   <string name="micloud_detail_pending">На чекању</string>
@@ -124,6 +125,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_detail_preference_wlan">Синхро. на WLAN-u</string>
   <string name="micloud_detail_success">Синхронизовано</string>
   <string name="micloud_detail_syncing">Синхронизујем</string>
+  <string name="micloud_detail_upload_syncing">Učitavanje %s</string>
   <string name="micloud_detail_wlan">%d чека на синхро.</string>
   <string name="micloud_detail_wlan_contact">%d слика контаката чека на синхро.</string>
   <string name="micloud_detail_wlan_mms">%d MMS-a чека на синхро.</string>
@@ -240,7 +242,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="mx_dspt">Mi поруке</string>
   <string name="mx_dspt_provision_with_voip">Назовите друге MIUI кориснике бесплатно користећи интернет везу. Можете укључити/искључити ову функцију у било ком тренутку у подешавањима. VoIP је подржан од стране Weihui. Прикажи Weihui Правила о Приватности"</string>
   <string name="mx_sub_dspt_provision_with_voip">Интернет позиви</string>
-  <string name="mx_voip_dspt">Mi поруке и Глас</string>
+  <string name="mx_voip_dspt">Mi Voice</string>
   <string name="mx_dspt_provision">"Mi поруке омогућавају вам слање порука другим MIUI корисницима без додатних SMS трошкова.
   
   
@@ -265,6 +267,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="pref_summary_sync_display_photo_on_wifi_only">"WLAN мреже"</string>
   <string name="pref_title_sync_contacts_title">Синхронизуј податке</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Користи само WLAN за синхро. фотографија.</string>
+  <string name="pref_title_sync_video_on_wifi_only">Користи само WLAN за синхро. videozapisa.</string>
   <string name="pref_title_sync_my_profile_title">Синхронизуј профил</string>
   <string name="privacy_policy">Правила о приватности</string>
   <string name="remind_later">Не сада</string>

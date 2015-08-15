@@ -5,12 +5,15 @@
   <string name="alert_action_edit_anyway">Настави уређивати</string>
   <string name="alert_edit_action_delete">Уклони</string>
   <string name="alert_edit_action_update">Измени</string>
-  <string name="alert_message_delete_folders">Избрисати: %1$s?</string>
+  <string name="alert_message_delete">Избрисати %1$s?</string>
+  <string name="alert_message_delete_folders">Избрисати %1$s?</string>
   <string name="alert_message_delete_folders_notes">Избрисати %1$s i %2$s?</string>
   <string name="alert_message_delete_note">Избрисати ову белешку?</string>
   <string name="alert_message_delete_notes">Избрисати %1$s?</string>
   <string name="alert_message_edit_anyway">Ако уредите ову белешку, нешто од садржаја може бити изгубљено.</string>
   <string name="alert_title_edit_anyway">Ова белешка садржи неподржани садржај</string>
+  <string name="alert_title_delete">Izbriši bilješku</string>
+  <string name="all_terms">%1$s i %2$s</string>
   <string name="app_name">Белешке</string>
   <string name="app_widget">Белешке</string>
   <string name="attachment_camera">"Фотоапарат"</string>
@@ -49,6 +52,7 @@
   <string name="menu_stick">Причврсти</string>
   <string name="menu_title_select_folder">Одабери мапу</string>
   <string name="menu_unstick">Ослободи</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Не сада</string>
   <string name="note_alert_expired">Истекло</string>
   <string name="note_link_email">"Пошаљи e-пошту"</string>

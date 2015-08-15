@@ -55,6 +55,9 @@
   <string name="battery_low_percent_format">преостало %d%%</string>
   <string name="battery_low_title">"Прикључите пуњач"</string>
   <string name="battery_profiles">Користи профиле батерије</string>
+  <string name="block_record_notification_more_text">%1$s %2$d aplik. Dodirni za prikaz</string>
+  <string name="block_record_notification_text">%1$s. Dodirni za prikaz</string>
+  <string name="block_record_notification_title">Blokiraj zapis</string>
   <string name="bluetooth_tethered">"Дељење везе Bluetoothom"</string>
   <string name="call_status_dialing">"Бирање броја"</string>
   <string name="call_status_ringing">Звоњење</string>
@@ -80,7 +83,7 @@
   <string name="description_direction_left">"Клизните лево за %s."</string>
   <string name="description_direction_up">"Клизните горе за %s."</string>
   <string name="description_target_search">"Претражи"</string>
-  <string name="disable_notification_summary">Никад не приказуј обавештења ове апликације.</string>
+  <string name="disable_notification_summary">"Obavijesti skrivenih aplikacija."</string>
   <string name="disable_notification_title">Блокирај обавештења</string>
   <string name="dismount_storage">"Не"</string>
   <string name="dlg_confirm_kill_storage_users_text">"Ако укључите USB меморију, неке апликације које употребљавате зауставиће се и можда неће бити доступне док не искључите USB меморију."</string>
@@ -88,6 +91,7 @@
   <string name="dlg_error_title">"Радња USB-a није успела"</string>
   <string name="dlg_ok">"У реду"</string>
   <string name="drive_mode_tip">"Ви сте у аутомобилском начину"</string>
+  <string name="expanded_confirm_disable_notification">Potvrdi</string>
   <string name="expanded_notification_manager">Управљај обавештењима</string>
   <string name="ext_media_badremoval_notification_message">"USB меморију искључите на сигуран начин пре затварања како би сте избегли губитак података."</string>
   <string name="ext_media_badremoval_notification_title">"USB меморија је неочекивано уклоњена"</string>
@@ -112,6 +116,7 @@
   <string name="hint_for_long_press_app_switch_key">Притисни &amp; држи за мени</string>
   <string name="invalid_charger">USB пуњење није подржано.
  Користите искључиво оригинални пуњач.</string>
+  <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Прикажи</string>
   <string name="lockscreen_carrier_default">Нема услуге</string>
   <string name="mdb_entering">Покретање…</string>
@@ -125,6 +130,9 @@
   <string name="media_projection_action_text">Започни</string>
   <string name="media_projection_dialog_text">"%s ће почети снимање свега што се налази на екрану."</string>
   <string name="media_projection_remember_text">"Не приказуј поново"</string>
+  <string name="megabyte_per_second">MB/s</string>
+  <string name="mount_storage">"Da"</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Нема обавештења</string>
   <string name="notification_otg_gamestick_in">Играчи контролер је повезан</string>
   <string name="notification_otg_gamestick_out">Играчи контролер није повезан</string>

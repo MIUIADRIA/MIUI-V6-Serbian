@@ -335,6 +335,7 @@
   <string name="pref_notification_settings_title">Подешавања обавештења</string>
   <string name="pref_other_title">Додатна подешавања</string>
   <string name="pref_show_blocked_messages_summary">Прикажи блокиране SMS поруке у листи разговора</string>
+  <string name="pref_show_sms_template_in_summary">Automatski otkrij OTP u SMS porukama</string>
   <string name="pref_show_sms_template_summary">Аутоматски копирај и испуни кодове за проверу</string>
   <string name="pref_sms_theme_title">Подешавање теме</string>
   <string name="pref_summary_allow_si_sl_push">Допусти примање обавештења WAP push порука (SI/SL)</string>
@@ -354,6 +355,7 @@
   <string name="pref_summary_show_recent_contacts">Покажи попис недавних контаката код писања нове поруке</string>
   <string name="pref_summary_wake_up_screen">Упали екран кад стигне нова порука</string>
   <string name="pref_system_title">Систем</string>
+  <string name="pref_time_auto_group_disabled_summary">"Nije podržano u trenutnoj veličini fonta"</string>
   <string name="pref_time_auto_group_summary">Групне поруке по времену</string>
   <string name="pref_time_auto_group_title">Групне поруке</string>
   <string name="pref_title_allow_si_sl_push">Допустити WAP push</string>
@@ -536,6 +538,7 @@
   <string name="title_date_type">Ознака времена поруке</string>
   <string name="title_show_blocked_messages">Прикажи блокиране SMS поруке</string>
   <string name="title_show_sms_template">Провер SMS за кодове провере</string>
+  <string name="title_show_sms_template_in">Provjeri SMS za OTP</string>
   <string name="title_timed_message_dialog">Конфигуриши временску поруку</string>
   <string name="to_address_label">"Прима: "</string>
   <string name="to_count">%d примаоца</string>

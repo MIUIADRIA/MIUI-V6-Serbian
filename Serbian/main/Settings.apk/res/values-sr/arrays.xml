@@ -686,6 +686,16 @@
         <item>Поново покрените уређај за промену ових подешавања?</item>
         <item>Поново покрените уређај за промену ових подешавања?</item>
 	</string-array>
+	<string-array name="alarm_repeat_type">
+        <item>Svaki dan</item>
+        <item>Radnim danom</item>
+        <item>Vlastito</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Svaki dan</item>
+        <item>Radnim danom</item>
+        <item>Vlastito</item>
+    </string-array>
 		<string-array name="screen_resolution_entries">
         <item>Ultrahigh (2K)</item>
         <item>Нормално (720P)</item>

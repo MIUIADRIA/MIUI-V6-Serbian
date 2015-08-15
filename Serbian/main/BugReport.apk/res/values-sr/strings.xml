@@ -18,7 +18,7 @@
   <string name="bugreport_tool_log">Стварање извештаја грешака</string>
   <string name="bugreport_tool_log_toast">Извештај сачуван у %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Стварање извештаја грешака (траје око 1 мин.)</string>
-  <string name="button_feedback">Остало</string>
+  <string name="button_feedback">Kreiraj</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Лош квалитет фотографије</string>
   <string name="camera_problem2">"Не могу се повезати са фотоапаратом са USB-om"</string>

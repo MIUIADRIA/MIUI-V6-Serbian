@@ -233,7 +233,7 @@
   <string name="passport_active_email_visit">Проверите своју пошту на %s</string>
   <string name="passport_activing_account">Активација…</string>
   <string name="passport_app_name">Mi Рачун</string>
-  <string name="passport_area_code_hot">Често кориштено</string>
+  <string name="passport_area_code_hot">ČESTO KORIŠTENO</string>
   <string name="passport_area_code_title">Код земље</string>
   <string name="passport_bad_authentication">Погрешно корисничко име или лозинка</string>
   <string name="passport_btn_return">Назад</string>
@@ -292,7 +292,7 @@
   <string name="passport_input_verify_code_hint">Унесите код за проверу</string>
   <string name="passport_license_host_unreachable">"Не могу се повезати на мрежу.Можете видети ову страницу на %s."</string>
   <string name="passport_loading">Учитавање…</string>
-  <string name="passport_login">Пријава</string>
+  <string name="passport_login">Prijavite se na postojeći raču</string>
   <string name="passport_login_failed">"Не могу се пријавити"</string>
   <string name="passport_login_instead_reg">Корсти овај број</string>
   <string name="passport_login_instead_reg_with_email">Користи ову E-пошту</string>
@@ -306,7 +306,7 @@
   <string name="passport_phone_num_hint_text">Број телефона</string>
   <string name="passport_prev">Назад</string>
   <string name="passport_privacy_policy">Правила о Приватности</string>
-  <string name="passport_provision_skip_login">Прескочи</string>
+  <string name="passport_provision_skip_login">&lt;u&gt;Preskoči ovaj korak&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">Провера у 2 корака</string>
   <string name="passport_quick_login_dialog_title">Провера лозинке</string>
   <string name="passport_quick_login_step2_title">Провера у 2 корака</string>

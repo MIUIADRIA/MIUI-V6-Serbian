@@ -56,6 +56,6 @@
     <string-array name="power_dialog_wifi_internet_state_items">
         <item>Искључи</item>
         <item>Укључи</item>
-        <item>"Не мењај"</item>
+        <item>Zadano</item>
     </string-array>
 </resources>

@@ -33,12 +33,12 @@
         <item quantity="one">Претраживање %d апликације</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">Оволико апликација (%d) може користити мобилне податке у ромингу</item>
-        <item quantity="one">%d апликација може користити мобилне податке у ромингу</item>
+        <item quantity="other">Оволико апликација (%d) може користити мобилне податке</item>
+        <item quantity="one">%d апликација може користити мобилне податке</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"Оволико апликација (%d) не може користити мобилне податке у ромингу"</item>
-        <item quantity="one">"%d апликација не може користити мобилне податке у ромингу"</item>
+        <item quantity="other">"Оволико апликација (%d) не може користити мобилне податке"</item>
+        <item quantity="one">"%d апликација не може користити мобилне податке"</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">Пронађено (%d) апликација</item>

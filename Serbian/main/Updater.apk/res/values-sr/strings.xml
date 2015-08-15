@@ -149,6 +149,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_share_success">Послато</string>
   <string name="sina_token_expired_warning">Weibo рачун је истекао. Морате се поново пријавити</string>
   <string name="sina_token_invalid_warning">Weibo рачун је истекао. Морате се поново пријавити</string>
+  <string name="sogou_uninstall_msg">Sogou tipkovnica (Mi Edition) više nije kompatibilna sa MIUI 7. Promjenite tipkovnicu ili ažurirajte na noviju Sogou verziju.</string>
   <string name="space_not_enough_msg">"Ваш уређај нема довољно меморије за преузимање овог ажурирања. Очистите простор за сачувавање на уређају и покусајте поново."</string>
   <string name="space_not_enough_title">Нема довољно простора за сачувавање</string>
   <string name="stable_build">Стабилно</string>
@@ -217,6 +218,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="weekly_build">Недељно издање</string>
   <string name="welcom_button">У реду</string>
   <string name="welcom_message">"Спремни сте да растурите"</string>
-  <string name="welcom_title">Добродошли у MIUI 6</string>
+  <string name="welcom_title">Добродошли у MIUI 7</string>
   <string name="worst_update">Најгоре ажурирање до сада</string>
 </resources>

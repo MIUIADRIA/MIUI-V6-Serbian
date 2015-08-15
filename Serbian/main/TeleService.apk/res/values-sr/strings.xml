@@ -356,6 +356,8 @@
   <string name="incall_error_sim_deactive">Неактивна SIM картица</string>
   <string name="incall_error_turn_off_airplane_mode">Искључите начин рада у авиону</string>
   <string name="incall_status_dialed_mmi">Покретање MMI секвенца</string>
+  <string name="incoming_video_show_pref_summary">Prikaži Video pozivatelja. Za korištenje ove značajke, uključite posjetnicu kontakata.</string>
+  <string name="incoming_video_show_pref_title">"Prikaži Video pozivatelja"</string>
   <string name="international_disable">Међународне вести су искључене</string>
   <string name="international_enable">Међународне вести су укључене</string>
   <string name="international_roaming_setting">Међународни роминг</string>
@@ -573,6 +575,7 @@
 Покушајте поново или назовите корисничку службу за више опција."</string>
   <string name="other_settings">Остала подешавања позива</string>
   <string name="other_settings_category">остало</string>
+  <string name="overseas_roaming_setting">Međunarodni roaming</string>
   <string name="password_changed">Лозинка промењена</string>
   <string name="password_title">Лозинка</string>
   <string name="payphone">Телефонска говорница</string>

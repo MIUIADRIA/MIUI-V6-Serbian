@@ -7,13 +7,13 @@
         <item>Мултимедија</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>Апликација се извршава у позадини</item>
+        <item>Aplikacija se izvodi u prvom planu</item>
         <item>Екран укључен</item>
         <item>Екран искључен</item>
         <item>Екран искључен преко 10 мин.</item>
         <item>Цели екран</item>
         <item>Излаз из целог екрана</item>
-        <item>Апликација у позадини</item>
+        <item>Апликација se izvodi u позадини</item>
         <item>Уређај се пуни</item>
         <item>Уређај се не пуни</item>
         <item>Уређај је у стању мировања</item>
@@ -24,20 +24,24 @@
         <item>Начин екрана</item>
         <item>Коришћење CPU-a</item>
         <item>Веза са подацима</item>
-        <item>Локација</item>
-        <item>Обавештење прве поруке</item>
-        <item>Обавештење на закључаном екрану</item>
+        <item>Prva obavijest</item>
+        <item>Obavijesti na zaključanom zaslonu</item>
+		<item>Ograniči pozadinske podatkovne veze</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Нема радњи</item>
-        <item>Стандардно</item>
+        <item>Ništa</item>
+        <item>Zadano</item>
         <item>Слике</item>
         <item>Филм</item>
         <item>Штедња батерије</item>
         <item>Балансирано</item>
         <item>Перформансе</item>
-        <item>Омогући</item>
-        <item>Онемогући</item>
+         <item>Uključi</item>
+        <item>Isključi</item>
+        <item>Odmah</item>
+        <item>Nakon 10 min.</item>
+        <item>Nakon 30 min.</item>
+        <item>Kada je zaslon isključen</item>
     </string-array>
     <string-array name="app_groups">
         <item>Одабрано</item>

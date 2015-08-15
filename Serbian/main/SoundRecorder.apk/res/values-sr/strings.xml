@@ -27,6 +27,7 @@
   <string name="error_sdcard_unmounted">Убаците SD картицу</string>
   <string name="fm_record">Снимке FM-a (%d)</string>
   <string name="low_battery_error">Мање од 5% батерије преостало, да снимање ње буде изгубљено, снимање је било заустављено и сачувано.</string>
+  <string name="loading_recording">Učitavanje</string>
   <string name="message_file_size_error">Снимање је достигло максималну дужину снимања подржану за %s</string>
   <string name="no_downloading_file">Нема преузетих датотека</string>
   <string name="no_file">Празно</string>
@@ -67,7 +68,6 @@
   <string name="record_list_cloud_call">Синх. Снимљени позиви</string>
   <string name="record_list_cloud_fm">Синх. снимке FM-a</string>
   <string name="record_list_fm">FM Снимке</string>
-  <string name="record_mark_point">%s означен</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Одабери снимак</string>
   <string name="recording">Снимање…</string>

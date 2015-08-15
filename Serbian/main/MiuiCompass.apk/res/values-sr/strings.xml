@@ -13,8 +13,9 @@
   <string name="calibrate_tip">Нагиб уређаја ће котрљати лопту</string>
   <string name="calibrate_title">Калибриши компас</string>
   <string name="cannot_get_location">--</string>
+  <string name="dialog_body_no_network">"Не могу се повезати на мрежу"</string>
   <string name="dialog_calibrat_altitude">Калибрисање…</string>
-  <string name="dialog_title_no_network">"Не могу се повезати на мрежу"</string>
+  <string name="dialog_title_no_network">Uključite podatke</string>
   <string name="direction_east">И</string>
   <string name="direction_north">С</string>
   <string name="direction_north_east">СИ</string>
@@ -24,6 +25,8 @@
   <string name="direction_south_west">ЈЗ</string>
   <string name="direction_west">З</string>
   <string name="do_not_show_next_time">"Не показуј поново"</string>
+  <string name="error_camera_unavailable">Provjerite da li druga aplikacija trenutno koristi Kameru.</string>
+  <string name="error_camera_unavailable_title">Kamera nije dostupna</string>
   <string name="first_using_dialog_message">"Компас треба користити мрежну везу, фотоапарат и услуге локације вашег уређаја за исправан рад."</string>
   <string name="first_using_dialog_title">Дозвола приступа</string>
   <string name="getting_location">Калибрисање…</string>
